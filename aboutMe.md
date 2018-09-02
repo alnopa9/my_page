@@ -17,7 +17,6 @@ A few things about myself,
 - [x] Visit Grammy and Pappy
 - [x] Create a repo for Digital Humanities
 - [x] Add content to personal repo and DHClass-Hub
-- [ ] Sunday Goodwill visit for $0.99 tag sale
 - [ ] Pack swim trunks and baby pool for Parker
 - [ ] Spend family time with family!
 
