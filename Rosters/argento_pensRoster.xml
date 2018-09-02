@@ -6,112 +6,112 @@
         <players>
 
             <forward>
-                <list team="penguins" type="player" name="astonReese" num="46" pos="c" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1994" country="USA">
+                <list team="penguins" type="player" name="astonReese" num="46" pos="c" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1994" country="usa">
                     Zach Aston-Reese    46  C   L   6'0"    204 08/10/94  Staten Island, NY, USA
                 </list>
-                <list team="penguins" type="player" name="blueger" num="53" pos="c" shot="l" height="72" unitH="inches" weight="185" unitW="pounds" bYear="1994" country="LVA">
+                <list team="penguins" type="player" name="blueger" num="53" pos="c" shot="l" height="72" unitH="inches" weight="185" unitW="pounds" bYear="1994" country="lva">
                     Teddy Blueger       53  C   L   6'0"    185 08/15/94    Riga, LVA
                 </list>
-                <list team="penguins" type="player" name="brassard" num="19" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="CAN">
+                <list team="penguins" type="player" name="brassard" num="19" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="can">
                     Derick Brassard     19  C   L   6'1"    202 09/22/87    Hull, QC, CAN
                 </list>
-                <list team="penguins" type="player" name="crosby" num="87" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1987" country="CAN">
+                <list team="penguins" type="player" name="crosby" num="87" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1987" country="can">
                     Sidney Crosby (C)   87  C   L   5'11"   200 08/07/87    Cole Harbour, NS, CAN
                 </list>
-                <list team="penguins" type="player" name="cullen" num="7" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1976" country="USA">
+                <list team="penguins" type="player" name="cullen" num="7" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1976" country="usa">
                     Matt Cullen         7   C   L   6'1"    202 11/02/76    Virginia, MN, USA
                 </list>
-                <list team="penguins" type="player" name="dea" num="39" pos="c" shot="r" height="71" unitH="inches" weight="175" unitW="pounds" bYear="1994" country="CAN">
+                <list team="penguins" type="player" name="dea" num="39" pos="c" shot="r" height="71" unitH="inches" weight="175" unitW="pounds" bYear="1994" country="can">
                     Jean-Sebastien Dea  39  C   R   5'11"   175 02/08/94  Laval, QC, CAN
                 </list>
-                <list team="penguins" type="player" name="pauli" num="54" pos="c" shot="l" height="71" unitH="inches" weight="188" unitW="pounds" bYear="1994" country="USA">
+                <list team="penguins" type="player" name="pauli" num="54" pos="c" shot="l" height="71" unitH="inches" weight="188" unitW="pounds" bYear="1994" country="usa">
                     Thomas Di Pauli     54  C   L   5'11"   188 04/29/94    Woodbridge, IL, USA
                 </list>
-                <list team="penguins" type="player" name="grant" num="38" pos="c" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1990" country="CAN">
+                <list team="penguins" type="player" name="grant" num="38" pos="c" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1990" country="can">
                     Derek Grant         38  C   L   6'3"    215 04/20/90    Abbotsford, BC, CAN
                 </list>
-                <list team="penguins" type="player" name="guentzel" num="59" pos="c" shot="l" height="71" unitH="inches" weight="180" unitW="pounds" bYear="1994" country="USA">
+                <list team="penguins" type="player" name="guentzel" num="59" pos="c" shot="l" height="71" unitH="inches" weight="180" unitW="pounds" bYear="1994" country="usa">
                     Jake Guentzel       59  C   L   5'11"   180 10/06/94    Omaha, NE, USA
                 </list>
-                <list team="penguins" type="player" name="hagelin" num="62" pos="lw" shot="l" height="71" unitH="inches" weight="186" unitW="pounds" bYear="1988" country="SWE">
+                <list team="penguins" type="player" name="hagelin" num="62" pos="lw" shot="l" height="71" unitH="inches" weight="186" unitW="pounds" bYear="1988" country="swe">
                     Carl Hagelin        62  LW  L   5'11"   186 08/23/88    Sodertalje, SWE
                 </list>
-                <list team="penguins" type="player" name="hayes" num="11" pos="rw" shot="l" height="77" unitH="inches" weight="215" unitW="pounds" bYear="1989" country="USA">
+                <list team="penguins" type="player" name="hayes" num="11" pos="rw" shot="l" height="77" unitH="inches" weight="215" unitW="pounds" bYear="1989" country="usa">
                     Jimmy Hayes         11  RW  L   6'5"    215 11/21/89    Dorchester, MA, USA
                 </list>
-                <list team="penguins" type="player" name="hornqvist" num="72" pos="rw" shot="r" height="71" unitH="inches" weight="189" unitW="pounds" bYear="1987" country="SWE">
+                <list team="penguins" type="player" name="hornqvist" num="72" pos="rw" shot="r" height="71" unitH="inches" weight="189" unitW="pounds" bYear="1987" country="swe">
                     Patric Hornqvist    72  RW  R   5'11"   189 01/01/87    Sollentuna, SWE
                 </list>
-                <list team="penguins" type="player" name="johnson" num="47" pos="c" shot="l" height="72" unitH="inches" weight="174" unitW="pounds" bYear="1994" country="USA">
+                <list team="penguins" type="player" name="johnson" num="47" pos="c" shot="l" height="72" unitH="inches" weight="174" unitW="pounds" bYear="1994" country="usa">
                     Adam Johnson        47  C   L   6'0"    174 06/22/94    Grand Rapids, MN, USA
                 </list>
-                <list team="penguins" type="player" name="kessel" num="81" pos="rw" shot="r" height="72" unitH="inches" weight="202" unitW="1987pounds" bYear="1987" country="USA">
+                <list team="penguins" type="player" name="kessel" num="81" pos="rw" shot="r" height="72" unitH="inches" weight="202" unitW="1987pounds" bYear="1987" country="usa">
                     Phil Kessel         81  RW  R   6'0"    202 10/02/87    Madison, WI, USA
                 </list>
-                <list team="penguins" type="player" name="lindberg" num="25" pos="rw" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1995" country="SWE">
+                <list team="penguins" type="player" name="lindberg" num="25" pos="rw" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1995" country="swe">
                     Tobias Lindberg     25  RW  L   6'3"    215 07/22/95    Stockholm, SWE
                 </list>
-                <list team="penguins" type="player" name="malkin" num="71" pos="c" shot="l" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1986" country="RUS">
+                <list team="penguins" type="player" name="malkin" num="71" pos="c" shot="l" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1986" country="rus">
                     Evgeni Malkin (A)   71  C   L   6'3"    195 07/31/86    Magnitogorsk, RUS
                 </list>
-                <list team="penguins" type="player" name="rust" num="17" pos="rw" shot="r" height="71" unitH="inches" weight="192" unitW="pounds" bYear="1992" country="USA">
+                <list team="penguins" type="player" name="rust" num="17" pos="rw" shot="r" height="71" unitH="inches" weight="192" unitW="pounds" bYear="1992" country="usa">
                     Bryan Rust          17  RW  R   5'11"   192 05/11/92    Pontiac, MI, USA
                 </list>
-                <list team="penguins" type="player" name="sheahan" num="15" pos="c" shot="l" height="75" unitH="inches" weight="214" unitW="pounds" bYear="1991" country="CAN">
+                <list team="penguins" type="player" name="sheahan" num="15" pos="c" shot="l" height="75" unitH="inches" weight="214" unitW="pounds" bYear="1991" country="can">
                     Riley Sheahan       15  C   L   6'3"    214 12/07/91    St. Catharines, ON, CAN
                 </list>
-                <list team="penguins" type="player" name="simon" num="12" pos="c" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1994" country="CZE">
+                <list team="penguins" type="player" name="simon" num="12" pos="c" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1994" country="cze">
                     Dominik Simon       12  C   L   5'11"   190 08/08/94    Prague, CZE
                 </list>
-                <list team="penguins" type="player" name="sprong" num="41" pos="rw" shot="r" height="72" unitH="inches" weight="180" unitW="pounds" bYear="1997" country="NLD">
+                <list team="penguins" type="player" name="sprong" num="41" pos="rw" shot="r" height="72" unitH="inches" weight="180" unitW="pounds" bYear="1997" country="nld">
                     Daniel Sprong       41  RW  R   6'0"    180 03/17/97    Amsterdam, NLD
                 </list>
-                <list team="penguins" type="player" name="wilson" num="10" pos="lw" shot="l" height="74" unitH="inches" weight="199" unitW="pounds" bYear="1991" country="CAN">
+                <list team="penguins" type="player" name="wilson" num="10" pos="lw" shot="l" height="74" unitH="inches" weight="199" unitW="pounds" bYear="1991" country="can">
                     Garrett Wilson      10  LW  L   6'2"    199 03/16/91    Barrie, ON, CAN
                 </list>                        
             </forward>
                     
             <defense>
-                <list team="penguins" type="player" name="dumoulin" num="8" pos="d" shot="l" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1991" country="USA">
+                <list team="penguins" type="player" name="dumoulin" num="8" pos="d" shot="l" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1991" country="usa">
                     Brian Dumoulin      8   L   6'4"    207 09/06/91    Biddeford, ME, USA
                 </list>
-                <list team="penguins" type="player" name="elliott" num="24" pos="d" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="CAN">     
+                <list team="penguins" type="player" name="elliott" num="24" pos="d" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="can">     
                     Stefan Elliott      24  R   6'1"    190 01/30/91    Vancouver, BC, CAN
                 </list>
-                <list team="penguins" type="player" name="johnson" num="73" pos="d" shot="l" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1987" country="USA">
+                <list team="penguins" type="player" name="johnson" num="73" pos="d" shot="l" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1987" country="usa">
                     Jack Johnson        73  L   6'1"     227 01/13/87    Indianapolis, IN, USA
                 </list>
-                <list team="penguins" type="player" name="letang" num="58" pos="d" shot="r" height="72" unitH="inches" weight="201" unitW="pounds" bYear="1987" country="CAN">
+                <list team="penguins" type="player" name="letang" num="58" pos="d" shot="r" height="72" unitH="inches" weight="201" unitW="pounds" bYear="1987" country="can">
                     Kris Letang (A)     58  R   6'0"    201 04/24/87    Montreal, QC, CAN
                 </list>
-                <list team="penguins" type="player" name="maatta" num="3" pos="d" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1994" country="FIN">                
+                <list team="penguins" type="player" name="maatta" num="3" pos="d" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1994" country="fin">                
                     Olli Maatta         3   L   6'2"    206 08/22/94    Jyvaskyla, FIN
                 </list>
-                <list team="penguins" type="player" name="oleksiak" num="6" pos="d" shot="l" height="79" unitH="inches" weight="255" unitW="pounds" bYear="1992" country="CAN">                
+                <list team="penguins" type="player" name="oleksiak" num="6" pos="d" shot="l" height="79" unitH="inches" weight="255" unitW="pounds" bYear="1992" country="can">                
                     Jamie Oleksiak      6   L   6'7"    255 12/21/92    Toronto, ON, CAN
                 </list>
                 <list team="penguins" type="player" name="riikola" num="50" pos="d" shot="" height="" unitH="inches" weight="" unitW="pounds" bYear="1993" country="">
                     Juuso Riikola       50  --  --      --  11/09/93    --
                 </list>
-                <list team="penguins" type="player" name="ruhwedel" num="2" pos="d" shot="r" height="71" unitH="inches" weight="191" unitW="pounds" bYear="1990" country="USA">                
+                <list team="penguins" type="player" name="ruhwedel" num="2" pos="d" shot="r" height="71" unitH="inches" weight="191" unitW="pounds" bYear="1990" country="usa">                
                     Chad Ruhwedel       2   R   5'11"   191 05/07/90    San Diego, CA, USA
                 </list>
-                <list team="penguins" type="player" name="schultz" num="4" pos="d" shot="r" height="74" unitH="inches" weight="193" unitW="pounds" bYear="1990" country="CAN">
+                <list team="penguins" type="player" name="schultz" num="4" pos="d" shot="r" height="74" unitH="inches" weight="193" unitW="pounds" bYear="1990" country="can">
                     Justin Schultz      4   R   6'2"    193 07/06/90    Kelowna, BC, CAN
                 </list>
-                <list team="penguins" type="player" name="summer" num="55" pos="d" shot="l" height="74" unitH="inches" weight="207" unitW="pounds" bYear="1988" country="USA">
+                <list team="penguins" type="player" name="summer" num="55" pos="d" shot="l" height="74" unitH="inches" weight="207" unitW="pounds" bYear="1988" country="usa">
                     Chris Summers       55  L   6'2"    207 02/05/88    Ann Arbor, MI, USA
                 </list>                        
             </defense>
                     
             <goalies>
-                <list team="penguins" type="player" name="desmith" num="1" pos="g" height="72" unitH="inches" weight="181" unitW="pounds" bYear="1991" country="USA">
+                <list team="penguins" type="player" name="desmith" num="1" pos="g" height="72" unitH="inches" weight="181" unitW="pounds" bYear="1991" country="usa">
                     Casey DeSmith       1   6'0"        181 08/13/91    Rochester, NH, USA
                 </list>
-                <list team="penguins" type="player" name="jarry" num="35" pos="g" height="74" unitH="inches" weight="194" unitW="pounds" bYear="1995" country="CAN">
+                <list team="penguins" type="player" name="jarry" num="35" pos="g" height="74" unitH="inches" weight="194" unitW="pounds" bYear="1995" country="can">
                     Tristan Jarry       35  6'2"        194 04/29/95    Surrey, BC, CAN
                 </list>
-                <list team="penguins" type="player" name="murray" num="30" pos="g" height="76" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="CAN">
+                <list team="penguins" type="player" name="murray" num="30" pos="g" height="76" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="can">
                     Matt Murray         30  6'4"        178 05/25/94    Thunder Bay, ON, CAN
                 </list>                        
             </goalies>
