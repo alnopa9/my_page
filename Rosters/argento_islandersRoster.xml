@@ -6,109 +6,109 @@
         <players>
 
             <forward>
-                <list name="bailey" num="12" pos="rw" shot="l" height="73" unitH="inches" weight="203" unitW="pounds" bYear="1989" country="CAN">
+                <list type="player" name="bailey" num="12" pos="rw" shot="l" height="73" unitH="inches" weight="203" unitW="pounds" bYear="1989" country="CAN">
                     Josh Bailey             12  RW  L   6'1"    203 10/02/89    Bowmanville, ON, CAN
                 </list>
-                <list name="barzal" num="13" pos="c" shot="r" height="72" unitH="inches" weight="189" unitW="pounds" bYear="1997" country="CAN">
+                <list type="player" name="barzal" num="13" pos="c" shot="r" height="72" unitH="inches" weight="189" unitW="pounds" bYear="1997" country="CAN">
                     Mathew Barzal           13  C   R   6'0"    189 05/26/97    Coquitlam, BC, CAN
                 </list>
-                <list name="beauvillier" num="72" pos="c" shot="l" height="71" unitH="inches" weight="182" unitW="pounds" bYear="1997" country="CAN">
+                <list type="player" name="beauvillier" num="72" pos="c" shot="l" height="71" unitH="inches" weight="182" unitW="pounds" bYear="1997" country="CAN">
                     Anthony Beauvillier     72  C   L   5'11"   182 06/08/97    Sorel-Tracy, QC, CAN
                 </list>
-                <list name="cizikas" num="53" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1991" country="CAN">
+                <list type="player" name="cizikas" num="53" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1991" country="CAN">
                     Casey Cizikas           53  C   L   5'11"   200 02/27/91    Toronto, ON, CAN
                 </list>
-                <list name="clutterbuk" num="15" pos="rw" shot="r" height="71" unitH="inches" weight="216" unitW="pounds" bYear="1987" country="CAN">
+                <list type="player" name="clutterbuk" num="15" pos="rw" shot="r" height="71" unitH="inches" weight="216" unitW="pounds" bYear="1987" country="CAN">
                     Cal Clutterbuck         15  RW  R   5'11"   216 11/18/87    Welland, ON, CAN
                 </list>
-                <list name="eansor" num="" pos="c" shot="l" height="69" unitH="inches" weight="174" unitW="pounds" bYear="1996" country="USA">
+                <list type="player" name="eansor" num="" pos="c" shot="l" height="69" unitH="inches" weight="174" unitW="pounds" bYear="1996" country="USA">
                     Scott Eansor            --  C   L   5'9"    174 01/03/96    Troy, MI, USA
                 </list>
-                <list name="eberle" num="7" pos="c" shot="r" height="71" unitH="inches" weight="187" unitW="pounds" bYear="1990" country="CAN">
+                <list type="player" name="eberle" num="7" pos="c" shot="r" height="71" unitH="inches" weight="187" unitW="pounds" bYear="1990" country="CAN">
                     Jordan Eberle           7   C   R   5'11"   187 05/15/90    Regina, SK, CAN
                 </list>
-                <list name="filppula" num="51" pos="c" shot="l" height="72" unitH="inches" weight="196" unitW="pounds" bYear="1984" country="FIN">
+                <list type="player" name="filppula" num="51" pos="c" shot="l" height="72" unitH="inches" weight="196" unitW="pounds" bYear="1984" country="FIN">
                     Valtteri Filppula       51  C   L   6'0"    196 03/20/84    Vantaa, FIN
                 </list>
-                <list name="johnston" num="52" pos="lw" shot="l" height="77" unitH="inches" weight="235" unitW="pounds" bYear="1994" country="CAN">
+                <list type="player" name="johnston" num="52" pos="lw" shot="l" height="77" unitH="inches" weight="235" unitW="pounds" bYear="1994" country="CAN">
                     Ross Johnston           52  LW  L   6'5"    235 02/18/94    Charlottetown, PE, CAN
                 </list>
-                <list name="koivula" num="" pos="lw" shot="l" height="76" unitH="inches" weight="219" unitW="pounds" bYear="1998" country="FIN">
+                <list type="player" name="koivula" num="" pos="lw" shot="l" height="76" unitH="inches" weight="219" unitW="pounds" bYear="1998" country="FIN">
                     Otto Koivula            --  LW  L   6'4"    219 09/01/98    Nokia, FIN
                 </list>
-                <list name="komarov" num="47" pos="c" shot="l" height="71" unitH="inches" weight="209" unitW="pounds" bYear="1987" country="EST">
+                <list type="player" name="komarov" num="47" pos="c" shot="l" height="71" unitH="inches" weight="209" unitW="pounds" bYear="1987" country="EST">
                     Leo Komarov             47  C   L   5'11"   209 01/23/87    Narva, EST
                 </list>
-                <list name="kovar" num="" pos="c" shot="r" height="71" unitH="inches" weight="216" unitW="pounds" bYear="1990" country="CZE">
+                <list type="player" name="kovar" num="" pos="c" shot="r" height="71" unitH="inches" weight="216" unitW="pounds" bYear="1990" country="CZE">
                     Jan Kovar               --  C   R   5'11"   216 03/20/90    Pisek, CZE
                 </list>
-                <list name="kuhnhackl" num="34" pos="rw" shot="l" height="74" unitH="inches" weight="196" unitW="pounds" bYear="1992" country="DEU">
+                <list type="player" name="kuhnhackl" num="34" pos="rw" shot="l" height="74" unitH="inches" weight="196" unitW="pounds" bYear="1992" country="DEU">
                     Tom Kuhnhackl           34  RW  L   6'2"    196 01/21/92    Landshut, DEU
                 </list>
-                <list name="ladd" num="16" pos="lw" shot="l" height="75" unitH="inches" weight="192" unitW="pounds" bYear="1995" country="CAN">
+                <list type="player" name="ladd" num="16" pos="lw" shot="l" height="75" unitH="inches" weight="192" unitW="pounds" bYear="1995" country="CAN">
                     Andrew Ladd             16  LW  L   6'3"    192 12/12/85    Maple Ridge, BC, CAN
                 </list>
-                <list name="lee" num="27" pos="lw" shot="l" height="75" unitH="inches" weight="231" unitW="pounds" bYear="1990" country="USA">
+                <list type="player" name="lee" num="27" pos="lw" shot="l" height="75" unitH="inches" weight="231" unitW="pounds" bYear="1990" country="USA">
                     Anders Lee              27  LW  L   6'3"    231 07/03/90    Edina, MN, USA
                 </list>
-                <list name="lorito" num="" pos="rw" shot="l" height="69" unitH="inches" weight="171" unitW="pounds" bYear="1990" country="CAN">
+                <list type="player" name="lorito" num="" pos="rw" shot="l" height="69" unitH="inches" weight="171" unitW="pounds" bYear="1990" country="CAN">
                     Matt Lorito             --  RW  L   5'9"    171 07/03/90    Oakville, ON, CAN
                 </list>
-                <list name="martin" num="17" pos="lw" shot="l" height="75" unitH="inches" weight="220" unitW="pounds" bYear="1989" country="CAN">
+                <list type="player" name="martin" num="17" pos="lw" shot="l" height="75" unitH="inches" weight="220" unitW="pounds" bYear="1989" country="CAN">
                     Matt Martin             17  LW  L   6'3"    220 05/08/89    Windsor, ON, CAN
                 </list>
-                <list name="nelson" num="29" pos="c" shot="l" height="75" unitH="inches" weight="212" unitW="pounds" bYear="1991" country="USA">
+                <list type="player" name="nelson" num="29" pos="c" shot="l" height="75" unitH="inches" weight="212" unitW="pounds" bYear="1991" country="USA">
                     Brock Nelson            29  C   L   6'3"    212 10/15/91    Warroad, MN, USA
                 </list>
-                <list name="sislo" num="" pos="rw" shot="r" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1988" country="USA">
+                <list type="player" name="sislo" num="" pos="rw" shot="r" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1988" country="USA">
                     Mike Sislo              --  RW  R   5'11"   190 01/20/88    Superior, WI, USA
                 </list>
-                <list name="denis" num="" pos="c" shot="" height="" unitH="inches" weight="" unitW="pounds" bYear="1992" country="">
+                <list type="player" name="denis" num="" pos="c" shot="" height="" unitH="inches" weight="" unitW="pounds" bYear="1992" country="">
                     Travis St. Denis        --  C   --  --      --  09/17/92    --
                 </list>
             </forward>
 
             <defense>
-                <list name="boychuk" num="55" pos="d" shot="r" height="74" unitH="inches" weight="227" unitW="pounds" bYear="1984" country="CAN">
+                <list type="player" name="boychuk" num="55" pos="d" shot="r" height="74" unitH="inches" weight="227" unitW="pounds" bYear="1984" country="CAN">
                     Johnny Boychuk          55  D   R   6'2"    227 01/19/84    Edmonton, AB, CAN
                 </list>
-                <list name="dobson" num="" pos="d" shot="r" height="75" unitH="inches" weight="180" unitW="pounds" bYear="2000" country="CAN">
+                <list type="player" name="dobson" num="" pos="d" shot="r" height="75" unitH="inches" weight="180" unitW="pounds" bYear="2000" country="CAN">
                     Noah Dobson             --  D   R   6'3"    180 01/07/00    Summerside, PE, CAN
                 </list>
-                <list name="hegelson" num="" pos="d" shot="l" height="76" unitH="inches" weight="221" unitW="pounds" bYear="1990" country="USA">
+                <list type="player" name="hegelson" num="" pos="d" shot="l" height="76" unitH="inches" weight="221" unitW="pounds" bYear="1990" country="USA">
                     Seth Helgeson           --  D   L   6'4"    221 10/08/90    Faribault, MN, USA
                 </list>
-                <list name="hickey" num="14" pos="d" shot="l" height="72" unitH="inches" weight="188" unitW="pounds" bYear="1989" country="CAN">
+                <list type="player" name="hickey" num="14" pos="d" shot="l" height="72" unitH="inches" weight="188" unitW="pounds" bYear="1989" country="CAN">
                     Thomas Hickey           14  D   L   6'0"    188 02/08/89    Calgary, AB, CAN
                 </list>
-                <list name="leddy" num="2" pos="d" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1991" country="USA">
+                <list type="player" name="leddy" num="2" pos="d" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1991" country="USA">
                     Nick Leddy              2   D   L   6'0"    204 03/20/91    Eden Prairie, MN, USA
                 </list>
-                <list name="mayfield" num="42" pos="d" shot="r" height="76" unitH="inches" weight="227" unitW="pounds" bYear="1992" country="USA">
+                <list type="player" name="mayfield" num="42" pos="d" shot="r" height="76" unitH="inches" weight="227" unitW="pounds" bYear="1992" country="USA">
                     Scott Mayfield          42  D   R   6'4"    227 10/14/92    St. Louis, MO, USA
                 </list>
-                <list name="pelech" num="50" pos="d" shot="l" height="75" unitH="inches" weight="217" unitW="pounds" bYear="1994" country="CAN">
+                <list type="player" name="pelech" num="50" pos="d" shot="l" height="75" unitH="inches" weight="217" unitW="pounds" bYear="1994" country="CAN">
                     Adam Pelech             50  D   L   6'3"    217 08/16/94    Toronto, ON, CAN
                 </list>
-                <list name="pulock" num="6" pos="d" shot="r" height="74" unitH="inches" weight="214" unitW="pounds" bYear="1994" country="CAN">
+                <list type="player" name="pulock" num="6" pos="d" shot="r" height="74" unitH="inches" weight="214" unitW="pounds" bYear="1994" country="CAN">
                     Ryan Pulock             6   D   R   6'2"    214 10/06/94    Dauphin, MB, CAN
                 </list>
-                <list name="rathgeb" num="" pos="d" shot="" height="" unitH="inches" weight="" unitW="pounds" bYear="1995" country="">
+                <list type="player" name="rathgeb" num="" pos="d" shot="" height="" unitH="inches" weight="" unitW="pounds" bYear="1995" country="">
                     Yannick Rathgeb         --  -   -   --      --  10/24/95    --
                 </list>
             </defense>
 
             <goalies>
-                <list name="greiss" num="1" pos="g" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1986" country="DEU">
+                <list type="player" name="greiss" num="1" pos="g" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1986" country="DEU">
                     Thomas Greiss           1   G   -   6'1"    227 01/29/86    Fussen, DEU
                 </list>
-                <list name="lehner" num="40" pos="g" height="76" unitH="inches" weight="245" unitW="pounds" bYear="1991" country="SWE">
+                <list type="player" name="lehner" num="40" pos="g" height="76" unitH="inches" weight="245" unitW="pounds" bYear="1991" country="SWE">
                     Robin Lehner            40  G   -   6'4"    245 07/24/91    Gothenburg, SWE
                 </list>
-                <list name="skarek" num="" pos="g" height="75" unitH="inches" weight="196" unitW="pounds" bYear="1999" country="CZE">
+                <list type="player" name="skarek" num="" pos="g" height="75" unitH="inches" weight="196" unitW="pounds" bYear="1999" country="CZE">
                     Jakub Skarek            --  G   -   6'3"    196 11/10/99    Jihlava, CZE
                 </list>
-                <list name="soderstrom" num="" pos="g" height="77" unitH="inches" weight="196" unitW="pounds" bYear="1996" country="SWE">
+                <list type="player" name="soderstrom" num="" pos="g" height="77" unitH="inches" weight="196" unitW="pounds" bYear="1996" country="SWE">
                     Linus Soderstrom        --  G   -   6'5"    196 08/23/96    Stockholm, SWE
                 </list>
             </goalies>
