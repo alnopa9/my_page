@@ -24,7 +24,7 @@ A few things about myself,
 Click the [link](https://github.com/alnopa9/my_page) to visit my personal repo for our class!
 
 #### Parker
-This is from his first birthday party, which was Dr. Seuss themed!
+Parker loves Charlie's ice cream!
 ![parkerIceCream](/my_page/parkerIC.jpg)
 
 >Nothing is true
