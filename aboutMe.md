@@ -25,7 +25,7 @@ Click the [link](https://github.com/alnopa9/my_page) to visit my personal repo f
 
 #### Parker
 Parker loves Charlie's ice cream!
-![parkerIceCream](/my_page/parkerIC.jpg)
+![parkerIceCream](images/parkerIC.jpg)
 
 >Nothing is true
 > 
