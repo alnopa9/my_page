@@ -19,8 +19,8 @@ A few things about myself,
 - [x] Visit Grammy and Pappy
 - [x] Create a repo for Digital Humanities
 - [x] Add content to personal repo and DHClass-Hub
-- [ ] Pack swim trunks and baby pool for Parker
-- [ ] Spend family time with family!
+- [x] Pack swim trunks and baby pool for Parker
+- [x] Spend family time with family!
 
 ### Repo Link
 Click the [link](https://github.com/alnopa9/my_page) to visit my personal repo for our class!
