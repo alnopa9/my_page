@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Roster>
+
     <pittsburghPenguins>
-        
-        <forward>
-            <player>
+
+        <players>
+
+            <forward>
                 <list name="astonReese" num="46" pos="c" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1994" country="USA">
                     Zach Aston-Reese    46  C   L   6'0"    204 08/10/94  Staten Island, NY, USA
                 </list>
@@ -66,12 +68,10 @@
                 </list>
                 <list name="wilson" num="10" pos="lw" shot="l" height="74" unitH="inches" weight="199" unitW="pounds" bYear="1991" country="CAN">
                     Garrett Wilson      10  LW  L   6'2"    199 03/16/91    Barrie, ON, CAN
-                </list>
-            </player>
-        </forward>
-        
-        <defense>
-            <player>
+                </list>                        
+            </forward>
+                    
+            <defense>
                 <list name="dumoulin" num="8" pos="d" shot="l" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1991" country="USA">
                     Brian Dumoulin      8   L   6'4"    207 09/06/91    Biddeford, ME, USA
                 </list>
@@ -102,11 +102,10 @@
                 <list name="summer" num="55" pos="d" shot="l" height="74" unitH="inches" weight="207" unitW="pounds" bYear="1988" country="USA">
                     Chris Summers       55  L   6'2"    207 02/05/88    Ann Arbor, MI, USA
                 </list>
-            </player>
-        </defense>
-        
-        <goalies>
-            <player>
+                        
+            </defense>
+                    
+            <goalies>
                 <list name="desmith" num="1" pos="g" height="72" unitH="inches" weight="181" unitW="pounds" bYear="1991" country="USA">
                     Casey DeSmith       1   6'0"        181 08/13/91    Rochester, NH, USA
                 </list>
@@ -115,9 +114,11 @@
                 </list>
                 <list name="murray" num="30" pos="g" height="76" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="CAN">
                     Matt Murray         30  6'4"        178 05/25/94    Thunder Bay, ON, CAN
-                </list>
-            </player>            
-        </goalies>
-        
+                </list>                        
+            </goalies>
+
+        </players>
+
     </pittsburghPenguins>
+
 </Roster>
