@@ -115,6 +115,24 @@
 
         </players>
 
+        <coaches>
+            <list type="coach" name="trotz" pos="head">
+                Barry Trotz             Head Coach
+            </list>
+            <list type="coach" name="lambert" pos="assistant">
+                Lane Lambert            Assistant Coach
+            </list>
+            <list type="coach" name="gruden" pos="assistant">
+                John Gruden             Assistant Coach
+            </list>
+            <list type="coach" name="gomez" pos="assistant">
+                Scott Gomez             Assistant Coach
+            </list>
+            <list type="coach" name="greco" pos="goaltending">
+                Piero Greco             Goaltending Coach
+            </list>
+        </coaches>
+    
     </newYorkIslanders>
 
 </roster>
