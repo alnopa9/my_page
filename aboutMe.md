@@ -25,7 +25,7 @@ Click the [link](https://github.com/alnopa9/my_page) to visit my personal repo f
 
 #### Parker
 This is from his first birthday party, which was Dr. Seuss themed!
-![parkerBPArty](/my_page/parkerBParty.png)
+![parkerIceCream](/my_page/parkerIC.jpg)
 
 >Nothing is true
 > 
