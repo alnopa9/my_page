@@ -150,6 +150,27 @@
             </goalies>
 
         </players>
+        
+        <coaches>
+            <list type="coach" name="amour" pos="head">
+                Rod Brind'Amour         Head Coach
+            </list>
+            <list type="coach" name="daniels" pos="assistant">
+                Jeff Daniels            Assistant Coach
+            </list>
+            <list type="coach" name="chynoweth" pos="assistant">
+                Dean Chynoweth          Assistant Coach
+            </list>
+            <list type="coach" name="bales" pos="goaltending">
+                Mike Bales              Goaltending Coach
+            </list>
+            <list type="coach" name="huffine" pos="video">
+                Chris Huffine           Video Coach
+            </list>
+            <list type="coach" name="scarpace" pos="video">
+                LJ Scarpace             Video Coach
+            </list>
+        </coaches>
 
     </carolinaHurricanes>
 
