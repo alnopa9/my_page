@@ -118,6 +118,27 @@
             </goalies>
 
         </players>
+        
+        <coaches>
+            <list type="coach" name="sullivan" pos="head">
+                Mike Sullivan       Head Coach
+            </list>
+            <list type="coach" name="gonchar" pos="assistant">
+                Sergei Gonchar      Assistant Coach
+            </list>
+            <list type="coach" name="martin" pos="assistant">
+                Jacques Martin      Assistant Coach
+            </list>
+            <list type="coach" name="recchi" pos="assistant">
+                Mark Recchi         Assistant Coach
+            </list>
+            <list type="coach" name="buckley" pos="goaltending">
+                Mike Buckley        Goaltending Coach
+            </list>
+            <list type="coach" name="saucier" pos="video">
+                Andy Saucier        Video Coach
+            </list>
+        </coaches>
 
     </pittsburghPenguins>
 
