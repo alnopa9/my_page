@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoScheduleSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<schedule>
+    <schedule>
     
         <team organization="penguins">
 
@@ -271,4 +271,4 @@
 
         </team>
 
-</schedule>
+    </schedule>
