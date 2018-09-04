@@ -1,160 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     
-    <newJerseyDevils>
+    <organization org="devils">
         
         <players>
             
             <forwards>
-                <list team="devils" type="player" name="anderson" num="49" pos="rw" shot="r" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1998" country="usa">
+                <p team="devils" type="player" name="anderson" num="49" pos="rw" shot="r" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1998" country="usa">
                     Joey Anderson           49  RW  R   5'11"   190 06/19/98    Roseville, MN, USA
-                </list>
-                <list team="devils" type="player" name="baddock" num="52" pos="lw" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1995" country="can">
+                </p>
+                <p team="devils" type="player" name="baddock" num="52" pos="lw" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1995" country="can">
                     Brandon Baddock         52  LW  L   6'3"    215 03/29/95    Vermillion, AB, CAN
-                </list>
-                <list team="devils" type="player" name="bastian" num="" pos="rw" shot="r" height="76" unitH="inches" weight="205" unitW="pounds" bYear="1997" country="can">
+                </p>
+                <p team="devils" type="player" name="bastian" num="" pos="rw" shot="r" height="76" unitH="inches" weight="205" unitW="pounds" bYear="1997" country="can">
                     Nathan Bastian          --  RW  R   6'4"    205 12/06/97    Kitchener, ON, CAN
-                </list>
-                <list team="devils" type="player" name="boyle" num="11" pos="c" shot="l" height="78" unitH="inches" weight="245" unitW="pounds" bYear="1984" country="usa">
+                </p>
+                <p team="devils" type="player" name="boyle" num="11" pos="c" shot="l" height="78" unitH="inches" weight="245" unitW="pounds" bYear="1984" country="usa">
                     Brian Boyle (A)         11  C   L   6'6"    245 12/18/84    Hingham, MA, USA
-                </list>
-                <list team="devils" type="player" name="bratt" num="63" pos="lw" shot="l" height="70" unitH="inches" weight="175" unitW="pounds" bYear="1998" country="swe">
+                </p>
+                <p team="devils" type="player" name="bratt" num="63" pos="lw" shot="l" height="70" unitH="inches" weight="175" unitW="pounds" bYear="1998" country="swe">
                     Jesper Bratt            63  LW  L   5'10"   175 07/30/98    Stockholm, SWE
-                </list>
-                <list team="devils" type="player" name="coleman" num="20" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1991" country="usa">
+                </p>
+                <p team="devils" type="player" name="coleman" num="20" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1991" country="usa">
                     Blake Coleman           20  C   L   5'11"   200 11/28/91    Plano, TX, USA
-                </list>
-                <list team="devils" type="player" name="gabriel" num="" pos="rw" shot="r" height="76" unitH="inches" weight="200" unitW="pounds" bYear="1993" country="can">
+                </p>
+                <p team="devils" type="player" name="gabriel" num="" pos="rw" shot="r" height="76" unitH="inches" weight="200" unitW="pounds" bYear="1993" country="can">
                     Kurtis Gabriel          --  RW  R   6'4"    200 04/20/93    Newmarket, ON, CAN
-                </list>
-                <list team="devils" type="player" name="gignac" num="" pos="c" shot="l" height="71" unitH="inches" weight="170" unitW="pounds" bYear="1997" country="can">
+                </p>
+                <p team="devils" type="player" name="gignac" num="" pos="c" shot="l" height="71" unitH="inches" weight="170" unitW="pounds" bYear="1997" country="can">
                     Brandon Gignac          --  C   L   5'11"   170 11/07/97    Repentigny, QC, CAN
-                </list>
-                <list team="devils" type="player" name="hall" num="9" pos="lw" shot="l" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1991" country="can">
+                </p>
+                <p team="devils" type="player" name="hall" num="9" pos="lw" shot="l" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1991" country="can">
                     Taylor Hall (A)         9   LW  L   6'1"    205 11/14/91    Calgary, AB, CAN
-                </list>
-                <list team="devils" type="player" name="hischier" num="13" pos="c" shot="l" height="73" unitH="inches" weight="175" unitW="pounds" bYear="199" country="che">
+                </p>
+                <p team="devils" type="player" name="hischier" num="13" pos="c" shot="l" height="73" unitH="inches" weight="175" unitW="pounds" bYear="199" country="che">
                     Nico Hischier           13  C   L   6'1"    175 01/04/99    Brig, CHE
-                </list>
-                <list team="devils" type="player" name="johansson" num="90" pos="lw" shot="l" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1990" country="swe">
+                </p>
+                <p team="devils" type="player" name="johansson" num="90" pos="lw" shot="l" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1990" country="swe">
                     Marcus Johansson        90  LW  L   6'1"    205 10/06/90    Landskrona, SWE
-                </list>
-                <list team="devils" type="player" name="noesen" num="23" pos="rw" shot="r" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1993" country="usa">
+                </p>
+                <p team="devils" type="player" name="noesen" num="23" pos="rw" shot="r" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1993" country="usa">
                     Stefan Noesen           23  RW  R   6'1"    205 02/12/93    Plano, TX, USA
-                </list>
-                <list team="devils" type="player" name="palmieri" num="21" pos="rw" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1991" country="usa">
+                </p>
+                <p team="devils" type="player" name="palmieri" num="21" pos="rw" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1991" country="usa">
                     Kyle Palmieri           21  RW  R   5'11"   185 02/01/91    Smithtown, NY, USA
-                </list>
-                <list team="devils" type="player" name="seney" num="" pos="lw" shot="l" height="69" unitH="inches" weight="156" unitW="pounds" bYear="1996" country="can">
+                </p>
+                <p team="devils" type="player" name="seney" num="" pos="lw" shot="l" height="69" unitH="inches" weight="156" unitW="pounds" bYear="1996" country="can">
                     Brett Seney             --  LW  L   5'9"    156 02/28/96    London, ON, CAN
-                </list>
-                <list team="devils" type="player" name="sharangvich" num="" pos="c" shot="l" height="74" unitH="inches" weight="196" unitW="pounds" bYear="1998" country="blr">
+                </p>
+                <p team="devils" type="player" name="sharangvich" num="" pos="c" shot="l" height="74" unitH="inches" weight="196" unitW="pounds" bYear="1998" country="blr">
                     Yegor Sharangovich      --  C   L   6'2"    196 06/06/98    Minsk, BLR
-                </list>
-                <list team="devils" type="player" name="speers" num="74" pos="c" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1997" country="can">
+                </p>
+                <p team="devils" type="player" name="speers" num="74" pos="c" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1997" country="can">
                     Blake Speers            74  C   R   5'11'   185 01/02/97    Sault Ste. Marie, ON, CAN
-                </list>
-                <list team="devils" type="player" name="studenic" num="" pos="rw" shot="l" height="73" unitH="inches" weight="164" unitW="pounds" bYear="1998" country="svk">
+                </p>
+                <p team="devils" type="player" name="studenic" num="" pos="rw" shot="l" height="73" unitH="inches" weight="164" unitW="pounds" bYear="1998" country="svk">
                     Marian Studenic         --  RW  L   6'1"    164 10/28/98    Skalica, SVK
-                </list>
-                <list team="devils" type="player" name="tangradi" num="49" pos="lw" shot="l" height="76" unitH="inches" weight="226" unitW="pounds" bYear="1989" country="can">
+                </p>
+                <p team="devils" type="player" name="tangradi" num="49" pos="lw" shot="l" height="76" unitH="inches" weight="226" unitW="pounds" bYear="1989" country="can">
                     Eric Tangradi           49  LW  L   6'4"    226 02/10/89    Philadelphia, PA, USA
-                </list>
-                <list team="devils" type="player" name="wood" num="44" pos="lw" shot="l" height="74" unitH="inches" weight="195" unitW="pounds" bYear="1995" country="usa">
+                </p>
+                <p team="devils" type="player" name="wood" num="44" pos="lw" shot="l" height="74" unitH="inches" weight="195" unitW="pounds" bYear="1995" country="usa">
                     Miles Wood              44  LW  L   6'2"    195 09/13/95    Buffalo, NY, USA
-                </list>
-                <list team="devils" type="player" name="zacha" num="37" pos="c" shot="l" height="75" unitH="inches" weight="210" unitW="pounds" bYear="1997" country="cze">
+                </p>
+                <p team="devils" type="player" name="zacha" num="37" pos="c" shot="l" height="75" unitH="inches" weight="210" unitW="pounds" bYear="1997" country="cze">
                     Pavel Zacha             37  C   L   6'3"    210 04/06/97    Brno, CZE
-                </list>
-                <list team="devils" type="player" name="zajac" num="19" pos="c" shot="r" height="74" unitH="inches" weight="185" unitW="pounds" bYear="1985" country="can">
+                </p>
+                <p team="devils" type="player" name="zajac" num="19" pos="c" shot="r" height="74" unitH="inches" weight="185" unitW="pounds" bYear="1985" country="can">
                     Travis Zajac (A)        19  C   R   6'2"    185 05/13/85    Winnipeg, MB, CAN
-                </list>
+                </p>
             </forwards>
             
             <defense>
-                <list team="devils" type="player" name="butcher" num="8" pos="d" shot="l" height="70" unitH="inches" weight="190" unitW="pounds" bYear="1995" country="usa">
+                <p team="devils" type="player" name="butcher" num="8" pos="d" shot="l" height="70" unitH="inches" weight="190" unitW="pounds" bYear="1995" country="usa">
                     Will Butcher            8   D   L   5'10"   190 01/06/95    Sun Prairie, WI, USA
-                </list>
-                <list team="devils" type="player" name="greene" num="6" pos="d" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1982" country="usa">
+                </p>
+                <p team="devils" type="player" name="greene" num="6" pos="d" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1982" country="usa">
                     Andy Greene (C)         6   D   L   5'11"   190 10/30/82    Trenton, MI, USA
-                </list>
-                <list team="devils" type="player" name="gryba" num="" pos="d" shot="r" height="76" unitH="inches" weight="222" unitW="pounds" bYear="1988" country="can">
+                </p>
+                <p team="devils" type="player" name="gryba" num="" pos="d" shot="r" height="76" unitH="inches" weight="222" unitW="pounds" bYear="1988" country="can">
                     Eric Gryba              --  D   R   6'4"    222 04/14/88    Saskatoon, SK, CAN
-                </list>
-                <list team="devils" type="player" name="iakovlev" num="" pos="d" shot="l" height="72" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="rus">
+                </p>
+                <p team="devils" type="player" name="iakovlev" num="" pos="d" shot="l" height="72" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="rus">
                     Egor Iakovlev           --  D   L   6'0"    190 09/17/91    Magnitogorsk, RUS
-                </list>
-                <list team="devils" type="player" name="jacobs" num="" pos="d" shot="r" height="74" unitH="inches" weight="200" unitW="pounds" bYear="1996" country="usa">
+                </p>
+                <p team="devils" type="player" name="jacobs" num="" pos="d" shot="r" height="74" unitH="inches" weight="200" unitW="pounds" bYear="1996" country="usa">
                     Josh Jacobs             --  D   R   6'2"    200 02/15/96    Shelby Township, MI, USA
-                </list>
-                <list team="devils" type="player" name="lovejoy" num="12" pos="d" shot="r" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1984" country="usa">
+                </p>
+                <p team="devils" type="player" name="lovejoy" num="12" pos="d" shot="r" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1984" country="usa">
                     Ben Lovejoy             12  D   R   6'1"    205 02/20/84    Concord, NH, USA
-                </list>
-                <list team="devils" type="player" name="mueller" num="25" pos="d" shot="l" height="75" unitH="inches" weight="210" unitW="pounds" bYear="1995" country="che">
+                </p>
+                <p team="devils" type="player" name="mueller" num="25" pos="d" shot="l" height="75" unitH="inches" weight="210" unitW="pounds" bYear="1995" country="che">
                     Mirco Mueller           25  D   L   6'3"    210 03/21/95    Winterthur, CHE
-                </list>
-                <list team="devils" type="player" name="ramage" num="" pos="d" shot="r" height="72" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="can">
+                </p>
+                <p team="devils" type="player" name="ramage" num="" pos="d" shot="r" height="72" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="can">
                     John Ramage             --  D   R   6'0"    190 02/07/91    Mississauga, ON, CAN
-                </list>
-                <list team="devils" type="player" name="severson" num="28" pos="d" shot="r" height="74" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="can">
+                </p>
+                <p team="devils" type="player" name="severson" num="28" pos="d" shot="r" height="74" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="can">
                     Damn Severson           28  D   R   6'2"    205 08/07/94    Melvilee, SK, CAN
-                </list>
-                <list team="devils" type="player" name="sissons" num="" pos="d" shot="l" height="74" unitH="inches" weight="185" unitW="pounds" bYear="1998" country="can">
+                </p>
+                <p team="devils" type="player" name="sissons" num="" pos="d" shot="l" height="74" unitH="inches" weight="185" unitW="pounds" bYear="1998" country="can">
                     Colby Sissons           --  D   L   6'2"    185 01/15/98    Edmonton, AB, CAN
-                </list>
-                <list team="devils" type="player" name="smith" num="" pos="d" shot="l" height="71" unitH="inches" weight="175" unitW="pounds" bYear="2000" country="can">
+                </p>
+                <p team="devils" type="player" name="smith" num="" pos="d" shot="l" height="71" unitH="inches" weight="175" unitW="pounds" bYear="2000" country="can">
                     Ty Smith                --  D   L   5'11"   175 03/24/00    Lloydminster, AB,CAN
-                </list>
-                <list team="devils" type="player" name="strait" num="" pos="d" shot="l" height="73" unitH="inches" weight="206" unitW="pounds" bYear="1988" country="usa">
+                </p>
+                <p team="devils" type="player" name="strait" num="" pos="d" shot="l" height="73" unitH="inches" weight="206" unitW="pounds" bYear="1988" country="usa">
                     Brian Strait            --  D   L   6'1"    206 01/04/88    Waltham, MA, USA
-                </list>
-                <list team="devils" type="player" name="vatanen" num="45" pos="d" shot="r" height="70" unitH="inches" weight="185" unitW="pounds" bYear="1991" country="fin">
+                </p>
+                <p team="devils" type="player" name="vatanen" num="45" pos="d" shot="r" height="70" unitH="inches" weight="185" unitW="pounds" bYear="1991" country="fin">
                     Sami Vatanen            45  D   R   5'10"   185 06/03/91    Jyvaskyla, FIN
-                </list>
-                <list team="devils" type="player" name="white" num="" pos="d" shot="l" height="73" unitH="inches" weight="185" unitW="pounds" bYear="1997" country="can">
+                </p>
+                <p team="devils" type="player" name="white" num="" pos="d" shot="l" height="73" unitH="inches" weight="185" unitW="pounds" bYear="1997" country="can">
                     Colton White            --  D   L   6'1"    185 05/03/97    London, ON, CAN
-                </list>
+                </p>
             </defense>
             
             <goalies>
-                <list team="devils" type="player" name="blackwood" num="70" pos="g" shot="" height="76" unitH="inches" weight="225" unitW="pounds" bYear="1996" country="can">
+                <p team="devils" type="player" name="blackwood" num="70" pos="g" shot="" height="76" unitH="inches" weight="225" unitW="pounds" bYear="1996" country="can">
                     Mackenzie Blackwood     70  G   -   6'4"    225 12/09/96    Thunder Bay, ON, CAN
-                </list>
-                <list team="devils" type="player" name="johnson" num="" pos="g" shot="" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="usa">
+                </p>
+                <p team="devils" type="player" name="johnson" num="" pos="g" shot="" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="usa">
                     Cameron Johnson         --  G   -   6'1"    205 07/11/94    Flint, MI, USA
-                </list>
-                <list team="devils" type="player" name="kinkaid" num="1" pos="g" shot="" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1989" country="usa">
+                </p>
+                <p team="devils" type="player" name="kinkaid" num="1" pos="g" shot="" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1989" country="usa">
                     Keith Kinkaid           1   G   -   6'3"    195 07/04/89    Farmingville, NY, USA
-                </list>
-                <list team="devils" type="player" name="lack" num="31" pos="g" shot="" height="76" unitH="inches" weight="187" unitW="pounds" bYear="1988" country="swe">
+                </p>
+                <p team="devils" type="player" name="lack" num="31" pos="g" shot="" height="76" unitH="inches" weight="187" unitW="pounds" bYear="1988" country="swe">
                     Eddie Lack              31  G   -   6'4"    187 01/05/88    Norrtalje, SWE
-                </list>
-                <list team="devils" type="player" name="schneider" num="35" pos="g" shot="" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1986" country="usa">
+                </p>
+                <p team="devils" type="player" name="schneider" num="35" pos="g" shot="" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1986" country="usa">
                     Cory Schneider          35  G   -   6'3"    200 03/18/86    Marblehead, MA, USA
-                </list>
+                </p>
             </goalies>
 
         </players>
         
         <coaches>
-            <list team="devils" type="coach" name="hayes" pos="head">
+            <c team="devils" type="coach" name="hayes" pos="head">
                 John Hayes              Head Coach
-            </list>
-            <list team="devils" type="coach" name="nasreddine" pos="assistant">
+            </c>
+            <c team="devils" type="coach" name="nasreddine" pos="assistant">
                 Alain Nasreddine        Assistant Coach
-            </list>
-            <list team="devils" type="coach" name="kowalsky" pos="assistant">
+            </c>
+            <c team="devils" type="coach" name="kowalsky" pos="assistant">
                 Rick Kowalsky           Assistant Coach
-            </list>
-            <list team="devils" type="coach" name="grier" pos="assistant">
+            </c>
+            <c team="devils" type="coach" name="grier" pos="assistant">
                 Mike Grier              Assistant Coach
-            </list>
-            <list team="devils" type="coach" name="melanson" pos="goaltending">
+            </c>
+            <c team="devils" type="coach" name="melanson" pos="goaltending">
                 Roland Melanson         Goaltending Coach
-            </list>
+            </c>
         </coaches>
 
         
-    </newJerseyDevils>
+    </organization>
 
 </roster>

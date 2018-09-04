@@ -1,23 +1,25 @@
 start = roster
 roster= element roster {organization}
-organization = element organizatin {players, coaches}
-players = element players {forwards,defense, goalies}
+organization = element organization {org, players, coaches}
+org = attribute org {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
+                     "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
+players = element players {forwards, defense, goalies}
 forwards = element forwards {p+}
 defense = element defense {p+}
 goalies = element goalies {p+}
 coaches = element coaches {c+}
-p = element p {team, type, name, num, pos, shot, height, unitH, weight, unitW, bYear, country}
-c = element c {team, type, name, pos}
+p = element p {team, type, name, num, pos, shot, height, unitH, weight, unitW, bYear, country, text*}
+c = element c {team, type, name, pos, text*}
 team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
                        "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
 type = attribute type {"player"|"coach"}
 name = attribute name {text*}
-num = attribute num {xsd:integer}
-pos = attribute pos {"c"|"rw"|"lw"|"d"|"g"|"head"|"assistant"|"goaltending"}
-shot = attribute shot {"l"|"r"}
-height = attribute height {xsd:integer}
+num = attribute num {xsd:integer?}
+pos = attribute pos {"c"|"rw"|"lw"|"d"|"g"|"head"|"assistant"|"goaltending"|"video"}
+shot = attribute shot {("l"|"r")?}
+height = attribute height {xsd:integer?}
 unitH = attribute unitH {"inches"}
-weight = attribute weight {xsd:integer}
+weight = attribute weight {xsd:integer?}
 unitW = attribute unitW {"pounds"}
-bYear = attribute bYear {xsd:integer}
-country = attribute country {"can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"}
+bYear = attribute bYear {xsd:integer?}
+country = attribute country {("can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"|"est"|"deu"|"lva"|"nld")?}
