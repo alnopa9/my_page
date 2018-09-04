@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    
+    <organization org="blueJackets">
+        <players>
+            <forwards>
+                <p team="blueJackets" type="player" name="abramov" num="79" pos="rw" shot="l" height="69" unitH="inches" weight="171" unitW="pounds" bYear="1998" country="rus">
+                Vitaly
+                </p>
+                <p team="blueJackets" type="player" name="anderson" num="77" pos="rw" shot="r" height="75" unitH="inches" weight="221" unitW="pounds" bYear="1994" country="can"></p>
+                <p team="blueJackets" type="player" name="atkinson" num="13" pos="rw" shot="r" height="68" unitH="inches" weight="179" unitW="pounds" bYear="1989" country="usa"></p>
+                <p team="blueJackets" type="player" name="bittner" num="57" pos="lw" shot="l" height="75" unitH="inches" weight="211" unitW="pounds" bYear="1996" country="usa"></p>
+                <p team="blueJackets" type="player" name="bjorkstrand" num="28" pos="rw" shot="r" height="72" unitH="inches" weight="177" unitW="pounds" bYear="1995" country="dnk"></p>
+                <p team="blueJackets" type="player" name="broadhurst" num="62" pos="c" shot="l" height="72" unitH="inches" weight="178" unitW="pounds" bYear="1993" country="usa"></p>
+                <p team="blueJackets" type="player" name="dalpe" num="29" pos="c" shot="r" height="74" unitH="inches" weight="194" unitW="pounds" bYear="1989" country="can"></p>
+                <p team="blueJackets" type="player" name="davidson" num="" pos="rw" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1997" country="swe"></p>
+                <p team="blueJackets" type="player" name="dubinsky" num="17" pos="c" shot="l" height="74" unitH="inches" weight="205" unitW="pounds" bYear="1986" country="usa"></p>
+                <p team="blueJackets" type="player" name="dubois" num="18" pos="c" shot="l" height="75" unitH="inches" weight="207" unitW="pounds" bYear="1998" country="can"></p>
+                <p team="blueJackets" type="player" name="duclair" num="91" pos="lw" shot="l" height="71" unitH="inches" weight="191" unitW="pounds" bYear="1995" country="can"></p>
+                <p team="blueJackets" type="player" name="foligno" num="71" pos="lw" shot="l" height="72" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="usa"></p>
+                <p team="blueJackets" type="player" name="fortier" num="" pos="rw" shot="r" height="70" unitH="inches" weight="183" unitW="pounds" bYear="1996" country="can"></p>
+                <p team="blueJackets" type="player" name="foudy" num="" pos="c" shot="l" height="72" unitH="inches" weight="175" unitW="pounds" bYear="2000" country="can"></p>
+                
+            </forwards>
+            <defense>
+                <p team="" type="" name="" num="" pos="" shot="" height="" unitH="" weight="" unitW="" bYear="" country=""></p>
+            </defense>
+            <goalies>
+                <p team="" type="" name="" num="" pos="" shot="" height="" unitH="" weight="" unitW="" bYear="" country=""></p>
+            </goalies>
+        </players>
+        <coaches>
+            <c team="" type="" name="" pos=""></c>
+        </coaches>
+    </organization>
+    
+</roster>
