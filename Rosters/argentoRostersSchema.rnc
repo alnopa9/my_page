@@ -22,4 +22,4 @@ unitH = attribute unitH {"inches"}
 weight = attribute weight {xsd:integer?}
 unitW = attribute unitW {"pounds"}
 bYear = attribute bYear {xsd:integer?}
-country = attribute country {("can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"|"est"|"deu"|"lva"|"nld"|"dnk")?}
+country = attribute country {("can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"|"est"|"deu"|"lva"|"nld"|"dnk"|"fra")?}

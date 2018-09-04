@@ -26,6 +26,14 @@
                 <p team="blueJackets" type="player" name="jenner" num="38" pos="c" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1993" country="can"></p>
                 <p team="blueJackets" type="player" name="macinnis" num="" pos="c" shot="l" height="75" unitH="inches" weight="185" unitW="pounds" bYear="1996" country="usa"></p>
                 <p team="blueJackets" type="player" name="milano" num="22" pos="lw" shot="l" height="72" unitH="inches" weight="195" unitW="pounds" bYear="1996" country="usa"></p>
+                <p team="blueJackets" type="player" name="trash" num="20" pos="c" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1989" country="can"></p>
+                <p team="blueJackets" type="player" name="panarin" num="9" pos="lw" shot="r" height="71" unitH="inches" weight="168" unitW="pounds" bYear="1991" country="rus"></p>
+                <p team="blueJackets" type="player" name="robinson" num="50" pos="lw" shot="l" height="74" unitH="inches" weight="200" unitW="pounds" bYear="1995" country="usa"></p>
+                <p team="blueJackets" type="player" name="sedlak" num="45" pos="c" shot="l" height="72" unitH="inches" weight="200" unitW="pounds" bYear="1995" country="cze"></p>
+                <p team="blueJackets" type="player" name="sherwood" num="88" pos="rw" shot="r" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1997" country="usa"></p>
+                <p team="blueJackets" type="player" name="stenlund" num="69" pos="c" shot="r" height="76" unitH="inches" weight="210" unitW="pounds" bYear="1996" country="swe"></p>
+                <p team="blueJackets" type="player" name="texier" num="42" pos="c" shot="l" height="72" unitH="inches" weight="187" unitW="pounds" bYear="1999" country="fra"></p>
+                <p team="blueJackets" type="player" name="thurkauf" num="83" pos="c" shot="l" height="74" unitH="inches" weight="212" unitW="pounds" bYear="1997" country="che"></p>
             </forwards>
             <defense>
                 <p team="" type="" name="" num="" pos="" shot="" height="" unitH="" weight="" unitW="" bYear="" country=""></p>
