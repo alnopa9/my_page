@@ -3,274 +3,274 @@
     
     <season year="18/19">
     
-        <pittsburghPenguins>
-        
-<game day="tues" month="sept" date="18" year="2018" against="sbares" place="a" time="1900" season="pre">
-September 18th, 2018    Buffalo Sabres          Away    7:00 pm     Preseason
-</game>
-<game day="wed" month="sept" date="19" year="2018" against="redWings" place="a" time="1930" season="pre">
-September 19th, 2018    Detroit Red Wings       Away    7:30 pm     Preseason
-</game>
-<game day="sat" month="sept" date="22" year="2018" against="blueJackets" place="h" time="1500" season="pre">
-September 22nd, 2018    Columbus Blue Jackets   Home    3:00 pm     Preseason
-</game>
-<game day="" month="sept" date="23" year="2018" against="redWings" place="h" time="1500" season="pre">
-September 23rd, 2018    Detroit Red Wings       Home    3:00 pm     Preseason
-</game>
-<game day="" month="sept" date="26" year="2018" against="sabres" place="h" time="1900" season="pre">
-September 26th, 2018    Buffalo Sabres          Home    7:00 pm     Preseason
-</game>
-<game day="" month="sept" date="28" year="2018" against="blueJackets" place="a" time="1900" season="pre">
-September 28th, 2018    Columbus Blue Jackets   Away    7:00 pm     Preseason
-</game>
-<game day="" month="sept" date="4" year="2018" against="capitals" place="h" time="1900" season="reg">
-October 4th, 2018       Washington Capitals     Home    7:00 pm     Regular Season
-</game>
-<game day="" month="sept" date="" year="2018" against="" place="" time="" season="reg">
-October 6th, 2018       Montreal Canadiens      Home    7:00 pm     Regular Season
-</game>
-<game day="" month="sept" date="" year="2018" against="" place="" time="" season="reg">
-October 11th, 2018      Vegas GOlden Knights    Home    7:00 pm     Regular Season
-</game>
-<game day="" month="oct" date="" year="2018" against="" place="" time="" season="reg">
-October 13th, 2018      Montreal Canadiens      Away    7:00 pm     Regular Season
-</game>
-<game day="" month="oct" date="" year="2018" against="" place="" time="" season="reg">
-October 16th, 2018      Vancouver Canucks       Home    7:00 pm     Regular Season
-</game>
-<game day="" month="oct" date="" year="2018" against="" place="" time="" season="reg">
-October 18th, 2018      Toronto Maple Leafs     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="oct" date="" year="2018" against="" place="" time="" season="reg">
-October 23rd, 2018      Edmonton Oilers         Away    9:00 pm     Regular Season
-</game>
-<game day="" month="oct" date="" year="2018" against="" place="" time="" season="reg">
-October 25rd, 2018      Calgary Flames          Away    9:00 pm     Regular Season
-</game>
-<game day="" month="oct" date="" year="2018" against="" place="" time="" season="reg">
-October 27th, 2018      Vancouver Canucks       Away    10:00 pm    Regular Season
-</game>
-<game day="" month="oct" date="" year="2018" against="" place="" time="" season="reg">
-October 30th, 2018      New York Islanders      Home    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 1st, 2018      New York Islanders      Away    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 3rd, 2018      Toronto Maple Leafs     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 5th, 2018      New Jersey Devils       Home    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 7th, 2018      Washington Capitals     Away    7:30 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 10th, 2018     Arizona Coyotes         Home    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 13th, 2018     New Jersey Devils       Away    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 15th, 2018     Tampa Bay Lightning     Home    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 17th, 2018     Ottowa Senators         Away    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 19th, 2018     Buffalo Sabres          Home    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 21st, 2018     Dallas Stars            Home    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 23rd, 2018     Boston Bruins           Away    7:30 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 24th, 2018     Columbus Blue Jackets   Home    7:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 27th, 2018     Winnipeg Jets           Away    8:00 pm     Regular Season
-</game>
-<game day="" month="nov" date="" year="2018" against="" place="" time="" season="reg">
-November 28th, 2018     Colorado Avalanche      Away    9:30 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 1st, 2018      Philadelphia Flyers     Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 4th, 2018      Colorado Avalanche      Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 6th, 2018      New York Islanders      Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 8th, 2018      Ottowa Senators         Away    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 10th, 2018     New York Islanders      Away    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 12th, 2018     Chicago Blackhwaks      Away    8:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 14th, 2018     Boston Bruins           Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 15th, 2018     Los Angeles Kings       Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 17th, 2018     Anaheim Ducks           Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 19th, 2018     Washington Capitals     Away    8:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 20th, 2018     Minnesota Wild          Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 22nd, 2018     Carolina Hurricanes     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 27th, 2018     Detroit Red Wings       Home    7:00 pm     Regular Season
-</game>
-<game day="" month="dec" date="" year="2018" against="" place="" time="" season="reg">
-December 29th, 2018     St. Louis Blues         Home    8:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2018" against="" place="" time="" season="reg">
-December 31st, 2018     Minnesota Wild          Away    6:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 2nd, 2018       New York Rangers        Away    7:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 4th, 2018       Winnipeg Jets           Home    7:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 6th, 2018       Chicago Blackhawks      Home    8:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 8th, 2018       Florida Panthers        Home    7:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 11th, 2108      Anaheim Ducks           Away    10:00 pm    Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 12th, 2018      Los Angeles Kings       Away    10:30 pm    Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 15th, 2018      San Jose Sharks         Away    10:00 pm    Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 18th, 2018      Arizona Coyotes         Away    9:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 19th, 2018      Vegas Golden Knights    Away    10:00pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 28th, 2108      New Jersey Devils       Home    7:00 pm     Regular Season
-</game>
-<game day="" month="jan" date="" year="2019" against="" place="" time="" season="reg">
-January 30th, 2018      Tampa Bay Lightning     Home    8:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 1st, 2018      Ottowa Senators         Home    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 2nd, 2018      Toronto Maple Leafs     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 5th, 2018      Carolina Hurricanes     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 7th, 2018      Florida Panthers        Away    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 9th, 2018      Tampa Bay Lightning     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 11th, 2018     Philadelphia Flyers     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 13th, 2018     Edmonton Oilers         Home    8:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 16th, 2018     Calgary Flames          Home    1:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 17th, 2108     New York Islanders      Home    12:30 pm    Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 19th, 2018     New Jersey Devils       Away    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 21st, 2018     San Jose Sharks         Home    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 23rd, 2018     Philadelphia Flyers     Home    7:00 pm     Regular Season
-</game>
-<game day="" month="feb" date="" year="2019" against="" place="" time="" season="reg">
-February 26th, 2018     Columbus Blue Jackets   Away    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 1st, 2018         Buffalo Sabres          Away    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 2nd, 2018         Montreal Canadiens      Away    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 5th, 2018         Florida Panthers        Home    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 7th, 2018         Columbus Blue Jackets   Home    7:00 pm     Regular Season              
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 9th, 2018         Comubus Blue Jackets    Away    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 10th, 2019        Boston Bruins           Home    7:30 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">            
-March 12th, 2019        Wasington Capitals      Home    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 14th, 2019        Buffalo Sabres          Away    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 16th, 2019        St. Louis Blues         Home    1:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 17th, 2019        Philadelphia Flyers     Home    7:30 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 19th, 2019        Carolina Hurricanes     Away    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 21st, 2019        Nashville Predators     Away    8:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 23rd, 2019        Dallas Stars            Away    8:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 25th, 2019        New York Rangers        Away    7:00 pm     Regular Season
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 29th, 2019        Nashville Predators     Home    7:00 pm     Regular Seasons
-</game>
-<game day="" month="mar" date="" year="2019" against="" place="" time="" season="reg">
-March 31st, 2019        Carolina Hurricanes     Home    5:00 pm     Regular Season
-</game>
-<game day="" month="apr" date="" year="2019" against="" place="" time="" season="reg">
-April 2nd, 2019         Detroit Red WIngs       Away    7:30 pm     Regular Season
-</game>
-<game day="" month="apr" date="" year="2019" against="" place="" time="" season="reg">
-April 4th, 2019         Detroit Red Wings       Home    7:00 pm     Regular Season
-</game>
-<game day="" month="apr" date="" year="2019" against="" place="" time="" season="reg">
-April 6th, 2019         New York Rangers        Home    7:00 pm     Regular Season
-</game>            
+        <team organization="penguins">
 
-        </pittsburghPenguins>
+            <game day="tues" month="sept" date="18" year="2018" against="sbares" place="a" time="1900" season="pre">
+                September 18th, 2018    Buffalo Sabres          Away    7:00 pm     Preseason
+            </game>
+            <game day="wed" month="sept" date="19" year="2018" against="redWings" place="a" time="1930" season="pre">
+                September 19th, 2018    Detroit Red Wings       Away    7:30 pm     Preseason
+            </game>
+            <game day="sat" month="sept" date="22" year="2018" against="blueJackets" place="h" time="1500" season="pre">
+                September 22nd, 2018    Columbus Blue Jackets   Home    3:00 pm     Preseason
+            </game>
+            <game day="sun" month="sept" date="23" year="2018" against="redWings" place="h" time="1500" season="pre">
+                September 23rd, 2018    Detroit Red Wings       Home    3:00 pm     Preseason
+            </game>
+            <game day="wed" month="sept" date="26" year="2018" against="sabres" place="h" time="1900" season="pre">
+                September 26th, 2018    Buffalo Sabres          Home    7:00 pm     Preseason
+            </game>
+            <game day="fri" month="sept" date="28" year="2018" against="blueJackets" place="a" time="1900" season="pre">
+                September 28th, 2018    Columbus Blue Jackets   Away    7:00 pm     Preseason
+            </game>
+            <game day="thur" month="oct" date="4" year="2018" against="capitals" place="h" time="1900" season="reg">
+                October 4th, 2018       Washington Capitals     Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="oct" date="6" year="2018" against="canadiens" place="h" time="1900" season="reg">
+                October 6th, 2018       Montreal Canadiens      Home    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="oct" date="11" year="2018" against="goldenKnights" place="h" time="1900" season="reg">
+                October 11th, 2018      Vegas GOlden Knights    Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="oct" date="13" year="2018" against="canadiens" place="a" time="1900" season="reg">
+                October 13th, 2018      Montreal Canadiens      Away    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="oct" date="16" year="2018" against="canucks" place="h" time="1900" season="reg">
+                October 16th, 2018      Vancouver Canucks       Home    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="oct" date="18" year="2018" against="mapleLeafs" place="a" time="1900" season="reg">
+                October 18th, 2018      Toronto Maple Leafs     Away    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="oct" date="23" year="2018" against="oilers" place="a" time="2100" season="reg">
+                October 23rd, 2018      Edmonton Oilers         Away    9:00 pm     Regular Season
+            </game>
+            <game day="thur" month="oct" date="25" year="2018" against="flames" place="a" time="2100" season="reg">
+                October 25rd, 2018      Calgary Flames          Away    9:00 pm     Regular Season
+            </game>
+            <game day="sat" month="oct" date="27" year="2018" against="canucks" place="a" time="2200" season="reg">
+                October 27th, 2018      Vancouver Canucks       Away    10:00 pm    Regular Season
+            </game>
+            <game day="tues" month="oct" date="30" year="2018" against="islanders" place="h" time="1900" season="reg">
+                October 30th, 2018      New York Islanders      Home    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="nov" date="1" year="2018" against="islanders" place="a" time="1900" season="reg">
+                November 1st, 2018      New York Islanders      Away    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="nov" date="3" year="2018" against="mapleLeafs" place="a" time="1900" season="reg">
+                November 3rd, 2018      Toronto Maple Leafs     Away    7:00 pm     Regular Season
+            </game>
+            <game day="mon" month="nov" date="5" year="2018" against="devils" place="h" time="1900" season="reg">
+                November 5th, 2018      New Jersey Devils       Home    7:00 pm     Regular Season
+            </game>
+            <game day="wed" month="nov" date="7" year="2018" against="capitals" place="a" time="1930" season="reg">
+                November 7th, 2018      Washington Capitals     Away    7:30 pm     Regular Season
+            </game>
+            <game day="sat" month="nov" date="10" year="2018" against="coyotes" place="h" time="1900" season="reg">
+                November 10th, 2018     Arizona Coyotes         Home    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="nov" date="13" year="2018" against="devils" place="a" time="1900" season="reg">
+                November 13th, 2018     New Jersey Devils       Away    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="nov" date="15" year="2018" against="lightning" place="h" time="1900" season="reg">
+                November 15th, 2018     Tampa Bay Lightning     Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="nov" date="17" year="2018" against="senators" place="a" time="1900" season="reg">
+                November 17th, 2018     Ottowa Senators         Away    7:00 pm     Regular Season
+            </game>
+            <game day="mon" month="nov" date="19" year="2018" against="sabres" place="h" time="1900" season="reg">
+                November 19th, 2018     Buffalo Sabres          Home    7:00 pm     Regular Season
+            </game>
+            <game day="wed" month="nov" date="21" year="2018" against="stars" place="h" time="1900" season="reg">
+                November 21st, 2018     Dallas Stars            Home    7:00 pm     Regular Season
+            </game>
+            <game day="fri" month="nov" date="23" year="2018" against="bruins" place="a" time="1930" season="reg">
+                November 23rd, 2018     Boston Bruins           Away    7:30 pm     Regular Season
+            </game>
+            <game day="sat" month="nov" date="24" year="2018" against="blueJackets" place="h" time="1900" season="reg">
+                November 24th, 2018     Columbus Blue Jackets   Home    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="nov" date="27" year="2018" against="jets" place="a" time="2000" season="reg">
+                November 27th, 2018     Winnipeg Jets           Away    8:00 pm     Regular Season
+            </game>
+            <game day="wed" month="nov" date="28" year="2018" against="avalanche" place="a" time="2130" season="reg">
+                November 28th, 2018     Colorado Avalanche      Away    9:30 pm     Regular Season
+            </game>
+            <game day="sat" month="dec" date="1" year="2018" against="flyers" place="h" time="1900" season="reg">
+                December 1st, 2018      Philadelphia Flyers     Home    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="dec" date="4" year="2018" against="avalanche" place="h" time="1900" season="reg">
+                December 4th, 2018      Colorado Avalanche      Home    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="dec" date="6" year="2018" against="islanders" place="h" time="1900" season="reg">
+                December 6th, 2018      New York Islanders      Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="dec" date="8" year="2018" against="senators" place="a" time="1900" season="reg">
+                December 8th, 2018      Ottowa Senators         Away    7:00 pm     Regular Season
+            </game>
+            <game day="mon" month="dec" date="10" year="2018" against="islanders" place="a" time="1900" season="reg">
+                December 10th, 2018     New York Islanders      Away    7:00 pm     Regular Season
+            </game>
+            <game day="wed" month="dec" date="12" year="2018" against="blackhawks" place="a" time="2000" season="reg">
+                December 12th, 2018     Chicago Blackhwaks      Away    8:00 pm     Regular Season
+            </game>
+            <game day="fri" month="dec" date="14" year="2018" against="bruins" place="h" time="1900" season="reg">
+                December 14th, 2018     Boston Bruins           Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="dec" date="15" year="2018" against="kings" place="h" time="1900" season="reg">
+                December 15th, 2018     Los Angeles Kings       Home    7:00 pm     Regular Season
+            </game>
+            <game day="mon" month="dec" date="17" year="2018" against="ducks" place="h" time="1900" season="reg">
+                December 17th, 2018     Anaheim Ducks           Home    7:00 pm     Regular Season
+            </game>
+            <game day="wed" month="dec" date="19" year="2018" against="capitals" place="a" time="2000" season="reg">
+                December 19th, 2018     Washington Capitals     Away    8:00 pm     Regular Season
+            </game>
+            <game day="thur" month="dec" date="20" year="2018" against="wild" place="h" time="1900" season="reg">
+                December 20th, 2018     Minnesota Wild          Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="dec" date="22" year="2018" against="hurricanes" place="a" time="1900" season="reg">
+                December 22nd, 2018     Carolina Hurricanes     Away    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="dec" date="27" year="2018" against="redWings" place="h" time="1900" season="reg">
+                December 27th, 2018     Detroit Red Wings       Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="dec" date="29" year="2018" against="blues" place="h" time="2000" season="reg">
+                December 29th, 2018     St. Louis Blues         Home    8:00 pm     Regular Season
+            </game>
+            <game day="mon" month="dec" date="31" year="2018" against="wild" place="a" time="1800" season="reg">
+                December 31st, 2018     Minnesota Wild          Away    6:00 pm     Regular Season
+            </game>
+            <game day="wed" month="jan" date="2" year="2019" against="rangers" place="a" time="1900" season="reg">
+                January 2nd, 2019       New York Rangers        Away    7:00 pm     Regular Season
+            </game>
+            <game day="fri" month="jan" date="4" year="2019" against="jets" place="h" time="1900" season="reg">
+                January 4th, 2019       Winnipeg Jets           Home    7:00 pm     Regular Season
+            </game>
+            <game day="sun" month="jan" date="6" year="2019" against="blackhawks" place="h" time="2000" season="reg">
+                January 6th, 2019       Chicago Blackhawks      Home    8:00 pm     Regular Season
+            </game>
+            <game day="tues" month="jan" date="8" year="2019" against="panthers" place="h" time="1900" season="reg">
+                January 8th, 2019       Florida Panthers        Home    7:00 pm     Regular Season
+            </game>
+            <game day="fri" month="jan" date="11" year="2019" against="ducks" place="a" time="2200" season="reg">
+                January 11th, 2019      Anaheim Ducks           Away    10:00 pm    Regular Season
+            </game>
+            <game day="sat" month="jan" date="12" year="2019" against="kings" place="a" time="2230" season="reg">
+                January 12th, 2019      Los Angeles Kings       Away    10:30 pm    Regular Season
+            </game>
+            <game day="tues" month="jan" date="15" year="2019" against="sharks" place="a" time="2200" season="reg">
+                January 15th, 2019      San Jose Sharks         Away    10:00 pm    Regular Season
+            </game>
+            <game day="fri" month="jan" date="18" year="2019" against="coyotes" place="a" time="2100" season="reg">
+                January 18th, 2019      Arizona Coyotes         Away    9:00 pm     Regular Season
+            </game>
+            <game day="sat" month="jan" date="19" year="2019" against="goldenKnights" place="a" time="2200" season="reg">
+                January 19th, 2019      Vegas Golden Knights    Away    10:00pm     Regular Season
+            </game>
+            <game day="mon" month="jan" date="28" year="2019" against="devils" place="h" time="1900" season="reg">
+                January 28th, 2019      New Jersey Devils       Home    7:00 pm     Regular Season
+            </game>
+            <game day="wed" month="jan" date="30" year="2019" against="lightning" place="h" time="2000" season="reg">
+                January 30th, 2019      Tampa Bay Lightning     Home    8:00 pm     Regular Season
+            </game>
+            <game day="fri" month="feb" date="1" year="2019" against="senators" place="h" time="1900" season="reg">
+                February 1st, 2019      Ottowa Senators         Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="feb" date="2" year="2019" against="mapleLeafs" place="a" time="1900" season="reg">
+                February 2nd, 2019      Toronto Maple Leafs     Away    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="feb" date="5" year="2019" against="hurricanes" place="a" time="1900" season="reg">
+                February 5th, 2019      Carolina Hurricanes     Away    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="feb" date="7" year="2019" against="panthers" place="a" time="1900" season="reg">
+                February 7th, 2019      Florida Panthers        Away    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="feb" date="9" year="2019" against="lightning" place="a" time="1900" season="reg">
+                February 9th, 2019      Tampa Bay Lightning     Away    7:00 pm     Regular Season
+            </game>
+            <game day="mon" month="feb" date="11" year="2019" against="flyers" place="a" time="1900" season="reg">
+                February 11th, 2019     Philadelphia Flyers     Away    7:00 pm     Regular Season
+            </game>
+            <game day="wed" month="feb" date="13" year="2019" against="oilers" place="h" time="2000" season="reg">
+                February 13th, 2019     Edmonton Oilers         Home    8:00 pm     Regular Season
+            </game>
+            <game day="sat" month="feb" date="16" year="2019" against="flames" place="h" time="1300" season="reg">
+                February 16th, 2019     Calgary Flames          Home    1:00 pm     Regular Season
+            </game>
+            <game day="sun" month="feb" date="17" year="2019" against="islanders" place="h" time="1230" season="reg">
+                February 17th, 2019     New York Islanders      Home    12:30 pm    Regular Season
+            </game>
+            <game day="tues" month="feb" date="19" year="2019" against="devils" place="a" time="1900" season="reg">
+                February 19th, 2019     New Jersey Devils       Away    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="feb" date="21" year="2019" against="sharks" place="h" time="1900" season="reg">
+                February 21st, 2019     San Jose Sharks         Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="feb" date="23" year="2019" against="flyers" place="h" time="1900" season="reg">
+                February 23rd, 2019     Philadelphia Flyers     Home    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="feb" date="26" year="2019" against="blueJackets" place="a" time="1900" season="reg">
+                February 26th, 2019     Columbus Blue Jackets   Away    7:00 pm     Regular Season
+            </game>
+            <game day="fri" month="mar" date="1" year="2019" against="sabres" place="a" time="1900" season="reg">
+                March 1st, 2019         Buffalo Sabres          Away    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="mar" date="2" year="2019" against="canadiens" place="a" time="1900" season="reg">
+                March 2nd, 2019         Montreal Canadiens      Away    7:00 pm     Regular Season
+            </game>
+            <game day="tues" month="mar" date="5" year="2019" against="panthers" place="h" time="1900" season="reg">
+                March 5th, 2019         Florida Panthers        Home    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="mar" date="7" year="2019" against="blueJackets" place="h" time="1900" season="reg">
+                March 7th, 2019         Columbus Blue Jackets   Home    7:00 pm     Regular Season              
+            </game>
+            <game day="sat" month="mar" date="9" year="2019" against="blueJackets" place="a" time="1900" season="reg">
+                March 9th, 2019         Comubus Blue Jackets    Away    7:00 pm     Regular Season
+            </game>
+            <game day="sun" month="mar" date="10" year="2019" against="bruins" place="h" time="1930" season="reg">
+                March 10th, 2019        Boston Bruins           Home    7:30 pm     Regular Season
+            </game>
+            <game day="tues" month="mar" date="12" year="2019" against="capitals" place="h" time="1900" season="reg">
+                March 12th, 2019        Wasington Capitals      Home    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="mar" date="14" year="2019" against="sabres" place="a" time="1900" season="reg">
+                March 14th, 2019        Buffalo Sabres          Away    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="mar" date="16" year="2019" against="blues" place="h" time="1300" season="reg">
+                March 16th, 2019        St. Louis Blues         Home    1:00 pm     Regular Season
+            </game>
+            <game day="sun" month="mar" date="17" year="2019" against="flyers" place="h" time="1930" season="reg">
+                March 17th, 2019        Philadelphia Flyers     Home    7:30 pm     Regular Season
+            </game>
+            <game day="tues" month="mar" date="19" year="2019" against="hurricanes" place="a" time="1900" season="reg">
+                March 19th, 2019        Carolina Hurricanes     Away    7:00 pm     Regular Season
+            </game>
+            <game day="thur" month="mar" date="21" year="2019" against="predators" place="a" time="2000" season="reg">
+                March 21st, 2019        Nashville Predators     Away    8:00 pm     Regular Season
+            </game>
+            <game day="sat" month="mar" date="23" year="2019" against="stars" place="a" time="2000" season="reg">
+                March 23rd, 2019        Dallas Stars            Away    8:00 pm     Regular Season
+            </game>
+            <game day="mon" month="mar" date="25" year="2019" against="rangers" place="a" time="1900" season="reg">
+                March 25th, 2019        New York Rangers        Away    7:00 pm     Regular Season
+            </game>
+            <game day="fri" month="mar" date="29" year="2019" against="predators" place="h" time="1900" season="reg">
+                March 29th, 2019        Nashville Predators     Home    7:00 pm     Regular Seasons
+            </game>
+            <game day="sun" month="mar" date="31" year="2019" against="hurricanes" place="h" time="1700" season="reg">
+                March 31st, 2019        Carolina Hurricanes     Home    5:00 pm     Regular Season
+            </game>
+            <game day="tues" month="apr" date="2" year="2019" against="redWings" place="a" time="1930" season="reg">
+                April 2nd, 2019         Detroit Red Wings       Away    7:30 pm     Regular Season
+            </game>
+            <game day="thur" month="apr" date="4" year="2019" against="redWings" place="h" time="1900" season="reg">
+                April 4th, 2019         Detroit Red Wings       Home    7:00 pm     Regular Season
+            </game>
+            <game day="sat" month="apr" date="6" year="2019" against="rangers" place="h" time="1900" season="reg">
+                April 6th, 2019         New York Rangers        Home    7:00 pm     Regular Season
+            </game>            
+
+        </team>
     
     </season>
 
