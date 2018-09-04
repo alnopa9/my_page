@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="argentoScheduleSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <schedule>
-    
-    <season year="18/19">
     
         <team organization="penguins">
 
-            <game day="tues" month="sept" date="18" year="2018" against="sbares" place="a" time="1900" season="pre">
+            <game day="tues" month="sept" date="18" year="2018" against="sabres" place="a" time="1900" season="pre">
                 September 18th, 2018    Buffalo Sabres          Away    7:00 pm     Preseason
             </game>
             <game day="wed" month="sept" date="19" year="2018" against="redWings" place="a" time="1930" season="pre">
@@ -271,7 +270,5 @@
             </game>            
 
         </team>
-    
-    </season>
 
 </schedule>

@@ -2,14 +2,14 @@ start = schedule
 schedule = element schedule {team}
 team = element team {organization, game+}
 organization = attribute organization {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
-                                       "jets"|"kings"|"lightning"|"leafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"senators"|"sharks"|"stars"|"wild"}
-game = element game {day, month, date, year, against, place, time, season}
+                                       "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
+game = element game {day, month, date, year, against, place, time, season, text*}
 day = attribute day {"mon"|"tues"|"wed"|"thur"|"fri"|"sat"|"sun"}
-month = attribute month {"sep"|"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"|"may"}
+month = attribute month {"sept"|"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"|"may"}
 date = attribute date {xsd:integer}
 year = attribute year {"2018"|"2019"}
 against = attribute against {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
-                             "jets"|"kings"|"lightning"|"leafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"senators"|"sharks"|"stars"|"wild"}
+                             "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
 place = attribute place {"a"|"h"}
-time = attribute {xsd:integer}
+time = attribute time {xsd:integer}
 season = attribute season {"pre"|"reg"|"post"}
