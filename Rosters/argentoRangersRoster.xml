@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-    
+
     <organization team="rangers">
 
         <players type="player" unitH="inches" unitW="pounds">
 
             <forwards>
-                <p  name="beleskey" num="39" pos="lw" shot="l" height="72"  weight="203"  bYear="1988" country="can"></p>
-                <p  name="buchnevich" num="89" pos="rw" shot="l" height="74"  weight="191"  bYear="1995" country="rus"></p>
-                <p  name="fast" num="17" pos="rw" shot="r" height="72"  weight="191"  bYear="1991" country="swe"></p>
-                <p  name="gettinger" num="97" pos="lw" shot="l" height="78"  weight="221"  bYear="1998" country="usa"></p>
-                <p  name="hayes" num="13" pos="c" shot="l" height="77"  weight="217"  bYear="1992" country="usa"></p>
-                <p  name="holland" num="12" pos="c" shot="l" height="74"  weight="205"  bYear="1991" country="can"></p>
-                <p  name="howden" num="" pos="c" shot="l" height="74"  weight="193"  bYear="1998" country="can"></p>
-                <p  name="kreider" num="20" pos="lw" shot="l" height="75"  weight="224"  bYear="1991" country="usa"></p>
-                <p  name="leedahl" num="92" pos="lw" shot="l" height="73"  weight="197"  bYear="1996" country="can"></p>
-                <p  name="lindqvist" num="" pos="c" shot="r" height="71"  weight="172"  bYear="1994" country="swe"></p>
-                <p  name="mcleod" num="8" pos="lw" shot="l" height="74"  weight="210"  bYear="1984" country="can"></p>
-                <p  name="meskanen" num="" pos="c" shot="r" height="73"  weight="181"  bYear="1995" country="fin"></p>
-                <p  name="namestnikov" num="90" pos="c" shot="l" height="71"  weight="180"  bYear="1992" country="rus"></p>
-                <p  name="nieves" num="24" pos="c" shot="l" height="75"  weight="212"  bYear="1992" country="rus"></p>
-                <p  name="ronning" num="59" pos="rw" shot="r" height="69"  weight="172"  bYear="1997" country="can"></p>
-                <p  name="schneider" num="29" pos="lw" shot="l" height="73"  weight="203"  bYear="1990" country="usa"></p>
-                <p  name="spooner" num="23" pos="c" shot="l" height="70"  weight="187"  bYear="1992" country="can"></p>
-                <p  name="vesey" num="26" pos="lw" shot="l" height="75"  weight="206"  bYear="1993" country="usa"></p>
-                <p  name="zibanejad" num="93" pos="c" shot="r" height="74"  weight="227"  bYear="1993" country="swe"></p>
-                <p  cap="assis" name="zuccarello" num="36" pos="rw" shot="l" height="68"  weight="179"  bYear="1987" country="nor"></p>
+                <p name="beleskey" num="39" pos="lw" shot="l" height="72" weight="203" bYear="1988" country="can"/>
+                <p name="buchnevich" num="89" pos="rw" shot="l" height="74" weight="191" bYear="1995" country="rus"/>
+                <p name="fast" num="17" pos="rw" shot="r" height="72" weight="191" bYear="1991" country="swe"/>
+                <p name="gettinger" num="97" pos="lw" shot="l" height="78" weight="221" bYear="1998" country="usa"/>
+                <p name="hayes" num="13" pos="c" shot="l" height="77" weight="217" bYear="1992" country="usa"/>
+                <p name="holland" num="12" pos="c" shot="l" height="74" weight="205" bYear="1991" country="can"/>
+                <p name="howden" num="" pos="c" shot="l" height="74" weight="193" bYear="1998" country="can"/>
+                <p name="kreider" num="20" pos="lw" shot="l" height="75" weight="224" bYear="1991" country="usa"/>
+                <p name="leedahl" num="92" pos="lw" shot="l" height="73" weight="197" bYear="1996" country="can"/>
+                <p name="lindqvist" num="" pos="c" shot="r" height="71" weight="172" bYear="1994" country="swe"/>
+                <p name="mcleod" num="8" pos="lw" shot="l" height="74" weight="210" bYear="1984" country="can"/>
+                <p name="meskanen" num="" pos="c" shot="r" height="73" weight="181" bYear="1995" country="fin"/>
+                <p name="namestnikov" num="90" pos="c" shot="l" height="71" weight="180" bYear="1992" country="rus"/>
+                <p name="nieves" num="24" pos="c" shot="l" height="75" weight="212" bYear="1992" country="rus"/>
+                <p name="ronning" num="59" pos="rw" shot="r" height="69" weight="172" bYear="1997" country="can"/>
+                <p name="schneider" num="29" pos="lw" shot="l" height="73" weight="203" bYear="1990" country="usa"/>
+                <p name="spooner" num="23" pos="c" shot="l" height="70" weight="187" bYear="1992" country="can"/>
+                <p name="vesey" num="26" pos="lw" shot="l" height="75" weight="206" bYear="1993" country="usa"/>
+                <p name="zibanejad" num="93" pos="c" shot="r" height="74" weight="227" bYear="1993" country="swe"/>
+                <p cap="assis" name="zuccarello" num="36" pos="rw" shot="l" height="68" weight="179" bYear="1987" country="nor"/>
             </forwards>
 
             <defense pos="d">
-                <p  name="bigras" num=""  shot="l" height="73"  weight="190"  bYear="1995" country="can"></p>
-                <p  name="claesson" num=""  shot="l" height="73"  weight="200"  bYear="1992" country="swe"></p>
-                <p  name="day" num="85"  shot="l" height="74"  weight="228"  bYear="1998" country="bel"></p>
-                <p  name="deangelo" num="77"  shot="r" height="77"  weight="181"  bYear="1995" country="usa"></p>
-                <p  name="gilmour" num="58"  shot="l" height="72"  weight="195"  bYear="1993" country="can"></p>
-                <p  name="hajek" num=""  shot="l" height="74"  weight="202"  bYear="1998" country="cze"></p>
-                <p  name="kampfer" num="47"  shot="r" height="71"  weight="195"  bYear="1988" country="usa"></p>
-                <p  name="lindgren" num=""  shot="l" height="72"  weight="198"  bYear="1998" country="usa"></p>
-                <p  name="o'gara" num="46"  shot="l" height="76"  weight="215"  bYear="1993" country="usa"></p>
-                <p  name="pedrie" num="74"  shot="l" height="72"  weight="195"  bYear="1994" country="usa"></p>
-                <p  name="pionk" num="44"  shot="r" height="72"  weight="190"  bYear="1995" country="usa"></p>
-                <p  name="shattenkirk" num="22"  shot="r" height="72"  weight="200"  bYear="1989" country="usa"></p>
-                <p  name="skjei" num="76"  shot="l" height="75"  weight="211"  bYear="1994" country="usa"></p>
-                <p  cap="assis" name="staal" num="18"  shot="l" height="76"  weight="209"  bYear="1987" country="can"></p>
+                <p name="bigras" num="" shot="l" height="73" weight="190" bYear="1995" country="can"/>
+                <p name="claesson" num="" shot="l" height="73" weight="200" bYear="1992" country="swe"/>
+                <p name="day" num="85" shot="l" height="74" weight="228" bYear="1998" country="bel"/>
+                <p name="deangelo" num="77" shot="r" height="77" weight="181" bYear="1995" country="usa"/>
+                <p name="gilmour" num="58" shot="l" height="72" weight="195" bYear="1993" country="can"/>
+                <p name="hajek" num="" shot="l" height="74" weight="202" bYear="1998" country="cze"/>
+                <p name="kampfer" num="47" shot="r" height="71" weight="195" bYear="1988" country="usa"/>
+                <p name="lindgren" num="" shot="l" height="72" weight="198" bYear="1998" country="usa"/>
+                <p name="o'gara" num="46" shot="l" height="76" weight="215" bYear="1993" country="usa"/>
+                <p name="pedrie" num="74" shot="l" height="72" weight="195" bYear="1994" country="usa"/>
+                <p name="pionk" num="44" shot="r" height="72" weight="190" bYear="1995" country="usa"/>
+                <p name="shattenkirk" num="22" shot="r" height="72" weight="200" bYear="1989" country="usa"/>
+                <p name="skjei" num="76" shot="l" height="75" weight="211" bYear="1994" country="usa"/>
+                <p cap="assis" name="staal" num="18" shot="l" height="76" weight="209" bYear="1987" country="can"/>
             </defense>
 
             <goalies pos="g">
-                <p  name="georgiev" num="40"  height="73"  weight="180"  bYear="1996" country="bgr"></p>
-                <p  name="halverson" num="75"  height="76"  weight="209"  bYear="1996" country="usa"></p>
-                <p  name="lundqvist" num="30"  height="73"  weight="180"  bYear="1982" country="swe"></p>
-                <p  name="mazanec" num=""  height="76"  weight="187"  bYear="1991" country="cze"></p>
-                <p  name="tokarski" num="35"  height="72"  weight="204"  bYear="1989" country="can"></p>
+                <p name="georgiev" num="40" height="73" weight="180" bYear="1996" country="bgr"/>
+                <p name="halverson" num="75" height="76" weight="209" bYear="1996" country="usa"/>
+                <p name="lundqvist" num="30" height="73" weight="180" bYear="1982" country="swe"/>
+                <p name="mazanec" num="" height="76" weight="187" bYear="1991" country="cze"/>
+                <p name="tokarski" num="35" height="72" weight="204" bYear="1989" country="can"/>
             </goalies>
- 
+
         </players>
 
         <coaches type="coach">
-            <c  name="quinn" pos="head"></c>
-            <c  name="brown" pos="assistant"></c>
-            <c  name="oliver" pos="assistant"></c>
-            <c  name="ruff" pos="assistant"></c>
-            <c  name="allaire" pos="goaltending"></c>
-            <c  name="dineen" pos="video"></c>
+            <c name="quinn" pos="head"/>
+            <c name="brown" pos="assistant"/>
+            <c name="oliver" pos="assistant"/>
+            <c name="ruff" pos="assistant"/>
+            <c name="allaire" pos="goaltending"/>
+            <c name="dineen" pos="video"/>
         </coaches>
 
     </organization>

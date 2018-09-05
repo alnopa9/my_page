@@ -7,21 +7,21 @@
         <players unitH="inches" unitW="pounds" type="player">
 
             <forwards>
-                <p name="aube-kubel" num="62" pos="rw" shot="r" height="71" weight="187" bYear="1996" country="can"></p>
-                <p name="bardreau" num="51" pos="c" shot="r" height="70" weight="185" bYear="1993" country="usa"></p>
-                <p name="bunnaman" num="" pos="c" shot="l" height="73" weight="207" bYear="1998" country="can"></p>
-                <p name="carey" num="54" pos="c" shot="l" height="72" weight="195" bYear="1990" country="can"></p>
-                <p name="coutourier" num="14" pos="c" shot="l" height="75" weight="211" bYear="1992" country="usa"></p>
-                <p name="fazleev" num="" pos="c" shot="l" height="73" weight="176" bYear="1996" country="rus"></p>
-                <p name="frost" num="" pos="c" shot="l" height="71" weight="170" bYear="1999" country="can"></p>
+                <p name="aube-kubel" num="62" pos="rw" shot="r" height="71" weight="187" bYear="1996" country="can"/>
+                <p name="bardreau" num="51" pos="c" shot="r" height="70" weight="185" bYear="1993" country="usa"/>
+                <p name="bunnaman" num="" pos="c" shot="l" height="73" weight="207" bYear="1998" country="can"/>
+                <p name="carey" num="54" pos="c" shot="l" height="72" weight="195" bYear="1990" country="can"/>
+                <p name="coutourier" num="14" pos="c" shot="l" height="75" weight="211" bYear="1992" country="usa"/>
+                <p name="fazleev" num="" pos="c" shot="l" height="73" weight="176" bYear="1996" country="rus"/>
+                <p name="frost" num="" pos="c" shot="l" height="71" weight="170" bYear="1999" country="can"/>
             </forwards>
 
             <defense pos="d">
-                <p name="" num="" height="" weight="" bYear="" country=""></p>
+                <p name="" num="" height="" weight="" bYear="" country=""/>
             </defense>
 
             <goalies pos="g">
-                <p name="" num="" height="" weight="" bYear="" country=""></p>
+                <p name="" num="" height="" weight="" bYear="" country=""/>
             </goalies>
 
         </players>
