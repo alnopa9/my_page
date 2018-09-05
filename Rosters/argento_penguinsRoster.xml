@@ -10,7 +10,7 @@
                 <p team="penguins" type="player" name="astonReese" num="46" pos="c" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1994" country="usa"></p>
                 <p team="penguins" type="player" name="blueger" num="53" pos="c" shot="l" height="72" unitH="inches" weight="185" unitW="pounds" bYear="1994" country="lva"></p>
                 <p team="penguins" type="player" name="brassard" num="19" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="can"></p>
-                <p team="penguins" type="player" name="crosby" num="87" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1987" country="can"></p>
+                <p team="penguins" type="player" cap="capt" name="crosby" num="87" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1987" country="can"></p>
                 <p team="penguins" type="player" name="cullen" num="7" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1976" country="usa"></p>
                 <p team="penguins" type="player" name="dea" num="39" pos="c" shot="r" height="71" unitH="inches" weight="175" unitW="pounds" bYear="1994" country="can"></p>
                 <p team="penguins" type="player" name="pauli" num="54" pos="c" shot="l" height="71" unitH="inches" weight="188" unitW="pounds" bYear="1994" country="usa"></p>
@@ -22,7 +22,7 @@
                 <p team="penguins" type="player" name="johnson" num="47" pos="c" shot="l" height="72" unitH="inches" weight="174" unitW="pounds" bYear="1994" country="usa"></p>
                 <p team="penguins" type="player" name="kessel" num="81" pos="rw" shot="r" height="72" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="usa"></p>
                 <p team="penguins" type="player" name="lindberg" num="25" pos="rw" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1995" country="swe"></p>
-                <p team="penguins" type="player" name="malkin" num="71" pos="c" shot="l" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1986" country="rus"></p>
+                <p team="penguins" type="player" cap="assis" name="malkin" num="71" pos="c" shot="l" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1986" country="rus"></p>
                 <p team="penguins" type="player" name="rust" num="17" pos="rw" shot="r" height="71" unitH="inches" weight="192" unitW="pounds" bYear="1992" country="usa"></p>
                 <p team="penguins" type="player" name="sheahan" num="15" pos="c" shot="l" height="75" unitH="inches" weight="214" unitW="pounds" bYear="1991" country="can"></p>
                 <p team="penguins" type="player" name="simon" num="12" pos="c" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1994" country="cze"></p>
@@ -34,7 +34,7 @@
                 <p team="penguins" type="player" name="dumoulin" num="8" pos="d" shot="l" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1991" country="usa"></p>
                 <p team="penguins" type="player" name="elliott" num="24" pos="d" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="can"></p>
                 <p team="penguins" type="player" name="johnson" num="73" pos="d" shot="l" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1987" country="usa"></p>
-                <p team="penguins" type="player" name="letang" num="58" pos="d" shot="r" height="72" unitH="inches" weight="201" unitW="pounds" bYear="1987" country="can"></p>
+                <p team="penguins" type="player" cap="assis" name="letang" num="58" pos="d" shot="r" height="72" unitH="inches" weight="201" unitW="pounds" bYear="1987" country="can"></p>
                 <p team="penguins" type="player" name="maatta" num="3" pos="d" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1994" country="fin"></p>
                 <p team="penguins" type="player" name="oleksiak" num="6" pos="d" shot="l" height="79" unitH="inches" weight="255" unitW="pounds" bYear="1992" country="can"></p>
                 <p team="penguins" type="player" name="riikola" num="50" pos="d" shot="" height="" unitH="inches" weight="" unitW="pounds" bYear="1993" country=""></p>

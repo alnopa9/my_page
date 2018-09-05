@@ -10,7 +10,7 @@
                 <p team="devils" type="player" name="anderson" num="49" pos="rw" shot="r" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1998" country="usa"></p>
                 <p team="devils" type="player" name="baddock" num="52" pos="lw" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1995" country="can"></p>
                 <p team="devils" type="player" name="bastian" num="" pos="rw" shot="r" height="76" unitH="inches" weight="205" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="devils" type="player" name="boyle" num="11" pos="c" shot="l" height="78" unitH="inches" weight="245" unitW="pounds" bYear="1984" country="usa"></p>
+                <p team="devils" type="player" cap="assis" name="boyle" num="11" pos="c" shot="l" height="78" unitH="inches" weight="245" unitW="pounds" bYear="1984" country="usa"></p>
                 <p team="devils" type="player" name="bratt" num="63" pos="lw" shot="l" height="70" unitH="inches" weight="175" unitW="pounds" bYear="1998" country="swe"></p>
                 <p team="devils" type="player" name="coleman" num="20" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1991" country="usa"></p>
                 <p team="devils" type="player" name="gabriel" num="" pos="rw" shot="r" height="76" unitH="inches" weight="200" unitW="pounds" bYear="1993" country="can"></p>
@@ -19,7 +19,7 @@
                 <p team="devils" type="player" name="hischier" num="13" pos="c" shot="l" height="73" unitH="inches" weight="175" unitW="pounds" bYear="199" country="che"></p>
                 <p team="devils" type="player" name="johansson" num="90" pos="lw" shot="l" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1990" country="swe"></p>
                 <p team="devils" type="player" name="noesen" num="23" pos="rw" shot="r" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1993" country="usa"></p>
-                <p team="devils" type="player" name="palmieri" num="21" pos="rw" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1991" country="usa"></p>
+                <p team="devils" type="player" cap="assis" name="palmieri" num="21" pos="rw" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1991" country="usa"></p>
                 <p team="devils" type="player" name="seney" num="" pos="lw" shot="l" height="69" unitH="inches" weight="156" unitW="pounds" bYear="1996" country="can"></p>
                 <p team="devils" type="player" name="sharangvich" num="" pos="c" shot="l" height="74" unitH="inches" weight="196" unitW="pounds" bYear="1998" country="blr"></p>
                 <p team="devils" type="player" name="speers" num="74" pos="c" shot="r" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1997" country="can"></p>
@@ -27,12 +27,12 @@
                 <p team="devils" type="player" name="tangradi" num="49" pos="lw" shot="l" height="76" unitH="inches" weight="226" unitW="pounds" bYear="1989" country="can"></p>
                 <p team="devils" type="player" name="wood" num="44" pos="lw" shot="l" height="74" unitH="inches" weight="195" unitW="pounds" bYear="1995" country="usa"></p>
                 <p team="devils" type="player" name="zacha" num="37" pos="c" shot="l" height="75" unitH="inches" weight="210" unitW="pounds" bYear="1997" country="cze"></p>
-                <p team="devils" type="player" name="zajac" num="19" pos="c" shot="r" height="74" unitH="inches" weight="185" unitW="pounds" bYear="1985" country="can"></p>
+                <p team="devils" type="player" cap= "assis" name="zajac" num="19" pos="c" shot="r" height="74" unitH="inches" weight="185" unitW="pounds" bYear="1985" country="can"></p>
             </forwards>
             
             <defense>
                 <p team="devils" type="player" name="butcher" num="8" pos="d" shot="l" height="70" unitH="inches" weight="190" unitW="pounds" bYear="1995" country="usa"></p>
-                <p team="devils" type="player" name="greene" num="6" pos="d" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1982" country="usa"></p>
+                <p team="devils" type="player" cap="capt" name="greene" num="6" pos="d" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1982" country="usa"></p>
                 <p team="devils" type="player" name="gryba" num="" pos="d" shot="r" height="76" unitH="inches" weight="222" unitW="pounds" bYear="1988" country="can"></p>
                 <p team="devils" type="player" name="iakovlev" num="" pos="d" shot="l" height="72" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="rus"></p>
                 <p team="devils" type="player" name="jacobs" num="" pos="d" shot="r" height="74" unitH="inches" weight="200" unitW="pounds" bYear="1996" country="usa"></p>

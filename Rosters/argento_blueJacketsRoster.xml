@@ -18,15 +18,15 @@
                 <p team="blueJackets" type="player" name="dubinsky" num="17" pos="c" shot="l" height="74" unitH="inches" weight="205" unitW="pounds" bYear="1986" country="usa"></p>
                 <p team="blueJackets" type="player" name="dubois" num="18" pos="c" shot="l" height="75" unitH="inches" weight="207" unitW="pounds" bYear="1998" country="can"></p>
                 <p team="blueJackets" type="player" name="duclair" num="91" pos="lw" shot="l" height="71" unitH="inches" weight="191" unitW="pounds" bYear="1995" country="can"></p>
-                <p team="blueJackets" type="player" name="foligno" num="71" pos="lw" shot="l" height="72" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="usa"></p>
+                <p team="blueJackets" type="player" cap="capt" name="foligno" num="71" pos="lw" shot="l" height="72" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="usa"></p>
                 <p team="blueJackets" type="player" name="fortier" num="" pos="rw" shot="r" height="70" unitH="inches" weight="183" unitW="pounds" bYear="1996" country="can"></p>
                 <p team="blueJackets" type="player" name="foudy" num="" pos="c" shot="l" height="72" unitH="inches" weight="175" unitW="pounds" bYear="2000" country="can"></p>
                 <p team="blueJackets" type="player" name="gerbe" num="24" pos="c" shot="l" height="64" unitH="inches" weight="176" unitW="pounds" bYear="1987" country="usa"></p>
                 <p team="blueJackets" type="player" name="hannikainen" num="37" pos="lw" shot="l" height="73" unitH="inches" weight="200" unitW="pounds" bYear="1993" country="fin"></p>
-                <p team="blueJackets" type="player" name="jenner" num="38" pos="c" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1993" country="can"></p>
+                <p team="blueJackets" type="player" capt="assis" name="jenner" num="38" pos="c" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1993" country="can"></p>
                 <p team="blueJackets" type="player" name="macinnis" num="" pos="c" shot="l" height="75" unitH="inches" weight="185" unitW="pounds" bYear="1996" country="usa"></p>
                 <p team="blueJackets" type="player" name="milano" num="22" pos="lw" shot="l" height="72" unitH="inches" weight="195" unitW="pounds" bYear="1996" country="usa"></p>
-                <p team="blueJackets" type="player" name="trash" num="20" pos="c" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1989" country="can"></p>
+                <p team="blueJackets" type="player" name="nash" num="20" pos="c" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1989" country="can"></p>
                 <p team="blueJackets" type="player" name="panarin" num="9" pos="lw" shot="r" height="71" unitH="inches" weight="168" unitW="pounds" bYear="1991" country="rus"></p>
                 <p team="blueJackets" type="player" name="robinson" num="50" pos="lw" shot="l" height="74" unitH="inches" weight="200" unitW="pounds" bYear="1995" country="usa"></p>
                 <p team="blueJackets" type="player" name="sedlak" num="45" pos="c" shot="l" height="72" unitH="inches" weight="200" unitW="pounds" bYear="1995" country="cze"></p>

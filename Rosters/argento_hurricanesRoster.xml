@@ -28,7 +28,7 @@
                 <p team="hurricanes" type="player" name="roy" num="58" pos="c" shot="r" height="76" unitH="inches" weight="208" unitW="pounds" bYear="1997" country="can"></p>
                 <p team="hurricanes" type="player" name="saarela" num="15" pos="c" shot="l" height="71" unitH="inches" weight="198" unitW="pounds" bYear="1997" country="fin"></p>
                 <p team="hurricanes" type="player" name="smallman" num="75" pos="rw" shot="r" height="72" unitH="inches" weight="200" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="hurricanes" type="player" name="staal" num="11" pos="c" shot="l" height="76" unitH="inches" weight="220" unitW="pounds" bYear="1988" country="can"></p>
+                <p team="hurricanes" type="player" cap="capt" name="staal" num="11" pos="c" shot="l" height="76" unitH="inches" weight="220" unitW="pounds" bYear="1988" country="can"></p>
                 <p team="hurricanes" type="player" name="svechnikov" num="37" pos="rw" shot="l" height="74" unitH="inches" weight="188" unitW="pounds" bYear="2000" country="rus"></p>
                 <p team="hurricanes" type="player" name="teravainen" num="86" pos="lw" shot="l" height="71" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="fin"></p>
                 <p team="hurricanes" type="player" name="wallmark" num="71" pos="c" shot="l" height="72" unitH="inches" weight="176" unitW="pounds" bYear="1995" country="swe"></p>
@@ -40,7 +40,7 @@
                 <p team="hurricanes" type="player" name="bean" num="24" pos="d" shot="l" height="73" unitH="inches" weight="173" unitW="pounds" bYear="1998" country="can"></p>
                 <p team="hurricanes" type="player" name="carrick" num="46" pos="d" shot="l" height="74" unitH="inches" weight="186" unitW="pounds" bYear="1994" country="can"></p>
                 <p team="hurricanes" type="player" name="haan" num="44" pos="d" shot="l" height="73" unitH="inches" weight="198" unitW="pounds" bYear="1991" country="can"></p>
-                <p team="hurricanes" type="player" name="faulk" num="27" pos="d" shot="r" height="72" unitH="inches" weight="215" unitW="pounds" bYear="1992" country="usa"></p>
+                <p team="hurricanes" type="player" cap="capt" name="faulk" num="27" pos="d" shot="r" height="72" unitH="inches" weight="215" unitW="pounds" bYear="1992" country="usa"></p>
                 <p team="hurricanes" type="player" name="fleury" num="4" pos="d" shot="l" height="75" unitH="inches" weight="221" unitW="pounds" bYear="1996" country="can"></p>
                 <p team="hurricanes" type="player" name="fora" num="26" pos="d" shot="r" height="74" unitH="inches" weight="213" unitW="pounds" bYear="1995" country="che"></p>
                 <p team="hurricanes" type="player" name="hamilton" num="19" pos="d" shot="r" height="78" unitH="inches" weight="210" unitW="pounds" bYear="1993" country="can"></p>
