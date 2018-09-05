@@ -44,9 +44,9 @@
             </defense>
                     
             <goalies>
-                <p team="penguins" type="player" name="desmith" num="1" pos="g" shot="" height="72" unitH="inches" weight="181" unitW="pounds" bYear="1991" country="usa"></p>
-                <p team="penguins" type="player" name="jarry" num="35" pos="g" shot="" height="74" unitH="inches" weight="194" unitW="pounds" bYear="1995" country="can"></p>
-                <p team="penguins" type="player" name="murray" num="30" pos="g" shot="" height="76" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="can"></p>                        
+                <p team="penguins" type="player" name="desmith" num="1" pos="g" height="72" unitH="inches" weight="181" unitW="pounds" bYear="1991" country="usa"></p>
+                <p team="penguins" type="player" name="jarry" num="35" pos="g" height="74" unitH="inches" weight="194" unitW="pounds" bYear="1995" country="can"></p>
+                <p team="penguins" type="player" name="murray" num="30" pos="g" height="76" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="can"></p>                        
             </goalies>
 
         </players>

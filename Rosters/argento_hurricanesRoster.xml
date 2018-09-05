@@ -53,11 +53,11 @@
             </defense>
 
             <goalies>
-                <p team="hurricanes" type="player" name="booth" num="70" pos="g" shot="" height="76" unitH="inches" weight="191" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="hurricanes" type="player" name="darling" num="33" pos="g" shot="" height="78" unitH="inches" weight="232" unitW="pounds" bYear="1988" country="usa"></p>
-                <p team="hurricanes" type="player" name="helvig" num="50" pos="g" shot="" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="hurricanes" type="player" name="mrazek" num="34" pos="g" shot="" height="74" unitH="inches" weight="181" unitW="pounds" bYear="1995" country="cze"></p>
-                <p team="hurricanes" type="player" name="ndeljkovic" num="35" pos="g" shot="" height="72" unitH="inches" weight="198" unitW="pounds" bYear="1996" country="usa"></p>
+                <p team="hurricanes" type="player" name="booth" num="70" pos="g" height="76" unitH="inches" weight="191" unitW="pounds" bYear="1997" country="can"></p>
+                <p team="hurricanes" type="player" name="darling" num="33" pos="g" height="78" unitH="inches" weight="232" unitW="pounds" bYear="1988" country="usa"></p>
+                <p team="hurricanes" type="player" name="helvig" num="50" pos="g" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1997" country="can"></p>
+                <p team="hurricanes" type="player" name="mrazek" num="34" pos="g" height="74" unitH="inches" weight="181" unitW="pounds" bYear="1995" country="cze"></p>
+                <p team="hurricanes" type="player" name="ndeljkovic" num="35" pos="g" height="72" unitH="inches" weight="198" unitW="pounds" bYear="1996" country="usa"></p>
             </goalies>
 
         </players>

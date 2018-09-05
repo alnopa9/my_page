@@ -42,10 +42,10 @@
             </defense>
 
             <goalies>
-                <p team="islanders" type="player" name="greiss" num="1" pos="g" shot="" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1986" country="deu"></p>
-                <p team="islanders" type="player" name="lehner" num="40" pos="g" shot="" height="76" unitH="inches" weight="245" unitW="pounds" bYear="1991" country="swe"></p>
-                <p team="islanders" type="player" name="skarek" num="" pos="g" shot="" height="75" unitH="inches" weight="196" unitW="pounds" bYear="1999" country="cze"></p>
-                <p team="islanders" type="player" name="soderstrom" num="" pos="g" shot="" height="77" unitH="inches" weight="196" unitW="pounds" bYear="1996" country="swe"></p>
+                <p team="islanders" type="player" name="greiss" num="1" pos="g" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1986" country="deu"></p>
+                <p team="islanders" type="player" name="lehner" num="40" pos="g" height="76" unitH="inches" weight="245" unitW="pounds" bYear="1991" country="swe"></p>
+                <p team="islanders" type="player" name="skarek" num="" pos="g" height="75" unitH="inches" weight="196" unitW="pounds" bYear="1999" country="cze"></p>
+                <p team="islanders" type="player" name="soderstrom" num="" pos="g" height="77" unitH="inches" weight="196" unitW="pounds" bYear="1996" country="swe"></p>
             </goalies>
 
         </players>

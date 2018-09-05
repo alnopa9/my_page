@@ -23,7 +23,7 @@
                 <p team="blueJackets" type="player" name="foudy" num="" pos="c" shot="l" height="72" unitH="inches" weight="175" unitW="pounds" bYear="2000" country="can"></p>
                 <p team="blueJackets" type="player" name="gerbe" num="24" pos="c" shot="l" height="64" unitH="inches" weight="176" unitW="pounds" bYear="1987" country="usa"></p>
                 <p team="blueJackets" type="player" name="hannikainen" num="37" pos="lw" shot="l" height="73" unitH="inches" weight="200" unitW="pounds" bYear="1993" country="fin"></p>
-                <p team="blueJackets" type="player" capt="assis" name="jenner" num="38" pos="c" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1993" country="can"></p>
+                <p team="blueJackets" type="player" cap="assis" name="jenner" num="38" pos="c" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1993" country="can"></p>
                 <p team="blueJackets" type="player" name="macinnis" num="" pos="c" shot="l" height="75" unitH="inches" weight="185" unitW="pounds" bYear="1996" country="usa"></p>
                 <p team="blueJackets" type="player" name="milano" num="22" pos="lw" shot="l" height="72" unitH="inches" weight="195" unitW="pounds" bYear="1996" country="usa"></p>
                 <p team="blueJackets" type="player" name="nash" num="20" pos="c" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1989" country="can"></p>
@@ -54,9 +54,9 @@
             </defense>
             
             <goalies>
-                <p team="blueJackets" type="player" name="berube" num="" pos="g" shot="" height="73" unitH="inches" weight="177" unitW="pounds" bYear="1991" country="can"></p>
-                <p team="blueJackets" type="player" name="bobrovsky" num="72" pos="g" shot="" height="74" unitH="inches" weight="182" unitW="pounds" bYear="1988" country="rus"></p>
-                <p team="blueJackets" type="player" name="korpisalo" num="70" pos="g" shot="" height="75" unitH="inches" weight="182" unitW="pounds" bYear="1994" country="fin"></p>
+                <p team="blueJackets" type="player" name="berube" num="" pos="g" height="73" unitH="inches" weight="177" unitW="pounds" bYear="1991" country="can"></p>
+                <p team="blueJackets" type="player" name="bobrovsky" num="72" pos="g" height="74" unitH="inches" weight="182" unitW="pounds" bYear="1988" country="rus"></p>
+                <p team="blueJackets" type="player" name="korpisalo" num="70" pos="g" height="75" unitH="inches" weight="182" unitW="pounds" bYear="1994" country="fin"></p>
             </goalies>
 
         </players>

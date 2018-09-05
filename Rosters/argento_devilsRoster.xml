@@ -48,11 +48,11 @@
             </defense>
             
             <goalies>
-                <p team="devils" type="player" name="blackwood" num="70" pos="g" shot="" height="76" unitH="inches" weight="225" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="devils" type="player" name="johnson" num="" pos="g" shot="" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="devils" type="player" name="kinkaid" num="1" pos="g" shot="" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1989" country="usa"></p>
-                <p team="devils" type="player" name="lack" num="31" pos="g" shot="" height="76" unitH="inches" weight="187" unitW="pounds" bYear="1988" country="swe"></p>
-                <p team="devils" type="player" name="schneider" num="35" pos="g" shot="" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1986" country="usa">                </p>
+                <p team="devils" type="player" name="blackwood" num="70" pos="g" height="76" unitH="inches" weight="225" unitW="pounds" bYear="1996" country="can"></p>
+                <p team="devils" type="player" name="johnson" num="" pos="g" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="usa"></p>
+                <p team="devils" type="player" name="kinkaid" num="1" pos="g" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1989" country="usa"></p>
+                <p team="devils" type="player" name="lack" num="31" pos="g" height="76" unitH="inches" weight="187" unitW="pounds" bYear="1988" country="swe"></p>
+                <p team="devils" type="player" name="schneider" num="35" pos="g" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1986" country="usa">                </p>
             </goalies>
 
         </players>
