@@ -2,7 +2,7 @@
 <?xml-model href="argentoScheduleSchema.rnc" type="application/relax-ng-compact-syntax"?>
     <schedule>
     
-        <team organization="penguins">
+        <organization team="penguins">
 
             <game day="tues" month="sept" date="18" year="2018" against="sabres" place="a" time="1900" season="pre"/>
             <game day="wed" month="sept" date="19" year="2018" against="redWings" place="a" time="1930" season="pre"/>
@@ -93,6 +93,6 @@
             <game day="thur" month="apr" date="4" year="2019" against="redWings" place="h" time="1900" season="reg"/>
             <game day="sat" month="apr" date="6" year="2019" against="rangers" place="h" time="1900" season="reg"/>
 
-        </team>
+        </>
 
     </schedule>
