@@ -14,20 +14,64 @@
                 <p name="coutourier" num="14" pos="c" shot="l" height="75" weight="211" bYear="1992" country="usa"/>
                 <p name="fazleev" num="" pos="c" shot="l" height="73" weight="176" bYear="1996" country="rus"/>
                 <p name="frost" num="" pos="c" shot="l" height="71" weight="170" bYear="1999" country="can"/>
+                <p cap="capt" name="giroux" num="28" pos="c" shot="r" height="71" weight="185" bYear="1988" country="can"/>
+                <p name="goulbourne" num="56" pos="lw" shot="l" height="71" weight="195" bYear="1994" country="can"/>
+                <p name="kase" num="" pos="rw" shot="l" height="71" weight="169" bYear="1997" country="cze"/>
+                <p name="knight" num="53" pos="c" shot="r" height="74" weight="195" bYear="1990" country="can"/>
+                <p name="konecny" num="11" pos="c" shot="r" height="70" weight="175" bYear="1997" country="can"/>
+                <p name="laberge" num="" pos="c" shot="r" height="73" weight="172" bYear="1998" country="can"/>
+                <p name="laughton" num="21" pos="c" shot="l" height="73" weight="190" bYear="1994" country="can"/>
+                <p name="letera" num="15" pos="c" shot="l" height="74" weight="212" bYear="1987" country="fin"/>
+                <p name="leier" num="20" pos="lw" shot="l" height="71" weight="180" bYear="1994" country="can"/>
+                <p name="linblom" num="54" pos="lw" shot="l" height="73" weight="191" bYear="1996" country="swe"/>
+                <p name="martel" num="70" pos="lw" shot="l" height="68" weight="162" bYear="1994" country="can"/>
+                <p name="patrick" num="19" pos="c" shot="r" height="74" weight="198" bYear="1998" country="can"/>
+                <p name="raffl" num="12" pos="lw" shot="l" height="72" weight="200" bYear="1988" country="aut"/>
+                <p name="ratcliffe" num="" pos="lw" shot="l" height="78" weight="200" bYear="1999" country="can"/>
+                <p cap="assis" name="simmonds" num="17" pos="rw" shot="r" height="74" weight="185" bYear="1988" country="can"/>
+                <p name="strome" num="" pos="lw" shot="l" height="76" weight="206" bYear="1999" country="can"/>
+                <p name="sushko" num="" pos="rw" shot="l" height="72" weight="181" bYear="1999" country="blr"/>
+                <p name="twarynski" num="" pos="lw" shot="l" height="74" weight="198" bYear="1997" country="can"/>
+                <p name="vanriemsdyk" num="25" pos="lw" shot="l" height="75" weight="217" bYear="1989" country="usa"/>
+                <p name="vecchione" num="74" pos="c" shot="r" height="70" weight="194" bYear="1993" country="usa"/>
+                <p name="voracek" num="93" pos="rw" shot="l" height="74" weight="214" bYear="1989" country="cze"/>
+                <p name="vorobyov" num="" pos="c" shot="l" height="74" weight="194" bYear="1997" country="rus"/>
+                <p name="weal" num="40" pos="c" shot="r" height="70" weight="179" bYear="1992" country="can"/>
+                <p name="weise" num="22" pos="rw" shot="r" height="74" weight="206" bYear="1988" country="can"/>
             </forwards>
 
             <defense pos="d">
-                <p name="" num="" height="" weight="" bYear="" country=""/>
+                <p name="brennan" num="43" shot="l" height="73" weight="216" bYear="1989" country="usa"/>
+                <p name="folin" num="26" shot="r" height="75" weight="204" bYear="1991" country="swe"/>
+                <p name="friedman" num="" shot="r" height="71" weight="185" bYear="1995" country="can"/>
+                <p name="gostisbehhre" num="53" shot="l" height="71" weight="180" bYear="1993" country="usa"/>
+                <p name="gudas" num="3" shot="r" height="72" weight="204" bYear="1990" country="cze"/>
+                <p name="hagg" num="8" shot="l" height="74" weight="204" bYear="1995" country="swe"/>
+                <p cap="assis" name="macdonald" num="47" shot="l" height="73" weight="204" bYear="1986" country="can"/>
+                <p name="morin" num="5" shot="l" height="78" weight="202" bYear="1995" country="can"/>
+                <p name="myers" num="" shot="r" height="77" weight="210" bYear="1997" country="can"/>
+                <p name="provorov" num="9" shot="l" height="73" weight="201" bYear="1997" country="rus"/>
+                <p name="sanheim" num="6" shot="l" height="75" weight="181" bYear="1996" country="can"/>
+                <p name="willcox" num="62" shot="r" height="75" weight="184" bYear="1994" country="can"/>
             </defense>
 
             <goalies pos="g">
-                <p name="" num="" height="" weight="" bYear="" country=""/>
+                <p name="elliot" num="37" height="74" weight="209" bYear="1985" country="can"/>
+                <p name="hart" num="" height="73" weight="180" bYear="1998" country="can"/>
+                <p name="lyon" num="49" height="73" weight="201" bYear="1992" country="usa"/>
+                <p name="neuvirth" num="30" height="73" weight="209" bYear="1988" country="cze"/>
+                <p name="stolarz" num="41" height="78" weight="210" bYear="1994" country="usa"/>
             </goalies>
 
         </players>
 
         <coaches type="coach">
-            <c name="" pos=""></c>
+            <c name="hastol" pos="head"/>
+            <c name="murphy" pos="assistant"/>
+            <c name="knoblauch" pos="assistant"/>
+            <c name="laperriere" pos="assistant"/>
+            <c name="dillabaugh" pos="goaltending"/>
+            <c name="patterson" pos="video"/>
         </coaches>
 
     </organization>    
