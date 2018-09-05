@@ -1,9 +1,9 @@
 start = schedule
 schedule = element schedule {team}
-team = element team {organization, game+}
-organization = attribute organization {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
+organization = element organization {organization, game+}
+team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
                                        "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
-game = element game {day, month, date, year, against, place, time, season, text*}
+game = element game {day, month, date, year, against, place, time, season}
 day = attribute day {"mon"|"tues"|"wed"|"thur"|"fri"|"sat"|"sun"}
 month = attribute month {"sept"|"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"|"may"}
 date = attribute date {xsd:integer}
