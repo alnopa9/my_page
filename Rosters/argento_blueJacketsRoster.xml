@@ -3,11 +3,11 @@
 <roster>
     
     <organization org="blueJackets">
+        
         <players>
+        
             <forwards>
-                <p team="blueJackets" type="player" name="abramov" num="79" pos="rw" shot="l" height="69" unitH="inches" weight="171" unitW="pounds" bYear="1998" country="rus">
-                Vitaly
-                </p>
+                <p team="blueJackets" type="player" name="abramov" num="79" pos="rw" shot="l" height="69" unitH="inches" weight="171" unitW="pounds" bYear="1998" country="rus"></p>
                 <p team="blueJackets" type="player" name="anderson" num="77" pos="rw" shot="r" height="75" unitH="inches" weight="221" unitW="pounds" bYear="1994" country="can"></p>
                 <p team="blueJackets" type="player" name="atkinson" num="13" pos="rw" shot="r" height="68" unitH="inches" weight="179" unitW="pounds" bYear="1989" country="usa"></p>
                 <p team="blueJackets" type="player" name="bittner" num="57" pos="lw" shot="l" height="75" unitH="inches" weight="211" unitW="pounds" bYear="1996" country="usa"></p>
@@ -34,17 +34,42 @@
                 <p team="blueJackets" type="player" name="stenlund" num="69" pos="c" shot="r" height="76" unitH="inches" weight="210" unitW="pounds" bYear="1996" country="swe"></p>
                 <p team="blueJackets" type="player" name="texier" num="42" pos="c" shot="l" height="72" unitH="inches" weight="187" unitW="pounds" bYear="1999" country="fra"></p>
                 <p team="blueJackets" type="player" name="thurkauf" num="83" pos="c" shot="l" height="74" unitH="inches" weight="212" unitW="pounds" bYear="1997" country="che"></p>
+                <p team="blueJackets" type="player" name="vigneault" num="83" pos="c" shot="l" height="77" unitH="inches" weight="203" unitW="pounds" bYear="1995" country="can"></p>
+                <p team="blueJackets" type="player" name="wennberg" num="10" pos="c" shot="l" height="74" unitH="inches" weight="196" unitW="pounds" bYear="1994" country="swe"></p>
             </forwards>
+            
             <defense>
-                <p team="" type="" name="" num="" pos="" shot="" height="" unitH="" weight="" unitW="" bYear="" country=""></p>
+                <p team="blueJackets" type="player" name="clendening" num="" pos="d" shot="r" height="72" unitH="inches" weight="196" unitW="pounds" bYear="1992" country="usa"></p>
+                <p team="blueJackets" type="player" name="cross" num="56" pos="d" shot="l" height="75" unitH="inches" weight="205" unitW="pounds" bYear="1989" country="usa"></p>
+                <p team="blueJackets" type="player" name="harrington" num="4" pos="d" shot="l" height="74" unitH="inches" weight="207" unitW="pounds" bYear="1993" country="can"></p>
+                <p team="blueJackets" type="player" name="jones" num="3" pos="d" shot="r" height="76" unitH="inches" weight="210" unitW="pounds" bYear="1994" country="usa"></p>
+                <p team="blueJackets" type="player" name="kukan" num="46" pos="d" shot="l" height="74" unitH="inches" weight="186" unitW="pounds" bYear="1993" country="che"></p>
+                <p team="blueJackets" type="player" name="murray" num="27" pos="d" shot="l" height="73" unitH="inches" weight="205" unitW="pounds" bYear="1993" country="can"></p>
+                <p team="blueJackets" type="player" name="nutivaara" num="65" pos="d" shot="l" height="73" unitH="inches" weight="191" unitW="pounds" bYear="1994" country="fin"></p>
+                <p team="blueJackets" type="player" name="savard" num="58" pos="d" shot="r" height="74" unitH="inches" weight="227" unitW="pounds" bYear="1990" country="can"></p>
+                <p team="blueJackets" type="player" name="siebenaler" num="44" pos="d" shot="r" height="74" unitH="inches" weight="208" unitW="pounds" bYear="1996" country="usa"></p>
+                <p team="blueJackets" type="player" name="simpson" num="" pos="d" shot="l" height="74" unitH="inches" weight="204" unitW="pounds" bYear="1993" country="can"></p>
+                <p team="blueJackets" type="player" name="somerby" num="33" pos="d" shot="l" height="78" unitH="inches" weight="218" unitW="pounds" bYear="1994" country="usa"></p>
+                <p team="blueJackets" type="player" name="werenski" num="8" pos="d" shot="l" height="74" unitH="inches" weight="209" unitW="pounds" bYear="1997" country="usa"></p>
             </defense>
+            
             <goalies>
-                <p team="" type="" name="" num="" pos="" shot="" height="" unitH="" weight="" unitW="" bYear="" country=""></p>
+                <p team="blueJackets" type="player" name="berube" num="" pos="g" shot="" height="73" unitH="inches" weight="177" unitW="pounds" bYear="1991" country="can"></p>
+                <p team="blueJackets" type="player" name="bobrovsky" num="72" pos="g" shot="" height="74" unitH="inches" weight="182" unitW="pounds" bYear="1988" country="rus"></p>
+                <p team="blueJackets" type="player" name="korpisalo" num="70" pos="g" shot="" height="75" unitH="inches" weight="182" unitW="pounds" bYear="1994" country="fin"></p>
             </goalies>
+
         </players>
+
         <coaches>
-            <c team="" type="" name="" pos=""></c>
+            <c team="blueJackets" type="coach" name="tortorella" pos="head"></c>
+            <c team="blueJackets" type="coach" name="larsen" pos="assistant"></c>
+            <c team="blueJackets" type="coach" name="mccudden" pos="assistant"></c>
+            <c team="blueJackets" type="coach" name="shaw" pos="assistant"></c>
+            <c team="blueJackets" type="coach" name="legace" pos="goaltending"></c>
+            <c team="blueJackets" type="coach" name="singleton" pos="video"></c>
         </coaches>
+
     </organization>
     
 </roster>
