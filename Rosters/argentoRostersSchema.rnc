@@ -8,7 +8,7 @@ forwards = element forwards {p+}
 defense = element defense {p+}
 goalies = element goalies {p+}
 coaches = element coaches {c+}
-p = element p {team, type, (cap)?, name, num, pos, (shot)?, height, unitH, weight, unitW, birth, (bYear)?, country, text*}
+p = element p {team, type, (cap)?, name, num, pos, (shot)?, height, unitH, weight, unitW, (birth)?, bYear, country, text*}
 c = element c {team, type, name, pos}
 team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
                        "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
@@ -24,4 +24,4 @@ weight = attribute weight {xsd:integer?}
 unitW = attribute unitW {"pounds"}
 birth = attribute birth {("1970>xsd:year>2010")|("12>=xsd:gYearMonth>=01")|("31>=xsd:date>=01")}
 bYear = attribute bYear {xsd:integer?}
-country = attribute country {("can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"|"est"|"deu"|"lva"|"nld"|"dnk"|"fra")?}
+country = attribute country {("can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"|"est"|"deu"|"lva"|"nld"|"dnk"|"fra"|"bel"|"nor"|"bgr")?}
