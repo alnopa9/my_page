@@ -8,11 +8,12 @@ forwards = element forwards {p+}
 defense = element defense {p+}
 goalies = element goalies {p+}
 coaches = element coaches {c+}
-p = element p {team, type, name, num, pos, shot, height, unitH, weight, unitW, bYear, country}
+p = element p {team, type, (cap)?, name, num, pos, shot, height, unitH, weight, unitW, bYear, country}
 c = element c {team, type, name, pos}
 team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
                        "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
 type = attribute type {"player"|"coach"}
+cap = attribute cap {"capt"|"assis"}
 name = attribute name {text*}
 num = attribute num {xsd:integer?}
 pos = attribute pos {"c"|"rw"|"lw"|"d"|"g"|"head"|"assistant"|"goaltending"|"video"}
