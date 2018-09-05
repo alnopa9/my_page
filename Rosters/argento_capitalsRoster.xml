@@ -41,7 +41,7 @@
             <goalies>
                 <p team="capitals" type="player" name="copley" num="1" pos="g" height="76" unitH="inches" weight="200" unitW="pounds" bYear="1992" country="usa"></p>
                 <p team="capitals" type="player" name="holtby" num="70" pos="g" height="74" unitH="inches" weight="211" unitW="pounds" bYear="1989" country="rus"></p>
-                <p team="capitals" type="player" name="samsonov" num="30" pos="g" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1997" country="rus"
+                <p team="capitals" type="player" name="samsonov" num="30" pos="g" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1997" country="rus"></p>
             </goalies>
 
         </players>
