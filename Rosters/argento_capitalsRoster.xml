@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    
+    <organization org="capitals">
+
+        <players>
+
+            <forwards>
+                <p team="capitals" type="player" cap="assis" name="backstrom" num="19" pos="c" shot="l" height="73" unitH="inches" weight="210" unitW="pounds" bYear="1987" country="swe"></p>
+                <p team="capitals" type="player" name="boyd" num="72" pos="c" shot="l" height="71" unitH="inches" weight="185" unitW="pounds" bYear="1993" country="usa"></p>
+                <p team="capitals" type="player" name="burakovsky" num="65" pos="lw" shot="l" height="75" unitH="inches" weight="201" unitW="pounds" bYear="1995" country="aut"></p>
+                <p team="capitals" type="player" name="connolly" num="10" pos="rw" shot="r" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1992" country="can"></p>
+                <p team="capitals" type="player" name="dowd" num="17" pos="c" shot="r" height="74" unitH="inches" weight="197" unitW="pounds" bYear="1990" country="usa"></p>
+                <p team="capitals" type="player" name="eller" num="20" pos="c" shot="l" height="74" unitH="inches" weight="207" unitW="pounds" bYear="1989" country="dnk"></p>
+                <p team="capitals" type="player" name="gersich" num="63" pos="lw" shot="l" height="71" unitH="inches" weight="175" unitW="pounds" bYear="1996" country="usa"></p>
+                <p team="capitals" type="player" name="jonsson-fjallby" num="45" pos="lw" shot="l" height="72" unitH="inches" weight="170" unitW="pounds" bYear="1998" country="swe"></p>
+                <p team="capitals" type="player" name="kuznetsov" num="92" pos="c" shot="l" height="74" unitH="inches" weight="204" unitW="pounds" bYear="1992" country="rus"></p>
+                <p team="capitals" type="player" name="megna" num="7" pos="c" shot="r" height="73" unitH="inches" weight="195" unitW="pounds" bYear="1990" country="usa"></p>
+                <p team="capitals" type="player" name="oshie" num="77" pos="rw" shot="r" height="71" unitH="inches" weight="195" unitW="pounds" bYear="1986" country="usa"></p>
+                <p team="capitals" type="player" cap="capt" name="ovechkin" num="8" pos="lw" shot="r" height="75" unitH="inches" weight="235" unitW="pounds" bYear="1985" country="rus"></p>
+                <p team="capitals" type="player" name="sgarbossa" num="" pos="c" shot="l" height="72" unitH="inches" weight="186" unitW="pounds" bYear="1992" country="can"></p>
+                <p team="capitals" type="player" name="shumakov" num="" pos="rw" shot="" height="" unitH="inches" weight="" unitW="pounds"  bYear="1992" country=""></p>
+                <p team="capitals" type="player" name="smith-pelly" num="25" pos="rw" shot="r" height="72" unitH="inches" weight="223" unitW="pounds" bYear="1992" country="can"></p>
+                <p team="capitals" type="player" name="stephenson" num="18" pos="c" shot="l" height="72" unitH="inches" weight="203" unitW="pounds" bYear="1994" country="can"></p>
+                <p team="capitals" type="player" name="vrana" num="13" pos="lw" shot="l" height="72" unitH="inches" weight="197" unitW="pounds" bYear="1996" country="cze"></p>
+                <p team="capitals" type="player" name="walker" num="79" pos="lw" shot="l" height="69" unitH="inches" weight="186" unitW="pounds" bYear="1994" country="gbr"></p>
+                <p team="capitals" type="player" name="wilson" num="43" pos="rw" shot="r" height="76" unitH="inches" weight="218" unitW="pounds" bYear="1994" country="can"></p>
+            </forwards>
+
+            <defense>
+                <p team="capitals" type="player" name="bowey" num="22" pos="d" shot="r" height="74" unitH="inches" weight="198" unitW="pounds" bYear="198" country="can"></p>
+                <p team="capitals" type="player" name="carlson" num="74" pos="d" shot="r" height="75" unitH="inches" weight="218" unitW="pounds" bYear="1990" country="usa"></p>
+                <p team="capitals" type="player" name="djoos" num="29" pos="d" shot="r" height="72" unitH="inches" weight="169" unitW="pounds" bYear="1994" country="swe"></p>
+                <p team="capitals" type="player" name="kempny" num="6" pos="d" shot="l" height="72" unitH="inches" weight="194" unitW="pounds" bYear="1990" country="cze"></p>
+                <p team="capitals" type="player" name="niskanen" num="2" pos="d" shot="r" height="73" unitH="inches" weight="203" unitW="pounds" bYear="1991" country="usa"></p>
+                <p team="capitals" type="player" name="orlov" num="9" pos="d" shot="l" height="71" unitH="inches" weight="212" unitW="pounds" bYear="1991" country="rus"></p>
+                <p team="capitals" type="player" cap="assis" name="orpik" num="44" pos="d" shot="l" height="75" unitH="inches" weight="217" unitW="pounds" bYear="1980" country="usa"></p>
+            </defense>
+
+            <goalies>
+                <p team="capitals" type="player" name="copley" num="1" pos="g" height="76" unitH="inches" weight="200" unitW="pounds" bYear="1992" country="usa"></p>
+                <p team="capitals" type="player" name="holtby" num="70" pos="g" height="74" unitH="inches" weight="211" unitW="pounds" bYear="1989" country="rus"></p>
+                <p team="capitals" type="player" name="samsonov" num="30" pos="g" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1997" country="rus"
+            </goalies>
+
+        </players>
+
+        <coaches>
+            <c team="capitals" type="coach" name="reirden" pos="head"></c>
+            <c team="capitals" type="coach" name="forsythe" pos="assistant"></c>
+            <c team="capitals" type="coach" name="murray" pos="goaltending"></c>
+            <c team="capitals" type="coach" name="leonhardt" pos="video"></c>
+        </coaches>
+
+    </organization>
+
+</roster>

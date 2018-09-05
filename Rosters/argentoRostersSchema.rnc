@@ -24,4 +24,4 @@ weight = attribute weight {xsd:integer?}
 unitW = attribute unitW {"pounds"}
 birth = attribute birth {("1970>xsd:year>2010")|("12>=xsd:gYearMonth>=01")|("31>=xsd:date>=01")}
 bYear = attribute bYear {xsd:integer?}
-country = attribute country {("can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"|"est"|"deu"|"lva"|"nld"|"dnk"|"fra"|"bel"|"nor"|"bgr")?}
+country = attribute country {("can"|"usa"|"rus"|"swe"|"fin"|"cze"|"che"|"blr"|"svk"|"est"|"deu"|"lva"|"nld"|"dnk"|"fra"|"bel"|"nor"|"bgr"|"aut"|"gbr")?}
