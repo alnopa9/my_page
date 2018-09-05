@@ -1,15 +1,13 @@
 start = roster
 roster= element roster {organization}
-organization = element organization {org, players, coaches}
-org = attribute org {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
-                     "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
-players = element players {forwards, defense, goalies}
+organization = element organization {team, players, coaches}
+players = element players {unitH, unitW, type, forwards, defense, goalies}
 forwards = element forwards {p+}
-defense = element defense {p+}
-goalies = element goalies {p+}
-coaches = element coaches {c+}
-p = element p {team, type, (cap)?, name, num, pos, (shot)?, height, unitH, weight, unitW, (birth)?, bYear, country, text*}
-c = element c {team, type, name, pos}
+defense = element defense {pos, p+}
+goalies = element goalies {pos, p+}
+coaches = element coaches {type, c+}
+p = element p {(cap)?, name, num, (pos)?, (shot)?, height, weight, (birth)?, bYear, country}
+c = element c {name, pos}
 team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
                        "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
 type = attribute type {"player"|"coach"}
