@@ -26,7 +26,7 @@
 
         </players>
 
-        <coaches>
+        <coaches type="coach">
             <c name="" pos=""></c>
         </coaches>
 

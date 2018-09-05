@@ -2,67 +2,67 @@
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     
-    <organization org="rangers">
+    <organization team="rangers">
 
-        <players>
+        <players type="player" unitH="inches" unitW="pounds">
 
             <forwards>
-                <p team="rangers" type="player" name="beleskey" num="39" pos="lw" shot="l" height="72" unitH="inches" weight="203" unitW="pounds" bYear="1988" country="can"></p>
-                <p team="rangers" type="player" name="buchnevich" num="89" pos="rw" shot="l" height="74" unitH="inches" weight="191" unitW="pounds" bYear="1995" country="rus"></p>
-                <p team="rangers" type="player" name="fast" num="17" pos="rw" shot="r" height="72" unitH="inches" weight="191" unitW="pounds" bYear="1991" country="swe"></p>
-                <p team="rangers" type="player" name="gettinger" num="97" pos="lw" shot="l" height="78" unitH="inches" weight="221" unitW="pounds" bYear="1998" country="usa"></p>
-                <p team="rangers" type="player" name="hayes" num="13" pos="c" shot="l" height="77" unitH="inches" weight="217" unitW="pounds" bYear="1992" country="usa"></p>
-                <p team="rangers" type="player" name="holland" num="12" pos="c" shot="l" height="74" unitH="inches" weight="205" unitW="pounds" bYear="1991" country="can"></p>
-                <p team="rangers" type="player" name="howden" num="" pos="c" shot="l" height="74" unitH="inches" weight="193" unitW="pounds" bYear="1998" country="can"></p>
-                <p team="rangers" type="player" name="kreider" num="20" pos="lw" shot="l" height="75" unitH="inches" weight="224" unitW="pounds" bYear="1991" country="usa"></p>
-                <p team="rangers" type="player" name="leedahl" num="92" pos="lw" shot="l" height="73" unitH="inches" weight="197" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="rangers" type="player" name="lindqvist" num="" pos="c" shot="r" height="71" unitH="inches" weight="172" unitW="pounds" bYear="1994" country="swe"></p>
-                <p team="rangers" type="player" name="mcleod" num="8" pos="lw" shot="l" height="74" unitH="inches" weight="210" unitW="pounds" bYear="1984" country="can"></p>
-                <p team="rangers" type="player" name="meskanen" num="" pos="c" shot="r" height="73" unitH="inches" weight="181" unitW="pounds" bYear="1995" country="fin"></p>
-                <p team="rangers" type="player" name="namestnikov" num="90" pos="c" shot="l" height="71" unitH="inches" weight="180" unitW="pounds" bYear="1992" country="rus"></p>
-                <p team="rangers" type="player" name="nieves" num="24" pos="c" shot="l" height="75" unitH="inches" weight="212" unitW="pounds" bYear="1992" country="rus"></p>
-                <p team="rangers" type="player" name="ronning" num="59" pos="rw" shot="r" height="69" unitH="inches" weight="172" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="rangers" type="player" name="schneider" num="29" pos="lw" shot="l" height="73" unitH="inches" weight="203" unitW="pounds" bYear="1990" country="usa"></p>
-                <p team="rangers" type="player" name="spooner" num="23" pos="c" shot="l" height="70" unitH="inches" weight="187" unitW="pounds" bYear="1992" country="can"></p>
-                <p team="rangers" type="player" name="vesey" num="26" pos="lw" shot="l" height="75" unitH="inches" weight="206" unitW="pounds" bYear="1993" country="usa"></p>
-                <p team="rangers" type="player" name="zibanejad" num="93" pos="c" shot="r" height="74" unitH="inches" weight="227" unitW="pounds" bYear="1993" country="swe"></p>
-                <p team="rangers" type="player" cap="assis" name="zuccarello" num="36" pos="rw" shot="l" height="68" unitH="inches" weight="179" unitW="pounds" bYear="1987" country="nor"></p>
+                <p  name="beleskey" num="39" pos="lw" shot="l" height="72"  weight="203"  bYear="1988" country="can"></p>
+                <p  name="buchnevich" num="89" pos="rw" shot="l" height="74"  weight="191"  bYear="1995" country="rus"></p>
+                <p  name="fast" num="17" pos="rw" shot="r" height="72"  weight="191"  bYear="1991" country="swe"></p>
+                <p  name="gettinger" num="97" pos="lw" shot="l" height="78"  weight="221"  bYear="1998" country="usa"></p>
+                <p  name="hayes" num="13" pos="c" shot="l" height="77"  weight="217"  bYear="1992" country="usa"></p>
+                <p  name="holland" num="12" pos="c" shot="l" height="74"  weight="205"  bYear="1991" country="can"></p>
+                <p  name="howden" num="" pos="c" shot="l" height="74"  weight="193"  bYear="1998" country="can"></p>
+                <p  name="kreider" num="20" pos="lw" shot="l" height="75"  weight="224"  bYear="1991" country="usa"></p>
+                <p  name="leedahl" num="92" pos="lw" shot="l" height="73"  weight="197"  bYear="1996" country="can"></p>
+                <p  name="lindqvist" num="" pos="c" shot="r" height="71"  weight="172"  bYear="1994" country="swe"></p>
+                <p  name="mcleod" num="8" pos="lw" shot="l" height="74"  weight="210"  bYear="1984" country="can"></p>
+                <p  name="meskanen" num="" pos="c" shot="r" height="73"  weight="181"  bYear="1995" country="fin"></p>
+                <p  name="namestnikov" num="90" pos="c" shot="l" height="71"  weight="180"  bYear="1992" country="rus"></p>
+                <p  name="nieves" num="24" pos="c" shot="l" height="75"  weight="212"  bYear="1992" country="rus"></p>
+                <p  name="ronning" num="59" pos="rw" shot="r" height="69"  weight="172"  bYear="1997" country="can"></p>
+                <p  name="schneider" num="29" pos="lw" shot="l" height="73"  weight="203"  bYear="1990" country="usa"></p>
+                <p  name="spooner" num="23" pos="c" shot="l" height="70"  weight="187"  bYear="1992" country="can"></p>
+                <p  name="vesey" num="26" pos="lw" shot="l" height="75"  weight="206"  bYear="1993" country="usa"></p>
+                <p  name="zibanejad" num="93" pos="c" shot="r" height="74"  weight="227"  bYear="1993" country="swe"></p>
+                <p  cap="assis" name="zuccarello" num="36" pos="rw" shot="l" height="68"  weight="179"  bYear="1987" country="nor"></p>
             </forwards>
 
-            <defense>
-                <p team="rangers" type="player" name="bigras" num="" pos="d" shot="l" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1995" country="can"></p>
-                <p team="rangers" type="player" name="claesson" num="" pos="d" shot="l" height="73" unitH="inches" weight="200" unitW="pounds" bYear="1992" country="swe"></p>
-                <p team="rangers" type="player" name="day" num="85" pos="d" shot="l" height="74" unitH="inches" weight="228" unitW="pounds" bYear="1998" country="bel"></p>
-                <p team="rangers" type="player" name="deangelo" num="77" pos="d" shot="r" height="77" unitH="inches" weight="181" unitW="pounds" bYear="1995" country="usa"></p>
-                <p team="rangers" type="player" name="gilmour" num="58" pos="d" shot="l" height="72" unitH="inches" weight="195" unitW="pounds" bYear="1993" country="can"></p>
-                <p team="rangers" type="player" name="hajek" num="" pos="d" shot="l" height="74" unitH="inches" weight="202" unitW="pounds" bYear="1998" country="cze"></p>
-                <p team="rangers" type="player" name="kampfer" num="47" pos="d" shot="r" height="71" unitH="inches" weight="195" unitW="pounds" bYear="1988" country="usa"></p>
-                <p team="rangers" type="player" name="lindgren" num="" pos="d" shot="l" height="72" unitH="inches" weight="198" unitW="pounds" bYear="1998" country="usa"></p>
-                <p team="rangers" type="player" name="o'gara" num="46" pos="d" shot="l" height="76" unitH="inches" weight="215" unitW="pounds" bYear="1993" country="usa"></p>
-                <p team="rangers" type="player" name="pedrie" num="74" pos="d" shot="l" height="72" unitH="inches" weight="195" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="rangers" type="player" name="pionk" num="44" pos="d" shot="r" height="72" unitH="inches" weight="190" unitW="pounds" bYear="1995" country="usa"></p>
-                <p team="rangers" type="player" name="shattenkirk" num="22" pos="d" shot="r" height="72" unitH="inches" weight="200" unitW="pounds" bYear="1989" country="usa"></p>
-                <p team="rangers" type="player" name="skjei" num="76" pos="d" shot="l" height="75" unitH="inches" weight="211" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="rangers" type="player" cap="assis" name="staal" num="18" pos="d" shot="l" height="76" unitH="inches" weight="209" unitW="pounds" bYear="1987" country="can"></p>
+            <defense pos="d">
+                <p  name="bigras" num=""  shot="l" height="73"  weight="190"  bYear="1995" country="can"></p>
+                <p  name="claesson" num=""  shot="l" height="73"  weight="200"  bYear="1992" country="swe"></p>
+                <p  name="day" num="85"  shot="l" height="74"  weight="228"  bYear="1998" country="bel"></p>
+                <p  name="deangelo" num="77"  shot="r" height="77"  weight="181"  bYear="1995" country="usa"></p>
+                <p  name="gilmour" num="58"  shot="l" height="72"  weight="195"  bYear="1993" country="can"></p>
+                <p  name="hajek" num=""  shot="l" height="74"  weight="202"  bYear="1998" country="cze"></p>
+                <p  name="kampfer" num="47"  shot="r" height="71"  weight="195"  bYear="1988" country="usa"></p>
+                <p  name="lindgren" num=""  shot="l" height="72"  weight="198"  bYear="1998" country="usa"></p>
+                <p  name="o'gara" num="46"  shot="l" height="76"  weight="215"  bYear="1993" country="usa"></p>
+                <p  name="pedrie" num="74"  shot="l" height="72"  weight="195"  bYear="1994" country="usa"></p>
+                <p  name="pionk" num="44"  shot="r" height="72"  weight="190"  bYear="1995" country="usa"></p>
+                <p  name="shattenkirk" num="22"  shot="r" height="72"  weight="200"  bYear="1989" country="usa"></p>
+                <p  name="skjei" num="76"  shot="l" height="75"  weight="211"  bYear="1994" country="usa"></p>
+                <p  cap="assis" name="staal" num="18"  shot="l" height="76"  weight="209"  bYear="1987" country="can"></p>
             </defense>
 
-            <goalies>
-                <p team="rangers" type="player" name="georgiev" num="40" pos="g" height="73" unitH="inches" weight="180" unitW="pounds" bYear="1996" country="bgr"></p>
-                <p team="rangers" type="player" name="halverson" num="75" pos="g" height="76" unitH="inches" weight="209" unitW="pounds" bYear="1996" country="usa"></p>
-                <p team="rangers" type="player" name="lundqvist" num="30" pos="g" height="73" unitH="inches" weight="180" unitW="pounds" bYear="1982" country="swe"></p>
-                <p team="rangers" type="player" name="mazanec" num="" pos="g" height="76" unitH="inches" weight="187" unitW="pounds" bYear="1991" country="cze"></p>
-                <p team="rangers" type="player" name="tokarski" num="35" pos="g" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1989" country="can"></p>
+            <goalies pos="g">
+                <p  name="georgiev" num="40"  height="73"  weight="180"  bYear="1996" country="bgr"></p>
+                <p  name="halverson" num="75"  height="76"  weight="209"  bYear="1996" country="usa"></p>
+                <p  name="lundqvist" num="30"  height="73"  weight="180"  bYear="1982" country="swe"></p>
+                <p  name="mazanec" num=""  height="76"  weight="187"  bYear="1991" country="cze"></p>
+                <p  name="tokarski" num="35"  height="72"  weight="204"  bYear="1989" country="can"></p>
             </goalies>
  
         </players>
 
-        <coaches>
-            <c team="rangers" type="coach" name="quinn" pos="head"></c>
-            <c team="rangers" type="coach" name="brown" pos="assistant"></c>
-            <c team="rangers" type="coach" name="oliver" pos="assistant"></c>
-            <c team="rangers" type="coach" name="ruff" pos="assistant"></c>
-            <c team="rangers" type="coach" name="allaire" pos="goaltending"></c>
-            <c team="rangers" type="coach" name="dineen" pos="video"></c>
+        <coaches type="coach">
+            <c  name="quinn" pos="head"></c>
+            <c  name="brown" pos="assistant"></c>
+            <c  name="oliver" pos="assistant"></c>
+            <c  name="ruff" pos="assistant"></c>
+            <c  name="allaire" pos="goaltending"></c>
+            <c  name="dineen" pos="video"></c>
         </coaches>
 
     </organization>

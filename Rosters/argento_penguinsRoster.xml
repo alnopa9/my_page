@@ -2,62 +2,62 @@
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
 
-    <organization org="penguins">
+    <organization team="penguins">
 
-        <players>
+        <players type="player" unitH="inches" unitW="pounds">
 
             <forwards>
-                <p team="penguins" type="player" name="astonReese" num="46" pos="c" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="penguins" type="player" name="blueger" num="53" pos="c" shot="l" height="72" unitH="inches" weight="185" unitW="pounds" bYear="1994" country="lva"></p>
-                <p team="penguins" type="player" name="brassard" num="19" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="can"></p>
-                <p team="penguins" type="player" cap="capt" name="crosby" num="87" pos="c" shot="l" height="71" unitH="inches" weight="200" unitW="pounds" bYear="1987" country="can"></p>
-                <p team="penguins" type="player" name="cullen" num="7" pos="c" shot="l" height="73" unitH="inches" weight="202" unitW="pounds" bYear="1976" country="usa"></p>
-                <p team="penguins" type="player" name="dea" num="39" pos="c" shot="r" height="71" unitH="inches" weight="175" unitW="pounds" bYear="1994" country="can"></p>
-                <p team="penguins" type="player" name="pauli" num="54" pos="c" shot="l" height="71" unitH="inches" weight="188" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="penguins" type="player" name="grant" num="38" pos="c" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1990" country="can"></p>
-                <p team="penguins" type="player" name="guentzel" num="59" pos="c" shot="l" height="71" unitH="inches" weight="180" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="penguins" type="player" name="hagelin" num="62" pos="lw" shot="l" height="71" unitH="inches" weight="186" unitW="pounds" bYear="1988" country="swe"></p>
-                <p team="penguins" type="player" name="hayes" num="11" pos="rw" shot="l" height="77" unitH="inches" weight="215" unitW="pounds" bYear="1989" country="usa"></p>
-                <p team="penguins" type="player" name="hornqvist" num="72" pos="rw" shot="r" height="71" unitH="inches" weight="189" unitW="pounds" bYear="1987" country="swe"></p>
-                <p team="penguins" type="player" name="johnson" num="47" pos="c" shot="l" height="72" unitH="inches" weight="174" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="penguins" type="player" name="kessel" num="81" pos="rw" shot="r" height="72" unitH="inches" weight="202" unitW="pounds" bYear="1987" country="usa"></p>
-                <p team="penguins" type="player" name="lindberg" num="25" pos="rw" shot="l" height="75" unitH="inches" weight="215" unitW="pounds" bYear="1995" country="swe"></p>
-                <p team="penguins" type="player" cap="assis" name="malkin" num="71" pos="c" shot="l" height="75" unitH="inches" weight="195" unitW="pounds" bYear="1986" country="rus"></p>
-                <p team="penguins" type="player" name="rust" num="17" pos="rw" shot="r" height="71" unitH="inches" weight="192" unitW="pounds" bYear="1992" country="usa"></p>
-                <p team="penguins" type="player" name="sheahan" num="15" pos="c" shot="l" height="75" unitH="inches" weight="214" unitW="pounds" bYear="1991" country="can"></p>
-                <p team="penguins" type="player" name="simon" num="12" pos="c" shot="l" height="71" unitH="inches" weight="190" unitW="pounds" bYear="1994" country="cze"></p>
-                <p team="penguins" type="player" name="sprong" num="41" pos="rw" shot="r" height="72" unitH="inches" weight="180" unitW="pounds" bYear="1997" country="nld"></p>
-                <p team="penguins" type="player" name="wilson" num="10" pos="lw" shot="l" height="74" unitH="inches" weight="199" unitW="pounds" bYear="1991" country="can"></p>                        
+                <p  name="astonReese" num="46" pos="c" shot="l" height="72"  weight="204"  bYear="1994" country="usa"></p>
+                <p  name="blueger" num="53" pos="c" shot="l" height="72"  weight="185"  bYear="1994" country="lva"></p>
+                <p  name="brassard" num="19" pos="c" shot="l" height="73"  weight="202"  bYear="1987" country="can"></p>
+                <p  cap="capt" name="crosby" num="87" pos="c" shot="l" height="71"  weight="200"  bYear="1987" country="can"></p>
+                <p  name="cullen" num="7" pos="c" shot="l" height="73"  weight="202"  bYear="1976" country="usa"></p>
+                <p  name="dea" num="39" pos="c" shot="r" height="71"  weight="175"  bYear="1994" country="can"></p>
+                <p  name="pauli" num="54" pos="c" shot="l" height="71"  weight="188"  bYear="1994" country="usa"></p>
+                <p  name="grant" num="38" pos="c" shot="l" height="75"  weight="215"  bYear="1990" country="can"></p>
+                <p  name="guentzel" num="59" pos="c" shot="l" height="71"  weight="180"  bYear="1994" country="usa"></p>
+                <p  name="hagelin" num="62" pos="lw" shot="l" height="71"  weight="186"  bYear="1988" country="swe"></p>
+                <p  name="hayes" num="11" pos="rw" shot="l" height="77"  weight="215"  bYear="1989" country="usa"></p>
+                <p  name="hornqvist" num="72" pos="rw" shot="r" height="71"  weight="189"  bYear="1987" country="swe"></p>
+                <p  name="johnson" num="47" pos="c" shot="l" height="72"  weight="174"  bYear="1994" country="usa"></p>
+                <p  name="kessel" num="81" pos="rw" shot="r" height="72"  weight="202"  bYear="1987" country="usa"></p>
+                <p  name="lindberg" num="25" pos="rw" shot="l" height="75"  weight="215"  bYear="1995" country="swe"></p>
+                <p  cap="assis" name="malkin" num="71" pos="c" shot="l" height="75"  weight="195"  bYear="1986" country="rus"></p>
+                <p  name="rust" num="17" pos="rw" shot="r" height="71"  weight="192"  bYear="1992" country="usa"></p>
+                <p  name="sheahan" num="15" pos="c" shot="l" height="75"  weight="214"  bYear="1991" country="can"></p>
+                <p  name="simon" num="12" pos="c" shot="l" height="71"  weight="190"  bYear="1994" country="cze"></p>
+                <p  name="sprong" num="41" pos="rw" shot="r" height="72"  weight="180"  bYear="1997" country="nld"></p>
+                <p  name="wilson" num="10" pos="lw" shot="l" height="74"  weight="199"  bYear="1991" country="can"></p>                        
             </forwards>
                     
-            <defense>
-                <p team="penguins" type="player" name="dumoulin" num="8" pos="d" shot="l" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1991" country="usa"></p>
-                <p team="penguins" type="player" name="elliott" num="24" pos="d" shot="r" height="73" unitH="inches" weight="190" unitW="pounds" bYear="1991" country="can"></p>
-                <p team="penguins" type="player" name="johnson" num="73" pos="d" shot="l" height="73" unitH="inches" weight="227" unitW="pounds" bYear="1987" country="usa"></p>
-                <p team="penguins" type="player" cap="assis" name="letang" num="58" pos="d" shot="r" height="72" unitH="inches" weight="201" unitW="pounds" bYear="1987" country="can"></p>
-                <p team="penguins" type="player" name="maatta" num="3" pos="d" shot="l" height="74" unitH="inches" weight="206" unitW="pounds" bYear="1994" country="fin"></p>
-                <p team="penguins" type="player" name="oleksiak" num="6" pos="d" shot="l" height="79" unitH="inches" weight="255" unitW="pounds" bYear="1992" country="can"></p>
-                <p team="penguins" type="player" name="riikola" num="50" pos="d" shot="" height="" unitH="inches" weight="" unitW="pounds" bYear="1993" country=""></p>
-                <p team="penguins" type="player" name="ruhwedel" num="2" pos="d" shot="r" height="71" unitH="inches" weight="191" unitW="pounds" bYear="1990" country="usa"></p>
-                <p team="penguins" type="player" name="schultz" num="4" pos="d" shot="r" height="74" unitH="inches" weight="193" unitW="pounds" bYear="1990" country="can"></p>
-                <p team="penguins" type="player" name="summer" num="55" pos="d" shot="l" height="74" unitH="inches" weight="207" unitW="pounds" bYear="1988" country="usa"></p>                        
+            <defense pos="d">
+                <p  name="dumoulin" num="8"  shot="l" height="76"  weight="207"  bYear="1991" country="usa"></p>
+                <p  name="elliott" num="24"  shot="r" height="73"  weight="190"  bYear="1991" country="can"></p>
+                <p  name="johnson" num="73"  shot="l" height="73"  weight="227"  bYear="1987" country="usa"></p>
+                <p  cap="assis" name="letang" num="58"  shot="r" height="72"  weight="201"  bYear="1987" country="can"></p>
+                <p  name="maatta" num="3"  shot="l" height="74"  weight="206"  bYear="1994" country="fin"></p>
+                <p  name="oleksiak" num="6"  shot="l" height="79"  weight="255"  bYear="1992" country="can"></p>
+                <p  name="riikola" num="50"  shot="" height=""  weight=""  bYear="1993" country=""></p>
+                <p  name="ruhwedel" num="2"  shot="r" height="71"  weight="191"  bYear="1990" country="usa"></p>
+                <p  name="schultz" num="4"  shot="r" height="74"  weight="193"  bYear="1990" country="can"></p>
+                <p  name="summer" num="55"  shot="l" height="74"  weight="207"  bYear="1988" country="usa"></p>                        
             </defense>
                     
-            <goalies>
-                <p team="penguins" type="player" name="desmith" num="1" pos="g" height="72" unitH="inches" weight="181" unitW="pounds" bYear="1991" country="usa"></p>
-                <p team="penguins" type="player" name="jarry" num="35" pos="g" height="74" unitH="inches" weight="194" unitW="pounds" bYear="1995" country="can"></p>
-                <p team="penguins" type="player" name="murray" num="30" pos="g" height="76" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="can"></p>                        
+            <goalies pos="g">
+                <p  name="desmith" num="1"  height="72"  weight="181"  bYear="1991" country="usa"></p>
+                <p  name="jarry" num="35"  height="74"  weight="194"  bYear="1995" country="can"></p>
+                <p  name="murray" num="30"  height="76"  weight="178"  bYear="1994" country="can"></p>                        
             </goalies>
 
         </players>
         
-        <coaches>
-            <c team="penguins" type="coach" name="sullivan" pos="head"></c>
-            <c team="penguins" type="coach" name="gonchar" pos="assistant"></c>
-            <c team="penguins" type="coach" name="martin" pos="assistant"></c>
-            <c team="penguins" type="coach" name="recchi" pos="assistant"></c>
-            <c team="penguins" type="coach" name="buckley" pos="goaltending"></c>
-            <c team="penguins" type="coach" name="saucier" pos="video"></c>
+        <coaches type="coach">
+            <c  name="sullivan" pos="head"></c>
+            <c  name="gonchar" pos="assistant"></c>
+            <c  name="martin" pos="assistant"></c>
+            <c  name="recchi" pos="assistant"></c>
+            <c  name="buckley" pos="goaltending"></c>
+            <c  name="saucier" pos="video"></c>
         </coaches>
 
     </organization>

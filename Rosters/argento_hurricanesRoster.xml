@@ -2,73 +2,73 @@
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     
-    <organization org="hurricanes">
+    <organization team="hurricanes">
         
-        <players>
+        <players type="player" unitH="inches" unitW="pounds">
             
             <forwards>
-                <p team="hurricanes" type="player" name="aho" num="20" pos="rw" shot="l" height="71" unitH="inches" weight="172" unitW="pounds" bYear="1997" country="fin"></p>
-                <p team="hurricanes" type="player" name="bishop" num="64" pos="c" shot="l" height="72" unitH="inches" weight="194" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="hurricanes" type="player" name="brown" num="36" pos="c" shot="r" height="73" unitH="inches" weight="216" unitW="pounds" bYear="1992" country="usa"></p>
-                <p team="hurricanes" type="player" name="giuseppe" num="7" pos="lw" shot="l" height="72" unitH="inches" weight="200" unitW="pounds" bYear="1993" country="can"></p>
-                <p team="hurricanes" type="player" name="farland" num="79" pos="lw" shot="l" height="74" unitH="inches" weight="208" unitW="pounds" bYear="1992" country="can"></p>
-                <p team="hurricanes" type="player" name="foegele" num="13" pos="lw" shot="l" height="74" unitH="inches" weight="190" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="hurricanes" type="player" name="gauthier" num="21" pos="rw" shot="r" height="76" unitH="inches" weight="225" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="hurricanes" type="player" name="geekie" num="45" pos="c" shot="r" height="74" unitH="inches" weight="178" unitW="pounds" bYear="1998" country="can"></p>
-                <p team="hurricanes" type="player" name="kuokkanen" num="59" pos="c" shot="l" height="73" unitH="inches" weight="188" unitW="pounds" bYear="1998" country="fin"></p>
-                <p team="hurricanes" type="player" name="lorentz" num="78" pos="c" shot="l" height="76" unitH="inches" weight="201" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="hurricanes" type="player" name="maenalanen" num="8" pos="rw" shot="l" height="75" unitH="inches" weight="185" unitW="pounds" bYear="1994" country="fin"></p>
-                <p team="hurricanes" type="player" name="martinook" num="48" pos="lw" shot="l" height="72" unitH="inches" weight="204" unitW="pounds" bYear="1992" country="can"></p>
-                <p team="hurricanes" type="player" name="mcginn" num="23" pos="lw" shot="l" height="72" unitH="inches" weight="185" unitW="pounds" bYear="1994" country="can"></p>
-                <p team="hurricanes" type="player" name="mckegg" num="42" pos="c" shot="l" height="72" unitH="inches" weight="191" unitW="pounds" bYear="1992" country="can"></p>
-                <p team="hurricanes" type="player" name="necas" num="88" pos="c" shot="r" height="73" unitH="inches" weight="167" unitW="pounds" bYear="1999" country="cze"></p>
-                <p team="hurricanes" type="player" name="poturalski" num="29" pos="c" shot="r" height="70" unitH="inches" weight="180" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="hurricanes" type="player" name="pu" num="61" pos="rw" shot="r" height="74" unitH="inches" weight="191" unitW="pounds" bYear="1998" country="can"></p>
-                <p team="hurricanes" type="player" name="rask" num="49" pos="c" shot="l" height="74" unitH="inches" weight="100" unitW="pounds" bYear="1993" country="swe"></p>
-                <p team="hurricanes" type="player" name="roy" num="58" pos="c" shot="r" height="76" unitH="inches" weight="208" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="hurricanes" type="player" name="saarela" num="15" pos="c" shot="l" height="71" unitH="inches" weight="198" unitW="pounds" bYear="1997" country="fin"></p>
-                <p team="hurricanes" type="player" name="smallman" num="75" pos="rw" shot="r" height="72" unitH="inches" weight="200" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="hurricanes" type="player" cap="capt" name="staal" num="11" pos="c" shot="l" height="76" unitH="inches" weight="220" unitW="pounds" bYear="1988" country="can"></p>
-                <p team="hurricanes" type="player" name="svechnikov" num="37" pos="rw" shot="l" height="74" unitH="inches" weight="188" unitW="pounds" bYear="2000" country="rus"></p>
-                <p team="hurricanes" type="player" name="teravainen" num="86" pos="lw" shot="l" height="71" unitH="inches" weight="178" unitW="pounds" bYear="1994" country="fin"></p>
-                <p team="hurricanes" type="player" name="wallmark" num="71" pos="c" shot="l" height="72" unitH="inches" weight="176" unitW="pounds" bYear="1995" country="swe"></p>
-                <p team="hurricanes" type="player" name="williams" num="14" pos="rw" shot="r" height="73" unitH="inches" weight="188" unitW="pounds" bYear="1981" country="can"></p>
-                <p team="hurricanes" type="player" name="zykov" num="73" pos="lw" shot="r" height="73" unitH="inches" weight="224" unitW="pounds" bYear="1995" country="rus"></p>
+                <p  name="aho" num="20" pos="rw" shot="l" height="71"  weight="172"  bYear="1997" country="fin"></p>
+                <p  name="bishop" num="64" pos="c" shot="l" height="72"  weight="194"  bYear="1996" country="can"></p>
+                <p  name="brown" num="36" pos="c" shot="r" height="73"  weight="216"  bYear="1992" country="usa"></p>
+                <p  name="giuseppe" num="7" pos="lw" shot="l" height="72"  weight="200"  bYear="1993" country="can"></p>
+                <p  name="farland" num="79" pos="lw" shot="l" height="74"  weight="208"  bYear="1992" country="can"></p>
+                <p  name="foegele" num="13" pos="lw" shot="l" height="74"  weight="190"  bYear="1996" country="can"></p>
+                <p  name="gauthier" num="21" pos="rw" shot="r" height="76"  weight="225"  bYear="1997" country="can"></p>
+                <p  name="geekie" num="45" pos="c" shot="r" height="74"  weight="178"  bYear="1998" country="can"></p>
+                <p  name="kuokkanen" num="59" pos="c" shot="l" height="73"  weight="188"  bYear="1998" country="fin"></p>
+                <p  name="lorentz" num="78" pos="c" shot="l" height="76"  weight="201"  bYear="1996" country="can"></p>
+                <p  name="maenalanen" num="8" pos="rw" shot="l" height="75"  weight="185"  bYear="1994" country="fin"></p>
+                <p  name="martinook" num="48" pos="lw" shot="l" height="72"  weight="204"  bYear="1992" country="can"></p>
+                <p  name="mcginn" num="23" pos="lw" shot="l" height="72"  weight="185"  bYear="1994" country="can"></p>
+                <p  name="mckegg" num="42" pos="c" shot="l" height="72"  weight="191"  bYear="1992" country="can"></p>
+                <p  name="necas" num="88" pos="c" shot="r" height="73"  weight="167"  bYear="1999" country="cze"></p>
+                <p  name="poturalski" num="29" pos="c" shot="r" height="70"  weight="180"  bYear="1994" country="usa"></p>
+                <p  name="pu" num="61" pos="rw" shot="r" height="74"  weight="191"  bYear="1998" country="can"></p>
+                <p  name="rask" num="49" pos="c" shot="l" height="74"  weight="100"  bYear="1993" country="swe"></p>
+                <p  name="roy" num="58" pos="c" shot="r" height="76"  weight="208"  bYear="1997" country="can"></p>
+                <p  name="saarela" num="15" pos="c" shot="l" height="71"  weight="198"  bYear="1997" country="fin"></p>
+                <p  name="smallman" num="75" pos="rw" shot="r" height="72"  weight="200"  bYear="1996" country="can"></p>
+                <p  cap="capt" name="staal" num="11" pos="c" shot="l" height="76"  weight="220"  bYear="1988" country="can"></p>
+                <p  name="svechnikov" num="37" pos="rw" shot="l" height="74"  weight="188"  bYear="2000" country="rus"></p>
+                <p  name="teravainen" num="86" pos="lw" shot="l" height="71"  weight="178"  bYear="1994" country="fin"></p>
+                <p  name="wallmark" num="71" pos="c" shot="l" height="72"  weight="176"  bYear="1995" country="swe"></p>
+                <p  name="williams" num="14" pos="rw" shot="r" height="73"  weight="188"  bYear="1981" country="can"></p>
+                <p  name="zykov" num="73" pos="lw" shot="r" height="73"  weight="224"  bYear="1995" country="rus"></p>
             </forwards>
 
-            <defense>
-                <p team="hurricanes" type="player" name="bean" num="24" pos="d" shot="l" height="73" unitH="inches" weight="173" unitW="pounds" bYear="1998" country="can"></p>
-                <p team="hurricanes" type="player" name="carrick" num="46" pos="d" shot="l" height="74" unitH="inches" weight="186" unitW="pounds" bYear="1994" country="can"></p>
-                <p team="hurricanes" type="player" name="haan" num="44" pos="d" shot="l" height="73" unitH="inches" weight="198" unitW="pounds" bYear="1991" country="can"></p>
-                <p team="hurricanes" type="player" cap="capt" name="faulk" num="27" pos="d" shot="r" height="72" unitH="inches" weight="215" unitW="pounds" bYear="1992" country="usa"></p>
-                <p team="hurricanes" type="player" name="fleury" num="4" pos="d" shot="l" height="75" unitH="inches" weight="221" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="hurricanes" type="player" name="fora" num="26" pos="d" shot="r" height="74" unitH="inches" weight="213" unitW="pounds" bYear="1995" country="che"></p>
-                <p team="hurricanes" type="player" name="hamilton" num="19" pos="d" shot="r" height="78" unitH="inches" weight="210" unitW="pounds" bYear="1993" country="can"></p>
-                <p team="hurricanes" type="player" name="mckeown" num="55" pos="d" shot="r" height="73" unitH="inches" weight="195" unitW="pounds" bYear="1996" country="can"></p>
-                <p team="hurricanes" type="player" name="pesce" num="22" pos="d" shot="r" height="75" unitH="inches" weight="200" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="hurricanes" type="player" name="renouf" num="76" pos="d" shot="l" height="74" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="can"></p>
-                <p team="hurricanes" type="player" name="slavin" num="74" pos="d" shot="l" height="75" unitH="inches" weight="205" unitW="pounds" bYear="1994" country="usa"></p>
-                <p team="hurricanes" type="player" name="riemsdyk" num="57" pos="d" shot="r" height="74" unitH="inches" weight="188" unitW="pounds" bYear="1991" country="usa"></p>
-                <p team="hurricanes" type="player" name="wesley" num="38" pos="d" shot="r" height="75" unitH="inches" weight="205" unitW="pounds" bYear="1996" country="usa"></p>
+            <defense pos="d">
+                <p  name="bean" num="24"  shot="l" height="73"  weight="173"  bYear="1998" country="can"></p>
+                <p  name="carrick" num="46"  shot="l" height="74"  weight="186"  bYear="1994" country="can"></p>
+                <p  name="haan" num="44"  shot="l" height="73"  weight="198"  bYear="1991" country="can"></p>
+                <p  cap="capt" name="faulk" num="27"  shot="r" height="72"  weight="215"  bYear="1992" country="usa"></p>
+                <p  name="fleury" num="4"  shot="l" height="75"  weight="221"  bYear="1996" country="can"></p>
+                <p  name="fora" num="26"  shot="r" height="74"  weight="213"  bYear="1995" country="che"></p>
+                <p  name="hamilton" num="19"  shot="r" height="78"  weight="210"  bYear="1993" country="can"></p>
+                <p  name="mckeown" num="55"  shot="r" height="73"  weight="195"  bYear="1996" country="can"></p>
+                <p  name="pesce" num="22"  shot="r" height="75"  weight="200"  bYear="1994" country="usa"></p>
+                <p  name="renouf" num="76"  shot="l" height="74"  weight="205"  bYear="1994" country="can"></p>
+                <p  name="slavin" num="74"  shot="l" height="75"  weight="205"  bYear="1994" country="usa"></p>
+                <p  name="riemsdyk" num="57"  shot="r" height="74"  weight="188"  bYear="1991" country="usa"></p>
+                <p  name="wesley" num="38"  shot="r" height="75"  weight="205"  bYear="1996" country="usa"></p>
             </defense>
 
-            <goalies>
-                <p team="hurricanes" type="player" name="booth" num="70" pos="g" height="76" unitH="inches" weight="191" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="hurricanes" type="player" name="darling" num="33" pos="g" height="78" unitH="inches" weight="232" unitW="pounds" bYear="1988" country="usa"></p>
-                <p team="hurricanes" type="player" name="helvig" num="50" pos="g" height="76" unitH="inches" weight="207" unitW="pounds" bYear="1997" country="can"></p>
-                <p team="hurricanes" type="player" name="mrazek" num="34" pos="g" height="74" unitH="inches" weight="181" unitW="pounds" bYear="1995" country="cze"></p>
-                <p team="hurricanes" type="player" name="ndeljkovic" num="35" pos="g" height="72" unitH="inches" weight="198" unitW="pounds" bYear="1996" country="usa"></p>
+            <goalies pos="g">
+                <p  name="booth" num="70"  height="76"  weight="191"  bYear="1997" country="can"></p>
+                <p  name="darling" num="33"  height="78"  weight="232"  bYear="1988" country="usa"></p>
+                <p  name="helvig" num="50"  height="76"  weight="207"  bYear="1997" country="can"></p>
+                <p  name="mrazek" num="34"  height="74"  weight="181"  bYear="1995" country="cze"></p>
+                <p  name="ndeljkovic" num="35"  height="72"  weight="198"  bYear="1996" country="usa"></p>
             </goalies>
 
         </players>
         
-        <coaches>
-            <c team="hurricanes" type="coach" name="amour" pos="head"></c>
-            <c team="hurricanes" type="coach" name="daniels" pos="assistant"></c>
-            <c team="hurricanes" type="coach" name="chynoweth" pos="assistant"></c>
-            <c team="hurricanes" type="coach" name="bales" pos="goaltending"></c>
-            <c team="hurricanes" type="coach" name="huffine" pos="video"></c>
-            <c team="hurricanes" type="coach" name="scarpace" pos="video"></c>
+        <coaches type="coach">
+            <c  name="amour" pos="head"></c>
+            <c  name="daniels" pos="assistant"></c>
+            <c  name="chynoweth" pos="assistant"></c>
+            <c  name="bales" pos="goaltending"></c>
+            <c  name="huffine" pos="video"></c>
+            <c  name="scarpace" pos="video"></c>
         </coaches>
 
     </organization>
