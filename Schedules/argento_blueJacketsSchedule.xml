@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="argentoScheduleSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<schedule>
+
+    <organization team="blueJackets">
+        <game day="mon" month="sep" date="17" year="2018" against="sabres" place="h" time="1900" season="pre"/>
+        <game day="tue" month="sep" date="18" year="2018" against="blackHawks" place="h" time="1900" season="pre"/>
+        <game day="fri" month="sep" date="21" year="2018" against="blues" place="a" time="2000" season="pre"/>
+        <game day="sat" month="sep" date="22" year="2018" against="penguins" place="a" time="1500" season="pre"/>
+        <game day="sun" month="sep" date="23" year="2018" against="blues" place="h" time="1500" season="pre"/>
+        <game day="tues" month="sep" date="25" year="2018" against="sabres" place="a" time="1900" season="pre"/>
+        <game day="fri" month="sep" date="28" year="2018" against="penguins" place="h" time="1900" season="pre"/>
+        <game day="sat" month="sep" date="29" year="2018" against="blackHawks" place="a" time="2000" season="pre"/>
+        <game day="thur" month="oct" date="4" year="2018" against="redWings" place="a" time="1930" season="reg"/>
+        <game day="fri" month="oct" date="5" year="2018" against="hurricanes" place="h" time="1900" season="reg"/>
+        
+    </organization>
+
+</schedule>

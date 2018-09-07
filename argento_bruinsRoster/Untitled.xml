@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Rosters/argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <organization team="bruins">
+        <players unitH="inches" unitW="pounds" type="player">
+            <forwards>
+                <p name="acciari" num="55" pos="c" height="70" weight="208" bYear="1991" country="usa"/>
+                <p name="backles" num="42" pos="rw" height="75" weight="221" bYear="1984" country="usa"
+            </forwards>
+            <defense pos="d">
+                <p name="" num="" height="" weight="" bYear="" country=""></p>
+            </defense>
+            <goalies pos="g">
+                <p name="" num="" height="" weight="" bYear="" country=""></p>
+            </goalies>
+        </players>
+        <coaches type="coach">
+            <c name="" pos=""></c>
+        </coaches>
+    </organization>    
+</roster>

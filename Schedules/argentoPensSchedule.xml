@@ -93,6 +93,6 @@
             <game day="thur" month="apr" date="4" year="2019" against="redWings" place="h" time="1900" season="reg"/>
             <game day="sat" month="apr" date="6" year="2019" against="rangers" place="h" time="1900" season="reg"/>
 
-        </>
+        </organization>
 
     </schedule>
