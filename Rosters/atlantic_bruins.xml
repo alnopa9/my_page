@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../Rosters/argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-
     <organization team="bruins">
-
         <players unitH="inches" unitW="pounds" type="player">
-
             <forwards>
                 <p name="acciari" num="55" pos="c" shot="r" height="70" weight="208" bYear="1991" country="usa"/>
                 <p name="backles" num="42" pos="rw" shot="r" height="75" weight="221" bYear="1984" country="usa"/>
@@ -36,7 +33,6 @@
                 <p name="szwarz" num="21" pos="rw" shot="r" height="71" weight="200" bYear="1991" country="can"/>
                 <p name="wagner" num="14" pos="rw" shot="r" height="72" weight="198" bYear="1991" country="usa"/>
             </forwards>
-
             <defense pos="d">
                 <p name="andersson" num="" shot="r" height="72" weight="178" bYear="2000" country="swe"/>
                 <p name="carlo" num="25" shot="r" height="77" weight="208" bYear="1996" country="usa"/>
@@ -55,7 +51,6 @@
                 <p name="vaakanainen" num="" shot="l" height="73" weight="185" bYear="1999" country="fin"/>
                 <p name="zboril" num="67" shot="l" height="72" weight="200" bYear="1997" country="cze"/>
             </defense>
-
             <goalies pos="g">
                 <p name="halak" num="41" height="71" weight="183" bYear="1985" country="svk"/>
                 <p name="keyser" num="" height="" weight="" bYear="1999" country="usa"/>
@@ -63,9 +58,7 @@
                 <p name="rask" num="40" height="75" weight="176" bYear="1987" country="fin"/>
                 <p name="vladar" num="80" height="77" weight="185" bYear="1997" country="cze"/>
             </goalies>
-
         </players>
-
         <coaches type="coach">
             <c name="cassidy" pos="head"/>
             <c name="pandolfo" pos="assistant"/>
@@ -74,7 +67,5 @@
             <c name="essensa" pos="goaltending"/>
             <c name="buckley" pos="video"/>
         </coaches>
-
     </organization>    
-
 </roster>

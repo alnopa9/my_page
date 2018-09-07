@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-
     <organization team="penguins">
-
         <players type="player" unitH="inches" unitW="pounds">
-
             <forwards>
                 <p name="astonReese" num="46" pos="c" shot="l" height="72" weight="204" bYear="1994" country="usa"/>
                 <p name="blueger" num="53" pos="c" shot="l" height="72" weight="185" bYear="1994" country="lva"/>
@@ -29,7 +26,6 @@
                 <p name="sprong" num="41" pos="rw" shot="r" height="72" weight="180" bYear="1997" country="nld"/>
                 <p name="wilson" num="10" pos="lw" shot="l" height="74" weight="199" bYear="1991" country="can"/>
             </forwards>
-
             <defense pos="d">
                 <p name="dumoulin" num="8" shot="l" height="76" weight="207" bYear="1991" country="usa"/>
                 <p name="elliott" num="24" shot="r" height="73" weight="190" bYear="1991" country="can"/>
@@ -42,15 +38,12 @@
                 <p name="schultz" num="4" shot="r" height="74" weight="193" bYear="1990" country="can"/>
                 <p name="summer" num="55" shot="l" height="74" weight="207" bYear="1988" country="usa"/>
             </defense>
-
             <goalies pos="g">
                 <p name="desmith" num="1" height="72" weight="181" bYear="1991" country="usa"/>
                 <p name="jarry" num="35" height="74" weight="194" bYear="1995" country="can"/>
                 <p name="murray" num="30" height="76" weight="178" bYear="1994" country="can"/>
             </goalies>
-
         </players>
-
         <coaches type="coach">
             <c name="sullivan" pos="head"/>
             <c name="gonchar" pos="assistant"/>
@@ -59,7 +52,5 @@
             <c name="buckley" pos="goaltending"/>
             <c name="saucier" pos="video"/>
         </coaches>
-
     </organization>
-
 </roster>

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-
     <organization team="hurricanes">
-
         <players type="player" unitH="inches" unitW="pounds">
-
             <forwards>
                 <p name="aho" num="20" pos="rw" shot="l" height="71" weight="172" bYear="1997" country="fin"/>
                 <p name="bishop" num="64" pos="c" shot="l" height="72" weight="194" bYear="1996" country="can"/>
@@ -35,7 +32,6 @@
                 <p name="williams" num="14" pos="rw" shot="r" height="73" weight="188" bYear="1981" country="can"/>
                 <p name="zykov" num="73" pos="lw" shot="r" height="73" weight="224" bYear="1995" country="rus"/>
             </forwards>
-
             <defense pos="d">
                 <p name="bean" num="24" shot="l" height="73" weight="173" bYear="1998" country="can"/>
                 <p name="carrick" num="46" shot="l" height="74" weight="186" bYear="1994" country="can"/>
@@ -51,7 +47,6 @@
                 <p name="riemsdyk" num="57" shot="r" height="74" weight="188" bYear="1991" country="usa"/>
                 <p name="wesley" num="38" shot="r" height="75" weight="205" bYear="1996" country="usa"/>
             </defense>
-
             <goalies pos="g">
                 <p name="booth" num="70" height="76" weight="191" bYear="1997" country="can"/>
                 <p name="darling" num="33" height="78" weight="232" bYear="1988" country="usa"/>
@@ -59,9 +54,7 @@
                 <p name="mrazek" num="34" height="74" weight="181" bYear="1995" country="cze"/>
                 <p name="ndeljkovic" num="35" height="72" weight="198" bYear="1996" country="usa"/>
             </goalies>
-
         </players>
-
         <coaches type="coach">
             <c name="amour" pos="head"/>
             <c name="daniels" pos="assistant"/>
@@ -70,7 +63,5 @@
             <c name="huffine" pos="video"/>
             <c name="scarpace" pos="video"/>
         </coaches>
-
     </organization>
-
 </roster>

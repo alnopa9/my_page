@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-
     <organization team="blueJackets">
-
         <players type="player" unitH="inches" unitW="pounds">
-
             <forwards>
                 <p name="abramov" num="79" pos="rw" shot="l" height="69" weight="171" bYear="1998" country="rus"/>
                 <p name="anderson" num="77" pos="rw" shot="r" height="75" weight="221" bYear="1994" country="can"/>
@@ -37,7 +34,6 @@
                 <p name="vigneault" num="83" pos="c" shot="l" height="77" weight="203" bYear="1995" country="can"/>
                 <p name="wennberg" num="10" pos="c" shot="l" height="74" weight="196" bYear="1994" country="swe"/>
             </forwards>
-
             <defense pos="d">
                 <p name="clendening" num="" shot="r" height="72" weight="196" bYear="1992" country="usa"/>
                 <p name="cross" num="56" shot="l" height="75" weight="205" bYear="1989" country="usa"/>
@@ -52,15 +48,12 @@
                 <p name="somerby" num="33" shot="l" height="78" weight="218" bYear="1994" country="usa"/>
                 <p name="werenski" num="8" shot="l" height="74" weight="209" bYear="1997" country="usa"/>
             </defense>
-
             <goalies pos="g">
                 <p name="berube" num="" height="73" weight="177" bYear="1991" country="can"/>
                 <p name="bobrovsky" num="72" height="74" weight="182" bYear="1988" country="rus"/>
                 <p name="korpisalo" num="70" height="75" weight="182" bYear="1994" country="fin"/>
             </goalies>
-
         </players>
-
         <coaches type="coach">
             <c name="tortorella" pos="head"/>
             <c name="larsen" pos="assistant"/>
@@ -69,7 +62,5 @@
             <c name="legace" pos="goaltending"/>
             <c name="singleton" pos="video"/>
         </coaches>
-
     </organization>
-
 </roster>

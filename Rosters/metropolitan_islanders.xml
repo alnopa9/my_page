@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-
     <organization team="islanders">
-
         <players type="player" unitH="inches" unitW="pounds">
-
             <forwards>
                 <p name="bailey" num="12" pos="rw" shot="l" height="73" weight="203" bYear="1989" country="can"/>
                 <p name="barzal" num="13" pos="c" shot="r" height="72" weight="189" bYear="1997" country="can"/>
@@ -28,7 +25,6 @@
                 <p name="sislo" num="" pos="rw" shot="r" height="71" weight="190" bYear="1988" country="usa"/>
                 <p name="denis" num="" pos="c" shot="" height="" weight="" bYear="1992" country=""/>
             </forwards>
-
             <defense pos="d">
                 <p name="boychuk" num="55" shot="r" height="74" weight="227" bYear="1984" country="can"/>
                 <p name="dobson" num="" shot="r" height="75" weight="180" bYear="2000" country="can"/>
@@ -40,16 +36,13 @@
                 <p name="pulock" num="6" shot="r" height="74" weight="214" bYear="1994" country="can"/>
                 <p name="rathgeb" num="" shot="" height="" weight="" bYear="1995" country=""/>
             </defense>
-
             <goalies pos="g">
                 <p name="greiss" num="1" height="73" weight="227" bYear="1986" country="deu"/>
                 <p name="lehner" num="40" height="76" weight="245" bYear="1991" country="swe"/>
                 <p name="skarek" num="" height="75" weight="196" bYear="1999" country="cze"/>
                 <p name="soderstrom" num="" height="77" weight="196" bYear="1996" country="swe"/>
             </goalies>
-
         </players>
-
         <coaches type="coach">
             <c name="trotz" pos="head"/>
             <c name="lambert" pos="assistant"/>
@@ -57,7 +50,5 @@
             <c name="gomez" pos="assistant"/>
             <c name="greco" pos="goaltending"/>
         </coaches>
-
     </organization>
-
 </roster>

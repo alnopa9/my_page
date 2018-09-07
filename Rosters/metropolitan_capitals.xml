@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-
     <organization team="capitals">
-
         <players type="player" unitH="inches" unitW="pounds">
-
             <forwards>
                 <p cap="assis" name="backstrom" num="19" pos="c" shot="l" height="73" weight="210" bYear="1987" country="swe"/>
                 <p name="boyd" num="72" pos="c" shot="l" height="71" weight="185" bYear="1993" country="usa"/>
@@ -27,7 +24,6 @@
                 <p name="walker" num="79" pos="lw" shot="l" height="69" weight="186" bYear="1994" country="gbr"/>
                 <p name="wilson" num="43" pos="rw" shot="r" height="76" weight="218" bYear="1994" country="can"/>
             </forwards>
-
             <defense pos="d">
                 <p name="bowey" num="22" shot="r" height="74" weight="198" bYear="198" country="can"/>
                 <p name="carlson" num="74" shot="r" height="75" weight="218" bYear="1990" country="usa"/>
@@ -37,22 +33,17 @@
                 <p name="orlov" num="9" shot="l" height="71" weight="212" bYear="1991" country="rus"/> 
                 <p cap="assis" name="orpik" num="44" shot="l" height="75" weight="217" bYear="1980" country="usa"/>
             </defense>
-
             <goalies pos="g">
                 <p name="copley" num="1" height="76" weight="200" bYear="1992" country="usa"/>
                 <p name="holtby" num="70" height="74" weight="211" bYear="1989" country="rus"/>
                 <p name="samsonov" num="30" height="75" weight="200" bYear="1997" country="rus"/>
             </goalies>
-
         </players>
-
         <coaches type="coach">
             <c name="reirden" pos="head"/>
             <c name="forsythe" pos="assistant"/>
             <c name="murray" pos="goaltending"/>
             <c name="leonhardt" pos="video"/>
         </coaches>
-
     </organization>
-
 </roster>

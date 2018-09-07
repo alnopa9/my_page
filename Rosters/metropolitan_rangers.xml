@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-
     <organization team="rangers">
-
         <players type="player" unitH="inches" unitW="pounds">
-
             <forwards>
                 <p name="beleskey" num="39" pos="lw" shot="l" height="72" weight="203" bYear="1988" country="can"/>
                 <p name="buchnevich" num="89" pos="rw" shot="l" height="74" weight="191" bYear="1995" country="rus"/>
@@ -28,7 +25,6 @@
                 <p name="zibanejad" num="93" pos="c" shot="r" height="74" weight="227" bYear="1993" country="swe"/>
                 <p cap="assis" name="zuccarello" num="36" pos="rw" shot="l" height="68" weight="179" bYear="1987" country="nor"/>
             </forwards>
-
             <defense pos="d">
                 <p name="bigras" num="" shot="l" height="73" weight="190" bYear="1995" country="can"/>
                 <p name="claesson" num="" shot="l" height="73" weight="200" bYear="1992" country="swe"/>
@@ -45,7 +41,6 @@
                 <p name="skjei" num="76" shot="l" height="75" weight="211" bYear="1994" country="usa"/>
                 <p cap="assis" name="staal" num="18" shot="l" height="76" weight="209" bYear="1987" country="can"/>
             </defense>
-
             <goalies pos="g">
                 <p name="georgiev" num="40" height="73" weight="180" bYear="1996" country="bgr"/>
                 <p name="halverson" num="75" height="76" weight="209" bYear="1996" country="usa"/>
@@ -53,9 +48,7 @@
                 <p name="mazanec" num="" height="76" weight="187" bYear="1991" country="cze"/>
                 <p name="tokarski" num="35" height="72" weight="204" bYear="1989" country="can"/>
             </goalies>
-
         </players>
-
         <coaches type="coach">
             <c name="quinn" pos="head"/>
             <c name="brown" pos="assistant"/>
@@ -64,7 +57,5 @@
             <c name="allaire" pos="goaltending"/>
             <c name="dineen" pos="video"/>
         </coaches>
-
     </organization>
-
 </roster>
