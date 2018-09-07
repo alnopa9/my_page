@@ -4,8 +4,11 @@
     <organization team="bruins">
         <players unitH="inches" unitW="pounds" type="player">
             <forwards>
-                <p name="acciari" num="55" pos="c" height="70" weight="208" bYear="1991" country="usa"/>
-                <p name="backles" num="42" pos="rw" height="75" weight="221" bYear="1984" country="usa"
+                <p name="acciari" num="55" pos="c" shot="r" height="70" weight="208" bYear="1991" country="usa"/>
+                <p name="backles" num="42" pos="rw" shot="r" height="75" weight="221" bYear="1984" country="usa"/>
+                <p name="bakos" num="" pos="rw" shot="r" height="74" weight="198" bYear="1990" country="svk"/>
+                <p cap="assis" name="bergeron" num="37" pos="c" shot="r" height="73" weight="195" bYear="1985" country="can"/>
+                <p 
             </forwards>
             <defense pos="d">
                 <p name="" num="" height="" weight="" bYear="" country=""></p>
