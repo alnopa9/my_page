@@ -1,20 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-    <organization team="">
-        <players unitH="" unitW="" type="">
+    <organization team="sabres">
+        <players unitH="inches" unitW="pounds" type="player">
             <forwards>
-                <p name="" num="" height="" weight="" bYear="" country=""></p>
+                <p name="berglund" num="" pos="c" shot="l" height="76" weight="219" bYear="1988" country="swe"/>
+                <p cap="assis" name="eichel" num="9" pos="c" shot="r" height="74" weight="206" bYear="1996" country="usa"/>
+                <p name="girgensons" num="28" pos="c" shot="l" height="74" weight="207" bYear="1994" country="lva"/>
+                <p name="larsson" num="22" pos="c" shot="l" height="71" weight="198" bYear="1992" country="usa"/>
+                <p name="mittelstadt" num="37" pos="c" shot="l" height="73" weight="201" bYear="1998" country="usa"/>
+                <p cap="assis" name="okposo" num="21" pos="rw" shot="r" height="72" weight="220" bYear="1988" country="usa"/>
+                <p name="pominville" num="29" pos="rw" shot="r" height="72" weight="180" bYear="1982" country="can"/>
+                <p name="reinhart" num="23" pos="c" shot="r" height="73" weight="192" bYear="1995" country="can"/>
+                <p name="rodrigues" num="71" pos="lw" shot="r" height="71" weight="192" bYear="1993" country="can"/>
+                <p name="sheary" num="43" pos="lw" shot="l" height="68" weight="175" bYear="1992" country="usa"/>
+                <p name="skinner" num="53" pos="c" shot="l" height="71" weight="200" bYear="1992" country="can"/>
+                <p name="sobotka" num="" pos="c" shot="l" height="68" weight="184" bYear="1987" country="cze"/>
+                <p name="thompson" num="72" pos="c" shot="r" height="77" weight="205" bYear="1997" country="usa"/>
+                <p name="wilson" num="20" pos="c" shot="l" height="71" weight="183" bYear="1992" country="can"/>
             </forwards>
-            <defense pos="">
-                <p name="" num="" height="" weight="" bYear="" country=""></p>
+            <defense pos="d">
+                <p name="beaulieu" num="82" shot="l" height="74" weight="200" bYear="1992" country="can"/>
+                <p cap="assis" injuredReserve="yes" name="bogosian" num="82" height="75" weight="221" bYear="1990" country="usa"/>
+                <p name="hunwick" num="" shot="l" height="71" weight="200" bYear="1985" country="usa"/>
+                <p name="macabe" injuredReserve="yes" num="19" shot="l" height="73" weight="210" bYear="1993" country="usa"/>
+                <p name="ristolainen" num="55" shot="r" height="76" weight="218" bYear="1994" country="fin"/>
+                <p name="scandella" num="6" shot="l" height="75" weight="208" bYear="1990" country="can"/>
             </defense>
-            <goalies pos="">
-                <p name="" num="" height="" weight="" bYear="" country=""></p>
+            <goalies pos="g">
+                <p name="hutton" num="" height="73" weight="202" bYear="1985" country="can"/>
             </goalies>
         </players>
-        <coaches type="">
-            <c name="" pos=""></c>
+        <coaches type="coach">
+            <c name="housley" pos="head"/>
+            <c name="payne" pos="assistant"/>
+            <c name="smith" pos="assistant"/>
+            <c name="hajt" pos="assistant"/>
+            <c name="ward" pos="assistant"/>
+            <c name="allen" pos="goaltending"/>
+            <c name="myers" pos="video"/>
         </coaches>
     </organization>    
 </roster>
