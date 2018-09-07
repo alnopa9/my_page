@@ -1,98 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoScheduleSchema.rnc" type="application/relax-ng-compact-syntax"?>
-    <schedule>
-    
-        <organization team="penguins">
-
-            <game day="tues" month="sept" date="18" year="2018" against="sabres" place="a" time="1900" season="pre"/>
-            <game day="wed" month="sept" date="19" year="2018" against="redWings" place="a" time="1930" season="pre"/>
-            <game day="sat" month="sept" date="22" year="2018" against="blueJackets" place="h" time="1500" season="pre"/>
-            <game day="sun" month="sept" date="23" year="2018" against="redWings" place="h" time="1500" season="pre"/>
-            <game day="wed" month="sept" date="26" year="2018" against="sabres" place="h" time="1900" season="pre"/>
-            <game day="fri" month="sept" date="28" year="2018" against="blueJackets" place="a" time="1900" season="pre"/>
-            <game day="thur" month="oct" date="4" year="2018" against="capitals" place="h" time="1900" season="reg"/>
-            <game day="sat" month="oct" date="6" year="2018" against="canadiens" place="h" time="1900" season="reg"/>
-            <game day="thur" month="oct" date="11" year="2018" against="goldenKnights" place="h" time="1900" season="reg"/>
-            <game day="sat" month="oct" date="13" year="2018" against="canadiens" place="a" time="1900" season="reg"/>
-            <game day="tues" month="oct" date="16" year="2018" against="canucks" place="h" time="1900" season="reg"/>
-            <game day="thur" month="oct" date="18" year="2018" against="mapleLeafs" place="a" time="1900" season="reg"/>
-            <game day="tues" month="oct" date="23" year="2018" against="oilers" place="a" time="2100" season="reg"/>
-            <game day="thur" month="oct" date="25" year="2018" against="flames" place="a" time="2100" season="reg"/>
-            <game day="sat" month="oct" date="27" year="2018" against="canucks" place="a" time="2200" season="reg"/>
-            <game day="tues" month="oct" date="30" year="2018" against="islanders" place="h" time="1900" season="reg"/>
-            <game day="thur" month="nov" date="1" year="2018" against="islanders" place="a" time="1900" season="reg"/>
-            <game day="sat" month="nov" date="3" year="2018" against="mapleLeafs" place="a" time="1900" season="reg"/>
-            <game day="mon" month="nov" date="5" year="2018" against="devils" place="h" time="1900" season="reg"/>
-            <game day="wed" month="nov" date="7" year="2018" against="capitals" place="a" time="1930" season="reg"/>
-            <game day="sat" month="nov" date="10" year="2018" against="coyotes" place="h" time="1900" season="reg"/>
-            <game day="tues" month="nov" date="13" year="2018" against="devils" place="a" time="1900" season="reg"/>
-            <game day="thur" month="nov" date="15" year="2018" against="lightning" place="h" time="1900" season="reg"/>
-            <game day="sat" month="nov" date="17" year="2018" against="senators" place="a" time="1900" season="reg"/>
-            <game day="mon" month="nov" date="19" year="2018" against="sabres" place="h" time="1900" season="reg"/>
-            <game day="wed" month="nov" date="21" year="2018" against="stars" place="h" time="1900" season="reg"/>
-            <game day="fri" month="nov" date="23" year="2018" against="bruins" place="a" time="1930" season="reg"/>
-            <game day="sat" month="nov" date="24" year="2018" against="blueJackets" place="h" time="1900" season="reg"/>
-            <game day="tues" month="nov" date="27" year="2018" against="jets" place="a" time="2000" season="reg"/>
-            <game day="wed" month="nov" date="28" year="2018" against="avalanche" place="a" time="2130" season="reg"/>
-            <game day="sat" month="dec" date="1" year="2018" against="flyers" place="h" time="1900" season="reg"/>
-            <game day="tues" month="dec" date="4" year="2018" against="avalanche" place="h" time="1900" season="reg"/>
-            <game day="thur" month="dec" date="6" year="2018" against="islanders" place="h" time="1900" season="reg"/>
-            <game day="sat" month="dec" date="8" year="2018" against="senators" place="a" time="1900" season="reg"/>
-            <game day="mon" month="dec" date="10" year="2018" against="islanders" place="a" time="1900" season="reg"/>
-            <game day="wed" month="dec" date="12" year="2018" against="blackhawks" place="a" time="2000" season="reg"/>
-            <game day="fri" month="dec" date="14" year="2018" against="bruins" place="h" time="1900" season="reg"/>
-            <game day="sat" month="dec" date="15" year="2018" against="kings" place="h" time="1900" season="reg"/>
-            <game day="mon" month="dec" date="17" year="2018" against="ducks" place="h" time="1900" season="reg"/>
-            <game day="wed" month="dec" date="19" year="2018" against="capitals" place="a" time="2000" season="reg"/>
-            <game day="thur" month="dec" date="20" year="2018" against="wild" place="h" time="1900" season="reg"/>
-            <game day="sat" month="dec" date="22" year="2018" against="hurricanes" place="a" time="1900" season="reg"/>
-            <game day="thur" month="dec" date="27" year="2018" against="redWings" place="h" time="1900" season="reg"/>
-            <game day="sat" month="dec" date="29" year="2018" against="blues" place="h" time="2000" season="reg"/>
-            <game day="mon" month="dec" date="31" year="2018" against="wild" place="a" time="1800" season="reg"/>
-            <game day="wed" month="jan" date="2" year="2019" against="rangers" place="a" time="1900" season="reg"/>
-            <game day="fri" month="jan" date="4" year="2019" against="jets" place="h" time="1900" season="reg"/>
-            <game day="sun" month="jan" date="6" year="2019" against="blackhawks" place="h" time="2000" season="reg"/>
-            <game day="tues" month="jan" date="8" year="2019" against="panthers" place="h" time="1900" season="reg"/>
-            <game day="fri" month="jan" date="11" year="2019" against="ducks" place="a" time="2200" season="reg"/>
-            <game day="sat" month="jan" date="12" year="2019" against="kings" place="a" time="2230" season="reg"/>
-            <game day="tues" month="jan" date="15" year="2019" against="sharks" place="a" time="2200" season="reg"/>
-            <game day="fri" month="jan" date="18" year="2019" against="coyotes" place="a" time="2100" season="reg"/>
-            <game day="sat" month="jan" date="19" year="2019" against="goldenKnights" place="a" time="2200" season="reg"/>
-            <game day="mon" month="jan" date="28" year="2019" against="devils" place="h" time="1900" season="reg"/>
-            <game day="wed" month="jan" date="30" year="2019" against="lightning" place="h" time="2000" season="reg"/>
-            <game day="fri" month="feb" date="1" year="2019" against="senators" place="h" time="1900" season="reg"/>
-            <game day="sat" month="feb" date="2" year="2019" against="mapleLeafs" place="a" time="1900" season="reg"/>
-            <game day="tues" month="feb" date="5" year="2019" against="hurricanes" place="a" time="1900" season="reg"/>
-            <game day="thur" month="feb" date="7" year="2019" against="panthers" place="a" time="1900" season="reg"/>
-            <game day="sat" month="feb" date="9" year="2019" against="lightning" place="a" time="1900" season="reg"/>
-            <game day="mon" month="feb" date="11" year="2019" against="flyers" place="a" time="1900" season="reg"/>
-            <game day="wed" month="feb" date="13" year="2019" against="oilers" place="h" time="2000" season="reg"/>
-            <game day="sat" month="feb" date="16" year="2019" against="flames" place="h" time="1300" season="reg"/>
-            <game day="sun" month="feb" date="17" year="2019" against="islanders" place="h" time="1230" season="reg"/>
-            <game day="tues" month="feb" date="19" year="2019" against="devils" place="a" time="1900" season="reg"/>
-            <game day="thur" month="feb" date="21" year="2019" against="sharks" place="h" time="1900" season="reg"/>
-            <game day="sat" month="feb" date="23" year="2019" against="flyers" place="h" time="1900" season="reg"/>
-            <game day="tues" month="feb" date="26" year="2019" against="blueJackets" place="a" time="1900" season="reg"/>
-            <game day="fri" month="mar" date="1" year="2019" against="sabres" place="a" time="1900" season="reg"/>
-            <game day="sat" month="mar" date="2" year="2019" against="canadiens" place="a" time="1900" season="reg"/>
-            <game day="tues" month="mar" date="5" year="2019" against="panthers" place="h" time="1900" season="reg"/>
-            <game day="thur" month="mar" date="7" year="2019" against="blueJackets" place="h" time="1900" season="reg"/>
-            <game day="sat" month="mar" date="9" year="2019" against="blueJackets" place="a" time="1900" season="reg"/>
-            <game day="sun" month="mar" date="10" year="2019" against="bruins" place="h" time="1930" season="reg"/>
-            <game day="tues" month="mar" date="12" year="2019" against="capitals" place="h" time="1900" season="reg"/>
-            <game day="thur" month="mar" date="14" year="2019" against="sabres" place="a" time="1900" season="reg"/>
-            <game day="sat" month="mar" date="16" year="2019" against="blues" place="h" time="1300" season="reg"/>
-            <game day="sun" month="mar" date="17" year="2019" against="flyers" place="h" time="1930" season="reg"/>
-            <game day="tues" month="mar" date="19" year="2019" against="hurricanes" place="a" time="1900" season="reg"/>
-            <game day="thur" month="mar" date="21" year="2019" against="predators" place="a" time="2000" season="reg"/>
-            <game day="sat" month="mar" date="23" year="2019" against="stars" place="a" time="2000" season="reg"/>
-            <game day="mon" month="mar" date="25" year="2019" against="rangers" place="a" time="1900" season="reg"/>
-            <game day="fri" month="mar" date="29" year="2019" against="predators" place="h" time="1900" season="reg"/>
-            <game day="sun" month="mar" date="31" year="2019" against="hurricanes" place="h" time="1700" season="reg"/>
-            <game day="tues" month="apr" date="2" year="2019" against="redWings" place="a" time="1930" season="reg"/>
-            <game day="thur" month="apr" date="4" year="2019" against="redWings" place="h" time="1900" season="reg"/>
-            <game day="sat" month="apr" date="6" year="2019" against="rangers" place="h" time="1900" season="reg"/>
-
-        </organization>
-
-    </schedule>
+<schedule>
+    <organization team="penguins">
+        <year term="2018">
+            <season type="pre">
+                <month m="sep">
+                    <game day="tue" date="18" against="sabres" place="a" time="1900"/>
+                    <game day="wed" date="19" against="redWings" place="a" time="1930"/>
+                    <game day="sat" date="22" against="blueJackets" place="h" time="1500"/>
+                    <game day="sun" date="23" against="redWings" place="h" time="1500"/>
+                    <game day="wed" date="26" against="sabres" place="h" time="1900"/>
+                    <game day="fri" date="28" against="blueJackets" place="a" time="1900"/>
+                </month>
+            </season>
+            <season type="reg">
+                <month m="oct">
+                    <game day="thu" date="4" against="capitals" place="h" time="1900"/>
+                    <game day="sat" date="6" against="canadiens" place="h" time="1900"/>
+                    <game day="thu" date="11" against="goldenKnights" place="h" time="1900"/>
+                    <game day="sat" date="13" against="canadiens" place="a" time="1900"/>
+                    <game day="tue" date="16" against="canucks" place="h" time="1900"/>
+                    <game day="thu" date="18" against="mapleLeafs" place="a" time="1900"/>
+                    <game day="tue" date="23" against="oilers" place="a" time="2100"/>
+                    <game day="thu" date="25" against="flames" place="a" time="2100"/>
+                    <game day="sat" date="27" against="canucks" place="a" time="2200"/>
+                    <game day="tue" date="30" against="islanders" place="h" time="1900"/>
+                </month>
+                <month m="nov">
+                    <game day="thu" date="1" against="islanders" place="a" time="1900"/>
+                    <game day="sat" date="3" against="mapleLeafs" place="a" time="1900"/>
+                    <game day="mon" date="5" against="devils" place="h" time="1900"/>
+                    <game day="wed" date="7" against="capitals" place="a" time="1930"/>
+                    <game day="sat" date="10" against="coyotes" place="h" time="1900"/>
+                    <game day="tue" date="13" against="devils" place="a" time="1900"/>
+                    <game day="thu" date="15" against="lightning" place="h" time="1900"/>
+                    <game day="sat" date="17" against="senators" place="a" time="1900"/>
+                    <game day="mon" date="19" against="sabres" place="h" time="1900"/>
+                    <game day="wed" date="21" against="stars" place="h" time="1900"/>
+                    <game day="fri" date="23" against="bruins" place="a" time="1930"/>
+                    <game day="sat" date="24" against="blueJackets" place="h" time="1900"/>
+                    <game day="tue" date="27" against="jets" place="a" time="2000"/>
+                    <game day="wed" date="28" against="avalanche" place="a" time="2130"/>
+                </month>
+                <month m="dec">
+                    <game day="sat" date="1" against="flyers" place="h" time="1900"/>
+                    <game day="tue" date="4" against="avalanche" place="h" time="1900"/>
+                    <game day="thu" date="6" against="islanders" place="h" time="1900"/>
+                    <game day="sat" date="8" against="senators" place="a" time="1900"/>
+                    <game day="mon" date="10" against="islanders" place="a" time="1900"/>
+                    <game day="wed" date="12" against="blackHawks" place="a" time="2000"/>
+                    <game day="fri" date="14" against="bruins" place="h" time="1900"/>
+                    <game day="sat" date="15" against="kings" place="h" time="1900"/>
+                    <game day="mon" date="17" against="ducks" place="h" time="1900"/>
+                    <game day="wed" date="19" against="capitals" place="a" time="2000"/>
+                    <game day="thu" date="20" against="wild" place="h" time="1900"/>
+                    <game day="sat" date="22" against="hurricanes" place="a" time="1900"/>
+                    <game day="thu" date="27" against="redWings" place="h" time="1900"/>
+                    <game day="sat" date="29" against="blues" place="h" time="2000"/>
+                    <game day="mon" date="31" against="wild" place="a" time="1800"/>
+                </month>
+            </season>
+        </year>
+        <year term="2019">
+            <season type="reg">
+                <month m="jan">
+                    <game day="wed" date="2" against="rangers" place="a" time="1900"/>
+                    <game day="fri" date="4" against="jets" place="h" time="1900"/>
+                    <game day="sun" date="6" against="blackHawks" place="h" time="2000"/>
+                    <game day="tue" date="8" against="panthers" place="h" time="1900"/>
+                    <game day="fri" date="11" against="ducks" place="a" time="2200"/>
+                    <game day="sat" date="12" against="kings" place="a" time="2230"/>
+                    <game day="tue" date="15" against="sharks" place="a" time="2200"/>
+                    <game day="fri" date="18" against="coyotes" place="a" time="2100"/>
+                    <game day="sat" date="19" against="goldenKnights" place="a" time="2200"/>
+                    <game day="mon" date="28" against="devils" place="h" time="1900"/>
+                    <game day="wed" date="30" against="lightning" place="h" time="2000"/>
+                </month>
+                <month m="feb">
+                    <game day="fri" date="1" against="senators" place="h" time="1900"/>
+                    <game day="sat" date="2" against="mapleLeafs" place="a" time="1900"/>
+                    <game day="tue" date="5" against="hurricanes" place="a" time="1900"/>
+                    <game day="thu" date="7" against="panthers" place="a" time="1900"/>
+                    <game day="sat" date="9" against="lightning" place="a" time="1900"/>
+                    <game day="mon" date="11" against="flyers" place="a" time="1900"/>
+                    <game day="wed" date="13" against="oilers" place="h" time="2000"/>
+                    <game day="sat" date="16" against="flames" place="h" time="1300"/>
+                    <game day="sun" date="17" against="islanders" place="h" time="1230"/>
+                    <game day="tue" date="19" against="devils" place="a" time="1900"/>
+                    <game day="thu" date="21" against="sharks" place="h" time="1900"/>
+                    <game day="sat" date="23" against="flyers" place="h" time="1900"/>
+                    <game day="tue" date="26" against="blueJackets" place="a" time="1900"/>
+                </month>
+                <month m="mar">
+                    <game day="fri" date="1" against="sabres" place="a" time="1900"/>
+                    <game day="sat" date="2" against="canadiens" place="a" time="1900"/>
+                    <game day="tue" date="5" against="panthers" place="h" time="1900"/>
+                    <game day="thu" date="7" against="blueJackets" place="h" time="1900"/>
+                    <game day="sat" date="9" against="blueJackets" place="a" time="1900"/>
+                    <game day="sun" date="10" against="bruins" place="h" time="1930"/>
+                    <game day="tue" date="12" against="capitals" place="h" time="1900"/>
+                    <game day="thu" date="14" against="sabres" place="a" time="1900"/>
+                    <game day="sat" date="16" against="blues" place="h" time="1300"/>
+                    <game day="sun" date="17" against="flyers" place="h" time="1930"/>
+                    <game day="tue" date="19" against="hurricanes" place="a" time="1900"/>
+                    <game day="thu" date="21" against="predators" place="a" time="2000"/>
+                    <game day="sat" date="23" against="stars" place="a" time="2000"/>
+                    <game day="mon" date="25" against="rangers" place="a" time="1900"/>
+                    <game day="fri" date="29" against="predators" place="h" time="1900"/>
+                   <game day="sun" date="31" against="hurricanes" place="h" time="1700"/>
+                </month>
+                <month m="apr">
+                    <game day="tue" date="2" against="redWings" place="a" time="1930"/>
+                    <game day="thu" date="4" against="redWings" place="h" time="1900"/>
+                    <game day="sat" date="6" against="rangers" place="h" time="1900"/>
+                </month>
+            </season>
+        </year>
+    </organization>
+</schedule>

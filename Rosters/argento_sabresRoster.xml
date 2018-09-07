@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <organization team="">
+        <players unitH="" unitW="" type="">
+            <forwards>
+                <p name="" num="" height="" weight="" bYear="" country=""></p>
+            </forwards>
+            <defense pos="">
+                <p name="" num="" height="" weight="" bYear="" country=""></p>
+            </defense>
+            <goalies pos="">
+                <p name="" num="" height="" weight="" bYear="" country=""></p>
+            </goalies>
+        </players>
+        <coaches type="">
+            <c name="" pos=""></c>
+        </coaches>
+    </organization>    
+</roster>

@@ -1,15 +1,18 @@
 start = schedule
 schedule = element schedule {organization}
-organization = element organization {team, game+}
-team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
-                                       "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
-game = element game {day, month, date, year, against, place, time, season}
-day = attribute day {"mon"|"tues"|"wed"|"thur"|"fri"|"sat"|"sun"}
-month = attribute month {"sep"|"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"|"may"}
+organization = element organization {team, year+}
+team = attribute team {"avalanche"|"blackHawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
+                       "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
+year = element year {term, season+}
+term = attribute term {"2018"|"2019"}
+season = element season {type, month+}
+type = attribute type {"pre"|"reg"|"post"}
+month = element month {m, game+}
+m = attribute m {"sep"|"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"|"may"}
+game = element game {day, date, against, place, time}
+day = attribute day {"mon"|"tue"|"wed"|"thu"|"fri"|"sat"|"sun"}
 date = attribute date {xsd:integer}
-year = attribute year {"2018"|"2019"}
-against = attribute against {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
+against = attribute against {"avalanche"|"blackHawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
                              "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
 place = attribute place {"a"|"h"}
 time = attribute time {xsd:integer}
-season = attribute season {"pre"|"reg"|"post"}
