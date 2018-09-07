@@ -1,24 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../Rosters/argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
+
     <organization team="bruins">
+
         <players unitH="inches" unitW="pounds" type="player">
+
             <forwards>
                 <p name="acciari" num="55" pos="c" shot="r" height="70" weight="208" bYear="1991" country="usa"/>
                 <p name="backles" num="42" pos="rw" shot="r" height="75" weight="221" bYear="1984" country="usa"/>
                 <p name="bakos" num="" pos="rw" shot="r" height="74" weight="198" bYear="1990" country="svk"/>
                 <p cap="assis" name="bergeron" num="37" pos="c" shot="r" height="73" weight="195" bYear="1985" country="can"/>
-                <p 
+                <p name="bjork" injuredReserve="yes" num="10" pos="lw" shot="l" height="72" weight="1860" bYear="19960" country="usa"/>
+                <p name="bligh" num="81" pos="lw" shot="l" height="72" weight="201" bYear="1995" country="swe"/>
+                <p name="cave" num="26" pos="c" shot="l" height="73" weight="200" bYear="1994" country="can"/>
+                <p name="cehlarik" num="22" pos="lw" shot="l" height="74" weight="202" bYear="1995" country="svk"/>
+                <p name="debrusk" num="74" pos="lw" shot="l" height="72" weight="188" bYear="1996" country="can"/>
+                <p name="donato" num="17" pos="c" shot="l" height="72" weight="181" bYear="1996" country="usa"/>
+                <p name="fitzgerald" num="38" pos="c" shot="r" height="69" weight="172" bYear="1994" country="usa"/>
+                <p name="Karlsson" num="23" pos="c" shot="r" height="73" weight="184" bYear="1996" country="swe"/>
+                <p name="frederic" num="" pos="c" shot="l" height="74" weight="203" bYear="1998" country="usa"/>
+                <p name="gabrielle" num="82" pos="lw" shot="l" height="71" weight="204" bYear="1997" country="can"/>
+                <p name="heinen" num="43" pos="c" shot="l" height="73" weight="185" bYear="1995" country="can"/>
+                <p name="hughes" num="" pos="c" shot="l" height="71" weight="160" bYear="1996" country="can"/>
+                <p name="koppanen" num="45" pos="lw" shot="l" height="77" weight="192" bYear="1998" country="fin"/>
+                <p cap="assis" name="krejci" num="46" pos="c" shot="r" height="72" weight="188" bYear="1986" country="cze"/>
+                <p name="kuhlman" num="" pos="c" shot="r" height="71" weight="185" bYear="1995" country="usa"/>
+                <p name="kuraly" num="52" pos="c" shot="l" height="74" weight="213" bYear="1993" country="usa"/>
+                <p name="marchand" num="63" pos="lw" shot="l" height="69" weight="181" bYear="1988" country="can"/>
+                <p name="mcneill" num="" pos="c" shot="r" height="74" weight="214" bYear="1993" country="can"/>
+                <p name="nordstrom" num="20" pos="c" shot="l" height="73" weight="189" bYear="1992" country="swe"/>
+                <p name="pastrnak" num="88" pos="rw" shot="r" height="72" weight="188" bYear="1996" country="cze"/>
+                <p name="senyshyn" num="19" pos="rw" shot="r" height="73" weight="192" bYear="1997" country="can"/>
+                <p name="studnicka" num="" pos="c" shot="r" height="73" weight="171" bYear="1999" country="can"/>
+                <p name="szwarz" num="21" pos="rw" shot="r" height="71" weight="200" bYear="1991" country="can"/>
+                <p name="wagner" num="14" pos="rw" shot="r" height="72" weight="198" bYear="1991" country="usa"/>
             </forwards>
+
             <defense pos="d">
-                <p name="" num="" height="" weight="" bYear="" country=""></p>
+                <p name="andersson" num="" shot="r" height="72" weight="178" bYear="2000" country="swe"/>
+                <p name="carlo" num="25" shot="r" height="77" weight="208" bYear="1996" country="usa"/>
+                <p cap="capt" name="chara" num="33" shot="l" height="81" weight="250" bYear="1977" country="svk"/>
+                <p name="clifton" num="74" shot="r" height="71" weight="175" bYear="1995" country="usa"/>
+                <p name="goloubef" num="18" shot="r" height="73" weight="200" bYear="1989" country="can"/>
+                <p name="grzalcyk" num="48" shot="l" height="69" weight="174" bYear="1994" country="usa"/>
+                <p name="johansson" num="36" shot="l" height="71" weight="189" bYear="1996" country="swe"/>
+                <p name="krug" num="47" shot="l" height="69" weight="186" bYear="1991" country="usa"/>
+                <p name="lauzon" num="79" shot="l" height="73" weight="204" bYear="1997" country="can"/>
+                <p name="mcavoy" num="73" shot="r" height="72" weight="208" bYear="1997" country="usa"/>
+                <p name="mcquaid" num="54" shot="r" height="76" weight="212" bYear="1986" country="can"/>
+                <p name="miller" num="86" shot="r" height="74" weight="210" bYear="1987" country="usa"/>
+                <p name="moore" num="27" shot="l" height="74" weight="210" bYear="1990" country="usa"/>
+                <p name="sherman" num="" shot="l" height="78" weight="200" bYear="1995" country="usa"/>
+                <p name="vaakanainen" num="" shot="l" height="73" weight="185" bYear="1999" country="fin"/>
+                <p name="zboril" num="67" shot="l" height="72" weight="200" bYear="1997" country="cze"/>
             </defense>
+
             <goalies pos="g">
-                <p name="" num="" height="" weight="" bYear="" country=""></p>
+                <p name="halak" num="41" height="71" weight="183" bYear="1985" country="svk"/>
+                <p name="keyser" num="" height="" weight="" bYear="1999" country="usa"/>
+                <p name="mcintyre" num="31" height="74" weight="206" bYear="1992" country="usa"/>
+                <p name="rask" num="40" height="75" weight="176" bYear="1987" country="fin"/>
+                <p name="vladar" num="80" height="77" weight="185" bYear="1997" country="cze"/>
             </goalies>
+
         </players>
+
         <coaches type="coach">
-            <c name="" pos=""></c>
+            <c name="cassidy" pos="head"/>
+            <c name="pandolfo" pos="assistant"/>
+            <c name="sacco" pos="assistant"/>
+            <c name="dean" pos="assistant"/>
+            <c name="essensa" pos="goaltending"/>
+            <c name="buckley" pos="video"/>
         </coaches>
+
     </organization>    
+
 </roster>
