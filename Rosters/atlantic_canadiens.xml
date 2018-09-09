@@ -1,2 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <organization team="canadiens">
+        <players unitH="inches" unitW="pounds" type="player">
+            <forwards>
+                <p name="agostino" num="18" pos='lw' height="72" weight="202" bYear="1992" country="usa"/>
+                <p name="alain" num="" pos="c" shot="" height="74" weight="180" bYear="1997" country=""/>
+                <p name="armia" num="40" pos="rw" shot="r" height="75" weight="205" bYear="1993" country="fin"/>
+                <p name="byron" num="41" pos="lw" shot="l" height="69" weight="162" bYear="1989" country="can"/>
+                <p name="chaput" num="" pos="c" shot="l" height="74" weight="204" bYear="1992" country="can"/>
+                <p name="danault" num="24" pos="c" shot="l" height="73" weight="195" bYear="1993" country="can"/>
+                <p name="deLaRose" num="25" pos="lw" shot="l" height="75" weight="210" bYear="1995" country="swe"/>
+                <p name="deslauriers" num="20" pos="lw" shot="l" height="73" weight="215" bYear="1991" country="can"/>
+                <p name="domi" num="13" pos="lw" shot="l" height="70" weight="195" bYear="1995" country="can"/>
+                <p name="drouin" num="92" pos="c" shot="l" height="72" weight="203" bYear="1995" country="can"/>
+                <p name="froese" num="42" pos="c" shot="r" height="73" weight="202" bYear="1991" country="can"/>
+                <p cap="assis" name="gallagher" num="11" pos="rw" shot="r" height="69" weight="181" bYear="1992" country="can"/>
+                <p name="hudon" num="54" pos="lw" shot="l" height="70" weight="188" bYear="1994" country="can"/>
+                <p name="kotkaniemi" num="" pos="c" shot="l" height="74" weight="188" bYear="2000" country="fin"/>
+                <p name="lehkonen" num="62" pos="lw" shot="l" height="72" weight="183" bYear="1995" country="fin"/>
+                <p cap="capt" name="pacioretty" num="67" pos="lw" shot="l" height="74" weight="206" bYear="1988" country="usa"/>
+                <p name="peca" num="63" pos="c" shot="l" height="68" weight="178" bYear="1993" country="can"/>
+                <p name="plekanec" num="14" pos="c" shot="l" height="71" weight="193" bYear="1982" country="cze"/>
+                <p name="scherbak" num="38" pos="rw" shot="l" height="74" weight="192" bYear="1995" country="rus"/>
+                <p name="shaw" num="65" pos="rw" shot="r" height="71" weight="182" bYear="1991" country="can"/>
+                <p name="shinkaruk" num="45" pos="c" shot="l" height="70" weight="181" bYear="1994" country="can"/>
+                <p name="verbeek" num="" pos="c" shot="l" height="70" weight="183" bYear="1997" country="can"/>
+            </forwards>
+            <defense pos="d">
+                <p name="alzner" num="27" shot="l" height="75" weight="217" bYear="1988" country="can"/>
+                <p name="benn" num="8" shot="l" height="74" weight="198" bYear="1987" country="can"/>
+                <p name="juulsen" num="58" shot="r" height="74" weight="175" bYear="1997" country="can"/>
+                <p name="mete" num="53" shot="l" height="69" weight="184" bYear="1998" country="can"/>
+                <p name="moravcik" num="" shot="l" height="76" weight="212" bYear="1994" country="cze"/>
+                <p name="ouellet" num="61" shot="l" height="73" weight="185" bYear="1993" country="fra"/>
+                <p name="petry" num="26" shot="r" height="75" weight="208" bYear="1987" country="usa"/>
+                <p name="reilly" num="28" shot="l" height="74" weight="195" bYear="1993" country="usa"/>
+                <p name="schlemko" num="21" shot="l" height="73" weight="189" bYear="1987" country="can"/>
+                <p name="sklenicka" num="" shot="l" height="71" weight="181" bYear="1996" country="cze"/>
+                <p cap="assis" name="weber" num="6" shot="r" height="76" weight="130" bYear="1985" country="can"/>
+            </defense>
+            <goalies pos="g">
+                <p name="niemi" num="37" height="74" weight="215" bYear="1983" country="fin"/>
+                <p name="price" num="31" height="75" weight="215" bYear="1987" country="can"/>
+            </goalies>
+        </players>
+        <coaches type="coach">
+            <c name="jullen" pos="head"/>
+            <c name="muller" pos="assistant"/>
+            <c name="walte" pos="goaltending"/>
+            <c name="ducharme" pos="assistant"/>
+            <c name="richardson" pos="assistant"/>
+            <c name="leblanc" pos="video"/>
+        </coaches>
+    </organization>    
+</roster>
