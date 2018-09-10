@@ -2,65 +2,95 @@
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     <organization team="blueJackets">
-        <players type="player" unitH="inches" unitW="pounds">
+        <players>
             <forwards>
-                <p xml:id="abramov" num="79" pos="rw" shot="l" height="69" weight="171" bYear="1998" country="rus"/>
-                <p xml:id="anderson" num="77" pos="rw" shot="r" height="75" weight="221" bYear="1994" country="can"/>
-                <p xml:id="atkinson" num="13" pos="rw" shot="r" height="68" weight="179" bYear="1989" country="usa"/>
-                <p xml:id="bittner" num="57" pos="lw" shot="l" height="75" weight="211" bYear="1996" country="usa"/>
-                <p xml:id="bjorkstrand" num="28" pos="rw" shot="r" height="72" weight="177" bYear="1995" country="dnk"/>
-                <p xml:id="broadhurst" num="62" pos="c" shot="l" height="72" weight="178" bYear="1993" country="usa"/>
-                <p xml:id="dalpe" num="29" pos="c" shot="r" height="74" weight="194" bYear="1989" country="can"/>
-                <p xml:id="davidson" num="" pos="rw" shot="r" height="71" weight="185" bYear="1997" country="swe"/>
-                <p xml:id="dubinsky" num="17" pos="c" shot="l" height="74" weight="205" bYear="1986" country="usa"/>
-                <p xml:id="dubois" num="18" pos="c" shot="l" height="75" weight="207" bYear="1998" country="can"/>
-                <p xml:id="duclair" num="91" pos="lw" shot="l" height="71" weight="191" bYear="1995" country="can"/>
-                <p cap="capt" xml:id="foligno" num="71" pos="lw" shot="l" height="72" weight="202" bYear="1987" country="usa"/>
-                <p xml:id="fortier" num="" pos="rw" shot="r" height="70" weight="183" bYear="1996" country="can"/>
-                <p xml:id="foudy" num="" pos="c" shot="l" height="72" weight="175" bYear="2000" country="can"/>
-                <p xml:id="gerbe" num="24" pos="c" shot="l" height="64" weight="176" bYear="1987" country="usa"/>
-                <p xml:id="hannikainen" num="37" pos="lw" shot="l" height="73" weight="200" bYear="1993" country="fin"/>
-                <p cap="assis" xml:id="jenner" num="38" pos="c" shot="l" height="74" weight="206" bYear="1993" country="can"/>
-                <p xml:id="macinnis" num="" pos="c" shot="l" height="75" weight="185" bYear="1996" country="usa"/>
-                <p xml:id="milano" num="22" pos="lw" shot="l" height="72" weight="195" bYear="1996" country="usa"/>
-                <p xml:id="nash" num="20" pos="c" shot="r" height="73" weight="190" bYear="1989" country="can"/>
-                <p xml:id="panarin" num="9" pos="lw" shot="r" height="71" weight="168" bYear="1991" country="rus"/>
-                <p xml:id="robinson" num="50" pos="lw" shot="l" height="74" weight="200" bYear="1995" country="usa"/>
-                <p xml:id="sedlak" num="45" pos="c" shot="l" height="72" weight="200" bYear="1995" country="cze"/>
-                <p xml:id="sherwood" num="88" pos="rw" shot="r" height="73" weight="202" bYear="1997" country="usa"/>
-                <p xml:id="stenlund" num="69" pos="c" shot="r" height="76" weight="210" bYear="1996" country="swe"/>
-                <p xml:id="texier" num="42" pos="c" shot="l" height="72" weight="187" bYear="1999" country="fra"/>
-                <p xml:id="thurkauf" num="83" pos="c" shot="l" height="74" weight="212" bYear="1997" country="che"/>
-                <p xml:id="vigneault" num="83" pos="c" shot="l" height="77" weight="203" bYear="1995" country="can"/>
-                <p xml:id="wennberg" num="10" pos="c" shot="l" height="74" weight="196" bYear="1994" country="swe"/>
+                <right>
+                    <shot hand="right">
+                        <p surname="anderson" forename="josh" num="77" height="75" weight="221" bYear="1994" country="can"> Josh Anderson 05/07/94 </p>
+                        <p surname="atkinson" forename="cam" num="13" height="68" weight="179" bYear="1989" country="usa"> Cam Atkinson 06/05/89 </p>
+                        <p surname="bjorkstrand" forename="oliver" num="28" height="72" weight="177" bYear="1995" country="dnk"> Oliver Bjorkstrand 04/10/95 </p>
+                        <p surname="davidson" forename="jonathan" num="" height="71" weight="185" bYear="1997" country="swe"> Jonathan Davidson 03/12/97 </p>
+                        <p surname="fortier" forename="maxime" num="" height="70" weight="183" bYear="1996" country="can"> Maxime Fortier 12/15/96 </p>
+                        <p surname="sherwood" forename="kole" num="88" height="73" weight="202" bYear="1997" country="usa"> Kole Sherwod 01/22/97 </p>
+                    </shot>
+                    <shot hand="left">
+                        <p surname="abramov" forename="vitaly" num="79" height="69" weight="171" bYear="1998" country="rus"> Vitaly Abramov 05/08/98 </p>
+                    </shot>
+                </right>
+                <center>
+                    <shot hand="right">
+                        <p surname="dalpe" forename="zac" num="29" height="74" weight="194" bYear="1989" country="can"> Zac Dalpe 11/01/89 </p>
+                        <p surname="nash" forename="riley" num="20" height="73" weight="190" bYear="1989" country="can"> Riley Nash 05/09/89 </p>
+                        <p surname="stenlund" forename="kevin" num="69" height="76" weight="210" bYear="1996" country="swe"> Kevin Stenlund 09/20/96 </p>
+                    </shot>
+                    <shot hand="left">
+                        <p surname="texier" forename="alexandre" num="42" height="72" weight="187" bYear="1999" country="fra"> Alexandre Texier 09/13/99 </p>
+                        <p surname="thurkauf" forename="calvin" num="83" height="74" weight="212" bYear="1997" country="che"> Calvin Thurkauf 06/27/97 </p>
+                        <p surname="vigneault" forename="sam" num="83" height="77" weight="203" bYear="1995" country="can"> Sam Vigneault 09/07/95 </p>
+                        <p surname="wennberg" forename="alexander" num="10" height="74" weight="196" bYear="1994" country="swe"> Alexander Wennberg 09/22/94 </p>
+                        <p surname="broadhurst" forename="alex" num="62" height="72" weight="178" bYear="1993" country="usa"> Alex Broadhurst 03/07/93 </p>
+                        <p surname="dubinsky" forename="brandon" num="17" height="74" weight="205" bYear="1986" country="usa"> Brandon Dubinsky 04/29/86 </p>
+                        <p surname="dubois" forename="pierreLuc" num="18" height="75" weight="207" bYear="1998" country="can"> Pierre-Luc Dubois 06/24/98 </p>
+                        <p surname="foudy" forename="liam" num="" height="72" weight="175" bYear="2000" country="can"> Liam Foudy 02/04/00 </p>
+                        <p surname="gerbe" forename="nathan" num="24" height="64" weight="176" bYear="1987" country="usa"> Nathan Gerbe 07/24/87 </p>
+                        <p cap="assist" surname="jenner" forename="boone" num="38" height="74" weight="206" bYear="1993" country="can"> Boone Jenner 06/15/93 </p>
+                        <p surname="macInnis" forename="ryan" num="" height="75" weight="185" bYear="1996" country="usa"> Ryan MacInnis 02/14/96 </p>
+                        <p surname="sedlak" forename="lukas" num="45" height="72" weight="200" bYear="1995" country="cze"> Lukas Sedlak 02/25/93 </p>
+                    </shot>
+                </center>
+                <left>
+                    <shot hand="right">
+                        <p surname="panarin" forename="artemi" num="9" height="71" weight="168" bYear="1991" country="rus"> Artemi Panarin 10/30/91 </p>
+                    </shot>
+                    <shot hand="left">
+                        <p surname="bittner" forename="paul" num="57" height="75" weight="211" bYear="1996" country="usa"> Paul Bittner 11/04/96 </p>
+                        <p surname="duclair" forename="anthony" num="91" height="71" weight="191" bYear="1995" country="can"> Anthony Duclair 08/26/95 </p>
+                        <p cap="capt" surname="foligno" forename="nick" num="71" height="72" weight="202" bYear="1987" country="usa"> Nick Foligno 10/31/87 </p>
+                        <p surname="hannikainen" forename="markus" num="37" height="73" weight="200" bYear="1993" country="fin"> Markus Hannikainen 03/26/93 </p>
+                        <p surname="milano" forename="sonny" num="22" height="72" weight="195" bYear="1996" country="usa"> Sonny Milano 05/12/96 </p>
+                        <p surname="robinson" forename="eric" num="50" height="74" weight="200" bYear="1995" country="usa"> Eric Robinson 06/14/95 </p>
+                    </shot>
+                </left>
             </forwards>
-            <defense pos="d">
-                <p xml:id="clendening" num="" shot="r" height="72" weight="196" bYear="1992" country="usa"/>
-                <p xml:id="cross" num="56" shot="l" height="75" weight="205" bYear="1989" country="usa"/>
-                <p xml:id="harrington" num="4" shot="l" height="74" weight="207" bYear="1993" country="can"/>
-                <p xml:id="jones" num="3" shot="r" height="76" weight="210" bYear="1994" country="usa"/>
-                <p xml:id="kukan" num="46" shot="l" height="74" weight="186" bYear="1993" country="che"/>
-                <p xml:id="murray" num="27" shot="l" height="73" weight="205" bYear="1993" country="can"/>
-                <p xml:id="nutivaara" num="65" shot="l" height="73" weight="191" bYear="1994" country="fin"/>
-                <p xml:id="savard" num="58" shot="r" height="74" weight="227" bYear="1990" country="can"/>
-                <p xml:id="siebenaler" num="44" shot="r" height="74" weight="208" bYear="1996" country="usa"/>
-                <p xml:id="simpson" num="" shot="l" height="74" weight="204" bYear="1993" country="can"/>
-                <p xml:id="somerby" num="33" shot="l" height="78" weight="218" bYear="1994" country="usa"/>
-                <p xml:id="werenski" num="8" shot="l" height="74" weight="209" bYear="1997" country="usa"/>
+            <defense>
+                <shot hand="right">
+                    <p surname="clendening" forename="adam" num="" height="72" weight="196" bYear="1992" country="usa"> Adam Clendening 10/26/92 </p>
+                    <p surname="jones" forename="seth" num="3" height="76" weight="210" bYear="1994" country="usa"> Seth Jones 10/03/93 </p>
+                    <p surname="savard" forename="david" num="58" height="74" weight="227" bYear="1990" country="can"> David Savard 10/22/90 </p>
+                    <p surname="siebenaler" forename="blake" num="44" height="74" weight="208" bYear="1996" country="usa"> Blake Siebenaler 02/27/96 </p>
+                </shot>
+                <shot hand="left">
+                    <p surname="cross" forename="tommy" num="56" height="75" weight="205" bYear="1989" country="usa"> Tommy Cross 09/12/89 </p>
+                    <p surname="harrington" forename="scott" num="4" height="74" weight="207" bYear="1993" country="can"> Scott Harrington 03/10/89 </p>
+                    <p surname="kukan" forename="dean" num="46" height="74" weight="186" bYear="1993" country="che"> Dean Kukan 07/08/93 </p>
+                    <p surname="murray" forename="ryan" num="27" height="73" weight="205" bYear="1993" country="can"> Ryan Murray 09/27/93 </p>
+                    <p surname="nutivaara" forename="markus" num="65" height="73" weight="191" bYear="1994" country="fin"> Markus Nutivaara 06/06/94 </p>
+                    <p surname="simpson" forename="dillon" num="" height="74" weight="204" bYear="1993" country="can"> Dillon Simpson 02/10/93 </p>
+                    <p surname="somerby" forename="doyle" num="33" height="78" weight="218" bYear="1994" country="usa"> Doyle Somerby 07/04/94 </p>
+                    <p surname="werenski" forename="zach" num="8" height="74" weight="209" bYear="1997" country="usa"> Zach Werenski 07/19/97 </p>
+                </shot>
             </defense>
-            <goalies pos="g">
-                <p xml:id="berube" num="" height="73" weight="177" bYear="1991" country="can"/>
-                <p xml:id="bobrovsky" num="72" height="74" weight="182" bYear="1988" country="rus"/>
-                <p xml:id="korpisalo" num="70" height="75" weight="182" bYear="1994" country="fin"/>
+            <goalies>
+                <p surname="berube" forename="jf" num="" height="73" weight="177" bYear="1991" country="can"> J-F Berube 07/13/91 </p>
+                <p surname="bobrovsky" forename="sergei" num="72" height="74" weight="182" bYear="1988" country="rus"> Sergei Bobrovsky 09/20/88 </p>
+                <p surname="korpisalo" forename="joonas" num="70" height="75" weight="182" bYear="1994" country="fin"> Joonas Korpisalo 04/28/94 </p>
             </goalies>
         </players>
-        <coaches type="coach">
-            <c xml:id="tortorella" pos="head"/>
-            <c xml:id="larsen" pos="assistant"/>
-            <c xml:id="mccudden" pos="assistant"/>
-            <c xml:id="shaw" pos="assistant"/>
-            <c xml:id="legace" pos="goaltending"/>
-            <c xml:id="singleton" pos="video"/>
+        <coaches>
+            <head>
+                <c surname="tortorella" forename=""/>
+            </head>
+            <assistant>
+                <c surname="larsen" forename=""/>
+                <c surname="mccudden" forename=""/>
+                <c surname="shaw" forename=""/>
+            </assistant>
+            <goaltending>
+                <c surname="legace" forename=""/>
+            </goaltending>
+            <video>
+                <c surname="singleton" forename=""/>
+            </video>
         </coaches>
     </organization>
 </roster>

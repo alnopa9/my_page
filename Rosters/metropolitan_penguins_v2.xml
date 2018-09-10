@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <organization team="penguins">
+        <players>
+            <forwards>
+                <right>
+                    <shot hand="right">
+                        <p> <sName>Hayes</sName> <fName>Jimmy</fName> <n>11</n> <h>77</h> <w>215</w> 11/21/<y>1989</y> Dorchester, MA, <co>USA</co> </p>
+                        <p> <sName>Hornqvist</sName> <fName>Patric</fName> <n>72</n> <h>71</h> <w>189</w> 01/01/<y>1987</y> Sollentuna, <co>SWE</co> </p>
+                        <p> <sName>Kessel</sName> <fName>Phil</fName> <n>81</n> <h>72</h> <w>202</w> 10/02/<y>1987</y> Madison, WI, <co>USA</co> </p>
+                        <p> <sName>Rust</sName> <fName>Bryan</fName> <n>17</n> <h>71</h> <w>192</w> 05/11/<y>1992</y> Pontiac, MI, <co>USA</co> </p>
+                        <p> <sName>Sprong</sName> <fName>Daniel</fName> <n>41</n> <h>72</h> <w>180</w> 03/17/<y>1997</y> Amsterdam, <co>NLD</co> </p>
+                    </shot>
+                    <shot hand="left">
+                        <p> <sName>Lindberg</sName> <fName>Tobias</fName> <n>25</n> <h>75</h> <w>215</w> 07/22/<y>1995</y> Stockholm, <co>SWE</co> </p>
+                    </shot>
+                </right>
+                <center>
+                    <shot hand="right">
+                        <p> <sName>Dea</sName> <fName>Jean-Sebastien</fName> <n>39</n> <h>71</h> <w>175</w> 02/08/<y>1994</y> Laval, QC, <co>CAN</co> </p>
+                    </shot>
+                    <shot hand="left">
+                        <p> <sName>Aston-Reese</sName> <fName>Zac</fName> <n>46</n> <h>72</h> <w>204</w> 08/10/<y>1994</y> Staten Island, NY, <co>USA</co> </p>
+                        <p> <sName>Blueger</sName> <fName>Teddy</fName> <n>53</n> <h>72</h> <w>185</w> 08/15/<y>1994</y> Riga, <co>LVA</co> </p>
+                        <p> <sName>Brassard</sName> <fName>Derick</fName> <n>19</n> <h>73</h> <w>202</w> 09/22/<y>1987</y> Hull, QC, <co>CAN</co></p>
+                        <p cap="capt"> 
+                            <sName>Crosby</sName> <fName>Sidney</fName> <n>87</n> <h>71</h> <w>200</w> 08/07/<y>1987</y> Cole Harbour, NS, <co>CAN</co></p>
+                        <p> <sName>Cullen</sName> <fName>Matt</fName> <n>7</n> <h>73</h> <w>202</w> 11/02/<y>1976</y> Virginia, MN, <co>USA</co></p>
+                        <p> <sName>Di Pauli</sName> <fName>Thomas</fName> <n>54</n> <h>71</h> <w>188</w> 04/29/<y>1994</y> Woodbridge, IL, <co>USA</co></p>
+                        <p> <sName>Grant</sName> <fName>Derek</fName> <n>38</n> <h>75</h> <w>215</w> 04/20/<y>1990</y> Abbotsford, BC, <co>CAN</co></p>
+                        <p> <sName>Guentzel</sName> <fName>Jake</fName> <n>59</n> <h>71</h> <w>180</w> 10/06/<y>1994</y> Omaha, NE, <co>USA</co></p>
+                        <p> <sName>Johnson</sName> <fName>Adam</fName> <n>47</n> <h>72</h> <w>174</w> 06/22/<y>1994</y> Grand Rapids, MN, <co>USA</co></p>
+                        <p cap="assist">
+                            <sName>Malkin</sName> <fName>Evgeni</fName> <n>71</n> <h>75</h> <w>195</w> 07/31/<y>1986</y> Magnitogorsk, <co>RUS</co></p>
+                        <p> <sName>Sheahan</sName> <fName>Riley</fName> <n>15</n> <h>75</h> <w>214</w> 12/07/<y>1991</y> St. Catharines, ON, <co>CAN</co></p>
+                        <p> <sName>Simon</sName> <fName>Dominik</fName> <n>12</n> <h>71</h> <w>190</w> 08/08/<y>1994</y> Prague, <co>CZE</co></p>
+                    </shot>
+                </center>
+                <left>
+                    <shot hand="left">
+                        <p> <sName>Hagelin</sName> <fName>Carl</fName> <n>62</n> <h>71</h> <w>186</w> 08/23/<y>1988</y> Sodertalje, <co>SWE</co></p>
+                        <p> <sName>Wilson</sName> <fName>Garrett</fName> <n>10</n> <h>74</h> <w>199</w> 03/16/<y>1991</y> Barrie, ON, <co>CAN</co></p>
+                    </shot>
+                </left>
+            </forwards>
+            <defense>
+                <shot hand="right">
+                    <p> <sName>Elliott</sName> <fName>Stefan</fName> <n>24</n> <h>73</h> <w>190</w> 01/30/<y>1991</y> Vancouver, BC, <co>CAN</co></p>
+                    <p cap="assist"> 
+                        <sName>Letang</sName> <fName>Kris</fName> <n>58</n> <h>72</h> <w>201</w> 04/24/<y>1987</y> Montreal, QC, <co>CAN</co></p>
+                    <p> <sName>Ruhwedel</sName> <fName>Chad</fName> <n>2</n> <h>71</h> <w>191</w> 05/07/<y>1990</y> San Diego, CA, <co>USA</co></p>
+                    <p> <sName>Schultz</sName> <fName>Justin</fName> <n>4</n> <h>74</h> <w>193</w> 07/06/<y>1990</y> Kelowna, BC, <co>CAN</co></p>
+                </shot>
+                <shot hand="left">
+                    <p> <sName>Dumoulin</sName> <fName>Brian</fName> <n>8</n> <h>76</h> <w>207</w> 09/06/<y>1991</y> Biddeford, ME, <co>USA</co></p>
+                    <p> <sName>Johnson</sName> <fName>Jack</fName> <n>73</n> <h>73</h> <w>227</w> 01/13/<y>1987</y> Indianapolis, IN, <co>USA</co></p>
+                    <p> <sName>Maatta</sName> <fName>Olli</fName> <n>3</n> <h>74</h> <w>206</w> 08/22/<y>1994</y> Jyväskylä, <co>FIN</co></p>
+                    <p> <sName>Oleksiak</sName> <fName>Jamie</fName> <n>6</n> <h>79</h> <w>255</w> 12/21/<y>1992</y> Toronto, ON, <co>CAN</co></p>
+                    <p> <sName>Summers</sName> <fName>Chris</fName> <n>55</n> <h>74</h> <w>207</w> 02/05/<y>1988</y> Ann Arbor, MI, <co>USA</co></p>
+                </shot>
+                <shot hand="notSpecified">
+                    <p> <sName>Riikola</sName> <fName>Juuso</fName> <n>50</n> -- -- -- 11/09/<y>1993</y> -- </p>
+                </shot>
+            </defense>
+
+            <goalies>
+                <p> <sName>DeSmith</sName> <fName>Casey</fName> <n>1</n> <h>72</h> <w>181</w> 08/13/<y>1991</y> Rochester, NH, <co>USA</co></p>
+                <p> <sName>Jarry</sName> <fName>Tristan</fName> <n>35</n> <h>74</h> <w>194</w> 04/29/<y>1995</y> Surrey, BC, <co>CAN</co></p>
+                <p> <sName>Murray</sName> <fName>Matt</fName> <n>30</n> <h>76</h> <w>178</w> 05/25/<y>1994</y> Thunder Bay, ON, <co>CAN</co></p>
+            </goalies>
+        </players>
+        <coaches>
+
+            <head>
+                <c> <sName>Sullivan</sName> <fName>Mike</fName> </c>
+            </head>
+            <assistant>
+                <c> <sName>Gonchar</sName> <fName>Sergei</fName> </c>
+                <c> <sName>Martin</sName> <fName>Jacques</fName> </c>
+                <c> <sName>Recchi</sName> <fName>Mark</fName> </c>
+            </assistant>
+            <goaltending>
+                <c> <sName>Buckley</sName> <fName>Mike</fName> </c>
+            </goaltending>
+            <video>
+                <c> <sName>Saucier</sName> <fName>Andy</fName> </c>
+            </video>
+        </coaches>
+    </organization>
+</roster>
