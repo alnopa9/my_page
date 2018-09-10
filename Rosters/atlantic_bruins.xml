@@ -2,70 +2,98 @@
 <?xml-model href="../Rosters/argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     <organization team="bruins">
-        <players unitH="inches" unitW="pounds" type="player">
+        <players>
             <forwards>
-                <p name="acciari" num="55" pos="c" shot="r" height="70" weight="208" bYear="1991" country="usa"/>
-                <p name="backles" num="42" pos="rw" shot="r" height="75" weight="221" bYear="1984" country="usa"/>
-                <p name="bakos" num="" pos="rw" shot="r" height="74" weight="198" bYear="1990" country="svk"/>
-                <p cap="assis" name="bergeron" num="37" pos="c" shot="r" height="73" weight="195" bYear="1985" country="can"/>
-                <p name="bjork" injuredReserve="yes" num="10" pos="lw" shot="l" height="72" weight="1860" bYear="19960" country="usa"/>
-                <p name="bligh" num="81" pos="lw" shot="l" height="72" weight="201" bYear="1995" country="swe"/>
-                <p name="cave" num="26" pos="c" shot="l" height="73" weight="200" bYear="1994" country="can"/>
-                <p name="cehlarik" num="22" pos="lw" shot="l" height="74" weight="202" bYear="1995" country="svk"/>
-                <p name="debrusk" num="74" pos="lw" shot="l" height="72" weight="188" bYear="1996" country="can"/>
-                <p name="donato" num="17" pos="c" shot="l" height="72" weight="181" bYear="1996" country="usa"/>
-                <p name="fitzgerald" num="38" pos="c" shot="r" height="69" weight="172" bYear="1994" country="usa"/>
-                <p name="Karlsson" num="23" pos="c" shot="r" height="73" weight="184" bYear="1996" country="swe"/>
-                <p name="frederic" num="" pos="c" shot="l" height="74" weight="203" bYear="1998" country="usa"/>
-                <p name="gabrielle" num="82" pos="lw" shot="l" height="71" weight="204" bYear="1997" country="can"/>
-                <p name="heinen" num="43" pos="c" shot="l" height="73" weight="185" bYear="1995" country="can"/>
-                <p name="hughes" num="" pos="c" shot="l" height="71" weight="160" bYear="1996" country="can"/>
-                <p name="koppanen" num="45" pos="lw" shot="l" height="77" weight="192" bYear="1998" country="fin"/>
-                <p cap="assis" name="krejci" num="46" pos="c" shot="r" height="72" weight="188" bYear="1986" country="cze"/>
-                <p name="kuhlman" num="" pos="c" shot="r" height="71" weight="185" bYear="1995" country="usa"/>
-                <p name="kuraly" num="52" pos="c" shot="l" height="74" weight="213" bYear="1993" country="usa"/>
-                <p name="marchand" num="63" pos="lw" shot="l" height="69" weight="181" bYear="1988" country="can"/>
-                <p name="mcneill" num="" pos="c" shot="r" height="74" weight="214" bYear="1993" country="can"/>
-                <p name="nordstrom" num="20" pos="c" shot="l" height="73" weight="189" bYear="1992" country="swe"/>
-                <p name="pastrnak" num="88" pos="rw" shot="r" height="72" weight="188" bYear="1996" country="cze"/>
-                <p name="senyshyn" num="19" pos="rw" shot="r" height="73" weight="192" bYear="1997" country="can"/>
-                <p name="studnicka" num="" pos="c" shot="r" height="73" weight="171" bYear="1999" country="can"/>
-                <p name="szwarz" num="21" pos="rw" shot="r" height="71" weight="200" bYear="1991" country="can"/>
-                <p name="wagner" num="14" pos="rw" shot="r" height="72" weight="198" bYear="1991" country="usa"/>
+                <right>
+                    <shot hand="right">
+                        <p surname="backles" forename="david" num="42" height="75" weight="221" bYear="1984" country="usa"> David Backles 05/01/84 </p>
+                        <p surname="bakos" forename="martin" num="" height="74" weight="198" bYear="1990" country="svk"> Martin Bakos 04/18/90 </p>
+                        <p surname="pastrnak" forename="david" num="88" height="72" weight="188" bYear="1996" country="cze"> David Pastrnak 05/25/96 </p>
+                        <p surname="senyshyn" forename="zach" num="19" height="73" weight="192" bYear="1997" country="can"> Zach Seyshyn 03/30/97 </p>
+                        <p surname="szwarz" forename="jordan" num="21" height="71" weight="200" bYear="1991" country="can"> Jordan Szwarz 05/14/91 </p>
+                        <p surname="wagner" forename="chris" num="14" height="72" weight="198" bYear="1991" country="usa"> Chris Wagner 05/27/91 </p>
+                    </shot>
+                </right>
+                <center>
+                    <shot hand="right">
+                        <p surname="acciari" forename="noel" num="55" height="70" weight="208" bYear="1991" country="usa"> Noel Acciari 01/01/91 </p>
+                        <p cap="assist" surname="bergeron" forename="patrice" num="37" height="73" weight="195" bYear="1985" country="can"> Patrice Bergeron 07/24/85 </p>
+                        <p cap="assist" surname="krejci" forename="david" num="46" height="72" weight="188" bYear="1986" country="cze"> David Krejci 04/28/86 </p>
+                        <p surname="kuhlman" forename="karson" num="" height="71" weight="185" bYear="1995" country="usa"> Karson Kuhlman 09/26/95 </p>
+                        <p surname="mcneill" forename="mark" num="" height="74" weight="214" bYear="1993" country="can"> Mark McNeill 02/22/93 </p>
+                        <p surname="studnicka" forename="jack" num="" height="73" weight="171" bYear="1999" country="can"> Jack Studnicka 02/18/99 </p>
+                    </shot>
+                    <shot hand="left">
+                        <p surname="cave" forename="colby" num="26" height="73" weight="200" bYear="1994" country="can"> Colby Cave 12/26/94 </p>
+                        <p surname="donato" forename="ryan" num="17" height="72" weight="181" bYear="1996" country="usa"> Ryan Donato 04/09/96 </p>
+                        <p surname="frederic" forename="trent" num="" height="74" weight="203" bYear="1998" country="usa"> Trent Frederic 02/11/98 </p>
+                        <p surname="heinen" forename="danton" num="43" height="73" weight="185" bYear="1995" country="can"> Danton Heinen 07/05/95 </p>
+                        <p surname="hughes" forename="cameron" num="" height="71" weight="160" bYear="1996" country="can"> Cameron Hughes 10/09/96 </p>
+                        <p surname="kuraly" forename="sean" num="52" height="74" weight="213" bYear="1993" country="usa"> Sean Kuraly 01/20/93 </p>
+                        <p surname="nordstrom" forename="joakim" num="20" height="73" weight="189" bYear="1992" country="swe"> Joakim Nordstrom 02/25/92 </p>
+                    </shot>
+                </center>
+                <left>
+                    <shot hand="right">
+                        <p surname="fitzgerald" forename="ryan" num="38" height="69" weight="172" bYear="1994" country="usa"> Ryan Fitzgerald 10/19/94 </p>
+                        <p surname="karlsson" forename="jakob" num="23" height="73" weight="184" bYear="1996" country="swe"> Jakob Forsbacka Karlsson 10/31/96 </p>
+                    </shot>
+                    <shot hand="left">
+                        <p surname="bjork" forename="anders" IR="yes" num="10" height="72" weight="1860" bYear="19960" country="usa"> Anders Bjork 08/05/96 </p>
+                        <p surname="bligh" forename="anton" num="81" height="72" weight="201" bYear="1995" country="swe"> Anton Blidh 03/14/95 </p>
+                        <p surname="cehlarik" forename="peter" num="22" height="74" weight="202" bYear="1995" country="svk"> Peter Cehlarik 08/02/95 </p>
+                        <p surname="debrusk" forename="jake" num="74" height="72" weight="188" bYear="1996" country="can"> Jake DeBrusk 10/17/96 </p>
+                        <p surname="gabrielle" forename="jesse" num="82" height="71" weight="204" bYear="1997" country="can"> Jesse Garbrielle 06/17/97 </p>
+                        <p surname="koppanen" forename="joona" num="45" height="77" weight="192" bYear="1998" country="fin"> Joona Koppanen 02/25/98 </p>
+                        <p surname="marchand" forename="brad" num="63" height="69" weight="181" bYear="1988" country="can"> Brad Marchand 05/11/88 </p>
+                    </shot>
+                </left>
             </forwards>
-            <defense pos="d">
-                <p name="andersson" num="" shot="r" height="72" weight="178" bYear="2000" country="swe"/>
-                <p name="carlo" num="25" shot="r" height="77" weight="208" bYear="1996" country="usa"/>
-                <p cap="capt" name="chara" num="33" shot="l" height="81" weight="250" bYear="1977" country="svk"/>
-                <p name="clifton" num="74" shot="r" height="71" weight="175" bYear="1995" country="usa"/>
-                <p name="goloubef" num="18" shot="r" height="73" weight="200" bYear="1989" country="can"/>
-                <p name="grzalcyk" num="48" shot="l" height="69" weight="174" bYear="1994" country="usa"/>
-                <p name="johansson" num="36" shot="l" height="71" weight="189" bYear="1996" country="swe"/>
-                <p name="krug" num="47" shot="l" height="69" weight="186" bYear="1991" country="usa"/>
-                <p name="lauzon" num="79" shot="l" height="73" weight="204" bYear="1997" country="can"/>
-                <p name="mcavoy" num="73" shot="r" height="72" weight="208" bYear="1997" country="usa"/>
-                <p name="mcquaid" num="54" shot="r" height="76" weight="212" bYear="1986" country="can"/>
-                <p name="miller" num="86" shot="r" height="74" weight="210" bYear="1987" country="usa"/>
-                <p name="moore" num="27" shot="l" height="74" weight="210" bYear="1990" country="usa"/>
-                <p name="sherman" num="" shot="l" height="78" weight="200" bYear="1995" country="usa"/>
-                <p name="vaakanainen" num="" shot="l" height="73" weight="185" bYear="1999" country="fin"/>
-                <p name="zboril" num="67" shot="l" height="72" weight="200" bYear="1997" country="cze"/>
+            <defense>
+                <shot hand="right">
+                    <p surname="andersson" forename="axel" num="" height="72" weight="178" bYear="2000" country="swe"> Axel Andersson 02/10/00 </p>
+                    <p surname="carlo" forename="brandon" num="25" height="77" weight="208" bYear="1996" country="usa"> Brandon Carlo 11/26/96 </p>
+                    <p surname="clifton" forename="connor" num="74" height="71" weight="175" bYear="1995" country="usa"> Connor Clifton 04/28/95 </p>
+                    <p surname="goloubef" forename="cody" num="18" height="73" weight="200" bYear="1989" country="can"> Cody Goloubef 11/30/89 </p>
+                    <p surname="mcavoy" forename="charlie" num="73" height="72" weight="208" bYear="1997" country="usa"> Charlie McAvoy 12/21/97 </p>
+                    <p surname="mcquaid" forename="adam" num="54" height="76" weight="212" bYear="1986" country="can"> Adam McQuaid 10/12/86 </p>
+                    <p surname="miller" forename="kevan" num="86" height="74" weight="210" bYear="1987" country="usa"> Kevan Miller 11/15/87 </p>
+                </shot>
+                <shot hand="left">
+                    <p cap="capt" surname="chara" forename="zdeno" num="33" height="81" weight="250" bYear="1977" country="svk"> Zdeno Chara 03/18/77 </p>
+                    <p surname="grzalcyk" forename="matt" num="48" height="69" weight="174" bYear="1994" country="usa"> Matt Grzelcyk 01/05/94 </p>
+                    <p surname="johansson" forename="emil" num="36" height="71" weight="189" bYear="1996" country="swe"> Emil Johansson 15/06/96 </p>
+                    <p surname="krug" forename="torey" num="47" height="69" weight="186" bYear="1991" country="usa"> Torey Krug 04/12/91 </p>
+                    <p surname="lauzon" forename="jeremy" num="79" height="73" weight="204" bYear="1997" country="can"> Jeremy Lauzon 04/28/97 </p>
+                    <p surname="moore" forename="john" num="27" height="74" weight="210" bYear="1990" country="usa"> John Moore11/19/90  </p>
+                    <p surname="sherman" forename="willey" num="" height="78" weight="200" bYear="1995" country="usa"> Willey Sherman 05/24/95 </p>
+                    <p surname="vaakanainen" forename="urho" num="" height="73" weight="185" bYear="1999" country="fin"> Urho Vaakanainen 01/01/99 </p>
+                    <p surname="zboril" forename="jakub" num="67" height="72" weight="200" bYear="1997" country="cze"> Jakub Zboril 02/21/97 </p>
+                </shot>
             </defense>
-            <goalies pos="g">
-                <p name="halak" num="41" height="71" weight="183" bYear="1985" country="svk"/>
-                <p name="keyser" num="" height="" weight="" bYear="1999" country="usa"/>
-                <p name="mcintyre" num="31" height="74" weight="206" bYear="1992" country="usa"/>
-                <p name="rask" num="40" height="75" weight="176" bYear="1987" country="fin"/>
-                <p name="vladar" num="80" height="77" weight="185" bYear="1997" country="cze"/>
+            <goalies>
+                <p surname="halak" forename="jaroslav" num="41" height="71" weight="183" bYear="1985" country="svk"> Jaroslav Halak 05/13/85 </p>
+                <p surname="keyser" forename="kyle" num="" height="" weight="" bYear="1999" country="usa"> Kyle Keyser 03/08/99 </p>
+                <p surname="mcintyre" forename="zane" num="31" height="74" weight="206" bYear="1992" country="usa"> Zane McIntyre 08/20/92 </p>
+                <p surname="rask" forename="tuukka" num="40" height="75" weight="176" bYear="1987" country="fin"> Tuukka Rask 03/10/87 </p>
+                <p surname="vladar" forename="dan" num="80" height="77" weight="185" bYear="1997" country="cze"> Dan Vladar 08/20/97 </p>
             </goalies>
         </players>
-        <coaches type="coach">
-            <c name="cassidy" pos="head"/>
-            <c name="pandolfo" pos="assistant"/>
-            <c name="sacco" pos="assistant"/>
-            <c name="dean" pos="assistant"/>
-            <c name="essensa" pos="goaltending"/>
-            <c name="buckley" pos="video"/>
+        <coaches>
+            <head>
+                <c surname="cassidy" forename="bruce"> Bruce Cassidy </c>
+            </head>
+            <assistant>
+                <c surname="pandolfo" forename="jay"> Jay Pandolfo </c>
+                <c surname="sacco" forename="joe"> Joe Sacco </c>
+                <c surname="dean" forename="kevin"> Kevin Dean </c>
+            </assistant>
+            <goaltending>
+                <c surname="essensa" forename="bob"> Bob Essensa </c>
+            </goaltending>
+            <video>
+                <c surname="buckley" forename="jp"> J.P. Buckley </c>
+            </video>
         </coaches>
     </organization>    
 </roster>

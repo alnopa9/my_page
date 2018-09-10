@@ -2,55 +2,96 @@
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     <organization team="penguins">
-        <players type="player" unitH="inches" unitW="pounds">
+<!-- Tried to make some of the tags less repetitive -->
+        <players>
+<!-- removed unitH and unitW attributes -->
+<!-- all height is measured by inches and weight is pounds -->
             <forwards>
-                <p name="astonReese" num="46" pos="c" shot="l" height="72" weight="204" bYear="1994" country="usa"/>
-                <p name="blueger" num="53" pos="c" shot="l" height="72" weight="185" bYear="1994" country="lva"/>
-                <p name="brassard" num="19" pos="c" shot="l" height="73" weight="202" bYear="1987" country="can"/>
-                <p cap="capt" name="crosby" num="87" pos="c" shot="l" height="71" weight="200" bYear="1987" country="can"/>
-                <p name="cullen" num="7" pos="c" shot="l" height="73" weight="202" bYear="1976" country="usa"/>
-                <p name="dea" num="39" pos="c" shot="r" height="71" weight="175" bYear="1994" country="can"/>
-                <p name="pauli" num="54" pos="c" shot="l" height="71" weight="188" bYear="1994" country="usa"/>
-                <p name="grant" num="38" pos="c" shot="l" height="75" weight="215" bYear="1990" country="can"/>
-                <p name="guentzel" num="59" pos="c" shot="l" height="71" weight="180" bYear="1994" country="usa"/>
-                <p name="hagelin" num="62" pos="lw" shot="l" height="71" weight="186" bYear="1988" country="swe"/>
-                <p name="hayes" num="11" pos="rw" shot="l" height="77" weight="215" bYear="1989" country="usa"/>
-                <p name="hornqvist" num="72" pos="rw" shot="r" height="71" weight="189" bYear="1987" country="swe"/>
-                <p name="johnson" num="47" pos="c" shot="l" height="72" weight="174" bYear="1994" country="usa"/>
-                <p name="kessel" num="81" pos="rw" shot="r" height="72" weight="202" bYear="1987" country="usa"/>
-                <p name="lindberg" num="25" pos="rw" shot="l" height="75" weight="215" bYear="1995" country="swe"/>
-                <p cap="assis" name="malkin" num="71" pos="c" shot="l" height="75" weight="195" bYear="1986" country="rus"/>
-                <p name="rust" num="17" pos="rw" shot="r" height="71" weight="192" bYear="1992" country="usa"/>
-                <p name="sheahan" num="15" pos="c" shot="l" height="75" weight="214" bYear="1991" country="can"/>
-                <p name="simon" num="12" pos="c" shot="l" height="71" weight="190" bYear="1994" country="cze"/>
-                <p name="sprong" num="41" pos="rw" shot="r" height="72" weight="180" bYear="1997" country="nld"/>
-                <p name="wilson" num="10" pos="lw" shot="l" height="74" weight="199" bYear="1991" country="can"/>
+<!-- removed the "player" attribute -->
+                <right>
+<!-- added position elements -->
+                    <shot hand="right">
+<!-- added shot element with handedness attribute -->
+                        <p surname="hornqvist" forename="patric" num="72" height="71" weight="189" bYear="1987" country="swe"> Patric Hornqvist 01/01/87 </p>
+                        <!-- added name text for future reference -->
+                        <p surname="kessel" forename="phil" num="81" height="72" weight="202" bYear="1987" country="usa"> Phil Kessel 10/802/87 </p>
+                        <p surname="rust" forename="bryan" num="17" height="71" weight="192" bYear="1992" country="usa"> Bryan Rust 05/11/92 </p>
+                        <p surname="sprong" forename="daniel" num="41" height="72" weight="180" bYear="1997" country="nld"> Daniel Sprong 03/17/97 </p>
+                        <p surname="hayes" forename="jimmy" num="11" height="77" weight="215" bYear="1989" country="usa"> Jimmy Hayes 11/21/89 </p>
+                    </shot>
+                    <shot hand="left">
+                        <p surname="lindberg" forename="tobias" num="25" height="75" weight="215" bYear="1995" country="swe"> Tobias Lindberg 07/22/95 </p>
+                    </shot>
+                </right>
+                <center>
+                    <shot hand="right">
+                        <p surname="dea" forename="jeanSebastien" num="39" height="71" weight="175" bYear="1994" country="can"> Jean-Sebastien Dea 02/08/94 </p>
+                    </shot>
+                    <shot hand="left">
+                        <p surname="astonReese" forename="zach" num="46" height="72" weight="204" bYear="1994" country="usa"> Zach Aston-Reese 08/10/94 </p>
+                        <p surname="blueger" forename="teddy" num="53" height="72" weight="185" bYear="1994" country="lva"> Teddy Blueger 08/15/94 </p>
+                        <p surname="brassard" forename="derick" num="19" height="73" weight="202" bYear="1987" country="can"> Derick Brassard 09/22/87 </p>
+                        <p cap="capt" surname="crosby" forename="sydney" num="87" height="71" weight="200" bYear="1987" country="can"> Sydney Crosby 08/07/87 </p>
+                        <p surname="cullen" forename="matt" num="7" height="73" weight="202" bYear="1976" country="usa"> Matt Cullen 11/02/76 </p>
+                        <p surname="diPauli" forename="thomas" num="54" height="71" weight="188" bYear="1994" country="usa"> Thomas Di Pauli 04/29/94 </p>
+                        <p surname="grant" forename="derek" num="38" height="75" weight="215" bYear="1990" country="can"> Derek Grant 04/20/90 </p>
+                        <p surname="guentzel" forename="jake" num="59" height="71" weight="180" bYear="1994" country="usa"> Jake Guentzel 10/06/94 </p>
+                        <p surname="johnson" forename="adam" num="47" height="72" weight="174" bYear="1994" country="usa"> Adam Johnson 06/22/94 </p>
+                        <p cap="assist" surname="malkin" forename="evgeni" num="71" height="75" weight="195" bYear="1986" country="rus"> Evgeni Malkin 07/31/86 </p>
+                        <p surname="sheahan" forename="riley" num="15" height="75" weight="214" bYear="1991" country="can"> Riley Sheahan 12/07/91 </p>
+                        <p surname="simon" forename="dominik" num="12" height="71" weight="190" bYear="1994" country="cze"> Dominik Simon 08/08/94 </p>
+                    </shot>
+                </center>
+                <left>
+                    <shot hand="left">
+                        <p surname="hagelin" forename="carl" num="62" height="71" weight="186" bYear="1988" country="swe"> Carl Hagelin 08/23/88 </p>
+                        <p surname="wilson" forename="garrett" num="10" height="74" weight="199" bYear="1991" country="can"> Garrett Wilson 03/16/91 </p>
+                    </shot>
+                </left>
             </forwards>
-            <defense pos="d">
-                <p name="dumoulin" num="8" shot="l" height="76" weight="207" bYear="1991" country="usa"/>
-                <p name="elliott" num="24" shot="r" height="73" weight="190" bYear="1991" country="can"/>
-                <p name="johnson" num="73" shot="l" height="73" weight="227" bYear="1987" country="usa"/>
-                <p cap="assis" name="letang" num="58" shot="r" height="72" weight="201" bYear="1987" country="can"/>
-                <p name="maatta" num="3" shot="l" height="74" weight="206" bYear="1994" country="fin"/>
-                <p name="oleksiak" num="6" shot="l" height="79" weight="255" bYear="1992" country="can"/>
-                <p name="riikola" num="50" shot="" height="" weight="" bYear="1993" country=""/>
-                <p name="ruhwedel" num="2" shot="r" height="71" weight="191" bYear="1990" country="usa"/>
-                <p name="schultz" num="4" shot="r" height="74" weight="193" bYear="1990" country="can"/>
-                <p name="summer" num="55" shot="l" height="74" weight="207" bYear="1988" country="usa"/>
+            <defense>
+<!-- removed pos for defense and goalies attribute -->
+                <shot hand="notSpecified">
+                    <p surname="riikola" forename="juuso" num="50" height="" weight="" bYear="1993" country=""> Juuso Riikola 11/09/93 </p>
+                </shot>
+                <shot hand="right">
+                    <p surname="elliott" forename="stefan" num="24" height="73" weight="190" bYear="1991" country="can"> Stefan Elliott 01/30/91 </p>
+                    <p cap="assist" surname="letang" forename="kris" num="58" height="72" weight="201" bYear="1987" country="can"> Kris Letang 04/24/87 </p>
+                    <p surname="ruhwedel" forename="chad" num="2" height="71" weight="191" bYear="1990" country="usa"> Chad Ruhwedel 05/07/90 </p>
+                    <p surname="schultz" forename="justin" num="4" height="74" weight="193" bYear="1990" country="can"> Justin Schultz 07/06/90 </p>
+                </shot>
+                <shot hand="left">
+                    <p surname="dumoulin" forename="brian" num="8" height="76" weight="207" bYear="1991" country="usa"> Brian Dumoulin 09/06/91 </p>
+                    <p surname="johnson" forename="jack" num="73" height="73" weight="227" bYear="1987" country="usa"> Jack Johnson 01/13/87 </p>
+                    <p surname="maatta" forename="olli" num="3" height="74" weight="206" bYear="1994" country="fin"> Olli Maatta 08/22/94 </p>
+                    <p surname="oleksiak" forename="jamie" num="6" height="79" weight="255" bYear="1992" country="can"> Jamie Oleksiak 12/21/92 </p>
+                    <p surname="summer" forename="chris" num="55" height="74" weight="207" bYear="1988" country="usa"> Chris Summer 02/05/88 </p>
+                </shot>
             </defense>
-            <goalies pos="g">
-                <p name="desmith" num="1" height="72" weight="181" bYear="1991" country="usa"/>
-                <p name="jarry" num="35" height="74" weight="194" bYear="1995" country="can"/>
-                <p name="murray" num="30" height="76" weight="178" bYear="1994" country="can"/>
+            <goalies>
+                <p surname="desmith" forename="casey" num="1" height="72" weight="181" bYear="1991" country="usa"> Casey DeSmith 08/13/91 </p>
+                <p surname="jarry" forename="tristan" num="35" height="74" weight="194" bYear="1995" country="can"> Tristan Jarry 04/29/95 </p>
+                <p surname="murray" forename="matt" num="30" height="76" weight="178" bYear="1994" country="can"> Matt Murray 05/25/94 </p>
             </goalies>
         </players>
-        <coaches type="coach">
-            <c name="sullivan" pos="head"/>
-            <c name="gonchar" pos="assistant"/>
-            <c name="martin" pos="assistant"/>
-            <c name="recchi" pos="assistant"/>
-            <c name="buckley" pos="goaltending"/>
-            <c name="saucier" pos="video"/>
+        <coaches>
+<!-- removed pos attribute for coaches -->
+            <head>
+<!-- added head, assistant, goaltending, and video elements to replace pos attributes -->
+                <c surname="sullivan" forename="mike"> Mike Sullivan </c>
+<!-- added name text for future reference -->
+            </head>
+            <assistant>
+                <c surname="gonchar" forename="sergei"> Sergei Gonchar </c>
+                <c surname="martin" forename="jacques"> Jacques Martin </c>
+                <c surname="recchi" forename="mark"> Mark Recchi </c>                
+            </assistant>
+            <goaltending>
+                <c surname="buckley" forename="mike"> Mike Buckley </c>
+            </goaltending>
+            <video>
+                <c surname="saucier" forename="andy"> Andy Saucier </c>
+            </video>
         </coaches>
     </organization>
 </roster>

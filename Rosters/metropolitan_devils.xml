@@ -4,58 +4,58 @@
     <organization team="devils">
         <players type="player" unitH="inches" unitW="pounds">
             <forwards>
-                <p name="anderson" num="49" pos="rw" shot="r" height="71" weight="190" bYear="1998" country="usa"/>
-                <p name="baddock" num="52" pos="lw" shot="l" height="75" weight="215" bYear="1995" country="can"/>
-                <p name="bastian" num="" pos="rw" shot="r" height="76" weight="205" bYear="1997" country="can"/>
-                <p cap="assis" name="boyle" num="11" pos="c" shot="l" height="78" weight="245" bYear="1984" country="usa"/>
-                <p name="bratt" num="63" pos="lw" shot="l" height="70" weight="175" bYear="1998" country="swe"/>
-                <p name="coleman" num="20" pos="c" shot="l" height="71" weight="200" bYear="1991" country="usa"/>
-                <p name="gabriel" num="" pos="rw" shot="r" height="76" weight="200" bYear="1993" country="can"/>
-                <p name="gignac" num="" pos="c" shot="l" height="71" weight="170" bYear="1997" country="can"/>
-                <p name="hall" num="9" pos="lw" shot="l" height="73" weight="205" bYear="1991" country="can"/>
-                <p name="hischier" num="13" pos="c" shot="l" height="73" weight="175" bYear="1999" country="che"/>
-                <p name="johansson" num="90" pos="lw" shot="l" height="73" weight="205" bYear="1990" country="swe"/>
-                <p name="noesen" num="23" pos="rw" shot="r" height="73" weight="205" bYear="1993" country="usa"/>
-                <p cap="assis" name="palmieri" num="21" pos="rw" shot="r" height="71" weight="185" bYear="1991" country="usa"/>
-                <p name="seney" num="" pos="lw" shot="l" height="69" weight="156" bYear="1996" country="can"/>
-                <p name="sharangvich" num="" pos="c" shot="l" height="74" weight="196" bYear="1998" country="blr"/>
-                <p name="speers" num="74" pos="c" shot="r" height="71" weight="185" bYear="1997" country="can"/>
-                <p name="studenic" num="" pos="rw" shot="l" height="73" weight="164" bYear="1998" country="svk"/>
-                <p name="tangradi" num="49" pos="lw" shot="l" height="76" weight="226" bYear="1989" country="can"/>
-                <p name="wood" num="44" pos="lw" shot="l" height="74" weight="195" bYear="1995" country="usa"/>
-                <p name="zacha" num="37" pos="c" shot="l" height="75" weight="210" bYear="1997" country="cze"/>
-                <p cap="assis" name="zajac" num="19" pos="c" shot="r" height="74" weight="185" bYear="1985" country="can"/>
+                <p xml:id="anderson" num="49" pos="rw" shot="r" height="71" weight="190" bYear="1998" country="usa"/>
+                <p xml:id="baddock" num="52" pos="lw" shot="l" height="75" weight="215" bYear="1995" country="can"/>
+                <p xml:id="bastian" num="" pos="rw" shot="r" height="76" weight="205" bYear="1997" country="can"/>
+                <p cap="assis" xml:id="boyle" num="11" pos="c" shot="l" height="78" weight="245" bYear="1984" country="usa"/>
+                <p xml:id="bratt" num="63" pos="lw" shot="l" height="70" weight="175" bYear="1998" country="swe"/>
+                <p xml:id="coleman" num="20" pos="c" shot="l" height="71" weight="200" bYear="1991" country="usa"/>
+                <p xml:id="gabriel" num="" pos="rw" shot="r" height="76" weight="200" bYear="1993" country="can"/>
+                <p xml:id="gignac" num="" pos="c" shot="l" height="71" weight="170" bYear="1997" country="can"/>
+                <p xml:id="hall" num="9" pos="lw" shot="l" height="73" weight="205" bYear="1991" country="can"/>
+                <p xml:id="hischier" num="13" pos="c" shot="l" height="73" weight="175" bYear="1999" country="che"/>
+                <p xml:id="johansson" num="90" pos="lw" shot="l" height="73" weight="205" bYear="1990" country="swe"/>
+                <p xml:id="noesen" num="23" pos="rw" shot="r" height="73" weight="205" bYear="1993" country="usa"/>
+                <p cap="assis" xml:id="palmieri" num="21" pos="rw" shot="r" height="71" weight="185" bYear="1991" country="usa"/>
+                <p xml:id="seney" num="" pos="lw" shot="l" height="69" weight="156" bYear="1996" country="can"/>
+                <p xml:id="sharangvich" num="" pos="c" shot="l" height="74" weight="196" bYear="1998" country="blr"/>
+                <p xml:id="speers" num="74" pos="c" shot="r" height="71" weight="185" bYear="1997" country="can"/>
+                <p xml:id="studenic" num="" pos="rw" shot="l" height="73" weight="164" bYear="1998" country="svk"/>
+                <p xml:id="tangradi" num="49" pos="lw" shot="l" height="76" weight="226" bYear="1989" country="can"/>
+                <p xml:id="wood" num="44" pos="lw" shot="l" height="74" weight="195" bYear="1995" country="usa"/>
+                <p xml:id="zacha" num="37" pos="c" shot="l" height="75" weight="210" bYear="1997" country="cze"/>
+                <p cap="assis" xml:id="zajac" num="19" pos="c" shot="r" height="74" weight="185" bYear="1985" country="can"/>
             </forwards>
             <defense pos="d">
-                <p name="butcher" num="8" shot="l" height="70" weight="190" bYear="1995" country="usa"/>
-                <p cap="capt" name="greene" num="6" shot="l" height="71" weight="190" bYear="1982" country="usa"/>
-                <p name="gryba" num="" shot="r" height="76" weight="222" bYear="1988" country="can"/>
-                <p name="iakovlev" num="" shot="l" height="72" weight="190" bYear="1991" country="rus"/>
-                <p name="jacobs" num="" shot="r" height="74" weight="200" bYear="1996" country="usa"/>
-                <p name="lovejoy" num="12" shot="r" height="73" weight="205" bYear="1984" country="usa"/>
-                <p name="mueller" num="25" shot="l" height="75" weight="210" bYear="1995" country="che"/>
-                <p name="ramage" num="" shot="r" height="72" weight="190" bYear="1991" country="can"/>
-                <p name="severson" num="28" shot="r" height="74" weight="205" bYear="1994" country="can"/>
-                <p name="sissons" num="" shot="l" height="74" weight="185" bYear="1998" country="can"/>
-                <p name="smith" num="" shot="l" height="71" weight="175" bYear="2000" country="can"/>
-                <p name="strait" num="" shot="l" height="73" weight="206" bYear="1988" country="usa"/>
-                <p name="vatanen" num="45" shot="r" height="70" weight="185" bYear="1991" country="fin"/>
-                <p name="white" num="" shot="l" height="73" weight="185" bYear="1997" country="can"/>
+                <p xml:id="butcher" num="8" shot="l" height="70" weight="190" bYear="1995" country="usa"/>
+                <p cap="capt" xml:id="greene" num="6" shot="l" height="71" weight="190" bYear="1982" country="usa"/>
+                <p xml:id="gryba" num="" shot="r" height="76" weight="222" bYear="1988" country="can"/>
+                <p xml:id="iakovlev" num="" shot="l" height="72" weight="190" bYear="1991" country="rus"/>
+                <p xml:id="jacobs" num="" shot="r" height="74" weight="200" bYear="1996" country="usa"/>
+                <p xml:id="lovejoy" num="12" shot="r" height="73" weight="205" bYear="1984" country="usa"/>
+                <p xml:id="mueller" num="25" shot="l" height="75" weight="210" bYear="1995" country="che"/>
+                <p xml:id="ramage" num="" shot="r" height="72" weight="190" bYear="1991" country="can"/>
+                <p xml:id="severson" num="28" shot="r" height="74" weight="205" bYear="1994" country="can"/>
+                <p xml:id="sissons" num="" shot="l" height="74" weight="185" bYear="1998" country="can"/>
+                <p xml:id="smith" num="" shot="l" height="71" weight="175" bYear="2000" country="can"/>
+                <p xml:id="strait" num="" shot="l" height="73" weight="206" bYear="1988" country="usa"/>
+                <p xml:id="vatanen" num="45" shot="r" height="70" weight="185" bYear="1991" country="fin"/>
+                <p xml:id="white" num="" shot="l" height="73" weight="185" bYear="1997" country="can"/>
             </defense>
             <goalies pos="g">
-                <p name="blackwood" num="70" height="76" weight="225" bYear="1996" country="can"/>
-                <p name="johnson" num="" height="73" weight="205" bYear="1994" country="usa"/>
-                <p name="kinkaid" num="1" height="75" weight="195" bYear="1989" country="usa"/>
-                <p name="lack" num="31" height="76" weight="187" bYear="1988" country="swe"/>
-                <p name="schneider" num="35" height="75" weight="200" bYear="1986" country="usa"/>
+                <p xml:id="blackwood" num="70" height="76" weight="225" bYear="1996" country="can"/>
+                <p xml:id="johnson" num="" height="73" weight="205" bYear="1994" country="usa"/>
+                <p xml:id="kinkaid" num="1" height="75" weight="195" bYear="1989" country="usa"/>
+                <p xml:id="lack" num="31" height="76" weight="187" bYear="1988" country="swe"/>
+                <p xml:id="schneider" num="35" height="75" weight="200" bYear="1986" country="usa"/>
             </goalies>
         </players>
         <coaches type="coach">
-            <c name="hayes" pos="head"/>
-            <c name="nasreddine" pos="assistant"/>
-            <c name="kowalsky" pos="assistant"/>
-            <c name="grier" pos="assistant"/>
-            <c name="melanson" pos="goaltending"/>
+            <c xml:id="hayes" pos="head"/>
+            <c xml:id="nasreddine" pos="assistant"/>
+            <c xml:id="kowalsky" pos="assistant"/>
+            <c xml:id="grier" pos="assistant"/>
+            <c xml:id="melanson" pos="goaltending"/>
         </coaches>
     </organization>
 </roster>

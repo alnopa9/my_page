@@ -4,51 +4,51 @@
     <organization team="islanders">
         <players type="player" unitH="inches" unitW="pounds">
             <forwards>
-                <p name="bailey" num="12" pos="rw" shot="l" height="73" weight="203" bYear="1989" country="can"/>
-                <p name="barzal" num="13" pos="c" shot="r" height="72" weight="189" bYear="1997" country="can"/>
-                <p name="beauvillier" num="72" pos="c" shot="l" height="71" weight="182" bYear="1997" country="can"/>
-                <p name="cizikas" num="53" pos="c" shot="l" height="71" weight="200" bYear="1991" country="can"/>
-                <p name="clutterbuk" num="15" pos="rw" shot="r" height="71" weight="216" bYear="1987" country="can"/>
-                <p name="eansor" num="" pos="c" shot="l" height="69" weight="174" bYear="1996" country="usa"/>
-                <p name="eberle" num="7" pos="c" shot="r" height="71" weight="187" bYear="1990" country="can"/>
-                <p name="filppula" num="51" pos="c" shot="l" height="72" weight="196" bYear="1984" country="fin"/>
-                <p name="johnston" num="52" pos="lw" shot="l" height="77" weight="235" bYear="1994" country="can"/>
-                <p name="koivula" num="" pos="lw" shot="l" height="76" weight="219" bYear="1998" country="fin"/>
-                <p name="komarov" num="47" pos="c" shot="l" height="71" weight="209" bYear="1987" country="est"/>
-                <p name="kovar" num="" pos="c" shot="r" height="71" weight="216" bYear="1990" country="cze"/>
-                <p name="kuhnhackl" num="34" pos="rw" shot="l" height="74" weight="196" bYear="1992" country="deu"/>
-                <p name="ladd" num="16" pos="lw" shot="l" height="75" weight="192" bYear="1995" country="can"/>
-                <p name="lee" num="27" pos="lw" shot="l" height="75" weight="231" bYear="1990" country="usa"/>
-                <p name="lorito" num="" pos="rw" shot="l" height="69" weight="171" bYear="1990" country="can"/>
-                <p name="martin" num="17" pos="lw" shot="l" height="75" weight="220" bYear="1989" country="can"/>
-                <p name="nelson" num="29" pos="c" shot="l" height="75" weight="212" bYear="1991" country="usa"/>
-                <p name="sislo" num="" pos="rw" shot="r" height="71" weight="190" bYear="1988" country="usa"/>
-                <p name="denis" num="" pos="c" shot="" height="" weight="" bYear="1992" country=""/>
+                <p xml:id="bailey" num="12" pos="rw" shot="l" height="73" weight="203" bYear="1989" country="can"/>
+                <p xml:id="barzal" num="13" pos="c" shot="r" height="72" weight="189" bYear="1997" country="can"/>
+                <p xml:id="beauvillier" num="72" pos="c" shot="l" height="71" weight="182" bYear="1997" country="can"/>
+                <p xml:id="cizikas" num="53" pos="c" shot="l" height="71" weight="200" bYear="1991" country="can"/>
+                <p xml:id="clutterbuk" num="15" pos="rw" shot="r" height="71" weight="216" bYear="1987" country="can"/>
+                <p xml:id="eansor" num="" pos="c" shot="l" height="69" weight="174" bYear="1996" country="usa"/>
+                <p xml:id="eberle" num="7" pos="c" shot="r" height="71" weight="187" bYear="1990" country="can"/>
+                <p xml:id="filppula" num="51" pos="c" shot="l" height="72" weight="196" bYear="1984" country="fin"/>
+                <p xml:id="johnston" num="52" pos="lw" shot="l" height="77" weight="235" bYear="1994" country="can"/>
+                <p xml:id="koivula" num="" pos="lw" shot="l" height="76" weight="219" bYear="1998" country="fin"/>
+                <p xml:id="komarov" num="47" pos="c" shot="l" height="71" weight="209" bYear="1987" country="est"/>
+                <p xml:id="kovar" num="" pos="c" shot="r" height="71" weight="216" bYear="1990" country="cze"/>
+                <p xml:id="kuhnhackl" num="34" pos="rw" shot="l" height="74" weight="196" bYear="1992" country="deu"/>
+                <p xml:id="ladd" num="16" pos="lw" shot="l" height="75" weight="192" bYear="1995" country="can"/>
+                <p xml:id="lee" num="27" pos="lw" shot="l" height="75" weight="231" bYear="1990" country="usa"/>
+                <p xml:id="lorito" num="" pos="rw" shot="l" height="69" weight="171" bYear="1990" country="can"/>
+                <p xml:id="martin" num="17" pos="lw" shot="l" height="75" weight="220" bYear="1989" country="can"/>
+                <p xml:id="nelson" num="29" pos="c" shot="l" height="75" weight="212" bYear="1991" country="usa"/>
+                <p xml:id="sislo" num="" pos="rw" shot="r" height="71" weight="190" bYear="1988" country="usa"/>
+                <p xml:id="denis" num="" pos="c" shot="" height="" weight="" bYear="1992" country=""/>
             </forwards>
             <defense pos="d">
-                <p name="boychuk" num="55" shot="r" height="74" weight="227" bYear="1984" country="can"/>
-                <p name="dobson" num="" shot="r" height="75" weight="180" bYear="2000" country="can"/>
-                <p name="hegelson" num="" shot="l" height="76" weight="221" bYear="1990" country="usa"/>
-                <p name="hickey" num="14" shot="l" height="72" weight="188" bYear="1989" country="can"/>
-                <p name="leddy" num="2" shot="l" height="72" weight="204" bYear="1991" country="usa"/>
-                <p name="mayfield" num="42" shot="r" height="76" weight="227" bYear="1992" country="usa"/>
-                <p name="pelech" num="50" shot="l" height="75" weight="217" bYear="1994" country="can"/>
-                <p name="pulock" num="6" shot="r" height="74" weight="214" bYear="1994" country="can"/>
-                <p name="rathgeb" num="" shot="" height="" weight="" bYear="1995" country=""/>
+                <p xml:id="boychuk" num="55" shot="r" height="74" weight="227" bYear="1984" country="can"/>
+                <p xml:id="dobson" num="" shot="r" height="75" weight="180" bYear="2000" country="can"/>
+                <p xml:id="hegelson" num="" shot="l" height="76" weight="221" bYear="1990" country="usa"/>
+                <p xml:id="hickey" num="14" shot="l" height="72" weight="188" bYear="1989" country="can"/>
+                <p xml:id="leddy" num="2" shot="l" height="72" weight="204" bYear="1991" country="usa"/>
+                <p xml:id="mayfield" num="42" shot="r" height="76" weight="227" bYear="1992" country="usa"/>
+                <p xml:id="pelech" num="50" shot="l" height="75" weight="217" bYear="1994" country="can"/>
+                <p xml:id="pulock" num="6" shot="r" height="74" weight="214" bYear="1994" country="can"/>
+                <p xml:id="rathgeb" num="" shot="" height="" weight="" bYear="1995" country=""/>
             </defense>
             <goalies pos="g">
-                <p name="greiss" num="1" height="73" weight="227" bYear="1986" country="deu"/>
-                <p name="lehner" num="40" height="76" weight="245" bYear="1991" country="swe"/>
-                <p name="skarek" num="" height="75" weight="196" bYear="1999" country="cze"/>
-                <p name="soderstrom" num="" height="77" weight="196" bYear="1996" country="swe"/>
+                <p xml:id="greiss" num="1" height="73" weight="227" bYear="1986" country="deu"/>
+                <p xml:id="lehner" num="40" height="76" weight="245" bYear="1991" country="swe"/>
+                <p xml:id="skarek" num="" height="75" weight="196" bYear="1999" country="cze"/>
+                <p xml:id="soderstrom" num="" height="77" weight="196" bYear="1996" country="swe"/>
             </goalies>
         </players>
         <coaches type="coach">
-            <c name="trotz" pos="head"/>
-            <c name="lambert" pos="assistant"/>
-            <c name="gruden" pos="assistant"/>
-            <c name="gomez" pos="assistant"/>
-            <c name="greco" pos="goaltending"/>
+            <c xml:id="trotz" pos="head"/>
+            <c xml:id="lambert" pos="assistant"/>
+            <c xml:id="gruden" pos="assistant"/>
+            <c xml:id="gomez" pos="assistant"/>
+            <c xml:id="greco" pos="goaltending"/>
         </coaches>
     </organization>
 </roster>

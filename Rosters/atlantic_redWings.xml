@@ -4,50 +4,50 @@
     <organization team="redWings">
         <players unitH="inches" unitW="pounds" type="player">
             <forwards>
-                <p cap="assis" name="abdelkader" num="8" pos="lw" shot ="l" height="74" weight="214" bYear="1987" country="usa"/>
-                <p name="athanasiou" num="72" pos="lw" shot="l" height="74"	weight="188" bYear="1994" country="can"/>
-                <p name="bertuzzi" num="59"	pos="lw" shot="l" height="72" weight="190" bYear="1995" country="can"/>
-                <p name="ehn" num="54" pos="c" shot="l" height="75" weight="181" bYear="96" country="swe"/>
-                <p name="frk" num="42" pos="rw" shot="r" height="73" weight="205" bYear="1993" country="cze"/>
-                <p name="glendening" num="41" pos="rw" shot="r"	height="71"	weight="192" bYear="1989" country="usa"/>
-                <p name="helm" num="43" pos="lw" shot="l" height="72" weight="196" bYear="1987" country="can"/>
-                <p name="larkin" num="71" pos="c" shot="l" height="73" weight="198" bYear="1996" country="usa"/>
-                <p name="mantha" num="39" pos="rw" shot="l" height="77" weight="225" bYear="1994" country="can"/>
-                <p name="megan" num="61" pos="c" shot="l" height="73" weight="191" bYear="1990" country="usa"/>
-                <p name="nielsen" num="51" pos="c" shot="l" height="73" weight="188" bYear="1984" country="dnk"/>
-                <p name="nyquist" num="14" pos="rw" shot="l" height="71" weight="184" bYear="1984" country="swe"/>
-                <p name="svechnikov" num="77" pos="rw" shot="l" height="72" weight="212" bYear="1996" country="rus"/>
-                <p name="terry" num="15" pos="lw" shot="l" height="70" weight="191" bYear="1989" country="can"/>
-                <p name="vanek" num="26" pos="lw" shot="r" height="74" weight="214" bYear="1984" country="aut"/>
-                <p name="witkowski" num="28" pos="rw" shot="r" height="74" weight="210" bYear="1990" country="usa"/>
-                <p name="zadina" num="" pos="rw" shot="l" height="72" weight="195" bYear="1999" country="cze"/>
-                <p cap="capt" name="zetterberg" num="40" pos="c" shot="l" height="72" weight="197" bYear="1980" country="swe"/>
+                <p cap="assis" xml:id="abdelkader" num="8" pos="lw" shot ="l" height="74" weight="214" bYear="1987" country="usa"/>
+                <p xml:id="athanasiou" num="72" pos="lw" shot="l" height="74"	weight="188" bYear="1994" country="can"/>
+                <p xml:id="bertuzzi" num="59"	pos="lw" shot="l" height="72" weight="190" bYear="1995" country="can"/>
+                <p xml:id="ehn" num="54" pos="c" shot="l" height="75" weight="181" bYear="96" country="swe"/>
+                <p xml:id="frk" num="42" pos="rw" shot="r" height="73" weight="205" bYear="1993" country="cze"/>
+                <p xml:id="glendening" num="41" pos="rw" shot="r"	height="71"	weight="192" bYear="1989" country="usa"/>
+                <p xml:id="helm" num="43" pos="lw" shot="l" height="72" weight="196" bYear="1987" country="can"/>
+                <p xml:id="larkin" num="71" pos="c" shot="l" height="73" weight="198" bYear="1996" country="usa"/>
+                <p xml:id="mantha" num="39" pos="rw" shot="l" height="77" weight="225" bYear="1994" country="can"/>
+                <p xml:id="megan" num="61" pos="c" shot="l" height="73" weight="191" bYear="1990" country="usa"/>
+                <p xml:id="nielsen" num="51" pos="c" shot="l" height="73" weight="188" bYear="1984" country="dnk"/>
+                <p xml:id="nyquist" num="14" pos="rw" shot="l" height="71" weight="184" bYear="1984" country="swe"/>
+                <p xml:id="svechnikov" num="77" pos="rw" shot="l" height="72" weight="212" bYear="1996" country="rus"/>
+                <p xml:id="terry" num="15" pos="lw" shot="l" height="70" weight="191" bYear="1989" country="can"/>
+                <p xml:id="vanek" num="26" pos="lw" shot="r" height="74" weight="214" bYear="1984" country="aut"/>
+                <p xml:id="witkowski" num="28" pos="rw" shot="r" height="74" weight="210" bYear="1990" country="usa"/>
+                <p xml:id="zadina" num="" pos="rw" shot="l" height="72" weight="195" bYear="1999" country="cze"/>
+                <p cap="capt" xml:id="zetterberg" num="40" pos="c" shot="l" height="72" weight="197" bYear="1980" country="swe"/>
             </forwards>
             <defense pos="d">
-                <p name="chelios" num="76" shot="l" height="74" weight="185" bYear="1991" country="usa"/>
-                <p name="daley" num="83" shot="l" height="71" weight="195" bYear="1983" country="can"/>
-                <p name="deKeyser" num="65" shot="l" height="75" weight="192" bYear="1990" country="usa"/>
-                <p name="ericsson" num="52" shot="l" height="76" weight="220" bYear="1984" country="swe"/>
-                <p name="green" num="25" shot="r" height="73" weight="207" bYear="1985" country="can"/>
-                <p name="jensen" num="3" shot="r" height="72" weight="194" bYear="1990" country="usa"/>
-                <p cap="assis" name="kronwall" num="55" shot="l" height="72" weight="194" bYear="1981" country="swe"/>
+                <p xml:id="chelios" num="76" shot="l" height="74" weight="185" bYear="1991" country="usa"/>
+                <p xml:id="daley" num="83" shot="l" height="71" weight="195" bYear="1983" country="can"/>
+                <p xml:id="deKeyser" num="65" shot="l" height="75" weight="192" bYear="1990" country="usa"/>
+                <p xml:id="ericsson" num="52" shot="l" height="76" weight="220" bYear="1984" country="swe"/>
+                <p xml:id="green" num="25" shot="r" height="73" weight="207" bYear="1985" country="can"/>
+                <p xml:id="jensen" num="3" shot="r" height="72" weight="194" bYear="1990" country="usa"/>
+                <p cap="assis" xml:id="kronwall" num="55" shot="l" height="72" weight="194" bYear="1981" country="swe"/>
             </defense>
             <goalies pos="g">
-                <p name="bernier" num="" height="72" weight="184" bYear="1988" country="can"/>
-                <p name="fulcher" num="" height="" weight="" bYear="1998" country=""/>
-                <p name="howard" num="35" height="73" weight="218" bYear="1984" country="usa"/>
-                <p name="rybar" num="" height="" weight="" bYear="1993" country=""/>
-                <p name="sateri" num="29" height="73" weight="205" bYear="1989" country="fin"/>
+                <p xml:id="bernier" num="" height="72" weight="184" bYear="1988" country="can"/>
+                <p xml:id="fulcher" num="" height="" weight="" bYear="1998" country=""/>
+                <p xml:id="howard" num="35" height="73" weight="218" bYear="1984" country="usa"/>
+                <p xml:id="rybar" num="" height="" weight="" bYear="1993" country=""/>
+                <p xml:id="sateri" num="29" height="73" weight="205" bYear="1989" country="fin"/>
             </goalies>
         </players>
         <coaches type="coach">
-            <c name="blashill" pos="head"/>
-            <c name="torchetti" pos="assistant"/>
-            <c name="houda" pos="assistant"/>
-            <c name="ferschweiler" pos="assistant"/>
-            <c name="nightingale" pos="assistant"/>
-            <c name="salajko" pos="goaltending"/>
-            <c name="weintraub" pos="video"/>
+            <c xml:id="blashill" pos="head"/>
+            <c xml:id="torchetti" pos="assistant"/>
+            <c xml:id="houda" pos="assistant"/>
+            <c xml:id="ferschweiler" pos="assistant"/>
+            <c xml:id="nightingale" pos="assistant"/>
+            <c xml:id="salajko" pos="goaltending"/>
+            <c xml:id="weintraub" pos="video"/>
         </coaches>
     </organization>
 </roster>

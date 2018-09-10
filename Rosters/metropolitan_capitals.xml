@@ -4,46 +4,46 @@
     <organization team="capitals">
         <players type="player" unitH="inches" unitW="pounds">
             <forwards>
-                <p cap="assis" name="backstrom" num="19" pos="c" shot="l" height="73" weight="210" bYear="1987" country="swe"/>
-                <p name="boyd" num="72" pos="c" shot="l" height="71" weight="185" bYear="1993" country="usa"/>
-                <p name="burakovsky" num="65" pos="lw" shot="l" height="75" weight="201" bYear="1995" country="aut"/>
-                <p name="connolly" num="10" pos="rw" shot="r" height="75" weight="195" bYear="1992" country="can"/>
-                <p name="dowd" num="17" pos="c" shot="r" height="74" weight="197" bYear="1990" country="usa"/>
-                <p name="eller" num="20" pos="c" shot="l" height="74" weight="207" bYear="1989" country="dnk"/>
-                <p name="gersich" num="63" pos="lw" shot="l" height="71" weight="175" bYear="1996" country="usa"/>
-                <p name="jonsson-fjallby" num="45" pos="lw" shot="l" height="72" weight="170" bYear="1998" country="swe"/>
-                <p name="kuznetsov" num="92" pos="c" shot="l" height="74" weight="204" bYear="1992" country="rus"/>
-                <p name="megna" num="7" pos="c" shot="r" height="73" weight="195" bYear="1990" country="usa"/>
-                <p name="oshie" num="77" pos="rw" shot="r" height="71" weight="195" bYear="1986" country="usa"/>
-                <p cap="capt" name="ovechkin" num="8" pos="lw" shot="r" height="75" weight="235" bYear="1985" country="rus"/>
-                <p name="sgarbossa" num="" pos="c" shot="l" height="72" weight="186" bYear="1992" country="can"/>
-                <p name="shumakov" num="" pos="rw" shot="" height="" weight="" bYear="1992" country=""/>
-                <p name="smith-pelly" num="25" pos="rw" shot="r" height="72" weight="223" bYear="1992" country="can"/>
-                <p name="stephenson" num="18" pos="c" shot="l" height="72" weight="203" bYear="1994" country="can"/>
-                <p name="vrana" num="13" pos="lw" shot="l" height="72" weight="197" bYear="1996" country="cze"/>
-                <p name="walker" num="79" pos="lw" shot="l" height="69" weight="186" bYear="1994" country="gbr"/>
-                <p name="wilson" num="43" pos="rw" shot="r" height="76" weight="218" bYear="1994" country="can"/>
+                <p cap="assis" xml:id="backstrom" num="19" pos="c" shot="l" height="73" weight="210" bYear="1987" country="swe"/>
+                <p xml:id="boyd" num="72" pos="c" shot="l" height="71" weight="185" bYear="1993" country="usa"/>
+                <p xml:id="burakovsky" num="65" pos="lw" shot="l" height="75" weight="201" bYear="1995" country="aut"/>
+                <p xml:id="connolly" num="10" pos="rw" shot="r" height="75" weight="195" bYear="1992" country="can"/>
+                <p xml:id="dowd" num="17" pos="c" shot="r" height="74" weight="197" bYear="1990" country="usa"/>
+                <p xml:id="eller" num="20" pos="c" shot="l" height="74" weight="207" bYear="1989" country="dnk"/>
+                <p xml:id="gersich" num="63" pos="lw" shot="l" height="71" weight="175" bYear="1996" country="usa"/>
+                <p xml:id="jonsson-fjallby" num="45" pos="lw" shot="l" height="72" weight="170" bYear="1998" country="swe"/>
+                <p xml:id="kuznetsov" num="92" pos="c" shot="l" height="74" weight="204" bYear="1992" country="rus"/>
+                <p xml:id="megna" num="7" pos="c" shot="r" height="73" weight="195" bYear="1990" country="usa"/>
+                <p xml:id="oshie" num="77" pos="rw" shot="r" height="71" weight="195" bYear="1986" country="usa"/>
+                <p cap="capt" xml:id="ovechkin" num="8" pos="lw" shot="r" height="75" weight="235" bYear="1985" country="rus"/>
+                <p xml:id="sgarbossa" num="" pos="c" shot="l" height="72" weight="186" bYear="1992" country="can"/>
+                <p xml:id="shumakov" num="" pos="rw" shot="" height="" weight="" bYear="1992" country=""/>
+                <p xml:id="smith-pelly" num="25" pos="rw" shot="r" height="72" weight="223" bYear="1992" country="can"/>
+                <p xml:id="stephenson" num="18" pos="c" shot="l" height="72" weight="203" bYear="1994" country="can"/>
+                <p xml:id="vrana" num="13" pos="lw" shot="l" height="72" weight="197" bYear="1996" country="cze"/>
+                <p xml:id="walker" num="79" pos="lw" shot="l" height="69" weight="186" bYear="1994" country="gbr"/>
+                <p xml:id="wilson" num="43" pos="rw" shot="r" height="76" weight="218" bYear="1994" country="can"/>
             </forwards>
             <defense pos="d">
-                <p name="bowey" num="22" shot="r" height="74" weight="198" bYear="198" country="can"/>
-                <p name="carlson" num="74" shot="r" height="75" weight="218" bYear="1990" country="usa"/>
-                <p name="djoos" num="29" shot="r" height="72" weight="169" bYear="1994" country="swe"/>
-                <p name="kempny" num="6" shot="l" height="72" weight="194" bYear="1990" country="cze"/>
-                <p name="niskanen" num="2" shot="r" height="73" weight="203" bYear="1991" country="usa"/>
-                <p name="orlov" num="9" shot="l" height="71" weight="212" bYear="1991" country="rus"/> 
-                <p cap="assis" name="orpik" num="44" shot="l" height="75" weight="217" bYear="1980" country="usa"/>
+                <p xml:id="bowey" num="22" shot="r" height="74" weight="198" bYear="198" country="can"/>
+                <p xml:id="carlson" num="74" shot="r" height="75" weight="218" bYear="1990" country="usa"/>
+                <p xml:id="djoos" num="29" shot="r" height="72" weight="169" bYear="1994" country="swe"/>
+                <p xml:id="kempny" num="6" shot="l" height="72" weight="194" bYear="1990" country="cze"/>
+                <p xml:id="niskanen" num="2" shot="r" height="73" weight="203" bYear="1991" country="usa"/>
+                <p xml:id="orlov" num="9" shot="l" height="71" weight="212" bYear="1991" country="rus"/> 
+                <p cap="assis" xml:id="orpik" num="44" shot="l" height="75" weight="217" bYear="1980" country="usa"/>
             </defense>
             <goalies pos="g">
-                <p name="copley" num="1" height="76" weight="200" bYear="1992" country="usa"/>
-                <p name="holtby" num="70" height="74" weight="211" bYear="1989" country="rus"/>
-                <p name="samsonov" num="30" height="75" weight="200" bYear="1997" country="rus"/>
+                <p xml:id="copley" num="1" height="76" weight="200" bYear="1992" country="usa"/>
+                <p xml:id="holtby" num="70" height="74" weight="211" bYear="1989" country="rus"/>
+                <p xml:id="samsonov" num="30" height="75" weight="200" bYear="1997" country="rus"/>
             </goalies>
         </players>
         <coaches type="coach">
-            <c name="reirden" pos="head"/>
-            <c name="forsythe" pos="assistant"/>
-            <c name="murray" pos="goaltending"/>
-            <c name="leonhardt" pos="video"/>
+            <c xml:id="reirden" pos="head"/>
+            <c xml:id="forsythe" pos="assistant"/>
+            <c xml:id="murray" pos="goaltending"/>
+            <c xml:id="leonhardt" pos="video"/>
         </coaches>
     </organization>
 </roster>
