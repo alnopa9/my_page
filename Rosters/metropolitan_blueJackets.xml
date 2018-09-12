@@ -1,95 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
-    <organization team="blueJackets">
+    <organization team="blueJackets">        
         <players>
             <forwards>
                 <right>
                     <shot hand="right">
-                        <p surname="anderson" forename="josh" num="77" height="75" weight="221" bYear="1994" country="can"> Josh Anderson 05/07/94 </p>
-                        <p surname="atkinson" forename="cam" num="13" height="68" weight="179" bYear="1989" country="usa"> Cam Atkinson 06/05/89 </p>
-                        <p surname="bjorkstrand" forename="oliver" num="28" height="72" weight="177" bYear="1995" country="dnk"> Oliver Bjorkstrand 04/10/95 </p>
-                        <p surname="davidson" forename="jonathan" num="" height="71" weight="185" bYear="1997" country="swe"> Jonathan Davidson 03/12/97 </p>
-                        <p surname="fortier" forename="maxime" num="" height="70" weight="183" bYear="1996" country="can"> Maxime Fortier 12/15/96 </p>
-                        <p surname="sherwood" forename="kole" num="88" height="73" weight="202" bYear="1997" country="usa"> Kole Sherwod 01/22/97 </p>
+                        <p> <sName>Anderson</sName> <fName>Josh</fName> <n>77</n> <h>75</h> <w>221</w> May 7, <y>1994</y> Burlington, ON, <co>CAN</co> </p>
+                        <p> <sName>Atkinson</sName> <fName>Cam</fName> <n>13</n> <h>68</h> <w>179</w> Jun 5, <y>1989</y> Riverside, CT, <co>USA</co> </p>
+                        <p> <sName>Bjorkstrand</sName> <fName>Oliver</fName> <n>28</n> <h>72</h> <w>177</w> Apr 10, <y>1995</y> Herning, <co>DNK</co> </p>
+                        <p> <sName>Davidsson</sName> <fName>Jonathan</fName> <h>71</h> <w>185</w> Mar 12, <y>1997</y> Tyreso, <co>SWE</co> </p>
+                        <p> <sName>Fortier</sName> <fName>Maxime</fName> <h>70</h> <w>183</w> Dec 15, <y>1996</y> Montreal, QC, <co>CAN</co> </p>
+                        <p> <sName>Sherwood</sName> <fName>Kole</fName> <n>88</n> <h>73</h> <w>202</w> Jan 22, <y>1997</y> Columbus, OH, <co>USA</co> </p>
                     </shot>
                     <shot hand="left">
-                        <p surname="abramov" forename="vitaly" num="79" height="69" weight="171" bYear="1998" country="rus"> Vitaly Abramov 05/08/98 </p>
+                        <p> <sName>Abramov</sName> <fName>Vitaly</fName> <n>79</n> <h>69</h> <w>171</w> May 8, <y>1998</y> Chelyabinsk, <co>RUS</co> </p>
                     </shot>
                 </right>
                 <center>
                     <shot hand="right">
-                        <p surname="dalpe" forename="zac" num="29" height="74" weight="194" bYear="1989" country="can"> Zac Dalpe 11/01/89 </p>
-                        <p surname="nash" forename="riley" num="20" height="73" weight="190" bYear="1989" country="can"> Riley Nash 05/09/89 </p>
-                        <p surname="stenlund" forename="kevin" num="69" height="76" weight="210" bYear="1996" country="swe"> Kevin Stenlund 09/20/96 </p>
+                        <p> <sName>Dalpe</sName> <fName>Zac</fName> <n>29</n> <h>74</h> <w>194</w> Nov 1, <y>1989</y> Paris, ON, <co>CAN</co> </p>
+                        <p> <sName>Nash</sName> <fName>Riley</fName> <n>20</n> <h>73</h> <w>190</w> May 9, <y>1989</y> Consort, AB, <co>CAN</co> </p>
+                        <p> <sName>Stenlund</sName> <fName>Kevin</fName> <n>69</n> <h>76</h> <w>210</w> Sep 20, <y>1996</y> Huddinge, <co>SWE</co> </p>
                     </shot>
                     <shot hand="left">
-                        <p surname="texier" forename="alexandre" num="42" height="72" weight="187" bYear="1999" country="fra"> Alexandre Texier 09/13/99 </p>
-                        <p surname="thurkauf" forename="calvin" num="83" height="74" weight="212" bYear="1997" country="che"> Calvin Thurkauf 06/27/97 </p>
-                        <p surname="vigneault" forename="sam" num="83" height="77" weight="203" bYear="1995" country="can"> Sam Vigneault 09/07/95 </p>
-                        <p surname="wennberg" forename="alexander" num="10" height="74" weight="196" bYear="1994" country="swe"> Alexander Wennberg 09/22/94 </p>
-                        <p surname="broadhurst" forename="alex" num="62" height="72" weight="178" bYear="1993" country="usa"> Alex Broadhurst 03/07/93 </p>
-                        <p surname="dubinsky" forename="brandon" num="17" height="74" weight="205" bYear="1986" country="usa"> Brandon Dubinsky 04/29/86 </p>
-                        <p surname="dubois" forename="pierreLuc" num="18" height="75" weight="207" bYear="1998" country="can"> Pierre-Luc Dubois 06/24/98 </p>
-                        <p surname="foudy" forename="liam" num="" height="72" weight="175" bYear="2000" country="can"> Liam Foudy 02/04/00 </p>
-                        <p surname="gerbe" forename="nathan" num="24" height="64" weight="176" bYear="1987" country="usa"> Nathan Gerbe 07/24/87 </p>
-                        <p cap="assist" surname="jenner" forename="boone" num="38" height="74" weight="206" bYear="1993" country="can"> Boone Jenner 06/15/93 </p>
-                        <p surname="macInnis" forename="ryan" num="" height="75" weight="185" bYear="1996" country="usa"> Ryan MacInnis 02/14/96 </p>
-                        <p surname="sedlak" forename="lukas" num="45" height="72" weight="200" bYear="1995" country="cze"> Lukas Sedlak 02/25/93 </p>
+                        <p> <sName>Broadhurst</sName> <fName>Alex</fName> <n>62</n> <h>72</h> <w>178</w> Mar 7, <y>1993</y> New Lenox, IL, <co>USA</co> </p>
+                        <p> <sName>Dubinsky</sName> <fName>Brandon</fName> <n>17</n> <h>74</h> <w>205</w> Apr 29, <y>1986</y> Anchorage, AK, <co>USA</co> </p>
+                        <p> <sName>Dubois</sName> <fName>Pierre-Luc</fName> <n>18</n> <h>75</h> <w>207</w> Jun 24, <y>1998</y> Ste-Agathe-des-Monts, QC, <co>CAN</co> </p>
+                        <p> <sName>Foudy</sName> <fName>Liam</fName> <h>72</h> <w>175</w> Feb 4, <y>2000</y> Toronto, ON, <co>CAN</co> </p>
+                        <p> <sName>Gerbe</sName> <fName>Nathan</fName> <n>24</n> <h>54</h> <w>176</w> Jul 24, <y>1987</y> Oxford, MI, <co>USA</co> </p>
+                        <p cap="assist">
+                            <sName>Jenner</sName> <fName>Boone</fName> <n>38</n> <h>74</h> <w>206</w> Jun 15, <y>1993</y> Dorchester, ON, <co>CAN</co> </p>
+                        <p> <sName>MacInnis</sName> <fName>Ryan</fName> <h>75</h>  <w>185</w> Feb 14, <y>1996</y> St. Louis, MO, <co>USA</co> </p>
+                        <p> <sName>Sedlak</sName> <fName>Lukas</fName> <n>45</n> <h>72</h> <w>205</w> Feb 25, <y>1993</y> Ceské Budejovice, <co>CZE</co> </p>
+                        <p> <sName>Texier</sName> <fName>Alexandre</fName> <n>42</n> <h>72</h> <w>187</w> Sep 13, <y>1999</y> St. Martin D'heres, <co>FRA</co> </p>
+                        <p> <sName>Thurkauf</sName> <fName>Calvin</fName> <n>83</n> <h>74</h> <w>212</w> Jun 27, <y>1997</y> Zug, CHE</p>
+                        <p> <sName>Vigneault</sName> <fName>Sam</fName> <n>74</n> <h>77</h> <w>203</w> Sep 7, <y>1995</y> Baie-Comeau, QC, <co>CAN</co> </p>
+                        <p> <sName>Wennberg</sName> <fName>Alexander</fName> <n>10</n> <h>74</h> <w>196</w> Sep 22, <y>1994</y> Stockholm, <co>SWE</co> </p>
                     </shot>
                 </center>
                 <left>
                     <shot hand="right">
-                        <p surname="panarin" forename="artemi" num="9" height="71" weight="168" bYear="1991" country="rus"> Artemi Panarin 10/30/91 </p>
+                        <p> <sName>Panarin</sName> <fName>Artemi</fName> <n>9</n> <h>71</h> <w>168</w> Oct 30, <y>1991</y> Korkino, <co>RUS</co>
+                        </p>
                     </shot>
                     <shot hand="left">
-                        <p surname="bittner" forename="paul" num="57" height="75" weight="211" bYear="1996" country="usa"> Paul Bittner 11/04/96 </p>
-                        <p surname="duclair" forename="anthony" num="91" height="71" weight="191" bYear="1995" country="can"> Anthony Duclair 08/26/95 </p>
-                        <p cap="capt" surname="foligno" forename="nick" num="71" height="72" weight="202" bYear="1987" country="usa"> Nick Foligno 10/31/87 </p>
-                        <p surname="hannikainen" forename="markus" num="37" height="73" weight="200" bYear="1993" country="fin"> Markus Hannikainen 03/26/93 </p>
-                        <p surname="milano" forename="sonny" num="22" height="72" weight="195" bYear="1996" country="usa"> Sonny Milano 05/12/96 </p>
-                        <p surname="robinson" forename="eric" num="50" height="74" weight="200" bYear="1995" country="usa"> Eric Robinson 06/14/95 </p>
+                        <p> <sName>Bittner</sName> <fName>Paul</fName> <n>57</n> <h>75</h> <w>211</w> Nov 4, <y>1996</y> Crookston, MN, <co>USA</co> </p>
+                        <p> <sName>Duclair</sName> <fName>Anthony</fName> <n>91</n> <h>71</h> <w>191</w> Aug 26, <y>1995</y> Pointe-Claire, QC, <co>CAN</co> </p>
+                        <p cap="capt">
+                            <sName>Foligno</sName> <fName>Nick</fName> <n>71</n> <h>72</h> <w>202</w> Oct 31, <y>1987</y> Buffalo, NY, <co>USA</co> </p>
+                        <p> <sName>Hannikainen</sName> <fName>Markus</fName> <n>37</n> <h>73</h> <w>200</w> Mar 26, <y>1993</y> Helsinki, <co>FIN</co> </p>
+                        <p> <sName>Milano</sName> <fName>Sonny</fName> <n>22</n> <h>72</h> <w>195</w> May 12, <y>1996</y> Massapequa, NY, <co>USA</co> </p>
+                        <p> <sName>Robinson</sName> <fName>Eric</fName> <n>50</n> <h>74</h> <w>200</w> Jun 14, <y>1995</y> Bellmawr, NJ, <co>USA</co> </p>
                     </shot>
                 </left>
             </forwards>
             <defense>
                 <shot hand="right">
-                    <p surname="clendening" forename="adam" num="" height="72" weight="196" bYear="1992" country="usa"> Adam Clendening 10/26/92 </p>
-                    <p surname="jones" forename="seth" num="3" height="76" weight="210" bYear="1994" country="usa"> Seth Jones 10/03/93 </p>
-                    <p surname="savard" forename="david" num="58" height="74" weight="227" bYear="1990" country="can"> David Savard 10/22/90 </p>
-                    <p surname="siebenaler" forename="blake" num="44" height="74" weight="208" bYear="1996" country="usa"> Blake Siebenaler 02/27/96 </p>
+                    <p> <sName>Clendening</sName> <fName>Adam</fName> <h>72</h> <w>196</w> Oct 26, <y>1992</y> Niagara Falls, NY, <co>USA</co> </p>
+                    <p> <sName>Jones</sName> <fName>Seth</fName> <n>3</n> <h>76</h> <w>210</w> Oct 3, <y>1994</y> Arlington, TX, <co>USA</co> </p>
+                    <p> <sName>Savard</sName> <fName>David</fName> <n>58</n> <h>74</h> <w>227</w> Oct 22, <y>1990</y> St. Hyacinthe, QC, <co>CAN</co> </p>
+                    <p> <sName>Siebenaler</sName> <fName>Blake</fName> <n>44</n> <h>74</h> <w>208</w> Feb 27, <y>1996</y> Toledo, OH, <co>USA</co> </p>
                 </shot>
                 <shot hand="left">
-                    <p surname="cross" forename="tommy" num="56" height="75" weight="205" bYear="1989" country="usa"> Tommy Cross 09/12/89 </p>
-                    <p surname="harrington" forename="scott" num="4" height="74" weight="207" bYear="1993" country="can"> Scott Harrington 03/10/89 </p>
-                    <p surname="kukan" forename="dean" num="46" height="74" weight="186" bYear="1993" country="che"> Dean Kukan 07/08/93 </p>
-                    <p surname="murray" forename="ryan" num="27" height="73" weight="205" bYear="1993" country="can"> Ryan Murray 09/27/93 </p>
-                    <p surname="nutivaara" forename="markus" num="65" height="73" weight="191" bYear="1994" country="fin"> Markus Nutivaara 06/06/94 </p>
-                    <p surname="simpson" forename="dillon" num="" height="74" weight="204" bYear="1993" country="can"> Dillon Simpson 02/10/93 </p>
-                    <p surname="somerby" forename="doyle" num="33" height="78" weight="218" bYear="1994" country="usa"> Doyle Somerby 07/04/94 </p>
-                    <p surname="werenski" forename="zach" num="8" height="74" weight="209" bYear="1997" country="usa"> Zach Werenski 07/19/97 </p>
+                    <p> <sName>Cross</sName> <fName>Tommy</fName> <n>56</n> <h>75</h> <w>205</w> Sep 12, <y>1989</y> Hartford, CT, <co>USA</co> </p>
+                    <p> <sName>Harrington</sName> <fName>Scott</fName> <n>4</n> <h>74</h> <w>207</w> Mar 10, <y>1993</y> Kingston, ON, <co>CAN</co> </p>
+                    <p> <sName>Kukan</sName> <fName>Dean</fName> <n>46</n> <h>74</h> <w>186</w> Jul 8, <y>1993</y> Volketswil, CHE</p>
+                    <p> <sName>Murray</sName> <fName>Ryan</fName> <n>27</n> <h>73</h> <w>205</w> Sep 27, <y>1993</y> Regina, SK, <co>CAN</co> </p>
+                    <p> <sName>Nutivaara</sName> <fName>Markus</fName> <n>65</n> <h>73</h> <w>191</w> Jun 6, <y>1994</y> Oulu, <co>FIN</co> </p>
+                    <p> <sName>Simpson</sName> <fName>Dillon</fName> <h>74</h> <w>204</w> Feb 10, <y>1993</y> Edmonton, AB, <co>CAN</co> </p>
+                    <p> <sName>Somerby</sName> <fName>Doyle</fName> <n>33</n> <h>78</h> <w>218</w> Jul 4, <y>1994</y> Marblehead, MA, <co>USA</co> </p>
+                    <p> <sName>Werenski</sName> <fName>Zach</fName> <n>8</n> <h>74</h> <w>209</w> Jul 19, <y>1997</y> Grosse Pointe, MI, <co>USA</co> </p>
                 </shot>
             </defense>
             <goalies>
-                <p surname="berube" forename="jf" num="" height="73" weight="177" bYear="1991" country="can"> J-F Berube 07/13/91 </p>
-                <p surname="bobrovsky" forename="sergei" num="72" height="74" weight="182" bYear="1988" country="rus"> Sergei Bobrovsky 09/20/88 </p>
-                <p surname="korpisalo" forename="joonas" num="70" height="75" weight="182" bYear="1994" country="fin"> Joonas Korpisalo 04/28/94 </p>
+                <p> <sName>Berube</sName> <fName>J-F</fName> <h>73</h> <w>177</w>  Jul 13, <y>1991</y> Repentigny, QC, <co>CAN</co> </p>
+                <p> <sName>Bobrovsky</sName> <fName>Sergei</fName> <n>72</n> <h>74</h> <w>182</w> Sep 20, <y>1988</y> Novokuznetsk, <co>RUS</co> </p>
+                <p> <sName>Korpisalo</sName> <fName>Joonas</fName> <n>70</n> <h>75</h> <w>182</w> Apr 28, <y>1994</y> Pori, <co>FIN</co> </p>
             </goalies>
         </players>
         <coaches>
             <head>
-                <c surname="tortorella" forename=""/>
+                <c><sName>Tortorella</sName> <fName>John</fName></c>
             </head>
             <assistant>
-                <c surname="larsen" forename=""/>
-                <c surname="mccudden" forename=""/>
-                <c surname="shaw" forename=""/>
+                <c><sName>Larsen</sName> <fName>Brad</fName></c>
+                <c><sName>McCudden</sName> <fName>Kenny</fName></c>
+                <c><sName>Shaw</sName> <fName>Brad</fName></c>
             </assistant>
             <goaltending>
-                <c surname="legace" forename=""/>
+                <c><sName>Legace</sName> <fName>Manny</fName></c>
             </goaltending>
             <video>
-                <c surname="singleton" forename=""/>
+                <c><sName>Singleton</sName> <fName>Dan</fName></c>
             </video>
         </coaches>
     </organization>
