@@ -2,60 +2,89 @@
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     <organization team="devils">
-        <players type="player" unitH="inches" unitW="pounds">
+        <players>
             <forwards>
-                <p xml:id="anderson" num="49" pos="rw" shot="r" height="71" weight="190" bYear="1998" country="usa"/>
-                <p xml:id="baddock" num="52" pos="lw" shot="l" height="75" weight="215" bYear="1995" country="can"/>
-                <p xml:id="bastian" num="" pos="rw" shot="r" height="76" weight="205" bYear="1997" country="can"/>
-                <p cap="assis" xml:id="boyle" num="11" pos="c" shot="l" height="78" weight="245" bYear="1984" country="usa"/>
-                <p xml:id="bratt" num="63" pos="lw" shot="l" height="70" weight="175" bYear="1998" country="swe"/>
-                <p xml:id="coleman" num="20" pos="c" shot="l" height="71" weight="200" bYear="1991" country="usa"/>
-                <p xml:id="gabriel" num="" pos="rw" shot="r" height="76" weight="200" bYear="1993" country="can"/>
-                <p xml:id="gignac" num="" pos="c" shot="l" height="71" weight="170" bYear="1997" country="can"/>
-                <p xml:id="hall" num="9" pos="lw" shot="l" height="73" weight="205" bYear="1991" country="can"/>
-                <p xml:id="hischier" num="13" pos="c" shot="l" height="73" weight="175" bYear="1999" country="che"/>
-                <p xml:id="johansson" num="90" pos="lw" shot="l" height="73" weight="205" bYear="1990" country="swe"/>
-                <p xml:id="noesen" num="23" pos="rw" shot="r" height="73" weight="205" bYear="1993" country="usa"/>
-                <p cap="assis" xml:id="palmieri" num="21" pos="rw" shot="r" height="71" weight="185" bYear="1991" country="usa"/>
-                <p xml:id="seney" num="" pos="lw" shot="l" height="69" weight="156" bYear="1996" country="can"/>
-                <p xml:id="sharangvich" num="" pos="c" shot="l" height="74" weight="196" bYear="1998" country="blr"/>
-                <p xml:id="speers" num="74" pos="c" shot="r" height="71" weight="185" bYear="1997" country="can"/>
-                <p xml:id="studenic" num="" pos="rw" shot="l" height="73" weight="164" bYear="1998" country="svk"/>
-                <p xml:id="tangradi" num="49" pos="lw" shot="l" height="76" weight="226" bYear="1989" country="can"/>
-                <p xml:id="wood" num="44" pos="lw" shot="l" height="74" weight="195" bYear="1995" country="usa"/>
-                <p xml:id="zacha" num="37" pos="c" shot="l" height="75" weight="210" bYear="1997" country="cze"/>
-                <p cap="assis" xml:id="zajac" num="19" pos="c" shot="r" height="74" weight="185" bYear="1985" country="can"/>
+                <right>
+                    <shot hand="right">
+                        <p> <sName>Anderson</sName> <fName>Joey</fName> <n>49</n> <h>71</h> <w>190</w> Jun 19, <y>1998</y> Roseville, MN, <co>USA</co> </p>
+                        <p> <sName>Bastian</sName> <fName>Nathan</fName> <n>--</n> <h>76</h> <w>205</w> Dec 6, <y>1997</y> Kitchener, ON, <co>CAN</co> </p>
+                        <p> <sName>Gabriel</sName> <fName>Kurtis</fName> <n>--</n> <h>76</h> <w>200</w> Apr 20, <y>1993</y> Newmarket, ON, <co>CAN</co> </p>
+                        <p> <sName>Noesen</sName> <fName>Stefan</fName> <n>23</n> <h>73</h> <w>205</w> Feb 12, <y>1993</y> Plano, TX, <co>USA</co> </p>
+                        <p cap="assist"> <sName>Palmieri</sName> <fName>Kyle</fName> <n>21</n> <h>71</h> <w>185</w> Feb 1, <y>1991</y> Smithtown, NY, <co>USA</co> </p>
+                    </shot>
+                    <shot hand="left">
+                        <p> <sName>Studenic</sName> <fName>Marian</fName> <n>--</n> <h>73</h> <w>164</w> Oct 28, <y>1998</y> Skalica, <co>SVK</co> </p>
+                    </shot>
+                </right>
+                <center>
+                    <shot hand="right">
+                        <p> <sName>Speers</sName> <fName>Blake</fName> <n>74</n> <h>71</h> <w>185</w> Jan 2, <y>1997</y> Sault Ste. Marie, ON, <co>CAN</co> </p>
+                        <p cap="assist"> <sName>Zajac</sName> <fName>Travis</fName> <n>19</n> <h>74</h> <w>185</w> May 13, <y>1985</y> Winnipeg, MB, <co>CAN</co> </p>
+                    </shot>
+                    <shot hand="left">
+                        <p cap="assist"> <sName>Boyle</sName> <fName>Brian</fName> <n>11</n> <h>78</h> <w>245</w> Dec 18, <y>1984</y> Hingham, MA, <co>USA</co> </p>
+                        <p> <sName>Coleman</sName> <fName>Blake</fName> <n>20</n> <h>71</h> <w>200</w> Nov 28, <y>1991</y> Plano, TX, <co>USA</co> </p>
+                        <p> <sName>Gignac</sName> <fName>Brandon</fName> <n>--</n> <h>71</h> <w>170</w> Nov 7, <y>1997</y> Repentigny, QC, <co>CAN</co> </p>
+                        <p> <sName>Hischier</sName> <fName>Nico</fName> <n>13</n> <h>73</h> <w>175</w> Jan 4, <y>1999</y> Brig, <co>CHE</co> </p>
+                        <p> <sName>Sharangovich</sName> <fName>Yegor</fName> <n>--</n> <h>74</h> <w>196</w> Jun 6, <y>1998</y> Minsk, <co>BLR</co> </p>
+                        <p> <sName>Zacha</sName> <fName>Pavel</fName> <n>37</n> <h>75</h> <w>210</w> Apr 6, <y>1997</y> Brno, <co>CZE</co> </p>
+                    </shot>
+                </center>
+                <left>
+                    <shot hand="left">
+                        <p> <sName>Baddock</sName> <fName>Brandon</fName> <n>52</n> <h>75</h> <w>215</w> Mar 29, <y>1995</y> Vermilion, AB, <co>CAN</co> </p>
+                        <p> <sName>Bratt</sName> <fName>Jesper</fName> <n>63</n> <h>70</h> <w>175</w> Jul 30, <y>1998</y> Stockholm, <co>SWE</co> </p>
+                        <p cap="assist"> <sName>Hall</sName> <fName>Taylor</fName> <n>9</n> <h>73</h> <w>205</w> Nov 14, <y>1991</y> Calgary, AB, <co>CAN</co> </p>
+                        <p> <sName>Johansson</sName> <fName>Marcus</fName> <n>90</n> <h>73</h> <w>205</w> Oct 6, <y>1990</y> Landskrona, <co>SWE</co> </p>
+                        <p> <sName>Seney</sName> <fName>Brett</fName> <n>--</n> <h>69</h> <w>156</w> Feb 28, <y>1996</y> London, ON, <co>CAN</co> </p>
+                        <p> <sName>Tangradi</sName> <fName>Eric</fName> <n>49</n> <h>76</h> <w>226</w> Feb 10, <y>1989</y> Philadelphia, PA, <co>USA</co> </p>
+                        <p> <sName>Wood</sName> <fName>Miles</fName> <n>44</n> <h>74</h> <w>195</w> Sep 13, <y>1995</y> Buffalo, NY, <co>USA</co> </p>
+                    </shot>
+                </left>
             </forwards>
-            <defense pos="d">
-                <p xml:id="butcher" num="8" shot="l" height="70" weight="190" bYear="1995" country="usa"/>
-                <p cap="capt" xml:id="greene" num="6" shot="l" height="71" weight="190" bYear="1982" country="usa"/>
-                <p xml:id="gryba" num="" shot="r" height="76" weight="222" bYear="1988" country="can"/>
-                <p xml:id="iakovlev" num="" shot="l" height="72" weight="190" bYear="1991" country="rus"/>
-                <p xml:id="jacobs" num="" shot="r" height="74" weight="200" bYear="1996" country="usa"/>
-                <p xml:id="lovejoy" num="12" shot="r" height="73" weight="205" bYear="1984" country="usa"/>
-                <p xml:id="mueller" num="25" shot="l" height="75" weight="210" bYear="1995" country="che"/>
-                <p xml:id="ramage" num="" shot="r" height="72" weight="190" bYear="1991" country="can"/>
-                <p xml:id="severson" num="28" shot="r" height="74" weight="205" bYear="1994" country="can"/>
-                <p xml:id="sissons" num="" shot="l" height="74" weight="185" bYear="1998" country="can"/>
-                <p xml:id="smith" num="" shot="l" height="71" weight="175" bYear="2000" country="can"/>
-                <p xml:id="strait" num="" shot="l" height="73" weight="206" bYear="1988" country="usa"/>
-                <p xml:id="vatanen" num="45" shot="r" height="70" weight="185" bYear="1991" country="fin"/>
-                <p xml:id="white" num="" shot="l" height="73" weight="185" bYear="1997" country="can"/>
+            <defense>
+                <shot hand="right">
+                    <p> <sName>Gryba</sName> <fName>Eric</fName> <n>--</n> <h>76</h> <w>222</w> Apr 14, <y>1988</y> Saskatoon, SK, <co>CAN</co> </p>
+                    <p> <sName>Jacobs</sName> <fName>Josh</fName> <n>--</n> <h>74</h> <w>200</w> Feb 15, <y>1996</y> Shelby Township, MI, <co>USA</co> </p>
+                    <p> <sName>Lovejoy</sName> <fName>Ben</fName> <n>12</n> <h>73</h> <w>205</w> Feb 20, <y>1984</y> Concord, NH, <co>USA</co> </p>
+                    <p> <sName>Ramage</sName> <fName>John</fName> <n>--</n> <h>72</h> <w>190</w> Feb 7, <y>1991</y> Mississauga, ON, <co>CAN</co> </p>
+                    <p> <sName>Severson</sName> <fName>Damon</fName> <n>28</n> <h>74</h> <w>205</w> Aug 7, <y>1994</y> Melville, SK, <co>CAN</co> </p>
+                    <p> <sName>Vatanen</sName> <fName>Sami</fName> <n>45</n> <h>70</h> <w>185</w> Jun 3, <y>1991</y> Jyväskylä, <co>FIN</co> </p>
+                </shot>
+                <shot hand="left">
+                    <p> <sName>Butcher</sName> <fName>Will</fName> <n>8</n> <h>70</h> <w>190</w> Jan 6, <y>1995</y> Sun Prairie, WI, <co>USA</co> </p>
+                    <p cap="capt"> <sName>Greene</sName> <fName>Andy</fName> <n>6</n> <h>71</h> <w>190</w> Oct 30, <y>1982</y> Trenton, MI, <co>USA</co> </p>
+                    <p> <sName>Iakovlev</sName> <fName>Egor</fName> <n>--</n> <h>72</h> <w>190</w> Sep 17, <y>1991</y> Magnitogorsk, <co>RUS</co> </p>
+                    <p> <sName>Mueller</sName> <fName>Mirco</fName> <n>25</n> <h>75</h> <w>210</w> Mar 21, <y>1995</y> Winterthur, <co>CHE</co> </p>
+                    <p> <sName>Sissons</sName> <fName>Colby</fName> <n>--</n> <h>74</h> <w>185</w> Jan 15, <y>1998</y> Edmonton, AB, <co>CAN</co> </p>
+                    <p> <sName>Smith</sName> <fName>Ty</fName> <n>--</n> <h>71</h> <w>175</w> Mar 24, <y>2000</y> Lloydminster, AB, <co>CAN</co> </p>
+                    <p> <sName>Strait</sName> <fName>Brian</fName> <n>--</n> <h>73</h> <w>206</w> Jan 4, <y>1988</y> Waltham, MA, <co>USA</co> </p>
+                    <p> <sName>White</sName> <fName>Colton</fName> <n>--</n> <h>73</h> <w>185</w> May 3, <y>1997</y> London, ON, <co>CAN</co> </p>
+                </shot>
             </defense>
-            <goalies pos="g">
-                <p xml:id="blackwood" num="70" height="76" weight="225" bYear="1996" country="can"/>
-                <p xml:id="johnson" num="" height="73" weight="205" bYear="1994" country="usa"/>
-                <p xml:id="kinkaid" num="1" height="75" weight="195" bYear="1989" country="usa"/>
-                <p xml:id="lack" num="31" height="76" weight="187" bYear="1988" country="swe"/>
-                <p xml:id="schneider" num="35" height="75" weight="200" bYear="1986" country="usa"/>
+            <goalies>
+                <p> <sName>Blackwood</sName> <fName>Mackenzie</fName> <n>70</n> <h>76</h> <w>225</w> Dec 9, <y>1996</y> Thunder Bay, ON, <co>CAN</co> </p>
+                <p> <sName>Johnson</sName> <fName>Cameron</fName> <n>--</n> <h>73</h> <w>205</w> Jul 11, <y>1994</y> Flint, MI, <co>USA</co> </p>
+                <p> <sName>Kinkaid</sName> <fName>Keith</fName> <n>1</n> <h>75</h> <w>195</w> Jul 4, <y>1989</y> Farmingville, NY, <co>USA</co> </p>
+                <p> <sName>Lack</sName> <fName>Eddie</fName> <n>31</n> <h>76</h> <w>187</w> Jan 5, <y>1988</y> Norrtälje, <co>SWE</co> </p>
+                <p> <sName>Schneider</sName> <fName>Cory</fName> <n>35</n> <h>75</h> <w>200</w> Mar 18, <y>1986</y> Marblehead, MA, <co>USA</co> </p>
             </goalies>
         </players>
-        <coaches type="coach">
-            <c xml:id="hayes" pos="head"/>
-            <c xml:id="nasreddine" pos="assistant"/>
-            <c xml:id="kowalsky" pos="assistant"/>
-            <c xml:id="grier" pos="assistant"/>
-            <c xml:id="melanson" pos="goaltending"/>
+        <coaches>
+            <head>
+                <c> <sName>Hynes</sName> <fName>John</fName> </c>
+            </head>
+            <assistant>
+                <c> <sName>Nasreddine</sName> <fName>Alain</fName> </c>
+                <c> <sName>Kowalsky</sName> <fName>Rick</fName> </c>
+                <c> <sName>Grier</sName> <fName>Mike</fName> </c>
+            </assistant>
+            <goaltending>
+                <c> <sName>Melanson</sName> <fName>Roland</fName> </c>
+            </goaltending>
+            <video>
+                <c> <sName>Regan</sName> <fName>Mike</fName> </c>
+            </video>
         </coaches>
     </organization>
 </roster>
