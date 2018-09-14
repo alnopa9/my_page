@@ -9,8 +9,8 @@
                         <p> <sName>Anderson</sName> <fName>Josh</fName> <n>77</n> <h>75</h> <w>221</w> May 7, <y>1994</y> Burlington, ON, <co>CAN</co> </p>
                         <p> <sName>Atkinson</sName> <fName>Cam</fName> <n>13</n> <h>68</h> <w>179</w> Jun 5, <y>1989</y> Riverside, CT, <co>USA</co> </p>
                         <p> <sName>Bjorkstrand</sName> <fName>Oliver</fName> <n>28</n> <h>72</h> <w>177</w> Apr 10, <y>1995</y> Herning, <co>DNK</co> </p>
-                        <p> <sName>Davidsson</sName> <fName>Jonathan</fName> <h>71</h> <w>185</w> Mar 12, <y>1997</y> Tyreso, <co>SWE</co> </p>
-                        <p> <sName>Fortier</sName> <fName>Maxime</fName> <h>70</h> <w>183</w> Dec 15, <y>1996</y> Montreal, QC, <co>CAN</co> </p>
+                        <p> <sName>Davidsson</sName> <fName>Jonathan</fName> <n>32</n> <h>71</h> <w>185</w> Mar 12, <y>1997</y> Tyreso, <co>SWE</co> </p>
+                        <p> <sName>Fortier</sName> <fName>Maxime</fName> <n>36</n> <h>70</h> <w>183</w> Dec 15, <y>1996</y> Montreal, QC, <co>CAN</co> </p>
                         <p> <sName>Sherwood</sName> <fName>Kole</fName> <n>88</n> <h>73</h> <w>202</w> Jan 22, <y>1997</y> Columbus, OH, <co>USA</co> </p>
                     </shot>
                     <shot hand="left">
@@ -27,14 +27,14 @@
                         <p> <sName>Broadhurst</sName> <fName>Alex</fName> <n>62</n> <h>72</h> <w>178</w> Mar 7, <y>1993</y> New Lenox, IL, <co>USA</co> </p>
                         <p> <sName>Dubinsky</sName> <fName>Brandon</fName> <n>17</n> <h>74</h> <w>205</w> Apr 29, <y>1986</y> Anchorage, AK, <co>USA</co> </p>
                         <p> <sName>Dubois</sName> <fName>Pierre-Luc</fName> <n>18</n> <h>75</h> <w>207</w> Jun 24, <y>1998</y> Ste-Agathe-des-Monts, QC, <co>CAN</co> </p>
-                        <p> <sName>Foudy</sName> <fName>Liam</fName> <h>72</h> <w>175</w> Feb 4, <y>2000</y> Toronto, ON, <co>CAN</co> </p>
+                        <p> <sName>Foudy</sName> <fName>Liam</fName> <n>19</n> <h>72</h> <w>175</w> Feb 4, <y>2000</y> Toronto, ON, <co>CAN</co> </p>
                         <p> <sName>Gerbe</sName> <fName>Nathan</fName> <n>24</n> <h>54</h> <w>176</w> Jul 24, <y>1987</y> Oxford, MI, <co>USA</co> </p>
                         <p cap="assist">
                             <sName>Jenner</sName> <fName>Boone</fName> <n>38</n> <h>74</h> <w>206</w> Jun 15, <y>1993</y> Dorchester, ON, <co>CAN</co> </p>
-                        <p> <sName>MacInnis</sName> <fName>Ryan</fName> <h>75</h>  <w>185</w> Feb 14, <y>1996</y> St. Louis, MO, <co>USA</co> </p>
+                        <p> <sName>MacInnis</sName> <fName>Ryan</fName> <n>46</n> <h>75</h>  <w>185</w> Feb 14, <y>1996</y> St. Louis, MO, <co>USA</co> </p>
                         <p> <sName>Sedlak</sName> <fName>Lukas</fName> <n>45</n> <h>72</h> <w>205</w> Feb 25, <y>1993</y> Ceské Budejovice, <co>CZE</co> </p>
                         <p> <sName>Texier</sName> <fName>Alexandre</fName> <n>42</n> <h>72</h> <w>187</w> Sep 13, <y>1999</y> St. Martin D'heres, <co>FRA</co> </p>
-                        <p> <sName>Thurkauf</sName> <fName>Calvin</fName> <n>83</n> <h>74</h> <w>212</w> Jun 27, <y>1997</y> Zug, CHE</p>
+                        <p> <sName>Thurkauf</sName> <fName>Calvin</fName> <n>83</n> <h>74</h> <w>212</w> Jun 27, <y>1997</y> Zug, <co>CHE</co> </p>
                         <p> <sName>Vigneault</sName> <fName>Sam</fName> <n>74</n> <h>77</h> <w>203</w> Sep 7, <y>1995</y> Baie-Comeau, QC, <co>CAN</co> </p>
                         <p> <sName>Wennberg</sName> <fName>Alexander</fName> <n>10</n> <h>74</h> <w>196</w> Sep 22, <y>1994</y> Stockholm, <co>SWE</co> </p>
                     </shot>
@@ -57,7 +57,7 @@
             </forwards>
             <defense>
                 <shot hand="right">
-                    <p> <sName>Clendening</sName> <fName>Adam</fName> <h>72</h> <w>196</w> Oct 26, <y>1992</y> Niagara Falls, NY, <co>USA</co> </p>
+                    <p> <sName>Clendening</sName> <fName>Adam</fName> <n>6</n> <h>72</h> <w>196</w> Oct 26, <y>1992</y> Niagara Falls, NY, <co>USA</co> </p>
                     <p> <sName>Jones</sName> <fName>Seth</fName> <n>3</n> <h>76</h> <w>210</w> Oct 3, <y>1994</y> Arlington, TX, <co>USA</co> </p>
                     <p> <sName>Savard</sName> <fName>David</fName> <n>58</n> <h>74</h> <w>227</w> Oct 22, <y>1990</y> St. Hyacinthe, QC, <co>CAN</co> </p>
                     <p> <sName>Siebenaler</sName> <fName>Blake</fName> <n>44</n> <h>74</h> <w>208</w> Feb 27, <y>1996</y> Toledo, OH, <co>USA</co> </p>
@@ -65,16 +65,16 @@
                 <shot hand="left">
                     <p> <sName>Cross</sName> <fName>Tommy</fName> <n>56</n> <h>75</h> <w>205</w> Sep 12, <y>1989</y> Hartford, CT, <co>USA</co> </p>
                     <p> <sName>Harrington</sName> <fName>Scott</fName> <n>4</n> <h>74</h> <w>207</w> Mar 10, <y>1993</y> Kingston, ON, <co>CAN</co> </p>
-                    <p> <sName>Kukan</sName> <fName>Dean</fName> <n>46</n> <h>74</h> <w>186</w> Jul 8, <y>1993</y> Volketswil, CHE</p>
+                    <p> <sName>Kukan</sName> <fName>Dean</fName> <n>46</n> <h>74</h> <w>186</w> Jul 8, <y>1993</y> Volketswil, <co>CHE</co> </p>
                     <p> <sName>Murray</sName> <fName>Ryan</fName> <n>27</n> <h>73</h> <w>205</w> Sep 27, <y>1993</y> Regina, SK, <co>CAN</co> </p>
                     <p> <sName>Nutivaara</sName> <fName>Markus</fName> <n>65</n> <h>73</h> <w>191</w> Jun 6, <y>1994</y> Oulu, <co>FIN</co> </p>
-                    <p> <sName>Simpson</sName> <fName>Dillon</fName> <h>74</h> <w>204</w> Feb 10, <y>1993</y> Edmonton, AB, <co>CAN</co> </p>
+                    <p> <sName>Simpson</sName> <fName>Dillon</fName> <n>79</n> <h>74</h> <w>204</w> Feb 10, <y>1993</y> Edmonton, AB, <co>CAN</co> </p>
                     <p> <sName>Somerby</sName> <fName>Doyle</fName> <n>33</n> <h>78</h> <w>218</w> Jul 4, <y>1994</y> Marblehead, MA, <co>USA</co> </p>
                     <p> <sName>Werenski</sName> <fName>Zach</fName> <n>8</n> <h>74</h> <w>209</w> Jul 19, <y>1997</y> Grosse Pointe, MI, <co>USA</co> </p>
                 </shot>
             </defense>
             <goalies>
-                <p> <sName>Berube</sName> <fName>J-F</fName> <h>73</h> <w>177</w>  Jul 13, <y>1991</y> Repentigny, QC, <co>CAN</co> </p>
+                <p> <sName>Berube</sName> <fName>J-F</fName> <n>35</n> <h>73</h> <w>177</w>  Jul 13, <y>1991</y> Repentigny, QC, <co>CAN</co> </p>
                 <p> <sName>Bobrovsky</sName> <fName>Sergei</fName> <n>72</n> <h>74</h> <w>182</w> Sep 20, <y>1988</y> Novokuznetsk, <co>RUS</co> </p>
                 <p> <sName>Korpisalo</sName> <fName>Joonas</fName> <n>70</n> <h>75</h> <w>182</w> Apr 28, <y>1994</y> Pori, <co>FIN</co> </p>
             </goalies>
