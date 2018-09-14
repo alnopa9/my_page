@@ -2,95 +2,87 @@
 <?xml-model href="argentoRostersSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <roster>
     <organization team="penguins">
-<!-- Tried to make some of the tags less repetitive -->
         <players>
-<!-- removed unitH and unitW attributes -->
-<!-- all height is measured by inches and weight is pounds -->
             <forwards>
-<!-- removed the "player" attribute -->
                 <right>
-<!-- added position elements -->
                     <shot hand="right">
-<!-- added shot element with handedness attribute -->
-                        <p surname="hornqvist" forename="patric" num="72" height="71" weight="189" bYear="1987" country="swe"> Patric Hornqvist 01/01/87 </p>
-                        <!-- added name text for future reference -->
-                        <p surname="kessel" forename="phil" num="81" height="72" weight="202" bYear="1987" country="usa"> Phil Kessel 10/802/87 </p>
-                        <p surname="rust" forename="bryan" num="17" height="71" weight="192" bYear="1992" country="usa"> Bryan Rust 05/11/92 </p>
-                        <p surname="sprong" forename="daniel" num="41" height="72" weight="180" bYear="1997" country="nld"> Daniel Sprong 03/17/97 </p>
-                        <p surname="hayes" forename="jimmy" num="11" height="77" weight="215" bYear="1989" country="usa"> Jimmy Hayes 11/21/89 </p>
+                        <p> <sName>Hayes</sName> <fName>Jimmy</fName> <n>11</n> <h>77</h> <w>215</w> November 21 <y>1989</y> Dorchester, MA, <co>USA</co> </p>
+                        <p> <sName>Hornqvist</sName> <fName>Patric</fName> <n>72</n> <h>71</h> <w>189</w> January 1 <y>1987</y> Sollentuna, <co>SWE</co> </p>
+                        <p> <sName>Kessel</sName> <fName>Phil</fName> <n>81</n> <h>72</h> <w>202</w> October 2 <y>1987</y> Madison, WI, <co>USA</co> </p>
+                        <p> <sName>Rust</sName> <fName>Bryan</fName> <n>17</n> <h>71</h> <w>192</w> May 11 <y>1992</y> Pontiac, MI, <co>USA</co> </p>
+                        <p> <sName>Sprong</sName> <fName>Daniel</fName> <n>41</n> <h>72</h> <w>180</w> March 17 <y>1997</y> Amsterdam, <co>NLD</co> </p>
                     </shot>
                     <shot hand="left">
-                        <p surname="lindberg" forename="tobias" num="25" height="75" weight="215" bYear="1995" country="swe"> Tobias Lindberg 07/22/95 </p>
+                        <p> <sName>Lindberg</sName> <fName>Tobias</fName> <n>25</n> <h>75</h> <w>215</w> July 22 <y>1995</y> Stockholm, <co>SWE</co> </p>
                     </shot>
                 </right>
                 <center>
                     <shot hand="right">
-                        <p surname="dea" forename="jeanSebastien" num="39" height="71" weight="175" bYear="1994" country="can"> Jean-Sebastien Dea 02/08/94 </p>
+                        <p> <sName>Dea</sName> <fName>Jean-Sebastien</fName> <n>39</n> <h>71</h> <w>175</w> February 8 <y>1994</y> Laval, QC, <co>CAN</co> </p>
                     </shot>
                     <shot hand="left">
-                        <p surname="astonReese" forename="zach" num="46" height="72" weight="204" bYear="1994" country="usa"> Zach Aston-Reese 08/10/94 </p>
-                        <p surname="blueger" forename="teddy" num="53" height="72" weight="185" bYear="1994" country="lva"> Teddy Blueger 08/15/94 </p>
-                        <p surname="brassard" forename="derick" num="19" height="73" weight="202" bYear="1987" country="can"> Derick Brassard 09/22/87 </p>
-                        <p cap="capt" surname="crosby" forename="sydney" num="87" height="71" weight="200" bYear="1987" country="can"> Sydney Crosby 08/07/87 </p>
-                        <p surname="cullen" forename="matt" num="7" height="73" weight="202" bYear="1976" country="usa"> Matt Cullen 11/02/76 </p>
-                        <p surname="diPauli" forename="thomas" num="54" height="71" weight="188" bYear="1994" country="usa"> Thomas Di Pauli 04/29/94 </p>
-                        <p surname="grant" forename="derek" num="38" height="75" weight="215" bYear="1990" country="can"> Derek Grant 04/20/90 </p>
-                        <p surname="guentzel" forename="jake" num="59" height="71" weight="180" bYear="1994" country="usa"> Jake Guentzel 10/06/94 </p>
-                        <p surname="johnson" forename="adam" num="47" height="72" weight="174" bYear="1994" country="usa"> Adam Johnson 06/22/94 </p>
-                        <p cap="assist" surname="malkin" forename="evgeni" num="71" height="75" weight="195" bYear="1986" country="rus"> Evgeni Malkin 07/31/86 </p>
-                        <p surname="sheahan" forename="riley" num="15" height="75" weight="214" bYear="1991" country="can"> Riley Sheahan 12/07/91 </p>
-                        <p surname="simon" forename="dominik" num="12" height="71" weight="190" bYear="1994" country="cze"> Dominik Simon 08/08/94 </p>
+                        <p> <sName>Aston-Reese</sName> <fName>Zac</fName> <n>46</n> <h>72</h> <w>204</w> August 10 <y>1994</y> Staten Island, NY, <co>USA</co> </p>
+                        <p> <sName>Blueger</sName> <fName>Teddy</fName> <n>53</n> <h>72</h> <w>185</w> August 15 <y>1994</y> Riga, <co>LVA</co> </p>
+                        <p> <sName>Brassard</sName> <fName>Derick</fName> <n>19</n> <h>73</h> <w>202</w> September 22 <y>1987</y> Hull, QC, <co>CAN</co></p>
+                        <p cap="capt"> 
+                            <sName>Crosby</sName> <fName>Sidney</fName> <n>87</n> <h>71</h> <w>200</w> August 7 <y>1987</y> Cole Harbour, NS, <co>CAN</co></p>
+                        <p> <sName>Cullen</sName> <fName>Matt</fName> <n>7</n> <h>73</h> <w>202</w> November 2 <y>1976</y> Virginia, MN, <co>USA</co></p>
+                        <p> <sName>Di Pauli</sName> <fName>Thomas</fName> <n>54</n> <h>71</h> <w>188</w> April 29 <y>1994</y> Woodbridge, IL, <co>USA</co></p>
+                        <p> <sName>Grant</sName> <fName>Derek</fName> <n>38</n> <h>75</h> <w>215</w> April 20 <y>1990</y> Abbotsford, BC, <co>CAN</co></p>
+                        <p> <sName>Guentzel</sName> <fName>Jake</fName> <n>59</n> <h>71</h> <w>180</w> October 6 <y>1994</y> Omaha, NE, <co>USA</co></p>
+                        <p> <sName>Johnson</sName> <fName>Adam</fName> <n>47</n> <h>72</h> <w>174</w> June 22 <y>1994</y> Grand Rapids, MN, <co>USA</co></p>
+                        <p cap="assist">
+                            <sName>Malkin</sName> <fName>Evgeni</fName> <n>71</n> <h>75</h> <w>195</w> July 31 <y>1986</y> Magnitogorsk, <co>RUS</co></p>
+                        <p> <sName>Sheahan</sName> <fName>Riley</fName> <n>15</n> <h>75</h> <w>214</w> December 7 <y>1991</y> St. Catharines, ON, <co>CAN</co></p>
+                        <p> <sName>Simon</sName> <fName>Dominik</fName> <n>12</n> <h>71</h> <w>190</w> August 8 <y>1994</y> Prague, <co>CZE</co></p>
                     </shot>
                 </center>
                 <left>
                     <shot hand="left">
-                        <p surname="hagelin" forename="carl" num="62" height="71" weight="186" bYear="1988" country="swe"> Carl Hagelin 08/23/88 </p>
-                        <p surname="wilson" forename="garrett" num="10" height="74" weight="199" bYear="1991" country="can"> Garrett Wilson 03/16/91 </p>
+                        <p> <sName>Hagelin</sName> <fName>Carl</fName> <n>62</n> <h>71</h> <w>186</w> August 23 <y>1988</y> Sodertalje, <co>SWE</co></p>
+                        <p> <sName>Wilson</sName> <fName>Garrett</fName> <n>10</n> <h>74</h> <w>199</w> March 16 <y>1991</y> Barrie, ON, <co>CAN</co></p>
                     </shot>
                 </left>
             </forwards>
             <defense>
-<!-- removed pos for defense and goalies attribute -->
-                <shot hand="notSpecified">
-                    <p surname="riikola" forename="juuso" num="50" height="" weight="" bYear="1993" country=""> Juuso Riikola 11/09/93 </p>
-                </shot>
                 <shot hand="right">
-                    <p surname="elliott" forename="stefan" num="24" height="73" weight="190" bYear="1991" country="can"> Stefan Elliott 01/30/91 </p>
-                    <p cap="assist" surname="letang" forename="kris" num="58" height="72" weight="201" bYear="1987" country="can"> Kris Letang 04/24/87 </p>
-                    <p surname="ruhwedel" forename="chad" num="2" height="71" weight="191" bYear="1990" country="usa"> Chad Ruhwedel 05/07/90 </p>
-                    <p surname="schultz" forename="justin" num="4" height="74" weight="193" bYear="1990" country="can"> Justin Schultz 07/06/90 </p>
+                    <p> <sName>Elliott</sName> <fName>Stefan</fName> <n>24</n> <h>73</h> <w>190</w> January 30 <y>1991</y> Vancouver, BC, <co>CAN</co></p>
+                    <p cap="assist"> 
+                        <sName>Letang</sName> <fName>Kris</fName> <n>58</n> <h>72</h> <w>201</w> April 24 <y>1987</y> Montreal, QC, <co>CAN</co></p>
+                    <p> <sName>Ruhwedel</sName> <fName>Chad</fName> <n>2</n> <h>71</h> <w>191</w> May 7 <y>1990</y> San Diego, CA, <co>USA</co></p>
+                    <p> <sName>Schultz</sName> <fName>Justin</fName> <n>4</n> <h>74</h> <w>193</w> July 6 <y>1990</y> Kelowna, BC, <co>CAN</co></p>
                 </shot>
                 <shot hand="left">
-                    <p surname="dumoulin" forename="brian" num="8" height="76" weight="207" bYear="1991" country="usa"> Brian Dumoulin 09/06/91 </p>
-                    <p surname="johnson" forename="jack" num="73" height="73" weight="227" bYear="1987" country="usa"> Jack Johnson 01/13/87 </p>
-                    <p surname="maatta" forename="olli" num="3" height="74" weight="206" bYear="1994" country="fin"> Olli Maatta 08/22/94 </p>
-                    <p surname="oleksiak" forename="jamie" num="6" height="79" weight="255" bYear="1992" country="can"> Jamie Oleksiak 12/21/92 </p>
-                    <p surname="summer" forename="chris" num="55" height="74" weight="207" bYear="1988" country="usa"> Chris Summer 02/05/88 </p>
+                    <p> <sName>Dumoulin</sName> <fName>Brian</fName> <n>8</n> <h>76</h> <w>207</w> September 6 <y>1991</y> Biddeford, ME, <co>USA</co></p>
+                    <p> <sName>Johnson</sName> <fName>Jack</fName> <n>73</n> <h>73</h> <w>227</w> January 13 <y>1987</y> Indianapolis, IN, <co>USA</co></p>
+                    <p> <sName>Maatta</sName> <fName>Olli</fName> <n>3</n> <h>74</h> <w>206</w> August 22 <y>1994</y> Jyväskylä, <co>FIN</co></p>
+                    <p> <sName>Oleksiak</sName> <fName>Jamie</fName> <n>6</n> <h>79</h> <w>255</w> December 21 <y>1992</y> Toronto, ON, <co>CAN</co></p>
+                    <p> <sName>Summers</sName> <fName>Chris</fName> <n>55</n> <h>74</h> <w>207</w> February 5 <y>1988</y> Ann Arbor, MI, <co>USA</co></p>
+                </shot>
+                <shot hand="notSpecified">
+                    <p> <sName>Riikola</sName> <fName>Juuso</fName> <n>50</n> <h>--</h> <w>--</w> November 9 <y>1993</y> <co>--</co> </p>
                 </shot>
             </defense>
             <goalies>
-                <p surname="desmith" forename="casey" num="1" height="72" weight="181" bYear="1991" country="usa"> Casey DeSmith 08/13/91 </p>
-                <p surname="jarry" forename="tristan" num="35" height="74" weight="194" bYear="1995" country="can"> Tristan Jarry 04/29/95 </p>
-                <p surname="murray" forename="matt" num="30" height="76" weight="178" bYear="1994" country="can"> Matt Murray 05/25/94 </p>
+                <p> <sName>DeSmith</sName> <fName>Casey</fName> <n>1</n> <h>72</h> <w>181</w> August 13 <y>1991</y> Rochester, NH, <co>USA</co></p>
+                <p> <sName>Jarry</sName> <fName>Tristan</fName> <n>35</n> <h>74</h> <w>194</w> April 29 <y>1995</y> Surrey, BC, <co>CAN</co></p>
+                <p> <sName>Murray</sName> <fName>Matt</fName> <n>30</n> <h>76</h> <w>178</w> May 25 <y>1994</y> Thunder Bay, ON, <co>CAN</co></p>
             </goalies>
         </players>
         <coaches>
-<!-- removed pos attribute for coaches -->
             <head>
-<!-- added head, assistant, goaltending, and video elements to replace pos attributes -->
-                <c surname="sullivan" forename="mike"> Mike Sullivan </c>
-<!-- added name text for future reference -->
+                <c> <sName>Sullivan</sName> <fName>Mike</fName> </c>
             </head>
             <assistant>
-                <c surname="gonchar" forename="sergei"> Sergei Gonchar </c>
-                <c surname="martin" forename="jacques"> Jacques Martin </c>
-                <c surname="recchi" forename="mark"> Mark Recchi </c>                
+                <c> <sName>Gonchar</sName> <fName>Sergei</fName> </c>
+                <c> <sName>Martin</sName> <fName>Jacques</fName> </c>
+                <c> <sName>Recchi</sName> <fName>Mark</fName> </c>
             </assistant>
             <goaltending>
-                <c surname="buckley" forename="mike"> Mike Buckley </c>
+                <c> <sName>Buckley</sName> <fName>Mike</fName> </c>
             </goaltending>
             <video>
-                <c surname="saucier" forename="andy"> Andy Saucier </c>
+                <c> <sName>Saucier</sName> <fName>Andy</fName> </c>
             </video>
         </coaches>
     </organization>
