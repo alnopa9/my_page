@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Cheese Straws</title>
@@ -15,18 +15,60 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <listBibl>
-	           <msDesc>
-	              <msIdentifier>
-                  <settlement>where is it</settlement>
-	                 <repository>repository name</repository>
-	                 <idno>identifier</idno>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Lewisville, NC</settlement>
+                  <repository>repository name</repository>
+                  <idno>Cheese Straws</idno>
                </msIdentifier>
-	           </msDesc>
+               <msContents>
+                  <p>
+                     <l> Cheese Straws</l>
+                     <l>1-Cup Kraft Med or Sharp grated cheese. I use sharp</l>
+                     <l>1-Stick Parkay Margarine</l>
+                     <l>1-Cup flour (plain)</l>
+                     <l>I add 1/8 teaspoon red pepper after after I double</l>
+                     <l>this recipe!</l>
+                     <l> Mix ingredients. Knead into a ball. It</l>
+                     <l>should be moist. Knead like making bread</l>
+                     <l>dough. Shape into very small balls. Use a</l>
+                     <l>fork and mash two ways. Put on cookie sheet</l>
+                     <l>after spraying with oil and cook at 350^o for</l>
+                     <l>fifteen minutes. Check. You might have to cook</l>
+                     <l>2 or 3 more minutes. Let cool. Place in</l>
+                     <l>container. I always double recipe, sometimes triple</l>
+                     <l> (over)</l>
+                  </p>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="notecard">
+                     <supportDesc material="paper">
+                        <support>
+                           <p>recipe card</p>
+                        </support>
+                        <extent> 3 x 5 <dimensions scope="all" type="leaf" unit="in">
+                              <height>3</height>
+                              <width>5</width>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Nana's Handwriting</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written around <origDate>1980</origDate></p>
+                  </origin>
+                  <p
+               </history>
+            </msDesc>
          </listBibl>
       </body>
-  </text>
+   </text>
 </TEI>
