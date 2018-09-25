@@ -6,14 +6,10 @@
             <forwards>
                 <right>
                     <shot hand="right">
-                        <p> <sName id="hayJi">Hayes</sName> <fName>Jimmy</fName> <n>11</n> <h>77</h> <w>215</w> November 21 <y bDay="1989-11-21">1989</y> Dorchester, MA, <co>USA</co> </p>
                         <p> <sName id="horPa">Hornqvist</sName> <fName>Patric</fName> <n>72</n> <h>71</h> <w>189</w> January 1 <y bDay="1987-01-01">1987</y> Sollentuna, <co>SWE</co> </p>
                         <p> <sName id="kesPh">Kessel</sName> <fName>Phil</fName> <n>81</n> <h>72</h> <w>202</w> October 2 <y bDay="1987-10-02">1987</y> Madison, WI, <co>USA</co> </p>
                         <p> <sName id="rusBr">Rust</sName> <fName>Bryan</fName> <n>17</n> <h>71</h> <w>192</w> May 11 <y bDay="1992-05-11">1992</y> Pontiac, MI, <co>USA</co> </p>
                         <p> <sName id="sprDa">Sprong</sName> <fName>Daniel</fName> <n>41</n> <h>72</h> <w>180</w> March 17 <y bDay="1997-03-17">1997</y> Amsterdam, <co>NLD</co> </p>
-                    </shot>
-                    <shot hand="left">
-                        <p> <sName id="linTo">Lindberg</sName> <fName>Tobias</fName> <n>25</n> <h>75</h> <w>215</w> July 22 <y bDay="1995-07-22">1995</y> Stockholm, <co>SWE</co> </p>
                     </shot>
                 </right>
                 <center>
@@ -22,31 +18,26 @@
                     </shot>
                     <shot hand="left">
                         <p> <sName id="astRe">Aston-Reese</sName> <fName>Zac</fName> <n>46</n> <h>72</h> <w>204</w> August 10 <y bDay="1994-08-10">1994</y> Staten Island, NY, <co>USA</co> </p>
-                        <p> <sName id="bluTe">Blueger</sName> <fName>Teddy</fName> <n>53</n> <h>72</h> <w>185</w> August 15 <y bDay="1994-08-15">1994</y> Riga, <co>LVA</co> </p>
                         <p> <sName id="braDe">Brassard</sName> <fName>Derick</fName> <n>19</n> <h>73</h> <w>202</w> September 22 <y bDay="1987-09-22">1987</y> Hull, QC, <co>CAN</co></p>
                         <p cap="capt"> 
                             <sName id="croSi">Crosby</sName> <fName>Sidney</fName> <n>87</n> <h>71</h> <w>200</w> August 7 <y bDay="1987-08-07">1987</y> Cole Harbour, NS, <co>CAN</co></p>
                         <p> <sName id="culMa">Cullen</sName> <fName>Matt</fName> <n>7</n> <h>73</h> <w>202</w> November 2 <y bDay="1976-11-02">1976</y> Virginia, MN, <co>USA</co></p>
-                        <p> <sName id="diPTh">Di Pauli</sName> <fName>Thomas</fName> <n>54</n> <h>71</h> <w>188</w> April 29 <y bDay="1994-04-29">1994</y> Woodbridge, IL, <co>USA</co></p>
                         <p> <sName id="graDe">Grant</sName> <fName>Derek</fName> <n>38</n> <h>75</h> <w>215</w> April 20 <y bDay="1990-04-20">1990</y> Abbotsford, BC, <co>CAN</co></p>
                         <p> <sName id="gueJa">Guentzel</sName> <fName>Jake</fName> <n>59</n> <h>71</h> <w>180</w> October 6 <y bDay="1994-10-06">1994</y> Omaha, NE, <co>USA</co></p>
-                        <p> <sName id="johAd">Johnson</sName> <fName>Adam</fName> <n>47</n> <h>72</h> <w>174</w> June 22 <y bDay="1994-05-22">1994</y> Grand Rapids, MN, <co>USA</co></p>
                         <p cap="assist">
                             <sName id="malEv">Malkin</sName> <fName>Evgeni</fName> <n>71</n> <h>75</h> <w>195</w> July 31 <y bDay="1986-07-31">1986</y> Magnitogorsk, <co>RUS</co></p>
                         <p> <sName id="sheRi">Sheahan</sName> <fName>Riley</fName> <n>15</n> <h>75</h> <w>214</w> December 7 <y bDay="1991-12-07">1991</y> St. Catharines, ON, <co>CAN</co></p>
-                        <p> <sName id="simDo">Simon</sName> <fName>Dominik</fName> <n>12</n> <h>71</h> <w>190</w> August 8 <y bDay="1994-08-08">1994</y> Prague, <co>CZE</co></p>
+                        <p> <sName id="simDa">Simon</sName> <fName>Dominik</fName> <n>12</n> <h>71</h> <w>190</w> Aug 8, <y bDay="1994-08-08">1994</y> Prague, <co>CZE</co> </p>
                     </shot>
                 </center>
                 <left>
                     <shot hand="left">
                         <p> <sName id="hagCa">Hagelin</sName> <fName>Carl</fName> <n>62</n> <h>71</h> <w>186</w> August 23 <y bDay="1988-08-23">1988</y> Sodertalje, <co>SWE</co></p>
-                        <p> <sName id="wilGa">Wilson</sName> <fName>Garrett</fName> <n>10</n> <h>74</h> <w>199</w> March 16 <y bDay="1991-03-16">1991</y> Barrie, ON, <co>CAN</co></p>
                     </shot>
                 </left>
             </forwards>
             <defense>
                 <shot hand="right">
-                    <p> <sName id="ellSt">Elliott</sName> <fName>Stefan</fName> <n>24</n> <h>73</h> <w>190</w> January 30 <y bDay="1991-01-30">1991</y> Vancouver, BC, <co>CAN</co></p>
                     <p cap="assist"> 
                         <sName id="letKr">Letang</sName> <fName>Kris</fName> <n>58</n> <h>72</h> <w>201</w> April 24 <y bDay="1987-04-24">1987</y> Montreal, QC, <co>CAN</co></p>
                     <p> <sName id="ruhCh">Ruhwedel</sName> <fName>Chad</fName> <n>2</n> <h>71</h> <w>191</w> May 7 <y bDay="1990-05-07">1990</y> San Diego, CA, <co>USA</co></p>
@@ -57,7 +48,6 @@
                     <p> <sName id="johJa">Johnson</sName> <fName>Jack</fName> <n>73</n> <h>73</h> <w>227</w> January 13 <y bDay="1987-01-13">1987</y> Indianapolis, IN, <co>USA</co></p>
                     <p> <sName id="maaOl">Maatta</sName> <fName>Olli</fName> <n>3</n> <h>74</h> <w>206</w> August 22 <y bDay="1994-08-22">1994</y> Jyväskylä, <co>FIN</co></p>
                     <p> <sName id="oleJa">Oleksiak</sName> <fName>Jamie</fName> <n>6</n> <h>79</h> <w>255</w> December 21 <y bDay="1992-12-21">1992</y> Toronto, ON, <co>CAN</co></p>
-                    <p> <sName id="sumCh">Summers</sName> <fName>Chris</fName> <n>55</n> <h>74</h> <w>207</w> February 5 <y bDay="1988-02-05">1988</y> Ann Arbor, MI, <co>USA</co></p>
                 </shot>
                 <shot hand="notSpecified">
                     <p> <sName id="riiJu">Riikola</sName> <fName>Juuso</fName> <n>50</n> <h>--</h> <w>--</w> November 9 <y bDay="1993-11-09">1993</y> <co>--</co> </p>

@@ -6,93 +6,90 @@
            <forwards>
                <right>
                    <shot hand="right">
-                       <p> <sName>Gauthier</sName> <fName>Julien</fName> <n>21</n> <h>76</h> <w>225</w>	Oct 15, <y>1997</y> Pointe-aux-Trembles, QC, <co>CAN</co> </p>
-                       <p> <sName>Pu</sName> <fName>Cliff</fName> <n>61</n> <h>74</h> <w>191</w> Jun 3, <y>1998</y>	Richmond Hill, ON, <co>CAN</co> </p>
-                       <p> <sName>Smallman</sName> <fName>Spencer</fName> <n>75</n>	<h>72</h> <w>200</w> Sep 9, <y>1996</y>	Summerside, PE, <co>CAN</co> </p>
-                       <p>  <sName>Williams</sName> <fName>Justin</fName> <n>14</n> <h>73</h> <w>188</w> Oct 4, <y>1981</y> Cobourg, ON, <co>CAN</co> </p>
+                       <p> <sName id="gauJu">Gauthier</sName> <fName>Julien</fName> <n>21</n> <h>76</h> <w>225</w>	Oct 15, <y bDay="1997-10-15">1997</y> Pointe-aux-Trembles, QC, <co>CAN</co> </p>
+                       <p> <sName id="matSt">Mattheos</sName> <fName>Stelio</fName> <n>51</n> <h>73</h> <w>192</w> Jun 14, <y bDay="1999-06-14">1999</y> Winnipeg, MB, <co>CAN</co> </p>
+                       <p cap="capt">
+                           <sName id="wilJu">Williams</sName> <fName>Justin</fName> <n>14</n> <h>73</h> <w>188</w> Oct 4, <y bDay="1981-10-04">1981</y> Cobourg, ON, <co>CAN</co> </p>
                    </shot>
                    <shot hand ="left">
-                       <p> <sName>Aho</sName> <fName>Sebastian</fName> <n>20</n> RW	L <h>71</h>	<w>172</w>	Jul 26, <y>1997</y>	Rauma, <co>FIN</co> </p>
-                       <p> <sName>Maenalanen</sName> <fName>Saku</fName> <n>8</n> <h>75</h> <w>185</w> May 29, <y>1994</y> Kemi, <co>FIN</co> </p>
-                       <p> <sName>Svechnikov</sName> <fName>Andrei</fName> <n>37</n> <h>74</h> <w>188</w> Mar 26, <y>2000</y> Barnual, <co>RUS</co> </p>
+                       <p> <sName id="ahoSe">Aho</sName> <fName>Sebastian</fName> <n>20</n> RW	L <h>71</h>	<w>172</w>	Jul 26, <y bDay="1997-07-26">1997</y> Rauma, <co>FIN</co> </p>
+                       <p> <sName id="maeSa">Maenalanen</sName> <fName>Saku</fName> <n>8</n> <h>75</h> <w>185</w> May 29, <y bDay="1994-05-29">1994</y> Kemi, <co>FIN</co> </p>
+                       <p> <sName id="sveAn">Svechnikov</sName> <fName>Andrei</fName> <n>37</n> <h>74</h> <w>188</w> Mar 26, <y bDay="2000-03-26">2000</y> Barnual, <co>RUS</co> </p>
                    </shot>
                </right>
                <center>
                    <shot hand="right">
-                       <p> <sName>Brown</sName> <fName>Patrick</fName> <n>36</n> <h>73</h> <w>216</w> May 29, <y>1992</y> Bloomfield Hills, MI, <co>USA</co> </p>
-                       <p> <sName>Geekie</sName> <fName>Morgan</fName> <n>45</n> <h>74</h> <w>178</w> Jul 20, <y>1998</y> Strathclair, MB, <co>CAN</co> </p>
-                       <p> <sName>Necas </sName> <fName>Martin</fName> <n>88</n> <h>73</h> <w>167</w> Jan 15, <y>1999</y> Nove Mesto na Morave, <co>CZE</co> </p>
-                       <p> <sName>Poturalski</sName> <fName>Andrew</fName> <n>29</n> <h>70</h> <w>180</w> Jan 14, <y>1994</y> Williamsville, NY, <co>USA</co> </p>
-                       <p> <sName>Roy</sName> <fName>Nicolas</fName> <n>58</n> <h>76</h> <w>208</w>	Feb 5, <y>1997</y> Amos, QC, <co>CAN</co></p>
+                       <p> <sName id="broPa">Brown</sName> <fName>Patrick</fName> <n>36</n> <h>73</h> <w>216</w> May 29, <y bDay="1992-05-29">1992</y> Bloomfield Hills, MI, <co>USA</co> </p>
+                       <p> <sName id="geeMo">Geekie</sName> <fName>Morgan</fName> <n>45</n> <h>74</h> <w>178</w> Jul 20, <y bDay="1998-07-20">1998</y> Strathclair, MB, <co>CAN</co> </p>
+                       <p> <sName id="necMa">Necas </sName> <fName>Martin</fName> <n>88</n> <h>73</h> <w>167</w> Jan 15, <y bDay="1999-01-15">1999</y> Nove Mesto na Morave, <co>CZE</co> </p>
+                       <p> <sName id="potAn">Poturalski</sName> <fName>Andrew</fName> <n>29</n> <h>70</h> <w>180</w> Jan 14, <y bDay="1994-01-14">1994</y> Williamsville, NY, <co>USA</co> </p>
+                       <p> <sName id="royNi">Roy</sName> <fName>Nicolas</fName> <n>58</n> <h>76</h> <w>208</w>	Feb 5, <y bDay="1997-02-05">1997</y> Amos, QC, <co>CAN</co></p>
                    </shot>
                    <shot hand="left">
-                       <p> <sName>Bishop</sName> <fName>Clark</fName> <n>64</n>	<h>72</h> <w>194</w> Mar 29, <y>1996</y> St. John's, NL, <co>CAN</co> </p>
-                       <p> <sName>Kuokkanen</sName> <fName>Janne</fName> <n>59</n> <h>73</h> <w>188</w>	May 25, <y>1998</y>	Oulunsalo, <co>FIN</co> </p>
-                       <p> <sName>Lorentz</sName> <fName>Steven</fName> <n>78</n> <h>76</h>	<w>201</w> Apr 13, <y>1996</y> Kitchener, ON, <co>CAN</co> </p>
-                       <p> <sName>McKegg</sName> <fName>Greg</fName> <n>42</n> <h>72</h> <w>191</w>	Jun 17, <y>1992</y>	St. Thomas, ON, <co>CAN</co> </p>
-                       <p> <sName>Rask</sName> <fName>Victor</fName> <n>49</n> <h>74</h> <w>200</w>	Mar 1, <y>1993</y> Leksand, <co>SWE</co> </p>
-                       <p> <sName>Saarela</sName> <fName>Aleksi</fName> <n>15</n> <h>71</h>	<w>198</w> Jan 7, <y>1997</y> Helsinki, <co>FIN</co> </p>
+                       <p> <sName id="bisCl">Bishop</sName> <fName>Clark</fName> <n>64</n>	<h>72</h> <w>194</w> Mar 29, <y bDay="1996-03-29">1996</y> St. John's, NL, <co>CAN</co> </p>
+                       <p> <sName id="henLu">Henman</sName> <fName>Luke</fName> <n>52</n> <h>71</h> <w>150</w> Apr 29, <y bDay="2000-04-29">2000</y> Dartmouth, NS, <co>CAN</co> </p>
+                       <p> <sName id="kuoJa">Kuokkanen</sName> <fName>Janne</fName> <n>59</n> <h>73</h> <w>188</w>	May 25, <y bDay="1998-05-25">1998</y> Oulunsalo, <co>FIN</co> </p>
+                       <p> <sName id="mcKGr">McKegg</sName> <fName>Greg</fName> <n>42</n> <h>72</h> <w>191</w>	Jun 17, <y bDay="1992-06-17">1992</y> St. Thomas, ON, <co>CAN</co> </p>
+                       <p> <sName id="rasVi">Rask</sName> <fName>Victor</fName> <n>49</n> <h>74</h> <w>200</w>	Mar 1, <y bDay="1993-03-01">1993</y> Leksand, <co>SWE</co> </p>
                        <p cap="capt"> 
-                           <sName>Staal</sName> <fName>Jordan</fName> <n>11</n>	<h>76</h> <w>220</w> Sep 10, <y>1988</y> Thunder Bay, ON, <co>CAN</co> </p>
-                       <p> <sName>Wallmark</sName> <fName>Lucas</fName> <n>71</n> <h>72</h>	<w>176</w> Sep 5, <y>1995</y> Umea, <co>SWE</co> </p>
+                           <sName id="staJo">Staal</sName> <fName>Jordan</fName> <n>11</n>	<h>76</h> <w>220</w> Sep 10, <y bDay="1988-09-10">1988</y> Thunder Bay, ON, <co>CAN</co> </p>
+                       <p> <sName id="walLu">Wallmark</sName> <fName>Lucas</fName> <n>71</n> <h>72</h>	<w>176</w> Sep 5, <y bDay="1995-09-05">1995</y> Umea, <co>SWE</co> </p>
                    </shot>
                </center>
                <left>
                    <shot hand="right">
-                       <p> <sName>Zykov</sName> <fName>Valentin</fName> <n>73</n> <h>73</h> <w>224</w> May 15, <y>1995</y> St. Petersburg, <co>RUS</co> </p>
+                       <p> <sName id="zykVa">Zykov</sName> <fName>Valentin</fName> <n>73</n> <h>73</h> <w>224</w> May 15, <y bDay="1995-05-15">1995</y> St. Petersburg, <co>RUS</co> </p>
                    </shot>
                    <shot hand="left">
-                       <p> <sName>Di Giuseppe</sName> <fName>Phillip</fName> <n>7</n> <h>72</h>	<w>200</w> Oct 9, <y>1993</y> Toronto, ON, <co>CAN</co> </p>
-                       <p> <sName>Ferland</sName> <fName>Micheal</fName> <n>79</n> <h>74</h> <w>208</w>	Apr 20, <y>1992</y>	Swan River, MB, <co>CAN</co> </p>
-                       <p> <sName>Foegele</sName> <fName>Warren</fName> <n>13</n> <h>74</h> <w>190</w> Apr 1, <y>1996</y> Markham, ON, <co>CAN</co> </p>
-                       <p> <sName>Martinook</sName> <fName>Jordan</fName> <n>48</n> <h>72</h> <w>204</w> Jul 25, <y>1992</y> Brandon, MB, <co>CAN</co> </p>
-                       <p> <sName>McGinn</sName> <fName>Brock</fName> <n>23</n>	<h>72</h> <w>185</w> Feb 2, <y>1994</y>	Fergus, ON, <co>CAN</co> </p>
-                       <p> <sName>Teravainen</sName> <fName>Teuvo</fName> <n>86</n>	<h>71</h> <w>178</w> Sep 11, <y>1994</y> Helsinki, <co>FIN</co> </p>
+                       <p> <sName id="diGPh">Di Giuseppe</sName> <fName>Phillip</fName> <n>7</n> <h>72</h>	<w>200</w> Oct 9, <y bDay="1993-10-09">1993</y> Toronto, ON, <co>CAN</co> </p>
+                       <p> <sName id="ferMi">Ferland</sName> <fName>Micheal</fName> <n>79</n> <h>74</h> <w>208</w>	Apr 20, <y bDay="1992-04-20">1992</y> Swan River, MB, <co>CAN</co> </p>
+                       <p> <sName id="foeWa">Foegele</sName> <fName>Warren</fName> <n>13</n> <h>74</h> <w>190</w> Apr 1, <y bDay="1996-04-01">1996</y> Markham, ON, <co>CAN</co> </p>
+                       <p> <sName id="marJo">Martinook</sName> <fName>Jordan</fName> <n>48</n> <h>72</h> <w>204</w> Jul 25, <y bDay="1992-07-25">1992</y> Brandon, MB, <co>CAN</co> </p>
+                       <p> <sName id="mcGBr">McGinn</sName> <fName>Brock</fName> <n>23</n>	<h>72</h> <w>185</w> Feb 2, <y bDay="1994-02-02">1994</y> Fergus, ON, <co>CAN</co> </p>
+                       <p> <sName id="terTe">Teravainen</sName> <fName>Teuvo</fName> <n>86</n>	<h>71</h> <w>178</w> Sep 11, <y bDay="1994-09-11">1994</y> Helsinki, <co>FIN</co> </p>
                    </shot>
                </left>
            </forwards>
            <defense>
                <shot hand="right">
-                   <p cap="capt"> 
-                       <sName>Faulk</sName> <fName>Justin</fName> <n>27</n>	<h>72</h> <w>215</w> Mar 20, <y>1992</y> South St.Paul, MN, <co>USA</co> </p>
-                   <p> <sName>Fora</sName> <fName>Michael</fName> <n>26</n>	<h>74</h> <w>213</w> Oct 30, <y>1995</y> Sorengo, <co>CHE</co> </p>
-                   <p> <sName>Hamilton</sName> <fName>Dougie</fName> <n>19</n> <h>78</h> <w>210</w>	Jun 17, <y>1993</y>	Toronto, ON, <co>CAN</co> </p>
-                   <p> <sName>McKeown</sName> <fName>Roland</fName> <n>55</n> <h>73</h>	<w>195</w> Jan 20, <y>1996</y> Listowel, ON, <co>CAN</co> </p>
-                   <p> <sName>Pesce</sName> <fName>Brett</fName> <n>22</n> <h>75</h> <w>200</w>	Nov 15, <y>1994</y>	Tarrytown, NY, <co>USA</co> </p>
-                   <p> <sName>van Riemsdyk</sName> <fName>Trevor</fName> <n>57</n> <h>74</h> <w>188</w>	Jul 24, <y>1991</y>	Middletown, NJ, <co>USA</co> </p>
-                   <p> <sName>Wesley</sName> <fName>Josh</fName> <n>38</n> <h>75</h> <w>205</w>	Apr 9, <y>1996</y> Hartford, CT, <co>USA</co> </p>
+                   <p cap="assist"> 
+                       <sName id="fauJu">Faulk</sName> <fName>Justin</fName> <n>27</n>	<h>72</h> <w>215</w> Mar 20, <y bDay="1992-03-20">1992</y> South St.Paul, MN, <co>USA</co> </p>
+                   <p> <sName id="hamDo">Hamilton</sName> <fName>Dougie</fName> <n>19</n> <h>78</h> <w>210</w>	Jun 17, <y bDay="1993-06-17">1993</y> Toronto, ON, <co>CAN</co> </p>
+                   <p> <sName id="mcKBr">McKeown</sName> <fName>Roland</fName> <n>55</n> <h>73</h>	<w>195</w> Jan 20, <y bDay="1996-01-20">1996</y> Listowel, ON, <co>CAN</co> </p>
+                   <p> <sName id="pesBr">Pesce</sName> <fName>Brett</fName> <n>22</n> <h>75</h> <w>200</w>	Nov 15, <y bDay="1994-11-15">1994</y> Tarrytown, NY, <co>USA</co> </p>
+                   <p> <sName id="renDa">Renouf</sName> <fName>Dan</fName> <n>76</n> <h>74</h> <w>205</w> Jun 1, <y bDay="1994-06-01">1994</y> Pickering, ON, <co>CAN</co> </p>
+                   <p> <sName id="vanTr">van Riemsdyk</sName> <fName>Trevor</fName> <n>57</n> <h>74</h> <w>188</w>	Jul 24, <y bDay="1991-07-24">1991</y> Middletown, NJ, <co>USA</co> </p>
                </shot>
                <shot hand="left">
-                   <p> <sName>Bean</sName> <fName>Jake</fName> <n>24</n> <h>73</h> <w>173</w> Jun 9, <y>1998</y> Calgary, AB, <co>CAN</co> </p>
-                   <p> <sName>Carrick</sName> <fName>Trevor</fName> <n>46</n> <h>74</h>	<w>186</w> Jul 4, <y>1994</y> Stouffville, ON, <co>CAN</co> </p>
-                   <p> <sName>de Haan</sName> <fName>Calvin</fName> <n>44</n> <h>73</h>	<w>198</w>	May 9, <y>1991</y> Carp, ON, <co>CAN</co> </p>
-                   <p> <sName>Fleury</sName> <fName>Haydn</fName> <n>4</n> <h>75</h> <w>221</w>	Jul 8, <y>1996</y> Carlyle, SK, <co>CAN</co> </p>
-                   <p> <sName>Renouf</sName> <fName>Dan</fName> <n>76</n> <h>74</h>	<w>205</w> Jun 1, <y>1994</y> Pickering, ON, <co>CAN</co> </p>
-                   <p> <sName>Slavin</sName> <fName>Jaccob</fName> <n>74</n> <h>75</h> <w>205</w> May 1, <y>1994</y> Denver, CO, <co>USA</co> </p>
+                   <p> <sName id="beaJa">Bean</sName> <fName>Jake</fName> <n>24</n> <h>73</h> <w>173</w> Jun 9, <y bDay="1998-06-09">1998</y> Calgary, AB, <co>CAN</co> </p>
+                   <p> <sName id="carTr">Carrick</sName> <fName>Trevor</fName> <n>46</n> <h>74</h>	<w>186</w> Jul 4, <y bDay="1994-07-04">1994</y> Stouffville, ON, <co>CAN</co> </p>
+                   <p> <sName id="deHCa">de Haan</sName> <fName>Calvin</fName> <n>44</n> <h>73</h>	<w>198</w>	May 9, <y bDay="1991-05-09">1991</y> Carp, ON, <co>CAN</co> </p>
+                   <p> <sName id="deJBr">de Jong</sName> <fName>Brendan</fName> <n>62</n> <h>77</h> <w>192</w> Mar 23, <y bDay="1998-03-23">1998</y> Victoria, BC, <co>CAN</co> </p>
+                   <p> <sName id="fleHa">Fleury</sName> <fName>Haydn</fName> <n>4</n> <h>75</h> <w>221</w>	Jul 8, <y bDay="1996-07-08">1996</y> Carlyle, SK, <co>CAN</co> </p>
+                   <p> <sName id="slaJa">Slavin</sName> <fName>Jaccob</fName> <n>74</n> <h>75</h> <w>205</w> May 1, <y bDay="1994-05-01">1994</y> Denver, CO, <co>USA</co> </p>
                </shot>
            </defense>
            <goalies>
-               <p> <sName>Booth</sName> <fName>Callum</fName> <n>70</n>	<h>76</h> <w>191</w> May 21, <y>1997</y> Montreal, QC, <co>CAN</co> </p>
-               <p> <sName>Darling</sName> <fName>Scott</fName> <n>33</n> <h>78</h> <w>232</w> Dec 22, <y>1988</y> Newport News, VA, <co>USA</co> </p>
-               <p> <sName>Helvig</sName> <fName>Jeremy</fName> <n>50</n> <h>76</h> <w>207</w> May 25, <y>1997</y> Markham, ON, <co>CAN</co> </p>
-               <p> <sName>Mrazek</sName> <fName>Petr</fName> <n>34</n> <h>74</h> <w>181</w>	Feb 14, <y>1992</y>	Ostrava, <co>CZE</co> </p>
-               <p> <sName>Nedeljkovic</sName> <fName>Alex</fName> <n>35</n>	<h>72</h> <w>198</w> Jan 7, <y>1996</y>	Parma, OH, <co>USA</co> </p>
+               <p> <sName id="booCa">Booth</sName> <fName>Callum</fName> <n>70</n>	<h>76</h> <w>191</w> May 21, <y bDay="1997-05-21">1997</y> Montreal, QC, <co>CAN</co> </p>
+               <p> <sName id="darSc">Darling</sName> <fName>Scott</fName> <n>33</n> <h>78</h> <w>232</w> Dec 22, <y bDay="1988-12-22">1988</y> Newport News, VA, <co>USA</co> </p>
+               <p> <sName id="mraPe">Mrazek</sName> <fName>Petr</fName> <n>34</n> <h>74</h> <w>181</w>	Feb 14, <y bDay="1992-02-14">1992</y>	Ostrava, <co>CZE</co> </p>
+               <p> <sName id="nedAl">Nedeljkovic</sName> <fName>Alex</fName> <n>35</n>	<h>72</h> <w>198</w> Jan 7, <y bDay="1996-01-07">1996</y>	Parma, OH, <co>USA</co> </p>
            </goalies>
        </players>
        <coaches>
            <head>
-               <c> <sName>Brind'Amour</sName> <fName>Rod</fName> </c>
+               <c> <sName id="briRo">Brind'Amour</sName> <fName>Rod</fName> </c>
            </head>
            <assistant>
-               <c> <sName>Daniels</sName> <fName>Jeff</fName> </c>
-               <c> <sName>Dean</sName> <fName>Chynoweth</fName> </c>
+               <c> <sName id="danJe">Daniels</sName> <fName>Jeff</fName> </c>
+               <c> <sName id="deaCh">Dean</sName> <fName>Chynoweth</fName> </c>
            </assistant>
            <goaltending>
-               <c> <sName>Bales</sName> <fName> Mike</fName> </c>
+               <c> <sName id="balMi">Bales</sName> <fName> Mike</fName> </c>
            </goaltending>
            <video>
-               <c> <sName>Huffine</sName> <fName>Chris</fName> </c>
-               <c> <sName>Scarpace</sName> <fName>LJ</fName> </c>
+               <c> <sName id="hufCh">Huffine</sName> <fName>Chris</fName> </c>
+               <c> <sName id="scaLJ">Scarpace</sName> <fName>LJ</fName> </c>
            </video>
        </coaches>
    </organization>
