@@ -5,11 +5,11 @@
         <season type="pre">Preseason
             <year term="2018">
                 <month m="sep">September 2018
-                    <g date="2018-09-18"> <weekday>Tuesday</weekday> <day>18</day> <t>7:00</t> <dest l="away">@</dest> <op>Lightning</op>  </g>
-                    <g date="2018-09-19"> <weekday>Wednesday</weekday> <day>19</day> <t>7:00</t> <dest l="home">vs</dest> <op>Lightning</op>  </g>
-                    <g date="2018-09-21"> <weekday>Friday</weekday> <day>21</day> <t>7:30</t> <dest l="home">vs</dest> <op>Capitals</op>  </g>
-                    <g date="2018-09-25"> <weekday>Tuesday</weekday> <day>25</day> <t>7:30</t> <dest l="away">@</dest> <op>Predators</op>  </g>
-                    <g date="2018-09-28"> <weekday>Friday</weekday> <day>28</day> <t>7:00</t> <dest l="away">@</dest> <op>Capitals</op>  </g>
+                    <g date="2018-09-18"> <weekday>Tuesday</weekday> <day>18</day> <t>7:00</t> <dest l="away">@</dest> <op>Lightning</op> </g>
+                    <g date="2018-09-19"> <weekday>Wednesday</weekday> <day>19</day> <t>7:00</t> <dest l="home">vs</dest> <op>Lightning</op> </g>
+                    <g date="2018-09-21"> <weekday>Friday</weekday> <day>21</day> <t>7:30</t> <dest l="home">vs</dest> <op>Capitals</op> </g>
+                    <g date="2018-09-25"> <weekday>Tuesday</weekday> <day>25</day> <t>7:30</t> <dest l="away">@</dest> <op>Predators</op> </g>
+                    <g date="2018-09-28"> <weekday>Friday</weekday> <day>28</day> <t>7:00</t> <dest l="away">@</dest> <op>Capitals</op> </g>
                     <g date="2018-09-30"> <weekday>Sunday</weekday> <day>30</day> <t>1:30</t> <dest l="home">vs</dest> <op>Predators</op> </g>
                 </month>
             </year>
