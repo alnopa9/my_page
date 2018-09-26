@@ -2,8 +2,8 @@
 <?xml-model href="argentoScheduleSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <schedule>
     <organization team="penguins">
-        <year term="2018">
-            <season type="pre">
+        <season type="pre">
+            <year term="2018">
                 <month m="sep">
                     <game day="tue" date="18" against="sabres" place="a" time="1900"/>
                     <game day="wed" date="19" against="redWings" place="a" time="1930"/>
@@ -12,8 +12,10 @@
                     <game day="wed" date="26" against="sabres" place="h" time="1900"/>
                     <game day="fri" date="28" against="blueJackets" place="a" time="1900"/>
                 </month>
-            </season>
-            <season type="reg">
+            </year>
+        </season>
+        <season type="reg">
+            <year term="2018">
                 <month m="oct">
                     <game day="thu" date="4" against="capitals" place="h" time="1900"/>
                     <game day="sat" date="6" against="canadiens" place="h" time="1900"/>
@@ -59,10 +61,8 @@
                     <game day="sat" date="29" against="blues" place="h" time="2000"/>
                     <game day="mon" date="31" against="wild" place="a" time="1800"/>
                 </month>
-            </season>
-        </year>
-        <year term="2019">
-            <season type="reg">
+            </year>
+            <year term="2019">
                 <month m="jan">
                     <game day="wed" date="2" against="rangers" place="a" time="1900"/>
                     <game day="fri" date="4" against="jets" place="h" time="1900"/>
@@ -107,14 +107,14 @@
                     <game day="sat" date="23" against="stars" place="a" time="2000"/>
                     <game day="mon" date="25" against="rangers" place="a" time="1900"/>
                     <game day="fri" date="29" against="predators" place="h" time="1900"/>
-                   <game day="sun" date="31" against="hurricanes" place="h" time="1700"/>
+                    <game day="sun" date="31" against="hurricanes" place="h" time="1700"/>
                 </month>
                 <month m="apr">
                     <game day="tue" date="2" against="redWings" place="a" time="1930"/>
                     <game day="thu" date="4" against="redWings" place="h" time="1900"/>
                     <game day="sat" date="6" against="rangers" place="h" time="1900"/>
                 </month>
-            </season>
-        </year>
+            </year>
+        </season>
     </organization>
 </schedule>

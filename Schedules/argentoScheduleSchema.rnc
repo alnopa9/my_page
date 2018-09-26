@@ -1,18 +1,20 @@
 start = schedule
 schedule = element schedule {organization}
-organization = element organization {team, year+}
+organization = element organization {team, season+}
 team = attribute team {"avalanche"|"blackHawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
                        "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
-year = element year {term, season+}
+season = element season {type, text, year+}
+year = element year {term, month+}
 term = attribute term {"2018"|"2019"}
-season = element season {type, month+}
 type = attribute type {"pre"|"reg"|"post"}
-month = element month {m, game+}
-m = attribute m {"sep"|"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"|"may"}
-game = element game {day, date, against, place, time}
-day = attribute day {"mon"|"tue"|"wed"|"thu"|"fri"|"sat"|"sun"}
-date = attribute date {xsd:integer}
-against = attribute against {"avalanche"|"blackHawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
-                             "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
-place = attribute place {"a"|"h"}
-time = attribute time {xsd:integer}
+month = element month {m+, text, game+}
+m = attribute m {"sep"|"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"|"may"|"jun"}
+game = element g {date, weekday, day, time, destination, opponent}
+date = attribute date {xsd:date}
+weekday = element weekday {"Monday"|"Tuesday"|"Wednesday"|"Thursday"|"Friday"|"Saturday"|"Sunday"}
+day = element day {xsd:positiveInteger}
+opponent = element op {"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
+                             "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild"}
+destination = element dest {location, ("vs"|"@")}
+location = attribute l {"home"|"away"}
+time = element t {text}
