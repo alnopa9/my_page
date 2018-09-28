@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="argentoScheduleSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<schedule>
+    <organization team="blueJackets">
+            <season type="pre">
+                <year term="2018">
+                    <month m="sep">
+                        <g date="2018-09-17"> <weekday>Monday</weekday> <day>17</day> <t>7:00</t> <dest l="home">vs</dest> <op>Sabres</op> </g>
+                        <g date="2018-09-18"> <weekday>Tuesday</weekday> <day>18</day> <t>7:00</t> <dest l="home">vs</dest> <op>Blackhawks</op> </g>
+                        <g date="2018-09-21"> <weekday>Friday</weekday> <day>21</day> <t>8:00</t> <dest l="away">@</dest> <op>Blues</op> </g>
+                        <g date="2018-09-22"> <weekday>Saturday</weekday> <day>22</day> <t>3:00</t> <dest l="away">@</dest> <op>Penguins</op> </g>
+                        <g date="2018-09-23"> <weekday>Sunday</weekday> <day>23</day> <t>3:00</t> <dest l="home">vs</dest> <op>Blues</op> </g>
+                        <g date="2018-09-25"> <weekday>Tuesday</weekday>  <day>25</day>  <t>7:00</t> <dest l="away">@</dest> <op>Sabres</op> </g>
+                        <g date="2018-09-28"> <weekday>Friday</weekday> <day>28</day> <t>7:00</t> <dest l="home">vs</dest> <op>Penguins</op> </g>
+                        <g date="2018-09-29"> <weekday>Saturday</weekday> <day>29</day> <t>8:00</t> <dest l="away">@</dest> <op>Blackhawks</op> </g>
+                    </month>
+                    <month m="oct">
+                        <g date="2018-10-04"> <weekday>Thursday</weekday> <day>4</day> <t>7:30</t> <dest l="away">@</dest> <op>Red Wings</op> </g>
+                        <g date="2018-10-05"> <weekday>Friday</weekday> <day>5</day> <t>7:00</t> <dest l="home">vs</dest> <op>Hurricanes</op> </g>
+                        <g date="2018-10-09"> <weekday>Tuesday</weekday> <day>9</day> <t>7:00</t> <dest l="home">vs</dest> <op>Avalanche</op> </g>
+                        <g date="2018-10-11"> <weekday>Thursday</weekday> <day>11</day> <t>7:00</t> <dest l="away">@</dest> <op>Panthers</op> </g>
+                        <g date="2018-10-13"> <weekday>Saturday</weekday> <day>13</day> <t>7:00</t> <dest l="away">@</dest> <op>Lightning</op> </g>
+                        <g date="2018-10-18"> <weekday>Thursday</weekday> <day>18</day> <t>7:00</t> <dest l="home">vs</dest> <op>Flyers</op> </g>
+                        <g date="2018-10-20"> <weekday>Saturday</weekday> <day>20</day> <t>7:00</t> <dest l="home">vs</dest> <op>Blackhawks</op> </g>
+                        <g date="2018-10-23"> <weekday>Tuesday</weekday> <day>23</day> <t>7:00</t> <dest l="home">vs</dest> <op>Coyotes</op> </g>
+                        <g date="2018-10-25"> <weekday>Thursday</weekday>  <day>25</day>  <t>8:00</t> <dest l="away">@</dest> <op>Blues</op> </g>
+                        <g date="2018-10-27"> <weekday>Saturday</weekday> <day>27</day> <t>7:00</t> <dest l="home">vs</dest> <op>Sabres</op> </g>
+                        <g date="2018-10-30"> <weekday>Tuesday</weekday> <day>30</day> <t>7:00</t> <dest l="home">vs</dest> <op>Red Wings</op> </g>
+                    </month>
+                    <month m="nov">
+                        <g date="2018-11-01"> <weekday>Thursday</weekday> <day>1</day> <t>10:30</t> <dest l="away">@</dest> <op>Sharks</op> </g>
+                        <g date="2018-11-03"> <weekday>Saturday</weekday> <day>3</day> <t>10:30</t> <dest l="away">@</dest> <op>Kings</op> </g>
+                        <g date="2018-11-04"> <weekday>Sunday</weekday> <day>4</day> <t>9:00</t> <dest l="away">@</dest> <op>Ducks</op> </g>
+                        <g date="2018-11-06"> <weekday>Tuesday</weekday> <day>6</day> <t>7:00</t> <dest l="home">vs</dest> <op>Stars</op> </g>
+                        <g date="2018-11-09"> <weekday>Friday</weekday> <day>9</day> <t>7:00</t> <dest l="away">@</dest> <op>Capitals</op> </g>
+                        <g date="2018-11-10"> <weekday>Saturday</weekday> <day>10</day> <t>7:00</t> <dest l="home">vs</dest> <op>Rangers</op> </g>
+                        <g date="2018-11-12"> <weekday>Monday</weekday> <day>12</day> <t>8:30</t> <dest l="away">@</dest> <op>Stars</op> </g>
+                        <g date="2018-11-15"> <weekday>Thursday</weekday> <day>15</day> <t>7:00</t> <dest l="home">vs</dest> <op>Panthers</op> </g>
+                        <g date="2018-11-17"> <weekday>Saturday</weekday> <day>17</day> <t>7:00</t> <dest l="away">@</dest> <op>Hurricanes</op> </g>
+                        <g date="2018-11-19"> <weekday>Monday</weekday> <day>19</day> <t>7:00</t> <dest l="away">@</dest> <op>Maple Leafs</op> </g>
+                        <g date="2018-11-23"> <weekday>Friday</weekday> <day>23</day> <t>7:00</t> <dest l="home">vs</dest> <op>Maple Leafs</op> </g>
+                        <g date="2018-11-24"> <weekday>Saturday</weekday> <day>24</day> <t>7:00</t> <dest l="away">@</dest> <op>Penguins</op> </g>
+                        <g date="2018-11-26"> <weekday>Monday</weekday> <day>26</day> <t>7:30</t> <dest l="away">@</dest> <op>Red Wings</op> </g>
+                        <g date="2018-11-29"> <weekday>Thursday</weekday> <day>29</day> <t>7:00</t> <dest l="home">vs</dest> <op>Wild</op> </g>
+                    </month>
+                    <month m="dec">
+                        <g date="2018-12-01"> <weekday>Saturday</weekday> <day>1</day> <t>7:00</t> <dest l="away">@</dest> <op>Islanders</op> </g>
+                        <g date="2018-12-04"> <weekday>Tuesday</weekday> <day>4</day> <t>7:00</t> <dest l="home">vs</dest> <op>Flames</op> </g>
+                        <g date="2018-12-06"> <weekday>Thursday</weekday> <day>6</day> <t>7:00</t> <dest l="away">@</dest> <op>Flyers</op> </g>
+                        <g date="2018-12-08"> <weekday>Saturday</weekday> <day>8</day> <t>7:00</t> <dest l="home">vs</dest> <op>Capitals</op> </g>
+                        <g date="2018-12-11"> <weekday>Tuesday</weekday> <day>11</day> <t>7:00</t> <dest l="home">vs</dest> <op>Canucks</op> </g>
+                        <g date="2018-12-13"> <weekday>Thursday</weekday> <day>13</day> <t>7:00</t> <dest l="home">vs</dest> <op>Kings</op> </g>
+                        <g date="2018-12-15"> <weekday>Saturday</weekday> <day>15</day> <t>7:00</t> <dest l="home">vs</dest> <op>Ducks</op> </g>
+                        <g date="2018-12-17"> <weekday>Monday</weekday> <day>17</day> <t>7:00</t> <dest l="home">vs</dest> <op>Golden Knights</op> </g>
+                        <g date="2018-12-20"> <weekday>Thursday</weekday> <day>20</day> <t>7:00</t> <dest l="home">vs</dest> <op>Devils</op> </g>
+                        <g date="2018-12-22"> <weekday>Saturday</weekday> <day>22</day> <t>1:00</t> <dest l="away">@</dest> <op>Flyers</op> </g>
+                        <g date="2018-12-23"> <weekday>Sunday</weekday> <day>23</day> <t>12:30</t> <dest l="away">@</dest> <op>Devils</op> </g>
+                        <g date="2018-12-27"> <weekday>Thursday</weekday> <day>27</day> <t>7:00</t> <dest l="away">@</dest> <op>Rangers</op> </g>
+                        <g date="2018-12-28"> <weekday>Friday</weekday> <day>28</day> <t>7:00</t> <dest l="home">vs</dest> <op>Maple Leafs</op> </g>
+                        <g date="2018-12-31"> <weekday>Monday</weekday> <day>31</day> <t>7:00</t> <dest l="home">vs</dest> <op>Senators</op> </g>
+                    </month>
+                </year>
+                <year term="2019">
+                    <month m="jan">
+                        <g date="2019-01-04"> <weekday>Friday</weekday> <day>4</day> <t>7:30</t> <dest l="away">@</dest> <op>Hurricanes</op> </g>
+                        <g date="2019-01-05"> <weekday>Saturday</weekday> <day>5</day> <t>7:00</t> <dest l="away">@</dest> <op>Panthers</op> </g>
+                        <g date="2019-01-08"> <weekday>Tuesday</weekday> <day>8</day> <t>7:30</t> <dest l="away">@</dest> <op>Lightning</op> </g>
+                        <g date="2019-01-10"> <weekday>Thursday</weekday> <day>10</day> <t>7:00</t> <dest l="home">vs</dest> <op>Predators</op> </g>
+                        <g date="2019-01-12"> <weekday>Saturday</weekday> <day>12</day> <t>7:00</t> <dest l="away">@</dest> <op>Capitals</op> </g>
+                        <g date="2019-01-13"> <weekday>Sunday</weekday> <day>13</day> <t>6:00</t> <dest l="home">vs</dest> <op>Rangers</op> </g>
+                        <g date="2019-01-15"> <weekday>Tuesday</weekday> <day>15</day> <t>7:00</t> <dest l="home">vs</dest> <op>Devils</op> </g>
+                        <g date="2019-01-18"> <weekday>Friday</weekday> <day>18</day> <t>7:00</t> <dest l="home">vs</dest> <op>Canadiens</op> </g>
+                        <g date="2019-01-19"> <weekday>Saturday</weekday> <day>19</day> <t>9:00</t> <dest l="away">@</dest> <op>Wild</op> </g>
+                        <g date="2019-01-29"> <weekday>Tuesday</weekday> <day>29</day> <t>7:00</t> <dest l="home">vs</dest> <op>Sabres</op> </g>
+                        <g date="2019-01-31"> <weekday>Thursday</weekday> <day>31</day> <t>8:00</t> <dest l="away">@</dest> <op>Jets</op> </g>
+                    </month>
+                    <month m="feb">
+                        <g date="2019-02-02"> <weekday>Saturday</weekday> <day>2</day> <t>7:00</t> <dest l="home">vs</dest> <op>Blues</op> </g>
+                        <g date="2019-02-05"> <weekday>Tuesday</weekday> <day>5</day> <t>9:00</t> <dest l="away">@</dest> <op>Avalanche</op> </g>
+                        <g date="2019-02-07"> <weekday>Thursday</weekday> <day>7</day> <t>9:00</t> <dest l="away">@</dest> <op>Coyotes</op> </g>
+                        <g date="2019-02-09"> <weekday>Saturday</weekday> <day>9</day> <t>10:00</t> <dest l="away">@</dest> <op>Golden Knights</op> </g>
+                        <g date="2019-02-12"> <weekday>Tuesday</weekday> <day>12</day> <t>7:00</t> <dest l="home">vs</dest> <op>Capitals</op> </g>
+                        <g date="2019-02-14"> <weekday>Thursday</weekday> <day>14</day> <t>7:00</t> <dest l="home">vs</dest> <op>Islanders</op> </g>
+                        <g date="2019-02-16"> <weekday>Saturday</weekday> <day>16</day> <t>8:30</t> <dest l="away">@</dest> <op>Blackhawks</op> </g>
+                        <g date="2019-02-18"> <weekday>Monday</weekday> <day>18</day> <t>7:30</t> <dest l="home">vs</dest> <op>Lightning</op> </g>
+                        <g date="2019-02-19"> <weekday>Tuesday</weekday> <day>19</day> <t>7:30</t> <dest l="away">@</dest> <op>Canadiens</op> </g>
+                        <g date="2019-02-22"> <weekday>Friday</weekday> <day>22</day> <t>7:00</t> <dest l="away">@</dest> <op>Senators</op> </g>
+                        <g date="2019-02-23"> <weekday>Saturday</weekday> <day>23</day> <t>5:00</t> <dest l="home">vs</dest> <op>Sharks</op> </g>
+                        <g date="2019-02-26"> <weekday>Tuesday</weekday> <day>26</day> <t>7:00</t> <dest l="home">vs</dest> <op>Penguins</op> </g>
+                        <g date="2019-02-28"> <weekday>Thursday</weekday> <day>28</day> <t>7:00</t> <dest l="home">vs</dest> <op>Flyers</op> </g>
+                    </month>
+                    <month m="mar">
+                        <g date="2019-03-02"> <weekday>Saturday</weekday> <day>2</day> <t>1:00</t> <dest l="home">vs</dest> <op>Oilers</op> </g>
+                        <g date="2019-03-03"> <weekday>Sunday</weekday> <day>3</day> <t>7:00</t> <dest l="home">vs</dest> <op>Jets</op> </g>
+                        <g date="2019-03-05"> <weekday>Tuesday</weekday> <day>5</day> <t>7:00</t> <dest l="away">@</dest> <op>Devils</op> </g>
+                        <g date="2019-03-07"> <weekday>Thursday</weekday> <day>7</day> <t>7:00</t> <dest l="away">@</dest> <op>Penguins</op> </g>
+                        <g date="2019-03-09"> <weekday>Saturday</weekday> <day>9</day> <t>7:00</t> <dest l="home">vs</dest> <op>Penguins</op> </g>
+                        <g date="2019-03-11"> <weekday>Monday</weekday> <day>11</day> <t>7:00</t> <dest l="away">@</dest> <op>Islanders</op> </g>
+                        <g date="2019-03-12"> <weekday>Tuesday</weekday> <day>12</day> <t>7:00</t> <dest l="home">vs</dest> <op>Bruins</op> </g>
+                        <g date="2019-03-15"> <weekday>Friday</weekday> <day>15</day> <t>7:00</t> <dest l="home">vs</dest> <op>Hurricanes</op> </g>
+                        <g date="2019-03-16"> <weekday>Saturday</weekday> <day>16</day> <t>7:00</t> <dest l="away">@</dest> <op>Bruins</op> </g>
+                        <g date="2019-03-19"> <weekday>Tuesday</weekday> <day>19</day> <t>9:00</t> <dest l="away">@</dest> <op>Flames</op> </g>
+                        <g date="2019-03-21"> <weekday>Thursday</weekday> <day>21</day> <t>9:00</t> <dest l="away">@</dest> <op>Oilers</op> </g>
+                        <g date="2019-03-24"> <weekday>Sunday</weekday> <day>24</day> <t>10:00</t> <dest l="away">@</dest> <op>Canucks</op> </g>
+                        <g date="2019-03-26"> <weekday>Tuesday</weekday> <day>26</day> <t>7:00</t> <dest l="home">vs</dest> <op>Islanders</op> </g>
+                        <g date="2019-03-28"> <weekday>Thursday</weekday> <day>28</day> <t>7:00</t> <dest l="home">vs</dest> <op>Canadiens</op> </g>
+                        <g date="2019-03-30"> <weekday>Saturday</weekday> <day>30</day> <t>8:00</t> <dest l="away">@</dest> <op>Predators</op> </g>
+                        <g date="2019-03-31"> <weekday>Sunday</weekday> <day>31</day> <t>6:00</t> <dest l="away">@</dest> <op>Sabres</op> </g>
+                    </month>
+                    <month m="apr">
+                        <g date="2019-04-02"> <weekday>Tuesday</weekday> <day>2</day> <t>7:00</t> <dest l="home">vs</dest> <op>Bruins</op> </g>
+                        <g date="2019-04-05"> <weekday>Friday</weekday> <day>5</day> <t>7:00</t> <dest l="away">@</dest> <op>Rangers</op> </g>
+                        <g date="2019-04-06"> <weekday>Saturday</weekday> <day>6</day> <t>7:00</t> <dest l="away">@</dest> <op>Senators</op> </g>
+                    </month>
+                </year>
+            </season>        
+    </organization>
+</schedule>
