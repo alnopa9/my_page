@@ -1,0 +1,6 @@
+Alyssa Argento's Shakespeare's Step File
+1- Deleted all of the excess text that did not pertain to Shakespeare's sonnets
+2- Searched for &, <, and >, but there weren't any in the document
+3- Find: |  | Replace with: |left empty| Removed extra blank lines
+4- Find: |^[IVXLC]+\n| Replace with: |<sonnet number="\1">|
+4- Find: |^(.+)$    Replace with: <line>\1</line>

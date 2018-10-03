@@ -1,0 +1,19 @@
+.menu-container {
+  color: #ffffff;
+  background-color: #9F9F9F; /* white */
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.menu {
+    width: 900px;
+    background-color: #9F9F9F; /* black */
+    display: flex;
+    justify-content: space-around;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;    
+}
