@@ -1,0 +1,12 @@
+Alyssa Argento's Blithdale Step File
+1- Deleted all of the excess text that did not pertain to Blithedale
+2- Searched for &, <, and >; there were none in the document
+4- Find:^[\n]
+   Replace with:
+   Purpose: Removed extra blank lines
+5- Find:^([IVXLC]+[IVXLC])|[IVXLC]+\. .$
+   Replace with:</list><list>
+   Purpose:
+
+^[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]\. .+(E)+$|[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]\. .+(T|L|E)+$|[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]\. .+$|[IXVLC]+[IXVLC]+[IXVLC]\. .+$|[IXVLC]+[IXVLC]\. .+$|[IXVLC]\. .+$
+selects the roman numerals and the entire title following them, but selects both in TOC and body

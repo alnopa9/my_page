@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <head>
+        <part></part>
+        <list>
+            <item></item>
+            <item></item>
+            <item></item>
+        </list>
+    </head>
+    <body>
+        <part></part>
+        <list>
+            <chapter number="">
+                <p><quote></quote></p>
+                <p></p>
+                <p></p>
+            </chapter>
+        </list>
+    </body>
+</book>
