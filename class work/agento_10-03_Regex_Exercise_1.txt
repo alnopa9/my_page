@@ -7,13 +7,13 @@ Alyssa Argento's Shakespeare Step File
 4- Find:^[\n]
    Replace:
    Purpose: Removed extra blank lines
-4- Find:^([IVXLC]+[IVXLC])|[IVXLC]$
+4- Find:^[IVXLC]+$
    Replace with:</sonnet><sonnet number="\0">
-   Purpose: This selected all of the roman numerals, but it also selected one I on line 1074. I manually changed 1074 back after the conversion.
+   Purpose: This selected all of the roman numerals
 5- Find:^(\w+.+)$
    Replace with:<line>\0</line>
    Purpose: This selects every line that does not start with roman numerals
 6- Remove the extra </sonnet> tag on line 1
-7- Add a </sonnet> tag to line 2312
-8- Add a root element <sonnets>~document~</sonnets> to the whole document
+7- Add a </sonnet> tag to line 2309
+8- Add a root element <sonnets></sonnets> to the whole document
 9- Check work by making sure you have a green square in upper right hand corner and clicking Format and Indent button

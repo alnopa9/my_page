@@ -4,9 +4,32 @@ Alyssa Argento's Blithdale Step File
 4- Find:^[\n]
    Replace with:
    Purpose: Removed extra blank lines
-5- Find:^([IVXLC]+[IVXLC])|[IVXLC]+\. .$
-   Replace with:</list><list>
-   Purpose:
-
-^[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]\. .+(E)+$|[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]\. .+(T|L|E)+$|[IXVLC]+[IXVLC]+[IXVLC]+[IXVLC]\. .+$|[IXVLC]+[IXVLC]+[IXVLC]\. .+$|[IXVLC]+[IXVLC]\. .+$|[IXVLC]\. .+$
-selects the roman numerals and the entire title following them, but selects both in TOC and body
+5- Find:^[IVXLC]\..+$|^[IVXLC][IVXLC]\..+$|^[IVXLC][IVXLC][IVXLC]\..+$|^[IVXLC][IVXLC][IVXLC][IVXLC]\..+$|^[IVXLC][IVXLC][IVXLC][IVXLC][IVXLC]\..+$|^[IVXLC][IVXLC][IVXLC][IVXLC][IVXLC][IVXLC]\..+$
+   Replace with:</content></chapter><chapter><title>\0</title><content>
+   Purpose: Place the chapter headings in the body of the document in <chapter> element tags
+6- Find:(?<=\s)([IVXLC]+[IVXLC])\..+$|(?<=\s)[IVX]\.  .+$
+   Replace with:<item>\0</item>
+   Purpose: Places the chapter listings in the table of contents in <item> element tags
+7- Find: +<
+   Replace with:<
+   Purpose: Removes extra blank spaces before <item> tags in table of contents
+8- Find:^"\w+.+$|^(\w+.+)$
+   Replace with:<line>\0</line>
+   Purpose: Places each line that does not contain roman numerals inside <line> element tags
+9- Find:  
+    Replace with: 
+    Purpose: Removed extra whitespace between sentences
+10- Line 1: change the <line></line> element tags to <title></title>
+11- Line 2: change the <line></line> elemnet tags to <author></author>
+12- Line 3:change tags to <body><part><section>Table of Contents</section>
+13- Line 4: add <list> element tag to beginning of line
+14- Line 32: add </list></part> element tags to end of line
+15- Line 33: add <part> element tag to beginning of line
+             remove </content></chapter> element tags from beginning of line
+16- Line 6734: add </content></chapter></part></body> element tags
+17- Add a root element to the whole document called book
+18- Minimize each chapter, there should be 29, but we did not add attributes, and that makes it hard to distinguish
+    a) in the <chapter> element tag for each chapter do a Find and Replace
+        Find:<chapter>
+        Replace with:<chapter number="">
+    b) with the chapters collapsed, it makes it easy to manually input each chapter number

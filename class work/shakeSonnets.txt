@@ -1,5 +1,4 @@
-﻿<sonnets>
-<sonnet number="I">
+﻿</sonnet><sonnet number="I">
 <line>From fairest creatures we desire increase,</line>
 <line>That thereby beauty's rose might never die,</line>
 <line>But as the riper should by time decease,</line>
@@ -2308,5 +2307,3 @@
 <line>For men diseas'd; but I, my mistress' thrall,</line>
 <line>Came there for cure and this by that I prove,</line>
 <line>Love's fire heats water, water cools not love.</line>
-</sonnet>
-</sonnets>

@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <book>
     <head>
-        <part></part>
-        <list>
-            <item></item>
-            <item></item>
-            <item></item>
-        </list>
+        <title>Title</title>
+        <author>Author</author>
     </head>
     <body>
-        <part></part>
-        <list>
-            <chapter number="">
-                <p><quote></quote></p>
-                <p></p>
-                <p></p>
+        <part>
+            <section>Table of Contents</section>
+            <list>
+                <item/>
+                <item/>
+                <item/>
+            </list>
+        </part>
+        <part>
+            <chapter>
+            <title>Chapter ~</title>
+                <content>
+                    <line>
+                        <quote></quote>
+                    </line>
+                    <line/>
+                    <line/>
+                </content>
             </chapter>
-        </list>
+        </part>
     </body>
 </book>
