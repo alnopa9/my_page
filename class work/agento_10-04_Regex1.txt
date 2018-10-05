@@ -7,8 +7,8 @@ Alyssa Argento's Shakespeare Step File
 4- Find:^[\n]
    Replace:
    Purpose: Removed extra blank lines
-4- Find:^[IVXLC]+$
-   Replace with:</sonnet><sonnet number="\0">
+4- Find:^([IVXLC]+)\n
+   Replace with:</sonnet><sonnet number="\1">\n
    Purpose: This selected all of the roman numerals
 5- Find:^(\w+.+)$
    Replace with:<line>\0</line>
