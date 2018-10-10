@@ -1,0 +1,36 @@
+Find:\t
+Replace with: 
+Find:\*
+Find:(<organization team="\w+">)\n^Forwards
+Replace with:\1\n<players>\n<forwards>
+1- Find:(\d\d\d\d\s)(.+[A-Z][A-Z][A-Z])
+Replace with:\1<bp>\2</bp>
+2- Find:([A-Z]\w\w\s\d+,\s\d\d\d\d)
+Replace with:<bd>\1</bd>
+Find:(\d\d\d\d)
+Replace with:<y>\1</y>
+Find:(\d'\s\d+")
+Replace with:<h>\1</h>
+Find:(</h>\s)(\d\d\d)
+Replace with:\1<w>\2</w>
+Find:([\w\s]|\W)(\d+)(\s)
+Replace with:\1<num>\2</num>\3
+Find:([A-Z][A-Z][A-Z])
+Replace with:<co>\1</co>
+Find:(LW|RW|C)\s
+Replace with:<pos>\1</pos> 
+Find:(>\s)([R|L])(\s<)
+Replace with:\1<shot>\2</shot>\3
+Find:(^\s)(.+)(\s|\))(<num>)
+Replace with:\1<name>\2</name>\3\4
+Find:Defense
+Replace with:</forwards><defense>
+Find:Goalies
+Replace with:</defense><goalies>
+Find:</organization>
+Replace with:</goalies></players></organization>
+Find:\s(<name>.+$)
+Replace with:<p>\1</p>
+Find:\n\n
+Replace with:
+

@@ -1,0 +1,16 @@
+start = roster
+roster = element roster {division}
+division = element division {organization+}
+organization = element organization {players}
+players = element players {forwards, defense, goalies}
+forwards = element forwards {p+}
+defense = element defense {p+}
+goalies = element goalies {p+}
+p = element p {name, num, pos, shot, h, w, bd, bp}
+name = element name {text}
+num = element num {xsd:positiveInteger}
+pos = element pos {"C"|"RW"|"LW"}
+shot = element shot {"R"|"L"}
+h = element h {text}
+w = element w {xsd:positiveInteger}
+bd = element bd {

@@ -1,4 +1,9 @@
 Alyssa Argento's Blithdale Step File
+
+An example of what the finished XML file is on DH
+Take out the <line></line> element tags and replace whole paragraphs with <p></p>
+Insert <quote></quote> element tags, use Dot matches alls
+
 1- Deleted all of the excess text that did not pertain to Blithedale
 2- Searched for &, <, and >; there were none in the document
 4- Find:^[\n]
@@ -17,8 +22,11 @@ Alyssa Argento's Blithdale Step File
    Replace with:<line>\0</line>
    Purpose: Places each line that does not contain roman numerals inside <line> element tags
 9- Find:  
-    Replace with: 
-    Purpose: Removed extra whitespace between sentences
+   Replace with: 
+   Purpose: Removed extra whitespace between sentences
+10- Find with Dot matches all selected:(".+?")
+    Replace with:
+    Purpose:
 10- Line 1: change the <line></line> element tags to <title></title>
 11- Line 2: change the <line></line> elemnet tags to <author></author>
 12- Line 3:change tags to <body><part><section>Table of Contents</section>

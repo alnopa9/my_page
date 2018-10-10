@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roster>
+    <division type=" ">
+        <organization team=" ">
+            <players>
+                <forwards>
+                    <right>
+                        <shot hand="right">
+                            <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                        </shot>
+                        <shot hand="left">
+                            <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                        </shot>
+                    </right>
+                    <center>
+                        <shot hand="right">
+                            <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                        </shot>
+                        <shot hand="left">
+                            <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                        </shot>
+                    </center>
+                    <left>
+                        <shot hand="right">
+                            <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                        </shot>
+                        <shot hand="left">
+                            <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                        </shot>
+                    </left>
+                </forwards>
+                <defense>
+                    <shot hand="right">
+                        <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                    </shot>
+                    <shot hand="left">
+                        <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                    </shot>
+                </defense>
+                <goalies>
+                    <p> <sName></sName> <fName></fName> <n></n> <h></h> <w></w> <bDay date=""></bDay> <bPlace co=""></bPlace> </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>
