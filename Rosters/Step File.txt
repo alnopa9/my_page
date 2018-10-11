@@ -32,6 +32,12 @@
    Replace with:</goalies></players></organization>
 17-Find:\s(<name>.+$)
    Replace with:<p>\1</p>
-18-Find:\n\n
+18-Find:((\(A\)|\(C\)))</name>
+   Replace with:</name> <cap>\1</cap>
+19-Find:\(C\)
+   Replace with:Captain
+20-Find:\(A\)
+   Replace with: Assisstant
+21-Find:\n\n
    Replace with:
 
