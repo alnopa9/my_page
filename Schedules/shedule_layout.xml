@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+    <division type="metropolitan">
+        <organization team="">
+            <season type="reg">
+                <year type="2018">
+                    <month type="october">
+                        <g>
+                            <day></day>
+                            <month></month>
+                            <date></date>
+                            <time></time>
+                            <destination></destination>
+                            <against></against>
+                        </g>
+                    </month> 
+                </year>
+            </season>
+        </organization>
+    </division>
+</schedule>

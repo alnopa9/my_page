@@ -1,0 +1,33 @@
+Schedule Step File 574 games
+Find:^((Mon)|Fri|Sun)
+Replace with:<day>\1day</day>
+Find:^Tue
+Replace with:<day>\1sday</day>
+Find:^(Wed)
+Replace with:<day>\1nesday</day>
+Find:^(Thu)
+Replace with:<day>\1rsday</day>
+Find:^(Sat)
+Replace with:<day>\urday</day>
+Find:(Oct)
+Replace with:<month>\1ober</month>
+Find:(Nov|Dec)
+Replace with:<month>\1ember</month>
+Find:(Jan)
+Replace with:<month>\1uary</month>
+Find:(Feb)
+Replace with:<month>\1ruary</month>
+Find:(Mar)
+Replace with:<month>\1ch</month>
+Find:(Apr)
+Replace with:<month>\1il</month>
+Find:(> )(\d+)
+Replace with:\1<date>\2</date>
+Find:(> )(\d+:\d+ PM)
+Replace with:\1<time>\2</time>
+Find:(vs|@)
+Replace with:<destination>\1</destination>
+Find:(> )\w+(\s\w+)*
+Replace with:\1<against>\2</against>
+Find:(<day>.+$)
+Replace with:<g>\1</g>
