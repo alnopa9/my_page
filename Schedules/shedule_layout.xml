@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <division type="metropolitan">
+    <division div="metropolitan">
         <organization team="">
             <season type="reg">
-                <year type="2018">
-                    <month type="october">
+                <year term="2018">
+                    <month mo="october">
                         <g>
                             <day></day>
-                            <month></month>
+                            <m></m>
                             <date></date>
                             <time></time>
                             <destination></destination>
