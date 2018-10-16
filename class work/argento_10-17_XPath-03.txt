@@ -1,0 +1,11 @@
+Alyssa Argento's XPath Exercise 3 Answer sheet
+
+Question 1:
+    //@type//parent::*/name()=>distinct-values()
+        1 result
+
+Question 2:
+    //@*!name()=>distinct-values()
+    
+Question 3:
+    (//p[descendant::geo[@select="lat"]=>count()gt 1])[last()]

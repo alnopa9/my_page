@@ -5,15 +5,17 @@ Question 1:
         //div[@type="book"][position()=1]/div[@type="chapter"]/p/geo[@select="lat"]
         42 items
     Part B-
-        //div[@type="book"][position()=1]/div[@type="chapter"]/p/geo[count(@select="lat"])
+        //div[@type="book"][position()=1]/div[@type="chapter"]/p/geo[@select="lat"]=>count()
+        42 items
 Question 2:
     //div[@type="book"][position()=1]/div[@type="chapter"]/p[geo[@select="lat"]]
+    26 items
 Question 3:
     XPath expression-
         //div[@type="book"][position()=3]/div[@type="chapter"][position()=1]/p/geo[@select="lat"]
     Paragraph "702" in the file
 Question 4:
-    //p[geo[@select="lon"]][geo[@select="lat"]]
+    //p/geo[@select="lon"]]and[geo[@select="lat"]]
 Question 5:
     XPath expression-
         //p[not(geo[@select="lat"])][geo[@select="lon"]]
