@@ -1,24 +1,17 @@
 Alyssa Argneto's XPath Exercise 2 Answers
 
 Question 1:
-    Part A-
-        //div[@type="book"][position()=1]/div[@type="chapter"]/p/geo[@select="lat"]
-        42 items
-    Part B-
-        //div[@type="book"][position()=1]/div[@type="chapter"]/p/geo[@select="lat"]=>count()
-        42 items
+    a) //div[@type="book"][1]//geo[@select="lat"]
+    b) //div[@type="book"][1]//geo[@select="lat"]=>count()
 Question 2:
-    //div[@type="book"][position()=1]/div[@type="chapter"]/p[geo[@select="lat"]]
-    26 items
+    //div[@type="book"][1]//p[geo[@select="lat"]]
 Question 3:
-    XPath expression-
-        //div[@type="book"][position()=3]/div[@type="chapter"][position()=1]/p/geo[@select="lat"]
-    Paragraph "702" in the file
+    a) (//div[@type="book"][3]/div[@type="chapter"][1]/p[geo[@select="lat"]])[1]
+    b) Paragraph "702" in the file
 Question 4:
-    //p/geo[@select="lon"]]and[geo[@select="lat"]]
+    //p[geo[@select="lon"]][geo[@select="lat"]]
 Question 5:
-    XPath expression-
-        //p[not(geo[@select="lat"])][geo[@select="lon"]]
+    a) //p[not(geo[@select="lat"])][geo[@select="lon"]]
     There are 4 paragraphs in the whole document that do not contain a lagitude measurement but do contain a longitude measurement
 Question 6:
     //p[geo]/placeName[1] returns all of the first place names that appear in each paragraph that contains a geo element and ignores the rest

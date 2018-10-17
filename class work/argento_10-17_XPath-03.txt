@@ -1,11 +1,26 @@
 Alyssa Argento's XPath Exercise 3 Answer sheet
 
 Question 1:
-    //@type//parent::*/name()=>distinct-values()
-        1 result
+    a) //@type=>count()
+    b) //@type//parent::*
+    c) //@type//parent::*/name()
+    d) //@type//parent::*/name()=>distinct-values()
 
 Question 2:
-    //@*!name()=>distinct-values()
+    a) //@*
+    b) //@*!name()
+    c) //@*!name()=>distinct-values()
+    d) //body//@*//parent::*/name()
+    e) //body//@*//parent::*/name()=>distinct-values()
+    f) (//body//@*//parent::*/name()=>distinct-values())=>count()
     
 Question 3:
-    (//p[descendant::geo[@select="lat"]=>count()gt 1])[last()]
+    a) (//p[descendant::geo[@select="lat"]=>count()gt 1])[last()]
+    b) (//p[descendant::geo[@select="lat"]=>count()gt 2])[1]
+    c) (//div[@type="book"][2]//p[descendant::geo[@select="lat"]=>count()gt 1])[last()]
+    d) (//p[descendant::geo[@select="lat"]=>count()gt 1][placeName=>count()gt 1])[1]
+    e) (//p[descendant::geo[@select="lat"]=>count()gt 1][placeName=>count()gt 1])[1]//placeName
+
+Question 4:
+    Find the total count of persName records in the 4th, 5th, and 6th chapters of book 2
+        XPath expression: (//div[@type="book"][2]//div[@type="chapter"][position()>3 and position()<7]//persName)=>count()

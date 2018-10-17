@@ -1,7 +1,9 @@
 Schedule Step File 574 games
+Find:^Day.+$\n
+Replace with:
 Find:^((Mon)|Fri|Sun)
 Replace with:<day>\1day</day>
-Find:^Tue
+Find:^(Tue)
 Replace with:<day>\1sday</day>
 Find:^(Wed)
 Replace with:<day>\1nesday</day>
