@@ -1,4 +1,6 @@
 Schedule Step File 574 games
+Find:\t
+Replace with: 
 Find:^Day.+$\n
 Replace with:
 Find:^((Mon)|Fri|Sun)

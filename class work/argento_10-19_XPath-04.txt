@@ -5,7 +5,7 @@ Question 1:
 Question 2:
     A)//div[contains(., "homework")] ! normalize-space()=>distinct-values()
         18 values
-    B)//div//parent::*[contains(., "homework")]
+    B)//div//text()[contains(., "homework")]/parent::* ! normalize-space()
 
 Question 3:
     A)//date[matches(., "F \d+-\d+")]
@@ -14,9 +14,9 @@ Question 3:
 
 Question 4:
     A)//div[@type="assign"][contains(., "GitHub")]
-    B)//div[@type="assign"][contains(., "GitHub")] ! string-length() => max()
+    B)//div[@type="assign"][contains(., "GitHub")][string-length() =//div[@type="assign"][contains(., "GitHub")] ! string-length() => max()]
         2359
-      //div[@type="assign"][contains(., "GitHub")] ! string-length() => min()
+      //div[@type="assign"][contains(., "GitHub")][string-length() =//div[@type="assign"][contains(., "GitHub")] ! string-length() => min()]
         223
 
 Question 5:
