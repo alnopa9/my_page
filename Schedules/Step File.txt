@@ -29,7 +29,7 @@ Find:(> )(\d+:\d+ PM)
 Replace with:\1<time>\2</time>
 Find:(vs|@)
 Replace with:<destination>\1</destination>
-Find:(> )\w+(\s\w+)*
+Find:(> )(\w+(\s\w+)*)
 Replace with:\1<against>\2</against>
 Find:(<day>.+$)
 Replace with:<g>\1</g>
