@@ -1,21 +1,28 @@
 start = schedule
 schedule = element schedule {division+}
-division = element division {divis, organization+}
-divis = attribute divis {"central"|"atlantic"|"pacific"|"metropolitan"}
+division = element division {type, organization+}
+type = attribute type {"central"|"atlantic"|"pacific"|"metropolitan"|"reg"|"post"|"ot"}
 organization = element organization {team, season+}
-team = attribute team {"avalanche"|"blackHawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
+team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
     "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
 season = element season {type+, year+}
-type = attribute type {"reg"|"post"}
-year = element year {term, month+}
+year = element year {term, months+}
 term = attribute term {"2018"|"2019"}
-month = element month {mo, game+}
-mo = attribute mo{"oct"|"nov"|"dec"|"jan"|"feb"|"mar"|"apr"}
-game = element game {day, m, date, time, destination, against}
+months = element months {class, game+}
+class = attribute class {"october"|"november"|"december"|"january"|"february"|"march"|"april"}
+game = element game {number, iosDate, day, month, date, time, destination, against, outcome}
+number = attribute number {""}
+iosDate = attribute iosDate {""}
 day = element day {"Monday"|"Tuesday"|"Wednesday"|"Thursday"|"Friday"|"Saturday"|"Sunday"}
-m = element m {"October"|"November"|"December"|"January"|"February"|"March"|"April"}
+month = element month {"October"|"November"|"December"|"January"|"February"|"March"|"April"}
 date = element date {xsd:positiveInteger}
 time = element time {text}
 destination = element destination {"vs"|"@"}
-against = attribute against {"avalanche"|"blackHawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
-    "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
+against = element against {"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
+    "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild"}
+outcome = element outcome {win?, lose?}
+win = element win {pts, type*, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
+    "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild")}
+lose = element lose {pts, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
+    "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild")}
+pts = attribute pts {"1"|"2"|""}
