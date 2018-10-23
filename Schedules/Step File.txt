@@ -35,3 +35,19 @@ Find:(> )(\w+(\s\w+)*)
 Replace with:\1<against>\2</against>
 Find:(<day>.+$)
 Replace with:<g>\1</g>
+
+
+Find:\n^[A-Z][A-Z]+.+|^ [A-Z][A-Z]+\n
+Replace with:
+Find:\t| {2}
+Replace with: 
+Find:\n^(\d.+)
+Replace with:\1
+Find:\,|\.
+Replace with:
+Find:(> )(@|VS) (\d+:\d+ PM) ET
+Replace with:\1<time>\3</time>
+Find:@
+Replace with:<destination>@</destination>
+Find:VS
+Replace with:<destination>vs</destination>

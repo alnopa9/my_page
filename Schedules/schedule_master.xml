@@ -8519,7 +8519,7 @@
                             <date>4</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Blackhawks</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8527,7 +8527,7 @@
                             <date>6</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against> Leafs</against>
+                            <against>Maple Leafs</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -8535,7 +8535,7 @@
                             <date>8</date>
                             <time>1:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -8543,7 +8543,7 @@
                             <date>10</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Flyers</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8551,7 +8551,7 @@
                             <date>13</date>
                             <time>2:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Kings</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -8559,7 +8559,7 @@
                             <date>15</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Stars</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8567,7 +8567,7 @@
                             <date>20</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8575,7 +8575,7 @@
                             <date>23</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -8583,7 +8583,7 @@
                             <date>26</date>
                             <time>9:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Avalanche</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -8591,7 +8591,7 @@
                             <date>28</date>
                             <time>8:00 PM</time>
                             <destination>@</destination>
-                            <against> Knights</against>
+                            <against>Golden Knights</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8599,7 +8599,7 @@
                             <date>30</date>
                             <time>10:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Coyotes</against>
                         </g>
                     </month>
                     <month mo="november">
@@ -8609,7 +8609,7 @@
                             <date>1</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8617,7 +8617,7 @@
                             <date>3</date>
                             <time>2:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -8625,7 +8625,7 @@
                             <date>4</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8633,7 +8633,7 @@
                             <date>6</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Devils</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8641,7 +8641,7 @@
                             <date>8</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against> Knights</against>
+                            <against>Golden Knights</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8649,7 +8649,7 @@
                             <date>10</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -8657,7 +8657,7 @@
                             <date>11</date>
                             <time>5:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8665,7 +8665,7 @@
                             <date>15</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8673,7 +8673,7 @@
                             <date>17</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Penguins</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -8681,7 +8681,7 @@
                             <date>19</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -8689,7 +8689,7 @@
                             <date>21</date>
                             <time>8:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Wild</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -8697,7 +8697,7 @@
                             <date>23</date>
                             <time>8:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Stars</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -8705,7 +8705,7 @@
                             <date>26</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Rangers</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8713,7 +8713,7 @@
                             <date>27</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Flyers</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8721,7 +8721,7 @@
                             <date>29</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Rangers</against>
                         </g>
                     </month>
                     <month mo="december">
@@ -8731,7 +8731,7 @@
                             <date>1</date>
                             <time>1:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Sharks</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8739,7 +8739,7 @@
                             <date>4</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8747,7 +8747,7 @@
                             <date>6</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8755,7 +8755,7 @@
                             <date>8</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Penguins</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -8763,7 +8763,7 @@
                             <date>9</date>
                             <time>5:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8771,7 +8771,7 @@
                             <date>11</date>
                             <time>8:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Predators</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -8779,7 +8779,7 @@
                             <date>14</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8787,7 +8787,7 @@
                             <date>15</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -8795,7 +8795,7 @@
                             <date>17</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Predators</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -8803,7 +8803,7 @@
                             <date>21</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Devils</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8811,7 +8811,7 @@
                             <date>22</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Capitals</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -8819,7 +8819,7 @@
                             <date>28</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Islanders</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8827,7 +8827,7 @@
                             <date>29</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Capitals</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -8835,7 +8835,7 @@
                             <date>31</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against> Jackets</against>
+                            <against>Blue Jackets</against>
                         </g>
                     </month>
                     <month mo="january">
@@ -8845,7 +8845,7 @@
                             <date>2</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Canucks</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8853,7 +8853,7 @@
                             <date>5</date>
                             <time>1:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Wild</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -8861,7 +8861,7 @@
                             <date>6</date>
                             <time>1:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Hurricanes</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -8869,7 +8869,7 @@
                             <date>9</date>
                             <time>10:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Ducks</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8877,7 +8877,7 @@
                             <date>10</date>
                             <time>10:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Kings</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8885,7 +8885,7 @@
                             <date>12</date>
                             <time>10:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Sharks</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -8893,7 +8893,7 @@
                             <date>16</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Avalanche</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -8901,7 +8901,7 @@
                             <date>18</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Hurricanes</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8909,7 +8909,7 @@
                             <date>19</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Blues</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8917,7 +8917,7 @@
                             <date>22</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Coyotes</against>
                         </g>
                     </month>
                     <month mo="february">
@@ -8927,7 +8927,7 @@
                             <date>1</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Penguins</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8935,7 +8935,7 @@
                             <date>2</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -8943,7 +8943,7 @@
                             <date>6</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against> Leafs</against>
+                            <against>Maple Leafs</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8951,7 +8951,7 @@
                             <date>7</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Ducks</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8959,7 +8959,7 @@
                             <date>9</date>
                             <time>2:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Jets</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -8967,7 +8967,7 @@
                             <date>12</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Hurricanes</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8975,7 +8975,7 @@
                             <date>14</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -8983,7 +8983,7 @@
                             <date>16</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Jets</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -8991,7 +8991,7 @@
                             <date>18</date>
                             <time>8:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Blackhawks</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -8999,7 +8999,7 @@
                             <date>21</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Devils</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -9007,7 +9007,7 @@
                             <date>22</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Jackets</against>
+                            <against>Blue Jackets</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -9015,7 +9015,7 @@
                             <date>24</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Flames</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9023,7 +9023,7 @@
                             <date>26</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Capitals</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9031,7 +9031,7 @@
                             <date>28</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Oilers</against>
                         </g>
                     </month>
                     <month mo="march">
@@ -9041,7 +9041,7 @@
                             <date>2</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -9049,7 +9049,7 @@
                             <date>3</date>
                             <time>5:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9057,7 +9057,7 @@
                             <date>5</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Islanders</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9065,7 +9065,7 @@
                             <date>7</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Islanders</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9073,7 +9073,7 @@
                             <date>9</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9081,7 +9081,7 @@
                             <date>11</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Flyers</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9089,7 +9089,7 @@
                             <date>14</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Blues</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9097,7 +9097,7 @@
                             <date>16</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Leafs</against>
+                            <against>Maple Leafs</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9105,7 +9105,7 @@
                             <date>20</date>
                             <time>10:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Canucks</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9113,7 +9113,7 @@
                             <date>21</date>
                             <time>9:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Flames</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9121,7 +9121,7 @@
                             <date>23</date>
                             <time>4:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Oilers</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9129,7 +9129,7 @@
                             <date>26</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9137,7 +9137,7 @@
                             <date>28</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9145,7 +9145,7 @@
                             <date>30</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Leafs</against>
+                            <against>Maple Leafs</against>
                         </g>
                     </month>
                     <month mo="april">
@@ -9155,7 +9155,7 @@
                             <date>1</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9163,7 +9163,7 @@
                             <date>3</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Rangers</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9171,7 +9171,7 @@
                             <date>4</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9179,7 +9179,7 @@
                             <date>6</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Jackets</against>
+                            <against>Blue Jackets</against>
                         </g>
                     </month>
                 </year>
@@ -9188,7 +9188,514 @@
         <organization team="lightning">
             <season type="reg">
                 <year term="2018">
-                    <month mo="october"> </month>
+                    <month mo="october">
+                        <day>Saturday</day>
+                        <month>October</month>
+                        <date>6</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Panthers</against>
+                        <day>Thursday</day>
+                        <month>October</month>
+                        <date>11</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Canucks</against>
+                        <day>Saturday</day>
+                        <month>October</month>
+                        <date>13</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Blue Jackets</against>
+                        <day>Tuesday</day>
+                        <month>October</month>
+                        <date>16</date>
+                        <time>7:30</time>
+                        <destination>vs</destination>
+                        <against>Hurricanes</against>
+                        <day>Thursday</day>
+                        <month>October</month>
+                        <date>18</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Red Wings</against>
+                        <day>Saturday</day>
+                        <month>October</month>
+                        <date>20</date>
+                        <time>8:00 PM</time>
+                        <destination>@</destination>
+                        <against>Wild</against>
+                        <day>Sunday</day>
+                        <month>October</month>
+                        <date>21</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Blackhawks</against>
+                        <day>Wednesday</day>
+                        <month>October</month>
+                        <date>24</date>
+                        <time>9:30 PM</time>
+                        <destination>@</destination>
+                        <against>Avalanche</against>
+                        <day>Friday</day>
+                        <month>October</month>
+                        <date>26</date>
+                        <time>6:00 PM</time>
+                        <destination>@</destination>
+                        <against>Golden Knights</against>
+                        <day>Saturday</day>
+                        <month>October</month>
+                        <date>27</date>
+                        <time>9:00 PM</time>
+                        <destination>@</destination>
+                        <against>Coyotes</against>
+                        <day>Tuesday</day>
+                        <month>October</month>
+                        <date>30</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Devils</against>
+                    </month>
+                    <month mo="november">
+                        <day>Thursday</day>
+                        <month>November</month>
+                        <date>1</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Predators</against>
+                        <day>Saturday</day>
+                        <month>November</month>
+                        <date>3</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Canadiens</against>
+                        <day>Sunday</day>
+                        <month>November</month>
+                        <date>4</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Senators</against>
+                        <day>Tuesday</day>
+                        <month>November</month>
+                        <date>6</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Oilers</against>
+                        <day>Thursday</day>
+                        <month>November</month>
+                        <date>8</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Islanders</against>
+                        <day>Saturday</day>
+                        <month>November</month>
+                        <date>10</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Senators</against>
+                        <day>Tuesday</day>
+                        <month>November</month>
+                        <date>13</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Sabres</against>
+                        <day>Thursday</day>
+                        <month>November</month>
+                        <date>15</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Penguins</against>
+                        <day>Saturday</day>
+                        <month>November</month>
+                        <date>17</date>
+                        <time>1:00 PM</time>
+                        <destination>@</destination>
+                        <against>Flyers</against>
+                        <day>Monday</day>
+                        <month>November</month>
+                        <date>19</date>
+                        <time>8:00 PM</time>
+                        <destination>@</destination>
+                        <against>Predators</against>
+                        <day>Wednesday</day>
+                        <month>November</month>
+                        <date>21</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Panthers</against>
+                        <day>Friday</day>
+                        <month>November</month>
+                        <date>23</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Blackhawks</against>
+                        <day>Sunday</day>
+                        <month>November</month>
+                        <date>25</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Devils</against>
+                        <day>Tuesday</day>
+                        <month>November</month>
+                        <date>27</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Ducks</against>
+                        <day>Thursday</day>
+                        <month>November</month>
+                        <date>29</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Sabres</against>
+                    </month>
+                    <month mo="december">
+                        <day>Saturday</day>
+                        <month>December</month>
+                        <date>1</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Panthers</against>
+                        <day>Monday</day>
+                        <month>December</month>
+                        <date>3</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Devils</against>
+                        <day>Tuesday</day>
+                        <month>December</month>
+                        <date>4</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Red Wings</against>
+                        <day>Thursday</day>
+                        <month>December</month>
+                        <date>6</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Bruins</against>
+                        <day>Saturday</day>
+                        <month>December</month>
+                        <date>8</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Avalanche</against>
+                        <day>Monday</day>
+                        <month>December</month>
+                        <date>10</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Rangers</against>
+                        <day>Thursday</day>
+                        <month>December</month>
+                        <date>13</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Maple Leafs</against>
+                        <day>Sunday</day>
+                        <month>December</month>
+                        <date>16</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Jets</against>
+                        <day>Tuesday</day>
+                        <month>December</month>
+                        <date>18</date>
+                        <time>10:00 PM</time>
+                        <destination>@</destination>
+                        <against>Canucks</against>
+                        <day>Thursday</day>
+                        <month>December</month>
+                        <date>20</date>
+                        <time>9:00 PM</time>
+                        <destination>@</destination>
+                        <against>Calgary</against>
+                        <day>Saturday</day>
+                        <month>December</month>
+                        <date>22</date>
+                        <time>10:00 PM</time>
+                        <destination>@</destination>
+                        <against>Oilers</against>
+                        <day>Thursday</day>
+                        <month>December</month>
+                        <date>27</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Flyers</against>
+                        <day>Saturday</day>
+                        <month>December</month>
+                        <date>29</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Canadiens</against>
+                        <day>Monday</day>
+                        <month>December</month>
+                        <date>31</date>
+                        <time>8:00 PM</time>
+                        <destination>@</destination>
+                        <against>Ducks</against>
+                    </month>
+                </year>
+                <year term="2019">
+                    <month mo="january">
+                        <day>Thursday</day>
+                        <month>January</month>
+                        <date>3</date>
+                        <time>10:30 PM</time>
+                        <destination>@</destination>
+                        <against>Kings</against>
+                        <day>Saturday</day>
+                        <month>January</month>
+                        <date>5</date>
+                        <time>1:00 PM</time>
+                        <destination>@</destination>
+                        <against>Sharks</against>
+                        <day>Tuesday</day>
+                        <month>January</month>
+                        <date>8</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Blue Jackets</against>
+                        <day>Thursday</day>
+                        <month>January</month>
+                        <date>10</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Hurricanes</against>
+                        <day>Saturday</day>
+                        <month>January</month>
+                        <date>12</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Sabres</against>
+                        <day>Sunday</day>
+                        <month>January</month>
+                        <date>13</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Islanders</against>
+                        <day>Tuesday</day>
+                        <month>January</month>
+                        <date>15</date>
+                        <time>8:30 PM</time>
+                        <destination>@</destination>
+                        <against>Stars</against>
+                        <day>Thursday</day>
+                        <month>January</month>
+                        <date>17</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Maple Leafs</against>
+                        <day>Saturday</day>
+                        <month>January</month>
+                        <date>19</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Sharks</against>
+                        <day>Wednesday</day>
+                        <month>January</month>
+                        <date>30</date>
+                        <time>8:00 PM</time>
+                        <destination>@</destination>
+                        <against>Penguins</against>
+                    </month>
+                    <month mo="february">
+                        <day>Friday</day>
+                        <month>February</month>
+                        <date>1</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Islanders</against>
+                        <day>Saturday</day>
+                        <month>February</month>
+                        <date>2</date>
+                        <time>8:00 PM</time>
+                        <destination>@</destination>
+                        <against>Rangers</against>
+                        <day>Tuesday</day>
+                        <month>February</month>
+                        <date>5</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Golden Knights</against>
+                        <day>Thursday</day>
+                        <month>February</month>
+                        <date>7</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Blues</against>
+                        <day>Saturday</day>
+                        <month>February</month>
+                        <date>9</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Penguins</against>
+                        <day>Sunday</day>
+                        <month>February</month>
+                        <date>10</date>
+                        <time>6:00 PM</time>
+                        <destination>@</destination>
+                        <against>Panthers</against>
+                        <day>Tuesday</day>
+                        <month>February</month>
+                        <date>12</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Calgary</against>
+                        <day>Thursday</day>
+                        <month>February</month>
+                        <date>14</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Stars</against>
+                        <day>Saturday</day>
+                        <month>February</month>
+                        <date>16</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Canadiens</against>
+                        <day>Monday</day>
+                        <month>February</month>
+                        <date>18</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Blue Jackets</against>
+                        <day>Tuesday</day>
+                        <month>February</month>
+                        <date>19</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Flyers</against>
+                        <day>Thursday</day>
+                        <month>February</month>
+                        <date>21</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Sabres</against>
+                        <day>Monday</day>
+                        <month>February</month>
+                        <date>25</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Kings</against>
+                        <day>Wednesday</day>
+                        <month>February</month>
+                        <date>27</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Rangers</against>
+                        <day>Thursday</day>
+                        <month>February</month>
+                        <date>28</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Bruins</against>
+                    </month>
+                    <month mo="march">
+                        <day>Saturday</day>
+                        <month>March</month>
+                        <date>2</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Senators</against>
+                        <day>Tuesday</day>
+                        <month>March</month>
+                        <date>5</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Jets</against>
+                        <day>Thursday</day>
+                        <month>March</month>
+                        <date>7</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Wild</against>
+                        <day>Saturday</day>
+                        <month>March</month>
+                        <date>9</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Red Wings</against>
+                        <day>Monday</day>
+                        <month>March</month>
+                        <date>11</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Maple Leafs</against>
+                        <day>Thursday</day>
+                        <month>March</month>
+                        <date>14</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Red Wings</against>
+                        <day>Saturday</day>
+                        <month>March</month>
+                        <date>16</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Capitals</against>
+                        <day>Monday</day>
+                        <month>March</month>
+                        <date>18</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Coyotes</against>
+                        <day>Wednesday</day>
+                        <month>March</month>
+                        <date>20</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Capitals</against>
+                        <day>Thursday</day>
+                        <month>March</month>
+                        <date>21</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Hurricanes</against>
+                        <day>Saturday</day>
+                        <month>March</month>
+                        <date>23</date>
+                        <time>8:00 PM</time>
+                        <destination>@</destination>
+                        <against>Blues</against>
+                        <day>Monday</day>
+                        <month>March</month>
+                        <date>25</date>
+                        <time>7:30 PM</time>
+                        <destination>vs</destination>
+                        <against>Bruins</against>
+                        <day>Saturday</day>
+                        <month>March</month>
+                        <date>30</date>
+                        <time>7:00 PM</time>
+                        <destination>vs</destination>
+                        <against>Capitals</against>
+                    </month>
+                    <month mo="april">
+                        <day>Monday</day>
+                        <month>April</month>
+                        <date>1</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Senators</against>
+                        <day>Tuesday</day>
+                        <month>April</month>
+                        <date>2</date>
+                        <time>7:30 PM</time>
+                        <destination>@</destination>
+                        <against>Canadiens</against>
+                        <day>Thursday</day>
+                        <month>April</month>
+                        <date>4</date>
+                        <time>7:00 PM</time>
+                        <destination>@</destination>
+                        <against>Maple Leafs</against>
+                        <day>Saturday</day>
+                        <month>April</month>
+                        <date>6</date>
+                        <time>1:00 PM</time>
+                        <destination>@</destination>
+                        <against>Bruins</against>
+                    </month>
                 </year>
             </season>
         </organization>
@@ -9202,7 +9709,7 @@
                             <date>3</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9210,7 +9717,7 @@
                             <date>6</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Senators</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -9218,7 +9725,7 @@
                             <date>7</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Blackhawks</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9226,7 +9733,7 @@
                             <date>9</date>
                             <time>8:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Stars</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9234,7 +9741,7 @@
                             <date>11</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9242,7 +9749,7 @@
                             <date>13</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Capitals</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9250,7 +9757,7 @@
                             <date>15</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Kings</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9258,7 +9765,7 @@
                             <date>18</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Penguins</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9266,7 +9773,7 @@
                             <date>20</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Blues</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9274,7 +9781,7 @@
                             <date>24</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Jets</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9282,7 +9789,7 @@
                             <date>27</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Jets</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9290,7 +9797,7 @@
                             <date>29</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Flames</against>
                         </g>
                     </month>
                     <month mo="november">
@@ -9300,7 +9807,7 @@
                             <date>1</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Stars</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9308,7 +9815,7 @@
                             <date>3</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Penguins</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9316,7 +9823,7 @@
                             <date>6</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Knights</against>
+                            <against>Golden Knights</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -9324,7 +9831,7 @@
                             <date>9</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Devils</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9332,7 +9839,7 @@
                             <date>10</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9340,7 +9847,7 @@
                             <date>13</date>
                             <time>10:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Kings</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9348,7 +9855,7 @@
                             <date>15</date>
                             <time>10:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Sharks</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -9356,7 +9863,7 @@
                             <date>16</date>
                             <time>10:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Ducks</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9364,7 +9871,7 @@
                             <date>19</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Jackets</against>
+                            <against>Blue Jackets</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9372,7 +9879,7 @@
                             <date>21</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Hurricanes</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -9380,7 +9887,7 @@
                             <date>23</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against> Jackets</against>
+                            <against>Blue Jackets</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9388,7 +9895,7 @@
                             <date>24</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Flyers</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9396,7 +9903,7 @@
                             <date>26</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9404,7 +9911,7 @@
                             <date>28</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Sharks</against>
                         </g>
                     </month>
                     <month mo="december">
@@ -9414,7 +9921,7 @@
                             <date>1</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Wild</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9422,7 +9929,7 @@
                             <date>4</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9430,7 +9937,7 @@
                             <date>6</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9438,7 +9945,7 @@
                             <date>8</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9446,7 +9953,7 @@
                             <date>11</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Hurricanes</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9454,7 +9961,7 @@
                             <date>13</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9462,7 +9969,7 @@
                             <date>15</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9470,7 +9977,7 @@
                             <date>18</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Devils</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9478,7 +9985,7 @@
                             <date>20</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9486,7 +9993,7 @@
                             <date>22</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Rangers</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -9494,7 +10001,7 @@
                             <date>23</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -9502,7 +10009,7 @@
                             <date>28</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against> Jackets</against>
+                            <against>Blue Jackets</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9510,7 +10017,7 @@
                             <date>29</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Islanders</against>
                         </g>
                     </month>
                     <month mo="january">
@@ -9520,7 +10027,7 @@
                             <date>3</date>
                             <time>2:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Wild</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9528,7 +10035,7 @@
                             <date>5</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Canucks</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9536,7 +10043,7 @@
                             <date>7</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Predators</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9544,7 +10051,7 @@
                             <date>10</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Devils</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9552,7 +10059,7 @@
                             <date>12</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Bruins</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9560,7 +10067,7 @@
                             <date>14</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Avalanche</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9568,7 +10075,7 @@
                             <date>17</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -9576,7 +10083,7 @@
                             <date>18</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -9584,7 +10091,7 @@
                             <date>20</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Coyotes</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9592,7 +10099,7 @@
                             <date>23</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Capitals</against>
                         </g>
                     </month>
                     <month mo="february">
@@ -9602,7 +10109,7 @@
                             <date>1</date>
                             <time>7:30 PM</time>
                             <destination>@</destination>
-                            <against> Wings</against>
+                            <against>Red Wings</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9610,7 +10117,7 @@
                             <date>2</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Penguins</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9618,7 +10125,7 @@
                             <date>4</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Ducks</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9626,7 +10133,7 @@
                             <date>6</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Senators</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9634,7 +10141,7 @@
                             <date>9</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                         <g>
                             <day>Sunday</day>
@@ -9642,7 +10149,7 @@
                             <date>10</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <againstR>Rangers</againstR>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9650,7 +10157,7 @@
                             <date>12</date>
                             <time>9:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Avalanche</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9658,7 +10165,7 @@
                             <date>14</date>
                             <time>10:00 PM</time>
                             <destination>@</destination>
-                            <against> Knights</against>
+                            <against>Golden Knights</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9666,7 +10173,7 @@
                             <date>16</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Coyotes</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9674,7 +10181,7 @@
                             <date>19</date>
                             <time>8:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Blues</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9682,7 +10189,7 @@
                             <date>21</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Capitals</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9690,7 +10197,7 @@
                             <date>23</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9698,7 +10205,7 @@
                             <date>25</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9706,7 +10213,7 @@
                             <date>27</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Oilers</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9714,7 +10221,7 @@
                             <date>28</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Islanders</against>
                         </g>
                     </month>
                     <month mo="march">
@@ -9724,7 +10231,7 @@
                             <date>2</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9732,7 +10239,7 @@
                             <date>4</date>
                             <time>9:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Flames</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9740,7 +10247,7 @@
                             <date>6</date>
                             <time>9:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Canucks</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9748,7 +10255,7 @@
                             <date>9</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Oilers</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9756,7 +10263,7 @@
                             <date>11</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9764,7 +10271,7 @@
                             <date>13</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Blackhawks</against>
                         </g>
                         <g>
                             <day>Friday</day>
@@ -9772,7 +10279,7 @@
                             <date>15</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Flyers</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9780,7 +10287,7 @@
                             <date>16</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Senators</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9788,7 +10295,7 @@
                             <date>19</date>
                             <time>8:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Predators</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9796,7 +10303,7 @@
                             <date>20</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Sabres</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9804,7 +10311,7 @@
                             <date>23</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Rangers</against>
                         </g>
                         <g>
                             <day>Monday</day>
@@ -9812,7 +10319,7 @@
                             <date>25</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Panthers</against>
                         </g>
                         <g>
                             <day>Wednesday</day>
@@ -9820,7 +10327,7 @@
                             <date>27</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Flyers</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9828,7 +10335,7 @@
                             <date>30</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Senators</against>
                         </g>
                     </month>
                     <month mo="april">
@@ -9838,7 +10345,7 @@
                             <date>1</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Islanders</against>
                         </g>
                         <g>
                             <day>Tuesday</day>
@@ -9846,7 +10353,7 @@
                             <date>2</date>
                             <time>7:30 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Hurricanes</against>
                         </g>
                         <g>
                             <day>Thursday</day>
@@ -9854,7 +10361,7 @@
                             <date>4</date>
                             <time>7:00 PM</time>
                             <destination>vs</destination>
-                            <against/>
+                            <against>Lightning</against>
                         </g>
                         <g>
                             <day>Saturday</day>
@@ -9862,7 +10369,7 @@
                             <date>6</date>
                             <time>7:00 PM</time>
                             <destination>@</destination>
-                            <against/>
+                            <against>Canadiens</against>
                         </g>
                     </month>
                 </year>
@@ -17313,7 +17820,647 @@
                 </year>
             </season>
         </organization>
-        <organization team="rangers"> </organization>
+        <organization team="rangers">
+            <season type="reg">
+                <year term="2018">
+                    <month mo="october">
+                        <g>
+                            <day>Thursday</day>
+                            <month>October</month>
+                            <date>4</date>
+                            <time>7:30 PM</time>
+                            <destination>vs</destination>
+                            <against>Predators</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>October</month>
+                            <date>6</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Sabres</against></g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>October</month>
+                            <date>7</date>
+                            <time>5:00 PM</time>
+                            <destination>@</destination>
+                            <against>Hurricanes</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>October</month>
+                            <date>11</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Sharks</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>October</month>
+                            <date>13</date>
+                            <time>1:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Oilers</against></g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>October</month>
+                            <date>16</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Avalanche</against>
+                        </g>
+                        <g>
+                            <day>Wednesday</day>
+                            <month>October</month>
+                            <date>17</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Capitals</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>October</month>
+                            <date>21</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Flames</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>October</month>
+                            <date>23</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Panthers</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>October</month>
+                            <date>25</date>
+                            <time>8:30 PM</time>
+                            <destination>@</destination>
+                            <against>Blackhawks</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>October</month>
+                            <date>28</date>
+                            <time>3:30 PM</time>
+                            <destination>@</destination>
+                            <against>Kings</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>October</month>
+                            <date>30</date>
+                            <time>10:30 PM</time>
+                            <destination>@</destination>
+                            <against>Sharks</against>
+                        </g>
+                    </month>
+                    <month mo="november">
+                        <g>
+                            <day>Thursday</day>
+                            <month>November</month>
+                            <date>1</date>
+                            <time>10:00 PM</time>
+                            <destination>@</destination>
+                            <against>Ducks</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>November</month>
+                            <date>4</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Sabres</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>November</month>
+                            <date>6</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Canadiens</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>November</month>
+                            <date>9</date>
+                            <time>7:30 PM</time>
+                            <destination>@</destination>
+                            <against>Red Wings</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>November</month>
+                            <date>10</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Blue Jackets</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>November</month>
+                            <date>12</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Canucks</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>November</month>
+                            <date>15</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Islanders</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>November</month>
+                            <date>17</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Panthers</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>November</month>
+                            <date>19</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Stars</against>
+                        </g>
+                        <g>
+                            <day>Wednesday</day>
+                            <month>November</month>
+                            <date>21</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Islanders</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>November</month>
+                            <date>23</date>
+                            <time>1:00 PM</time>
+                            <destination>@</destination>
+                            <against>Flyers</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>November</month>
+                            <date>24</date>
+                            <time>2:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Capitals</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>November</month>
+                            <date>26</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Senators</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>November</month>
+                            <date>29</date>
+                            <time>7:30 PM</time>
+                            <destination>@</destination>
+                            <against>Senators</against>
+                        </g>
+                    </month>
+                    <month mo="december">
+                        <g><day>Saturday</day>> <month>December</month>
+                            <date>1</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Canadiens</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>December</month>
+                            <date>2</date>
+                            <time>6:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Jets</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>December</month>
+                            <date>8</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Panthers</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>December</month>
+                            <date>10</date>
+                            <time>7:30 PM</time>
+                            <destination>@</destination>
+                            <against>Lightning</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>December</month>
+                            <date>14</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Coyotes</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>December</month>
+                            <date>16</date>
+                            <time>12:30 PM</time>
+                            <destination>vs</destination>
+                            <against>Golden Knights</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>December</month>
+                            <date>18</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Ducks</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>December</month>
+                            <date>22</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Maple Leafs</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>December</month>
+                            <date>23</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Flyers</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>December</month>
+                            <date>27</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Blue Jackets</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>December</month>
+                            <date>29</date>
+                            <time>8:00 PM</time>
+                            <destination>@</destination>
+                            <against>Predators</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>December</month>
+                            <date>31</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Blues</against>
+                        </g>
+                    </month>
+                </year>
+                <year term="2019">
+                    <month mo="january">
+                        <g>
+                            <day>Wednesday</day>
+                            <month>January</month>
+                            <date>2</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Penguins</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>January</month>
+                            <date>4</date>
+                            <time>9:00 PM</time>
+                            <destination>@</destination>
+                            <against>Avalanche</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>January</month>
+                            <date>6</date>
+                            <time>4:00 PM</time>
+                            <destination>@</destination>
+                            <against>Coyotes</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>January</month>
+                            <date>8</date>
+                            <time>10:00 PM</time>
+                            <destination>@</destination>
+                            <against>Golden Knights</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>January</month>
+                            <date>10</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Islanders</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>January</month>
+                            <date>12</date>
+                            <time>1:00 PM</time>
+                            <destination>@</destination>
+                            <against>Islanders</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>January</month>
+                            <date>13</date>
+                            <time>6:00 PM</time>
+                            <destination>@</destination>
+                            <against>Blue Jackets</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>January</month>
+                            <date>15</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Hurricanes</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>January</month>
+                            <date>17</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Blackhawks</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>January</month>
+                            <date>19</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Bruins</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>January</month>
+                            <date>29</date>
+                            <time>7:30 PM</time>
+                            <destination>vs</destination>
+                            <against>Flyers</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>January</month>
+                            <date>31</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Devils</against>
+                        </g>
+                    </month>
+                    <month mo="february">
+                        <g><day>Saturday</day>> <month>February</month>
+                            <date>2</date>
+                            <time>8:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Lightning</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>February</month>
+                            <date>4</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Kings</against>
+                        </g>
+                        <g>
+                            <day>Wednesday</day>
+                            <month>February</month>
+                            <date>6</date>
+                            <time>8:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Bruins</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>February</month>
+                            <date>8</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Hurricanes</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>February</month>
+                            <date>10</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Maple Leafs</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>February</month>
+                            <date>12</date>
+                            <time>8:00 PM</time>
+                            <destination>@</destination>
+                            <against>Jets</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>February</month>
+                            <date>15</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Sabres</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>February</month>
+                            <date>17</date>
+                            <time>12:30 PM</time>
+                            <destination>@</destination>
+                            <against>Penguins</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>February</month>
+                            <date>19</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Hurricanes</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>February</month>
+                            <date>21</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Wild</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>February</month>
+                            <date>23</date>
+                            <time>1:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Devils</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>February</month>
+                            <date>24</date>
+                            <time>12:30 PM</time>
+                            <destination>@</destination>
+                            <against>Capitals</against>
+                        </g>
+                        <g>
+                            <day>Wednesday</day>
+                            <month>February</month>
+                            <date>27</date>
+                            <time>7:30 PM</time>
+                            <destination>vs</destination>
+                            <against>Lightning</against>
+                        </g>
+                    </month>
+                    <month mo="march">
+                        <g>
+                            <day>Friday</day>
+                            <month>March</month>
+                            <date>1</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Canadiens</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>March</month>
+                            <date>3</date>
+                            <time>12:30 PM</time>
+                            <destination>vs</destination>
+                            <against>Capitals</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>March</month>
+                            <date>5</date>
+                            <time>8:30 PM</time>
+                            <destination>@</destination>
+                            <against>Stars</against>
+                        </g>
+                        <g>
+                            <day>Thursday</day>
+                            <month>March</month>
+                            <date>7</date>
+                            <time>7:30 PM</time>
+                            <destination>@</destination>
+                            <against>Red Wings</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>March</month>
+                            <date>9</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Devils</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>March</month>
+                            <date>11</date>
+                            <time>9:00 PM</time>
+                            <destination>@</destination>
+                            <against>Oilers</against>
+                        </g>
+                        <g>
+                            <day>Wednesday</day>
+                            <month>March</month>
+                            <date>13</date>
+                            <time>10:00 PM</time>
+                            <destination>@</destination>
+                            <against>Canucks</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>March</month>
+                            <date>15</date>
+                            <time>9:00 PM</time>
+                            <destination>@</destination>
+                            <against>Flames</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>March</month>
+                            <date>16</date>
+                            <time>8:00 PM</time>
+                            <destination>@</destination>
+                            <against>Wild</against>
+                        </g>
+                        <g>
+                            <day>Tuesday</day>
+                            <month>March</month>
+                            <date>19</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Red Wings</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>March</month>
+                            <date>23</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Maple Leafs</against>
+                        </g>
+                        <g>
+                            <day>Monday</day>
+                            <month>March</month>
+                            <date>25</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Penguins</against>
+                        </g>
+                        <g>
+                            <day>Wednesday</day>
+                            <month>March</month>
+                            <date>27</date>
+                            <time>7:30 PM</time>
+                            <destination>@</destination>
+                            <against>Bruins</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>March</month>
+                            <date>29</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Blues</against>
+                        </g>
+                        <g>
+                            <day>Sunday</day>
+                            <month>March</month>
+                            <date>31</date>
+                            <time>12:30 PM</time>
+                            <destination>@</destination>
+                            <against>Flyers</against>
+                        </g>
+                    </month>
+                    <month mo="april">
+                        <g>
+                            <day>Monday</day>
+                            <month>April</month>
+                            <date>1</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Devils</against>
+                        </g>
+                        <g>
+                            <day>Wednesday</day>
+                            <month>April</month>
+                            <date>3</date>
+                            <time>7:30 PM</time>
+                            <destination>vs</destination>
+                            <against>Senators</against>
+                        </g>
+                        <g>
+                            <day>Friday</day>
+                            <month>April</month>
+                            <date>5</date>
+                            <time>7:00 PM</time>
+                            <destination>vs</destination>
+                            <against>Blue Jackets</against>
+                        </g>
+                        <g><day>Saturday</day>> <month>April</month>
+                            <date>6</date>
+                            <time>7:00 PM</time>
+                            <destination>@</destination>
+                            <against>Penguins</against></g>
+                    </month>
+                </year>
+            </season>
+        </organization>
         <organization team="flyers">
             <season type="reg">
                 <year term="2018">
