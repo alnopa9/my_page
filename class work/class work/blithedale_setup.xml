@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <head>
+        <title>Title</title>
+        <author>Author</author>
+    </head>
+    <body>
+        <part>
+            <section>Table of Contents</section>
+            <list>
+                <item/>
+                <item/>
+                <item/>
+            </list>
+        </part>
+        <part>
+            <chapter>
+            <title>Chapter ~</title>
+                <content>
+                    <line>
+                        <quote></quote>
+                    </line>
+                    <line/>
+                    <line/>
+                </content>
+            </chapter>
+        </part>
+    </body>
+</book>

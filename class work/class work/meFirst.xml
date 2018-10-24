@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="songSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <header>
+        <title>Me First</title>
+        <band>Real Friends</band>
+    </header>
+    <lyrics>
+        <verse>
+            <l>I'm at best your second option</l>
+            <l>Like a key under the mat</l>
+            <l>Are my emotions hard to read?</l>
+            <l>Seems I'm good at hiding</l>
+            <l>Reality</l>
+        </verse>
+        <verse>
+            <l>You disregard the consequences</l>
+            <l>Always seem to shift the blame</l>
+            <l>You burn the bridge and then I build it</l>
+            <l>Seems you're good at hiding</l>
+            <l>Reality</l>
+        </verse>
+        <chorus>
+            <l>Why don't you put me first for once?</l>
+            <l>And spare me the bad news (Oh no)</l>
+            <l>Why don't you put me first for once?</l>
+            <l>We might need to slow down (Oh no)</l>
+            <l>'Cause I'm not goin' anywhere</l>
+        </chorus>
+        <verse>
+            <l>You make me feel helpless</l>
+            <l>Like a bird with broken wings</l>
+            <l>Forcing me to be more selfless</l>
+            <l>Lean on me, don't knock me over</l>
+            <l>It seems we're good at hiding</l>
+            <l>It seems we're good at fighting</l>
+            <l>Reality</l>
+        </verse>
+        <chorus>
+            <l>Why don't you put me first for once?</l>
+            <l>And spare me the bad news (Oh no)</l>
+            <l>Why don't you put me first for once?</l>
+            <l>We might need to slow down (Oh no)</l>
+            <l>'Cause I'm not goin' anywhere</l>
+        </chorus>
+        <bridge>
+            <l>I'm all alone</l>
+            <l>I'm feeling sorry for you</l>
+            <l>It's hard to say, there's nothing else I can do</l>
+            <l>I'm all alone</l>
+            <l>I'm feeling sorry for you</l>
+            <l>It's hard to say, there's nothing else I can do</l>
+            <l>(There's nothing I can do)</l>
+        </bridge>
+        <chorus>
+            <l>Why don't you put me first for once?</l>
+            <l>And spare me the bad news (Oh no)</l>
+            <l>Why don't you put me first for once?</l>
+            <l>We might need to slow down (Oh no)</l>
+            <l>'Cause I'm not goin' anywhere</l>
+        </chorus>
+    </lyrics>
+</song>

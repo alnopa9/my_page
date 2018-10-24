@@ -1,0 +1,19 @@
+Alyssa Argento's Shakespeare Step File
+1- Deleted all of the excess text that did not pertain to Shakespeare's sonnets
+2- Searched for &, <, and >; there were none in the document
+3- Find:  
+   Replace with:
+   Purpose: Removed extra white space
+4- Find:^[\n]
+   Replace:
+   Purpose: Removed extra blank lines
+4- Find:^([IVXLC]+)\n
+   Replace with:</sonnet><sonnet number="\1">\n
+   Purpose: This selected all of the roman numerals
+5- Find:^(\w+.+)$
+   Replace with:<line>\0</line>
+   Purpose: This selects every line that does not start with roman numerals
+6- Remove the extra </sonnet> tag on line 1
+7- Add a </sonnet> tag to line 2309
+8- Add a root element <sonnets></sonnets> to the whole document
+9- Check work by making sure you have a green square in upper right hand corner and clicking Format and Indent button

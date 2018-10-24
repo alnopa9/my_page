@@ -1,0 +1,26 @@
+Alyssa Argento's XPath Exercise 4
+
+Question 1:
+    string-join(//author ! normalize-space(), ";")
+Question 2:
+    A)//div[contains(., "homework")] ! normalize-space()=>distinct-values()
+        18 values
+    B)//div//text()[contains(., "homework")]/parent::* ! normalize-space()
+
+Question 3:
+    A)//date[matches(., "F \d+-\d+")]
+    B)//date[matches(., "F \d+-\d+")]//@when
+    C)//date[matches(., "F \d+-\d+")]//@when => string-join(", ")
+
+Question 4:
+    A)//div[@type="assign"][contains(., "GitHub")]
+    B)//div[@type="assign"][contains(., "GitHub")][string-length() =//div[@type="assign"][contains(., "GitHub")] ! string-length() => max()]
+        2359
+      //div[@type="assign"][contains(., "GitHub")][string-length() =//div[@type="assign"][contains(., "GitHub")] ! string-length() => min()]
+        223
+
+Question 5:
+    A)//date//@when/format-date(xs:date(.), "[Y0001]/[MNn]/[Dwo]")
+      //date//@when/format-date(xs:date(.), "[D]/[M]/[Y]")
+    B)//date//@when/format-date(xs:date(.), "[F]/[D]/[M]/[Y]")[contains(., "Friday")]
+    C)//date//@when/format-date(xs:date(.), "[F]/[D]/[M]/[Y]")[contains(., "Friday/")][contains(., "/10/2015")]
