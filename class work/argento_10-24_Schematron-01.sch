@@ -5,22 +5,27 @@
     <ns uri="http://www.tei-c.org/ns/1.0" prefix="tei"/>
     
     <pattern id="personElement">
-        <rule context="tei:person//tei:surname">
-            <assert role="information" test="starts-with(@xml:id, tei:surname)">
-                The xml:id attribute on person elements needs to start with the surname of the person
+        <rule context="tei:person">
+            <assert test="contains(@xml:id,current()/descendant::tei:surname[1])" role="information">
+                The xml:id attribute on person elements needs to start with the surname of the person.
             </assert>
         </rule>
     </pattern>
     <pattern id="capitalization">
-        <rule context="tei:person//descendant::*">
-            <assert test="starts-with(tei:person//descendant::*, [A-Z])">
-                Check for capitalization errors:\n forename, surname, and placeName must begin with a capital letter
+        <rule context="tei:forename|tei:surname|tei:roleName|tei:placeName">
+            <assert role="warn" test="matches(tei:forename|tei:surname|tei:roleName|tei:placeName,'^[A-Z]')">
+                Check for capitalization errors: forename, surname, and placeName must begin with a capital letter
             </assert>
         </rule>
     </pattern>
-    <patern>
+    <pattern>
         <rule context="@when">
-            <assert test="//(birth|death)//@when ! tokenize(., '-')[1]"> </assert>
+            <assert  role="fatal" test="number(tei:person//tei:death[@when] ! tokenize(., '-')[1]) gt number(tei:person//tei:birth[@when] ! tokenize(., '-')[1])">
+                The tei:death year value should be after the tei:birth value, making tei:death > tei:birth
+            </assert>
+            <report test="number(tei:birth[@when] ! tokenize(., '-')[1]) lt number(tei:death[@when] ! tokenize(., '-')[1])">
+                ANother way of writing the previous rule, but with a report instead
+            </report>
         </rule>
-    </patern>
+    </pattern>
 </schema>
