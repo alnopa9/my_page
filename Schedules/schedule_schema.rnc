@@ -1,7 +1,7 @@
 start = schedule
 schedule = element schedule {division+}
 division = element division {type, organization+}
-type = attribute type {"central"|"atlantic"|"pacific"|"metropolitan"|"reg"|"post"|"ot"}
+type = attribute type {"central"|"atlantic"|"pacific"|"metropolitan"|"reg"|"post"|"ot"|"so"}
 organization = element organization {team, season+}
 team = attribute team {"avalanche"|"blackhawks"|"blueJackets"|"blues"|"bruins"|"canadiens"|"canucks"|"coyotes"|"devils"|"flames"|"flyers"|"goldenKnights"|"hurricanes"|"islanders"|
     "jets"|"kings"|"lightning"|"mapleLeafs"|"oilers"|"panthers"|"penguins"|"predators"|"rangers"|"redWings"|"sabres"|"capitals"|"ducks"|"senators"|"sharks"|"stars"|"wild"}
@@ -20,9 +20,9 @@ time = element time {text}
 destination = element destination {"vs"|"@"}
 against = element against {"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
     "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild"}
-outcome = element outcome {win?, lose?}
-win = element win {pts, type*, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
+outcome = element outcome {type?, win?, lose?}
+win = element win {pts, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
     "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild")}
 lose = element lose {pts, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
     "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild")}
-pts = attribute pts {"1"|"2"|""}
+pts = attribute pts {"0"|"1"|"2"|""}
