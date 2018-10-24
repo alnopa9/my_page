@@ -16,7 +16,7 @@
         </rule>
         <rule context="years">
             <assert test="//year[1][@term='2018']"> year 2018 should come before 2019</assert>
-            <report test="not(@term='2108')"> 2018 should be the only year to appear in the first position</report>
+            <report role="warn" test="not(@term='2018')"> 2018 should be the only year to appear in the first position</report>
             <assert test="//year[2][@term='2019']"> year 2019 should come after 2018</assert>
         </rule>
     </pattern>
