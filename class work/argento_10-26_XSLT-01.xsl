@@ -6,10 +6,26 @@
 
     <xsl:mode on-no-match="shallow-copy"/>
     
-    <xsl:template match="p">
-        <p n="{count(preceding::p) +1}">
+    <xsl:template match="emph">
+        <hi rend="italics">
             <xsl:apply-templates/>
-        </p>
+        </hi>
+    </xsl:template>
+
+    <xsl:template match="head/l">
+        <xsl:apply-templates/><lb/>
+    </xsl:template>
+    
+    <xsl:template match="div/div">
+        <div type="book" n="{count(preceding::div[@type='book'])+1}">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="div/div/div">
+        <div type="chapter" n="{count(preceding::div[@type='chapter'])+1}">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
 
 </xsl:stylesheet>

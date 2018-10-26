@@ -2,27 +2,36 @@
 <sch:schema xmlns:sch="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process"
     xmlns="http://purl.oclc.org/dsdl/schematron">
-    <ns uri="http://www.argento_hockey.org/ns/1.0" prefix="schedule"/>
     
     <pattern id="orders">
-        <rule context="months">
-            <assert test="//year[@term='2018']//months[1][@class='october']"> october should be the 1st month in the list</assert>
-            <assert test="//year[@term='2018']//months[2][@class='november']"> november should be the 2nd month in the list</assert>
-            <assert test="//year[@term='2018']//months[3][@class='december']"> december should be the 3rd month in the list</assert>
-            <assert test="//year[@term='2019']//months[1][@class='january']"> january should be the 1st month in the list</assert>
-            <assert test="//year[@term='2019']//months[2][@class='february']"> february should be the 2nd month in the list</assert>
-            <assert test="//year[@term='2019']//months[3][@class='march']"> march should be the 3rd month in the list</assert>
-            <assert test="//year[@term='2019']//months[4][@class='april']"> april should be the 4th month in the list</assert>
+        <rule context="year[@term='2018']">
+            <assert test="months[1]/@class => distinct-values() eq 'october'"> october should be the 1st month in the list</assert>
+            <assert test="months[2]/@class => distinct-values() eq 'november'"> november should be the 2nd month in the list</assert>
+            <assert test="months[3]/@class => distinct-values() eq 'december'"> december should be the 3rd month in the list</assert>
         </rule>
-        <rule context="years">
-            <assert test="//year[1][@term='2018']"> year 2018 should come before 2019</assert>
-            <report role="warn" test="not(@term='2018')"> 2018 should be the only year to appear in the first position</report>
-            <assert test="//year[2][@term='2019']"> year 2019 should come after 2018</assert>
+        <rule context="year[@term='2019']">
+            <assert test="months[1]/@class => distinct-values() eq 'january'"> january should be the 1st month in the list</assert>
+            <assert test="months[2]/@class => distinct-values() eq 'february'"> february should be the 2nd month in the list</assert>
+            <assert test="months[3]/@class => distinct-values() eq 'march'"> march should be the 3rd month in the list</assert>
+            <assert test="months[4]/@class => distinct-values() eq 'april'"> april should be the 4th month in the list</assert>
+        </rule>
+        <rule context="season[@type='reg']">
+            <assert test="year[1]/@term => distinct-values() eq '2018'"> 2018 should the first year to appear in each team's season</assert>
+            <assert test="year[2]/@term => distinct-values() eq '2019'"> 2019 should the second year to appear in each team's season</assert>
         </rule>
     </pattern>
     <pattern id="daysOfMonth">
+        <rule context="months/*">
+            <assert test="game/number(@isoDate ! tokenize(., '-')[3]) lt following::game/number(@isoDate ! tokenize(., '-')[3])">
+                The previous date should be less than the following date
+            </assert>
+        </rule>
+    </pattern>
+    
+    
+    <!--    <pattern id="daysOfMonth">
         <rule context="date">
-            <assert test="number(date) le number('31')">The value of the date should not exceed 31</assert>
+            <report test="number(date) le number('31')">The value of the date should not exceed 31</report>
         </rule>
         <rule context="date">
             <assert test="number(//game/date) lt number(//following::game/date)">
@@ -30,5 +39,5 @@
             </assert>
         </rule>
     </pattern>
-    
+     -->
 </sch:schema>
