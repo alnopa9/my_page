@@ -20,6 +20,15 @@
             <assert test="year[2]/@term => distinct-values() eq '2019'"> 2019 should the second year to appear in each team's season</assert>
         </rule>
     </pattern>
+    
+    <pattern id="organization">
+        <rule context="organization">
+            <assert test="organization/@team => distinct-values() eq outcome/lower-case(win|lose)">
+                The organization element must match either the win or lose elements
+            </assert>
+        </rule>
+    </pattern>
+
     <pattern id="daysOfMonth">
         <rule context="months/*">
             <assert test="game/number(@isoDate ! tokenize(., '-')[3]) lt following::game/number(@isoDate ! tokenize(., '-')[3])">
@@ -28,16 +37,4 @@
         </rule>
     </pattern>
     
-    
-    <!--    <pattern id="daysOfMonth">
-        <rule context="date">
-            <report test="number(date) le number('31')">The value of the date should not exceed 31</report>
-        </rule>
-        <rule context="date">
-            <assert test="number(//game/date) lt number(//following::game/date)">
-                the following date should be greater than the previous one in the same month
-            </assert>
-        </rule>
-    </pattern>
-     -->
 </sch:schema>
