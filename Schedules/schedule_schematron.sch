@@ -23,15 +23,15 @@
     
     <pattern id="organization">
         <rule context="organization">
-            <assert test="organization/@team => distinct-values() eq outcome/lower-case(win|lose)">
+            <assert test="string(organization/@team)=> distinct-values() eq string(outcome/lower-case(win|lose))">
                 The organization element must match either the win or lose elements
             </assert>
         </rule>
     </pattern>
 
     <pattern id="daysOfMonth">
-        <rule context="months/*">
-            <assert test="game/number(@isoDate ! tokenize(., '-')[3]) lt following::game/number(@isoDate ! tokenize(., '-')[3])">
+        <rule context="game">
+            <assert test="number(@isoDate ! tokenize(., '-')[3]) lt number(game/@isoDate ! tokenize(., '-')[3])">
                 The previous date should be less than the following date
             </assert>
         </rule>
