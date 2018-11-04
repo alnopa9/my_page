@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="sabres">
+    <players>
+        <forwards>
+            <p>
+                <name>Patrik Berglund</name>
+                <num>10</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>215</w>
+                <bd>Jun 2, <y>1988</y></bd>
+                <bp>Västerås, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Jack Eichel </name>
+                <cap>Captain</cap>
+                <num>9</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>200</w>
+                <bd>Oct 28, <y>1996</y></bd>
+                <bp>North Chelmsford, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Remi Elie</name>
+                <num>81</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>215</w>
+                <bd>Apr 16, <y>1995</y></bd>
+                <bp>Cornwall, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Zemgus Girgensons</name>
+                <num>28</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>211</w>
+                <bd>Jan 5, <y>1994</y></bd>
+                <bp>Riga, <co>LVA</co></bp>
+            </p>
+            <p>
+                <name>Johan Larsson</name>
+                <num>22</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>202</w>
+                <bd>Jul 25, <y>1992</y></bd>
+                <bp>Lau, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Sean Malone</name>
+                <num>42</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>197</w>
+                <bd>Apr 30, <y>1995</y></bd>
+                <bp>Buffalo, NY, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Casey Mittelstadt</name>
+                <num>37</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>202</w>
+                <bd>Nov 22, <y>1998</y></bd>
+                <bp>Eden Prairie, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Kyle Okposo </name>
+                <cap>Assistant</cap>
+                <num>21</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>219</w>
+                <bd>Apr 16, <y>1988</y></bd>
+                <bp>St. Paul, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jason Pominville</name>
+                <num>29</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>180</w>
+                <bd>Nov 30, <y>1982</y></bd>
+                <bp>Repentigny, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Sam Reinhart</name>
+                <num>23</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>192</w>
+                <bd>Nov 6, <y>1995</y></bd>
+                <bp>West Vancouver, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Evan Rodrigues</name>
+                <num>71</num>
+                <pos>LW</pos>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>176</w>
+                <bd>Jul 28, <y>1993</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Conor Sheary</name>
+                <num>43</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 8"</h>
+                <w>176</w>
+                <bd>Jun 8, <y>1992</y></bd>
+                <bp>Winchester, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jeff Skinner</name>
+                <num>53</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>187</w>
+                <bd>May 16, <y>1992</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Vladimir Sobotka</name>
+                <num>17</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>189</w>
+                <bd>Jul 2, <y>1987</y></bd>
+                <bp>Trebic, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>Tage Thompson</name>
+                <num>72</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 6"</h>
+                <w>205</w>
+                <bd>Oct 30, <y>1997</y></bd>
+                <bp>Phoenix, AZ, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Scott Wilson</name>
+                <num>20</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>186</w>
+                <bd>Apr 24, <y>1992</y></bd>
+                <bp>Oakville, ON, <co>CAN</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Nathan Beaulieu</name>
+                <num>82</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>200</w>
+                <bd>Dec 5, <y>1992</y></bd>
+                <bp>Strathroy, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Zach Bogosian </name>
+                <cap>Assistant</cap>
+                <num>4</num>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>226</w>
+                <bd>Jul 15, <y>1990</y></bd>
+                <bp>Massena, NY, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Rasmus Dahlin</name>
+                <num>26</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>190</w>
+                <bd>Apr 13, <y>2000</y></bd>
+                <bp>Trollhattan, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Jake McCabe</name>
+                <num>19</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>206</w>
+                <bd>Oct 12, <y>1993</y></bd>
+                <bp>Eau Claire, WI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Casey Nelson</name>
+                <num>8</num>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>185</w>
+                <bd>Jul 18, <y>1992</y></bd>
+                <bp>Wisconsin Rapids, WI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Rasmus Ristolainen</name>
+                <num>55</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>215</w>
+                <bd>Oct 27, <y>1994</y></bd>
+                <bp>Turku, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Marco Scandella</name>
+                <num>6</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>210</w>
+                <bd>Feb 23, <y>1990</y></bd>
+                <bp>Montreal, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Matt Tennyson</name>
+                <num>5</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>205</w>
+                <bd>Apr 23, <y>1990</y></bd>
+                <bp>Minneapolis, MN, <co>USA</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Carter Hutton</name>
+                <num>40</num>
+                <h>6' 0"</h>
+                <w>198</w>
+                <bd>Dec 19, <y>1985</y></bd>
+                <bp>Thunder Bay, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Linus Ullmark</name>
+                <num>35</num>
+                <h>6' 4"</h>
+                <w>213</w>
+                <bd>Jul 31, <y>1993</y></bd>
+                <bp>Lugnvik, <co>SWE</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

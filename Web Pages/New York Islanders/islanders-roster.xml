@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="islanders">
+    <players>
+        <forwards>
+            <p>
+                <name>Josh Bailey</name>
+                <num>12</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>212</w>
+                <bd>Oct 2, <y>1989</y></bd>
+                <bp>Bowmanville, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Mathew Barzal</name>
+                <num>13</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>187</w>
+                <bd>May 26, <y>1997</y></bd>
+                <bp>Coquitlam, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Anthony Beauvillier</name>
+                <num>18</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>182</w>
+                <bd>Jun 8, <y>1997</y></bd>
+                <bp>Sorel-Tracy, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Casey Cizikas</name>
+                <num>3</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>195</w>
+                <bd>Feb 27, <y>1991</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Cal Clutterbuck</name>
+                <num>15</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>216</w>
+                <bd>Nov 18, <y>1987</y></bd>
+                <bp>Welland, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jordan Eberle</name>
+                <num>7</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>187</w>
+                <bd>May 15, <y>1990</y></bd>
+                <bp>Regina, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Valtteri Filppula</name>
+                <num>51</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>196</w>
+                <bd>Mar 20, <y>1984</y></bd>
+                <bp>Vantaa, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Ross Johnston</name>
+                <num>32</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 5"</h>
+                <w>235</w>
+                <bd>Feb 18, <y>1994</y></bd>
+                <bp>Charlottetown, PE, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Leo Komarov</name>
+                <num>47</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>209</w>
+                <bd>Jan 23, <y>1987</y></bd>
+                <bp>Narva, <co>EST</co></bp>
+            </p>
+            <p>
+                <name>Andrew Ladd</name>
+                <num>16</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>192</w>
+                <bd>Dec 12, <y>1985</y></bd>
+                <bp>Maple Ridge, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Anders Lee </name>
+                <cap>Captain</cap>
+                <num>27</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>231</w>
+                <bd>Jul 3, <y>1990</y></bd>
+                <bp>Edina, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Matt Martin</name>
+                <num>17</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>220</w>
+                <bd>May 8, <y>1989</y></bd>
+                <bp>Windsor, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Brock Nelson</name>
+                <num>29</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>212</w>
+                <bd>Oct 15, <y>1991</y></bd>
+                <bp>Warroad, MN, <co>USA</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Johnny Boychuk</name>
+                <num>55</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>227</w>
+                <bd>Jan 19, <y>1984</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Thomas Hickey</name>
+                <num>4</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>183</w>
+                <bd>Feb 8, <y>1989</y></bd>
+                <bp>Calgary, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Nick Leddy</name>
+                <num>2</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>207</w>
+                <bd>Mar 20, <y>1991</y></bd>
+                <bp>Eden Prairie, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Scott Mayfield</name>
+                <num>24</num>
+                <shot>R</shot>
+                <h>6' 5"</h>
+                <w>223</w>
+                <bd>Oct 14, <y>1992</y></bd>
+                <bp>St. Louis, MO, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Adam Pelech</name>
+                <num>3</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>218</w>
+                <bd>Aug 16, <y>1994</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Ryan Pulock</name>
+                <num>6</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>217</w>
+                <bd>Oct 6, <y>1994</y></bd>
+                <bp>Dauphin, MB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Luca Sbisa</name>
+                <num>21</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>204</w>
+                <bd>Jan 30, <y>1990</y></bd>
+                <bp>Ozieri, <co>ITA</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Cristopher Gibson</name>
+                <num>33</num>
+                <h>6' 2"</h>
+                <w>207</w>
+                <bd>Dec 27, <y>1992</y></bd>
+                <bp>Karkkila, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Thomas Greiss</name>
+                <num>1</num>
+                <h>6' 2"</h>
+                <w>232</w>
+                <bd>Jan 29, <y>1986</y></bd>
+                <bp>Fussen, <co>DEU</co></bp>
+            </p>
+            <p>
+                <name>Robin Lehner</name>
+                <num>40</num>
+                <h>6' 4"</h>
+                <w>240</w>
+                <bd>Jul 24, <y>1991</y></bd>
+                <bp>Gothenburg, <co>SWE</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

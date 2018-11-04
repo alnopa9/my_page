@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="goldenKnights">
+    <players>
+        <forwards>
+            <p>
+                <name>Pierre-Edouard Bellemare</name>
+                <num>41</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>198</w>
+                <bd>Mar 6, <y>1985</y></bd>
+                <bp>Le Blanc-Mesnil, <co>FRA</co></bp>
+            </p>
+            <p>
+                <name>Ryan Carpenter</name>
+                <num>40</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>200</w>
+                <bd>Jan 18, <y>1991</y></bd>
+                <bp>Oviedo, FL, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>William Carrier</name>
+                <num>28</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>212</w>
+                <bd>Dec 20, <y>1994</y></bd>
+                <bp>LaSalle, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Cody Eakin</name>
+                <num>21</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>190</w>
+                <bd>May 24, <y>1991</y></bd>
+                <bp>Winnipeg, MB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Erik Haula</name>
+                <num>56</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>193</w>
+                <bd>Mar 23, <y>1991</y></bd>
+                <bp>Pori, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Tomas Hyka</name>
+                <num>38</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>160</w>
+                <bd>Mar 23, <y>1993</y></bd>
+                <bp>Mlada Boleslav, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>William Karlsson</name>
+                <num>71</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>189</w>
+                <bd>Jan 8, <y>1993</y></bd>
+                <bp>Marsta, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Oscar Lindberg</name>
+                <num>24</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>202</w>
+                <bd>Oct 29, <y>1991</y></bd>
+                <bp>Skellefteå, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Jonathan Marchessault</name>
+                <num>81</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 9"</h>
+                <w>174</w>
+                <bd>Dec 27, <y>1990</y></bd>
+                <bp>Cap-Rouge, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Tomas Nosek</name>
+                <num>92</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>210</w>
+                <bd>Sep 1, <y>1992</y></bd>
+                <bp>Pardubice, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>Max Pacioretty</name>
+                <num>67</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>206</w>
+                <bd>Nov 20, <y>1988</y></bd>
+                <bp>New Canaan, CT, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Ryan Reaves</name>
+                <num>75</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>225</w>
+                <bd>Jan 20, <y>1987</y></bd>
+                <bp>Winnipeg, MB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Reilly Smith</name>
+                <num>19</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>185</w>
+                <bd>Apr 1, <y>1991</y></bd>
+                <bp>Mimico, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Paul Stastny</name>
+                <num>26</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>193</w>
+                <bd>Dec 27, <y>1985</y></bd>
+                <bp>Quebec City, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Alex Tuch</name>
+                <num>89</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>222</w>
+                <bd>May 10, <y>1996</y></bd>
+                <bp>Syracuse, NY, <co>USA</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Deryk Engelland</name>
+                <num>5</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>214</w>
+                <bd>Apr 3, <y>1982</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Nick Holden</name>
+                <num>22</num>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>214</w>
+                <bd>May 15, <y>1987</y></bd>
+                <bp>St. Albert, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Brad Hunt</name>
+                <num>77</num>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>187</w>
+                <bd>Aug 24, <y>1988</y></bd>
+                <bp>Maple Ridge, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Brayden McNabb</name>
+                <num>3</num>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>212</w>
+                <bd>Jan 21, <y>1991</y></bd>
+                <bp>Davidson, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jon Merrill</name>
+                <num>15</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>205</w>
+                <bd>Feb 3, <y>1992</y></bd>
+                <bp>Oklahoma City, OK, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Colin Miller</name>
+                <num>6</num>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>196</w>
+                <bd>Oct 29, <y>1992</y></bd>
+                <bp>Sault Ste. Marie, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Shea Theodore</name>
+                <num>27</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>195</w>
+                <bd>Aug 3, <y>1995</y></bd>
+                <bp>Langley, BC, <co>CAN</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Marc-Andre Fleury</name>
+                <num>29</num>
+                <h>6' 2"</h>
+                <w>180</w>
+                <bd>Nov 28, <y>1984</y></bd>
+                <bp>Sorel, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Malcolm Subban</name>
+                <num>30</num>
+                <h>6' 2"</h>
+                <w>200</w>
+                <bd>Dec 21, <y>1993</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

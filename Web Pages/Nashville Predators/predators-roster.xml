@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="predators">
+    <players>
+        <forwards>
+            <p>
+                <name>Viktor Arvidsson</name>
+                <num>33</num>
+                <pos>LW</pos>
+                <shot>R</shot>
+                <h>5' 9"</h>
+                <w>180</w>
+                <bd>Apr 8, <y>1993</y></bd>
+                <bp>Skellefteå, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Nick Bonino</name>
+                <num>13</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>196</w>
+                <bd>Apr 20, <y>1988</y></bd>
+                <bp>Hartford, CT, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Kevin Fiala</name>
+                <num>22</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>193</w>
+                <bd>Jul 22, <y>1996</y></bd>
+                <bp>St. Gallen, <co>CHE</co></bp>
+            </p>
+            <p>
+                <name>Filip Forsberg </name>
+                <cap>Assistant</cap>
+                <num>9</num>
+                <pos>LW</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>205</w>
+                <bd>Aug 13, <y>1994</y></bd>
+                <bp>Ostervala, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Frederick Gaudreau</name>
+                <num>89</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>179</w>
+                <bd>May 1, <y>1993</y></bd>
+                <bp>Bromont, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Rocco Grimaldi</name>
+                <num>23</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 6"</h>
+                <w>180</w>
+                <bd>Feb 8, <y>1993</y></bd>
+                <bp>Anaheim, CA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Ryan Hartman</name>
+                <num>38</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>181</w>
+                <bd>Sep 20, <y>1994</y></bd>
+                <bp>Hilton Head Isl., SC, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Calle Jarnkrok</name>
+                <num>19</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>186</w>
+                <bd>Sep 25, <y>1991</y></bd>
+                <bp>Gävle, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Ryan Johansen </name>
+                <cap>Assistant</cap>
+                <num>92</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>218</w>
+                <bd>Jul 31, <y>1992</y></bd>
+                <bp>Vancouver, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Zac Rinaldo</name>
+                <num>36</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>192</w>
+                <bd>Jun 15, <y>1990</y></bd>
+                <bp>Mississauga, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Miikka Salomaki</name>
+                <num>20</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>203</w>
+                <bd>Mar 9, <y>1993</y></bd>
+                <bp>Raahe, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Colton Sissons</name>
+                <num>10</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>200</w>
+                <bd>Nov 5, <y>1993</y></bd>
+                <bp>North Vancouver, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Craig Smith</name>
+                <num>15</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>208</w>
+                <bd>Sep 5, <y>1989</y></bd>
+                <bp>Madison, WI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Kyle Turris</name>
+                <num>8</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>190</w>
+                <bd>Aug 14, <y>1989</y></bd>
+                <bp>New Westminster, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Austin Watson</name>
+                <num>51</num>
+                <pos>LW</pos>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>204</w>
+                <bd>Jan 13, <y>1992</y></bd>
+                <bp>Ann Arbor, MI, <co>USA</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Anthony Bitetto</name>
+                <num>2</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>210</w>
+                <bd>Jul 15, <y>1990</y></bd>
+                <bp>Island Park, NY, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Mattias Ekholm </name>
+                <cap>Assistant</cap>
+                <num>14</num>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>215</w>
+                <bd>May 24, <y>1990</y></bd>
+                <bp>Borlange, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Ryan Ellis </name>
+                <cap>Assistant</cap>
+                <num>4</num>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>180</w>
+                <bd>Jan 3, <y>1991</y></bd>
+                <bp>Hamilton, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Dan Hamhuis</name>
+                <num>5</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>204</w>
+                <bd>Dec 13, <y>1982</y></bd>
+                <bp>Smithers, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Matt Irwin</name>
+                <num>52</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>207</w>
+                <bd>Nov 29, <y>1987</y></bd>
+                <bp>Victoria, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Roman Josi </name>
+                <cap>Captain</cap>
+                <num>59</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>201</w>
+                <bd>Jun 1, <y>1990</y></bd>
+                <bp>Bern, <co>CHE</co></bp>
+            </p>
+            <p>
+                <name>P.K. Subban</name>
+                <num>76</num>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>210</w>
+                <bd>May 13, <y>1989</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Yannick Weber</name>
+                <num>7</num>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>200</w>
+                <bd>Sep 23, <y>1988</y></bd>
+                <bp>Morges, <co>CHE</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Pekka Rinne</name>
+                <num>35</num>
+                <h>6' 5"</h>
+                <w>217</w>
+                <bd>Nov 3, <y>1982</y></bd>
+                <bp>Kempele, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Juuse Saros</name>
+                <num>74</num>
+                <h>5' 11"</h>
+                <w>180</w>
+                <bd>Apr 19, <y>1995</y></bd>
+                <bp>Forssa, <co>FIN</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

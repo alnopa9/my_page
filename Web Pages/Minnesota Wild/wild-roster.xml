@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="wild">
+    <players>
+        <forwards>
+            <p>
+                <name>J.T. Brown</name>
+                <num>23</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>166</w>
+                <bd>Jul 2, <y>1990</y></bd>
+                <bp>Burnsville, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Charlie Coyle</name>
+                <num>3</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>220</w>
+                <bd>Mar 2, <y>1992</y></bd>
+                <bp>E. Weymouth, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Joel Eriksson Ek</name>
+                <num>14</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>208</w>
+                <bd>Jan 29, <y>1997</y></bd>
+                <bp>Karlstad, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Eric Fehr</name>
+                <num>21</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>209</w>
+                <bd>Sep 7, <y>1985</y></bd>
+                <bp>Winkler, MB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Marcus Foligno</name>
+                <num>17</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>228</w>
+                <bd>Aug 10, <y>1991</y></bd>
+                <bp>Buffalo, NY, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Mikael Granlund</name>
+                <num>64</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>185</w>
+                <bd>Feb 26, <y>1992</y></bd>
+                <bp>Oulu, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Jordan Greenway</name>
+                <num>18</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 6"</h>
+                <w>227</w>
+                <bd>Feb 16, <y>1997</y></bd>
+                <bp>Canton, NY, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Matt Hendricks</name>
+                <num>15</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>211</w>
+                <bd>Jun 17, <y>1981</y></bd>
+                <bp>Blaine, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Mikko Koivu </name>
+                <cap>Captain</cap>
+                <num>9</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>219</w>
+                <bd>Mar 12, <y>1983</y></bd>
+                <bp>Turku, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Nino Niederreiter</name>
+                <num>22</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>218</w>
+                <bd>Sep 8, <y>1992</y></bd>
+                <bp>Chur, <co>CHE</co></bp>
+            </p>
+            <p>
+                <name>Zach Parise </name>
+                <cap>Assistant</cap>
+                <num>11</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>193</w>
+                <bd>Jul 28, <y>1984</y></bd>
+                <bp>Minneapolis, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Matt Read</name>
+                <num>10</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>188</w>
+                <bd>Jun 14, <y>1986</y></bd>
+                <bp>Ilderton, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Eric Staal</name>
+                <num>12</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>207</w>
+                <bd>Oct 29, <y>1984</y></bd>
+                <bp>Thunder Bay, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jason Zucker</name>
+                <num>16</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>183</w>
+                <bd>Jan 16, <y>1992</y></bd>
+                <bp>Newport Beach, CA, <co>USA</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Jonas Brodin</name>
+                <num>25</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>198</w>
+                <bd>Jul 12, <y>1993</y></bd>
+                <bp>Karlstad, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Matt Dumba</name>
+                <num>24</num>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>182</w>
+                <bd>Jul 25, <y>1994</y></bd>
+                <bp>Regina, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Greg Pateryn</name>
+                <num>29</num>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>223</w>
+                <bd>Jun 20, <y>1990</y></bd>
+                <bp>Sterling Heights, MI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Nate Prosser</name>
+                <num>39</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>201</w>
+                <bd>May 7, <y>1986</y></bd>
+                <bp>Elk River, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Nick Seeler</name>
+                <num>36</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>198</w>
+                <bd>Jun 3, <y>1993</y></bd>
+                <bp>Eden Prairie, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jared Spurgeon</name>
+                <num>46</num>
+                <shot>R</shot>
+                <h>5' 9"</h>
+                <w>167</w>
+                <bd>Nov 29, <y>1989</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Ryan Suter </name>
+                <cap>Assistant</cap>
+                <num>20</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>208</w>
+                <bd>Jan 21, <y>1985</y></bd>
+                <bp>Madison, WI, <co>USA</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Devan Dubnyk</name>
+                <num>40</num>
+                <h>6' 6"</h>
+                <w>224</w>
+                <bd>May 4, <y>1986</y></bd>
+                <bp>Regina, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Alex Stalock</name>
+                <num>32</num>
+                <h>6' 0"</h>
+                <w>198</w>
+                <bd>Jul 28, <y>1987</y></bd>
+                <bp>St. Paul, MN, <co>USA</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

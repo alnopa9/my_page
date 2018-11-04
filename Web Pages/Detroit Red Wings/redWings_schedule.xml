@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="Red Wings">
+    <season type="reg">
+        <year term="2018">
+            <months class="october">
+                <game isoDate="2018-10-04">
+                    <day>Thursday</day>
+                    <month>October</month>
+                    <date>4</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Blue Jackets</against>
+                    <outcome type="ot">
+                        <win pts="2">Blue Jackets</win>
+                        <lose pts="1">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-07">
+                    <day>Sunday</day>
+                    <month>October</month>
+                    <date>7</date>
+                    <time>10:30 PM</time>
+                    <destination>@</destination>
+                    <against>Kings</against>
+                    <outcome>
+                        <win pts="2">Kings</win>
+                        <lose pts="0">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-08">
+                    <day>Monday</day>
+                    <month>October</month>
+                    <date>8</date>
+                    <time>10:00 PM</time>
+                    <destination>@</destination>
+                    <against>Ducks</against>
+                    <outcome type="so">
+                        <win pts="2">Ducks</win>
+                        <lose pts="1">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-11">
+                    <day>Thursday</day>
+                    <month>October</month>
+                    <date>11</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Maple Leafs</against>
+                    <outcome>
+                        <win pts="2">Maple Leafs</win>
+                        <lose pts="0">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-13">
+                    <day>Saturday</day>
+                    <month>October</month>
+                    <date>13</date>
+                    <time>3:00 PM</time>
+                    <destination>@</destination>
+                    <against>Bruins</against>
+                    <outcome>
+                        <win pts="2">Bruins</win>
+                        <lose pts="0">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-15">
+                    <day>Monday</day>
+                    <month>October</month>
+                    <date>15</date>
+                    <time>7:30 PM</time>
+                    <destination>@</destination>
+                    <against>Canadiens</against>
+                    <outcome>
+                        <win pts="2">Canadiens</win>
+                        <lose pts="0">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-18">
+                    <day>Thursday</day>
+                    <month>October</month>
+                    <date>18</date>
+                    <time>7:30 PM</time>
+                    <destination>@</destination>
+                    <against>Lightning</against>
+                    <outcome>
+                        <win pts="2">Lightning</win>
+                        <lose pts="0">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-20">
+                    <day>Saturday</day>
+                    <month>October</month>
+                    <date>20</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Panthers</against>
+                    <outcome type="ot">
+                        <win pts="2">Red Wings</win>
+                        <lose pts="1">Panthers</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-22">
+                    <day>Monday</day>
+                    <month>October</month>
+                    <date>22</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Hurricanes</against>
+                    <outcome>
+                        <win pts="2">Hurricanes</win>
+                        <lose pts="0">Red Wings</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-26">
+                    <day>Friday</day>
+                    <month>October</month>
+                    <date>26</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Jets</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-28">
+                    <day>Sunday</day>
+                    <month>October</month>
+                    <date>28</date>
+                    <time>5:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Stars</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-10-30">
+                    <day>Tuesday</day>
+                    <month>October</month>
+                    <date>30</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Blue Jackets</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+            </months>
+            <months class="november">
+                <game isoDate="2018-11-01">
+                    <day>Thursday</day>
+                    <month>November</month>
+                    <date>1</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Devils</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-03">
+                    <day>Saturday</day>
+                    <month>November</month>
+                    <date>3</date>
+                    <time>7:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Oilers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-06">
+                    <day>Tuesday</day>
+                    <month>November</month>
+                    <date>6</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Canucks</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-09">
+                    <day>Friday</day>
+                    <month>November</month>
+                    <date>9</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Rangers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-10">
+                    <day>Saturday</day>
+                    <month>November</month>
+                    <date>10</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Hurricanes</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-13">
+                    <day>Tuesday</day>
+                    <month>November</month>
+                    <date>13</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Coyotes</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-15">
+                    <day>Thursday</day>
+                    <month>November</month>
+                    <date>15</date>
+                    <time>7:30 PM</time>
+                    <destination>@</destination>
+                    <against>Senators</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-17">
+                    <day>Saturday</day>
+                    <month>November</month>
+                    <date>17</date>
+                    <time>1:00 PM</time>
+                    <destination>@</destination>
+                    <against>Devils</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-21">
+                    <day>Wednesday</day>
+                    <month>November</month>
+                    <date>21</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Bruins</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-23">
+                    <day>Friday</day>
+                    <month>November</month>
+                    <date>23</date>
+                    <time>4:00 PM</time>
+                    <destination>@</destination>
+                    <against>Capitals</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-24">
+                    <day>Saturday</day>
+                    <month>November</month>
+                    <date>24</date>
+                    <time>7:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Sabres</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-26">
+                    <day>Monday</day>
+                    <month>November</month>
+                    <date>26</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Blue Jackets</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-11-28">
+                    <day>Wednesday</day>
+                    <month>November</month>
+                    <date>28</date>
+                    <time>7:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Blues</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+            </months>
+            <months class="december">
+                <game isoDate="2018-12-01">
+                    <day>Saturday</day>
+                    <month>December</month>
+                    <date>1</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Bruins</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-02">
+                    <day>Sunday</day>
+                    <month>December</month>
+                    <date>2</date>
+                    <time>7:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Avalanche</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-04">
+                    <day>Tuesday</day>
+                    <month>December</month>
+                    <date>4</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Lightning</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-06">
+                    <day>Thursday</day>
+                    <month>December</month>
+                    <date>6</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Maple Leafs</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-08">
+                    <day>Saturday</day>
+                    <month>December</month>
+                    <date>8</date>
+                    <time>7:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Islanders</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-10">
+                    <day>Monday</day>
+                    <month>December</month>
+                    <date>10</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Kings</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-11">
+                    <day>Tuesday</day>
+                    <month>December</month>
+                    <date>11</date>
+                    <time>7:30 PM</time>
+                    <destination>@</destination>
+                    <against>Capitals</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-14">
+                    <day>Friday</day>
+                    <month>December</month>
+                    <date>14</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Senators</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-15">
+                    <day>Saturday</day>
+                    <month>December</month>
+                    <date>15</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Islanders</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-18">
+                    <day>Tuesday</day>
+                    <month>December</month>
+                    <date>18</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Flyers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-20">
+                    <day>Thursday</day>
+                    <month>December</month>
+                    <date>20</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Hurricanes</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-22">
+                    <day>Saturday</day>
+                    <month>December</month>
+                    <date>22</date>
+                    <time>2:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Panthers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-23">
+                    <day>Sunday</day>
+                    <month>December</month>
+                    <date>23</date>
+                    <time>7:30 PM</time>
+                    <destination>@</destination>
+                    <against>Maple Leafs</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-27">
+                    <day>Thursday</day>
+                    <month>December</month>
+                    <date>27</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Penguins</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-29">
+                    <day>Saturday</day>
+                    <month>December</month>
+                    <date>29</date>
+                    <time>8:00 PM</time>
+                    <destination>@</destination>
+                    <against>Stars</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2018-12-31">
+                    <day>Monday</day>
+                    <month>December</month>
+                    <date>31</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Panthers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+            </months>
+        </year>
+        <year term="2019">
+            <months class="january">
+                <game isoDate="2019-01-02">
+                    <day>Wednesday</day>
+                    <month>January</month>
+                    <date>2</date>
+                    <time>7:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Flames</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-04">
+                    <day>Friday</day>
+                    <month>January</month>
+                    <date>4</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Predators</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-06">
+                    <day>Sunday</day>
+                    <month>January</month>
+                    <date>6</date>
+                    <time>5:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Capitals</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-08">
+                    <day>Tuesday</day>
+                    <month>January</month>
+                    <date>8</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Canadiens</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-11">
+                    <day>Friday</day>
+                    <month>January</month>
+                    <date>11</date>
+                    <time>8:00 PM</time>
+                    <destination>@</destination>
+                    <against>Jets</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-12">
+                    <day>Saturday</day>
+                    <month>January</month>
+                    <date>12</date>
+                    <time>8:00 PM</time>
+                    <destination>@</destination>
+                    <against>Wild</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-15">
+                    <day>Tuesday</day>
+                    <month>January</month>
+                    <date>15</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Ducks</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-18">
+                    <day>Friday</day>
+                    <month>January</month>
+                    <date>18</date>
+                    <time>9:00 PM</time>
+                    <destination>@</destination>
+                    <against>Flames</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-20">
+                    <day>Sunday</day>
+                    <month>January</month>
+                    <date>20</date>
+                    <time>4:00 PM</time>
+                    <destination>@</destination>
+                    <against>Canucks</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-01-22">
+                    <day>Tuesday</day>
+                    <month>January</month>
+                    <date>22</date>
+                    <time>9:00 PM</time>
+                    <destination>@</destination>
+                    <against>Oilers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+            </months>
+            <months class="february">
+                <game isoDate="2019-02-01">
+                    <day>Friday</day>
+                    <month>February</month>
+                    <date>1</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Maple Leafs</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-02">
+                    <day>Saturday</day>
+                    <month>February</month>
+                    <date>2</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Senators</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-07">
+                    <day>Thursday</day>
+                    <month>February</month>
+                    <date>7</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Golden Knights</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-09">
+                    <day>Saturday</day>
+                    <month>February</month>
+                    <date>9</date>
+                    <time>1:00 PM</time>
+                    <destination>@</destination>
+                    <against>Sabres</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-10">
+                    <day>Sunday</day>
+                    <month>February</month>
+                    <date>10</date>
+                    <time>3:00 PM</time>
+                    <destination>@</destination>
+                    <against>Blackhawks</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-12">
+                    <day>Tuesday</day>
+                    <month>February</month>
+                    <date>12</date>
+                    <time>8:00 PM</time>
+                    <destination>@</destination>
+                    <against>Predators</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-14">
+                    <day>Thursday</day>
+                    <month>February</month>
+                    <date>14</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Senators</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-16">
+                    <day>Saturday</day>
+                    <month>February</month>
+                    <date>16</date>
+                    <time>1:00 PM</time>
+                    <destination>@</destination>
+                    <against>Flyers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-17">
+                    <day>Sunday</day>
+                    <month>February</month>
+                    <date>17</date>
+                    <time>6:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Flyers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-20">
+                    <day>Wednesday</day>
+                    <month>February</month>
+                    <date>20</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Blackhawks</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-22">
+                    <day>Friday</day>
+                    <month>February</month>
+                    <date>22</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Wild</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-24">
+                    <day>Sunday</day>
+                    <month>February</month>
+                    <date>24</date>
+                    <time>3:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Sharks</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-02-26">
+                    <day>Tuesday</day>
+                    <month>February</month>
+                    <date>26</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Canadiens</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+            </months>
+            <months class="march">
+                <game isoDate="2019-03-02">
+                    <day>Saturday</day>
+                    <month>March</month>
+                    <date>2</date>
+                    <time>8:00 PM</time>
+                    <destination>@</destination>
+                    <against>Coyotes</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-05">
+                    <day>Tuesday</day>
+                    <month>March</month>
+                    <date>5</date>
+                    <time>9:00 PM</time>
+                    <destination>@</destination>
+                    <against>Avalanche</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-07">
+                    <day>Thursday</day>
+                    <month>March</month>
+                    <date>7</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Rangers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-09">
+                    <day>Saturday</day>
+                    <month>March</month>
+                    <date>9</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Lightning</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-10">
+                    <day>Sunday</day>
+                    <month>March</month>
+                    <date>10</date>
+                    <time>5:00 PM</time>
+                    <destination>@</destination>
+                    <against>Panthers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-12">
+                    <day>Tuesday</day>
+                    <month>March</month>
+                    <date>12</date>
+                    <time>7:30 PM</time>
+                    <destination>@</destination>
+                    <against>Canadiens</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-14">
+                    <day>Thursday</day>
+                    <month>March</month>
+                    <date>14</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Lightning</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-16">
+                    <day>Saturday</day>
+                    <month>March</month>
+                    <date>16</date>
+                    <time>1:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Islanders</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-19">
+                    <day>Tuesday</day>
+                    <month>March</month>
+                    <date>19</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Rangers</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-21">
+                    <day>Thursday</day>
+                    <month>March</month>
+                    <date>21</date>
+                    <time>8:00 PM</time>
+                    <destination>@</destination>
+                    <against>Blues</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-23">
+                    <day>Saturday</day>
+                    <month>March</month>
+                    <date>23</date>
+                    <time>10:00 PM</time>
+                    <destination>@</destination>
+                    <against>Golden Knights</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-25">
+                    <day>Monday</day>
+                    <month>March</month>
+                    <date>25</date>
+                    <time>10:30 PM</time>
+                    <destination>@</destination>
+                    <against>Sharks</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-28">
+                    <day>Thursday</day>
+                    <month>March</month>
+                    <date>28</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Sabres</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-29">
+                    <day>Friday</day>
+                    <month>March</month>
+                    <date>29</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Devils</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-03-31">
+                    <day>Sunday</day>
+                    <month>March</month>
+                    <date>31</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Bruins</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+            </months>
+            <months class="april">
+                <game isoDate="2019-04-02">
+                    <day>Tuesday</day>
+                    <month>April</month>
+                    <date>2</date>
+                    <time>7:30 PM</time>
+                    <destination>vs</destination>
+                    <against>Penguins</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-04-04">
+                    <day>Thursday</day>
+                    <month>April</month>
+                    <date>4</date>
+                    <time>7:00 PM</time>
+                    <destination>@</destination>
+                    <against>Penguins</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+                <game isoDate="2019-04-06">
+                    <day>Saturday</day>
+                    <month>April</month>
+                    <date>6</date>
+                    <time>7:00 PM</time>
+                    <destination>vs</destination>
+                    <against>Sabres</against>
+                    <outcome>
+                        <win pts="2">undecided</win>
+                        <lose pts="0">undecided</lose>
+                    </outcome>
+                </game>
+            </months>
+        </year>
+    </season>
+</organization>

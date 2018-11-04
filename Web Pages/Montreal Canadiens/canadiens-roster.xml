@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="canadiens">
+    <players>
+        <forwards>
+            <p>
+                <name>Joel Armia</name>
+                <num>40</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>210</w>
+                <bd>May 31, <y>1993</y></bd>
+                <bp>Pori, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Paul Byron </name>
+                <cap>Assistant</cap>
+                <num>41</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>163</w>
+                <bd>Apr 27, <y>1989</y></bd>
+                <bp>Ottawa, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Phillip Danault</name>
+                <num>24</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>198</w>
+                <bd>Feb 24, <y>1993</y></bd>
+                <bp>Victoriaville, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Nicolas Deslauriers</name>
+                <num>20</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>221</w>
+                <bd>Feb 22, <y>1991</y></bd>
+                <bp>LaSalle, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Max Domi</name>
+                <num>13</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>193</w>
+                <bd>Mar 2, <y>1995</y></bd>
+                <bp>Winnipeg, MB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jonathan Drouin</name>
+                <num>92</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>193</w>
+                <bd>Mar 28, <y>1995</y></bd>
+                <bp>Ste-Agathe, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Brendan Gallagher </name>
+                <cap>Assistant</cap>
+                <num>11</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 9"</h>
+                <w>184</w>
+                <bd>May 6, <y>1992</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Charles Hudon</name>
+                <num>54</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>196</w>
+                <bd>Jun 23, <y>1994</y></bd>
+                <bp>Alma, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jesperi Kotkaniemi</name>
+                <num>15</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>184</w>
+                <bd>Jul 6, <y>2000</y></bd>
+                <bp>Pori, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Artturi Lehkonen</name>
+                <num>62</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>177</w>
+                <bd>Jul 4, <y>1995</y></bd>
+                <bp>Piikkio, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Matthew Peca</name>
+                <num>63</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>182</w>
+                <bd>Apr 27, <y>1993</y></bd>
+                <bp>Petawawa, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Tomas Plekanec</name>
+                <num>14</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>190</w>
+                <bd>Oct 31, <y>1982</y></bd>
+                <bp>Kladno, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>Nikita Scherbak</name>
+                <num>38</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>192</w>
+                <bd>Dec 30, <y>1995</y></bd>
+                <bp>Moscow, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Andrew Shaw</name>
+                <num>65</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>182</w>
+                <bd>Jul 20, <y>1991</y></bd>
+                <bp>Belleville, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Tomas Tatar</name>
+                <num>90</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>182</w>
+                <bd>Dec 1, <y>1990</y></bd>
+                <bp>Ilava, <co>SVK</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Karl Alzner</name>
+                <num>27</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>219</w>
+                <bd>Sep 24, <y>1988</y></bd>
+                <bp>Burnaby, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jordie Benn</name>
+                <num>8</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>199</w>
+                <bd>Jul 26, <y>1987</y></bd>
+                <bp>Victoria, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Noah Juulsen</name>
+                <num>58</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>193</w>
+                <bd>Apr 2, <y>1997</y></bd>
+                <bp>Surrey, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Victor Mete</name>
+                <num>53</num>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>183</w>
+                <bd>Jun 7, <y>1998</y></bd>
+                <bp>Woodbridge, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Xavier Ouellet</name>
+                <num>61</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>196</w>
+                <bd>Jul 29, <y>1993</y></bd>
+                <bp>Bayonne, <co>FRA</co></bp>
+            </p>
+            <p>
+                <name>Jeff Petry</name>
+                <num>26</num>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>197</w>
+                <bd>Dec 9, <y>1987</y></bd>
+                <bp>Ann Arbor, MI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Mike Reilly</name>
+                <num>28</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>195</w>
+                <bd>Jul 13, <y>1993</y></bd>
+                <bp>Chicago, IL, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>David Schlemko</name>
+                <num>21</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>191</w>
+                <bd>May 7, <y>1987</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Shea Weber </name>
+                <cap>Captain</cap>
+                <num>6</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>229</w>
+                <bd>Aug 14, <y>1985</y></bd>
+                <bp>Sicamous, BC, <co>CAN</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Antti Niemi</name>
+                <num>37</num>
+                <h>6' 2"</h>
+                <w>209</w>
+                <bd>Aug 29, <y>1983</y></bd>
+                <bp>Vantaa, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Carey Price</name>
+                <num>31</num>
+                <h>6' 3"</h>
+                <w>215</w>
+                <bd>Aug 16, <y>1987</y></bd>
+                <bp>Anahim Lake, BC, <co>CAN</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

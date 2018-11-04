@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="stars">
+    <players>
+        <forwards>
+            <p>
+                <name>Jamie Benn </name>
+                <cap>Captain</cap>
+                <num>14</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>205</w>
+                <bd>Jul 18, <y>1989</y></bd>
+                <bp>Victoria, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Blake Comeau</name>
+                <num>15</num>
+                <pos>LW</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>200</w>
+                <bd>Feb 18, <y>1986</y></bd>
+                <bp>Meadow Lake, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jason Dickinson</name>
+                <num>16</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>200</w>
+                <bd>Jul 4, <y>1995</y></bd>
+                <bp>Georgetown, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Justin Dowling</name>
+                <num>37</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>180</w>
+                <bd>Oct 1, <y>1990</y></bd>
+                <bp>Calgary, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Radek Faksa</name>
+                <num>12</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>220</w>
+                <bd>Jan 9, <y>1994</y></bd>
+                <bp>Vitkov, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>Martin Hanzal</name>
+                <num>11</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 6"</h>
+                <w>230</w>
+                <bd>Feb 20, <y>1987</y></bd>
+                <bp>Pisek, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>Mattias Janmark</name>
+                <num>13</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>195</w>
+                <bd>Dec 8, <y>1992</y></bd>
+                <bp>Stockholm, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Valeri Nichushkin</name>
+                <num>43</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>210</w>
+                <bd>Mar 4, <y>1995</y></bd>
+                <bp>Chelyabinsk, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Tyler Pitlick</name>
+                <num>18</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>200</w>
+                <bd>Nov 1, <y>1991</y></bd>
+                <bp>Minneapolis, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Alexander Radulov</name>
+                <num>47</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>205</w>
+                <bd>Jul 5, <y>1986</y></bd>
+                <bp>Nizhny Tagil, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Brett Ritchie</name>
+                <num>25</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>220</w>
+                <bd>Jul 1, <y>1993</y></bd>
+                <bp>Orangeville, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Tyler Seguin</name>
+                <num>91</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>200</w>
+                <bd>Jan 31, <y>1992</y></bd>
+                <bp>Brampton, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Devin Shore</name>
+                <num>17</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>205</w>
+                <bd>Jul 19, <y>1994</y></bd>
+                <bp>Ajax, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Gemel Smith</name>
+                <num>46</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>195</w>
+                <bd>Apr 16, <y>1994</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jason Spezza</name>
+                <num>90</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>215</w>
+                <bd>Jun 13, <y>1983</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Connor Carrick</name>
+                <num>5</num>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>192</w>
+                <bd>Apr 13, <y>1994</y></bd>
+                <bp>Orland Park, IL, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Miro Heiskanen</name>
+                <num>4</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>185</w>
+                <bd>Jul 18, <y>1999</y></bd>
+                <bp>Espoo, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Julius Honka</name>
+                <num>6</num>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>180</w>
+                <bd>Dec 3, <y>1995</y></bd>
+                <bp>Jyväskylä, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Stephen Johns</name>
+                <num>28</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>225</w>
+                <bd>Apr 18, <y>1992</y></bd>
+                <bp>Ellwood City, PA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>John Klingberg</name>
+                <num>3</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>180</w>
+                <bd>Aug 14, <y>1992</y></bd>
+                <bp>Gothenburg, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Esa Lindell</name>
+                <num>23</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>215</w>
+                <bd>May 23, <y>1994</y></bd>
+                <bp>Vantaa, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Marc Methot</name>
+                <num>33</num>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>230</w>
+                <bd>Jun 21, <y>1985</y></bd>
+                <bp>Ottawa, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Roman Polak</name>
+                <num>45</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>240</w>
+                <bd>Apr 28, <y>1986</y></bd>
+                <bp>Ostrava, <co>CZE</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Ben Bishop</name>
+                <num>30</num>
+                <h>6' 7"</h>
+                <w>215</w>
+                <bd>Nov 21, <y>1986</y></bd>
+                <bp>Denver, CO, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Anton Khudobin</name>
+                <num>35</num>
+                <h>5' 11"</h>
+                <w>200</w>
+                <bd>May 7, <y>1986</y></bd>
+                <bp>Ust-Kamenogorsk, <co>KAZ</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

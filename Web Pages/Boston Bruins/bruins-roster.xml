@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="bruins">
+    <players>
+        <forwards>
+            <p>
+                <name>Noel Acciari</name>
+                <num>55</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>208</w>
+                <bd>Dec 1, <y>1991</y></bd>
+                <bp>Johnston, RI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>David Backes</name>
+                <num>42</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>215</w>
+                <bd>May 1, <y>1984</y></bd>
+                <bp>Minneapolis, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Patrice Bergeron </name>
+                <cap>Assistant</cap>
+                <num>37</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>195</w>
+                <bd>Jul 24, <y>1985</y></bd>
+                <bp>Ancienne-Lorette, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Anders Bjork</name>
+                <num>10</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>190</w>
+                <bd>Aug 5, <y>1996</y></bd>
+                <bp>Mequon, WI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jake DeBrusk</name>
+                <num>74</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>185</w>
+                <bd>Oct 17, <y>1996</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Ryan Donato</name>
+                <num>17</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>193</w>
+                <bd>Apr 9, <y>1996</y></bd>
+                <bp>Boston, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Danton Heinen</name>
+                <num>43</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>185</w>
+                <bd>Jul 5, <y>1995</y></bd>
+                <bp>Langley, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>David Krejci </name>
+                <cap>Assistant</cap>
+                <num>46</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>188</w>
+                <bd>Apr 28, <y>1986</y></bd>
+                <bp>Sternberk, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>Sean Kuraly</name>
+                <num>52</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>213</w>
+                <bd>Jan 20, <y>1993</y></bd>
+                <bp>Dublin, OH, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Brad Marchand</name>
+                <num>63</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>181</w>
+                <bd>May 11, <y>1988</y></bd>
+                <bp>Halifax, NS, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Joakim Nordstrom</name>
+                <num>20</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>191</w>
+                <bd>Feb 25, <y>1992</y></bd>
+                <bp>Stockholm, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>David Pastrnak</name>
+                <num>88</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>194</w>
+                <bd>May 25, <y>1996</y></bd>
+                <bp>Havirov, <co>CZE</co></bp>
+            </p>
+            <p>
+                <name>Chris Wagner</name>
+                <num>14</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>198</w>
+                <bd>May 27, <y>1991</y></bd>
+                <bp>Walpole, MA, <co>USA</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Brandon Carlo</name>
+                <num>25</num>
+                <shot>R</shot>
+                <h>6' 5"</h>
+                <w>212</w>
+                <bd>Nov 26, <y>1996</y></bd>
+                <bp>Colorado Springs, CO, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Zdeno Chara </name>
+                <cap>Captain</cap>
+                <num>33</num>
+                <shot>L</shot>
+                <h>6' 9"</h>
+                <w>250</w>
+                <bd>Mar 18, <y>1977</y></bd>
+                <bp>Trencin, <co>SVK</co></bp>
+            </p>
+            <p>
+                <name>Matt Grzelcyk</name>
+                <num>48</num>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>174</w>
+                <bd>Jan 5, <y>1994</y></bd>
+                <bp>Charlestown, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Steven Kampfer</name>
+                <num>44</num>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>195</w>
+                <bd>Sep 24, <y>1988</y></bd>
+                <bp>Ann Arbor, MI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Torey Krug</name>
+                <num>47</num>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>186</w>
+                <bd>Apr 12, <y>1991</y></bd>
+                <bp>Livonia, MI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jeremy Lauzon</name>
+                <num>79</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>204</w>
+                <bd>Apr 28, <y>1997</y></bd>
+                <bp>Val D'or, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Charlie McAvoy</name>
+                <num>73</num>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>208</w>
+                <bd>Dec 21, <y>1997</y></bd>
+                <bp>Long Beach, NY, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Kevan Miller</name>
+                <num>86</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>210</w>
+                <bd>Nov 15, <y>1987</y></bd>
+                <bp>Los Angeles, CA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>John Moore</name>
+                <num>27</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>210</w>
+                <bd>Nov 19, <y>1990</y></bd>
+                <bp>Winnetka, IL, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Urho Vaakainen</name>
+                <num>58</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>185</w>
+                <bd>Jan 1, <y>1999</y></bd>
+                <bp>Joensuu, <co>FIN</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Jaroslav Halak</name>
+                <num>41</num>
+                <h>5' 11"</h>
+                <w>185</w>
+                <bd>May 13, <y>1985</y></bd>
+                <bp>Bratislava, <co>SVK</co></bp>
+            </p>
+            <p>
+                <name>Tuukka Rask</name>
+                <num>40</num>
+                <h>6' 3"</h>
+                <w>176</w>
+                <bd>Mar 10, <y>1987</y></bd>
+                <bp>Savonlinna, <co>FIN</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

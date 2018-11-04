@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="canucks">
+    <players>
+        <forwards>
+            <p>
+                <name>Darren Archibald</name>
+                <num>49</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>210</w>
+                <bd>Feb 9, <y>1990</y></bd>
+                <bp>Newmarket, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Sven Baertschi</name>
+                <num>47</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>190</w>
+                <bd>Oct 5, <y>1992</y></bd>
+                <bp>Bern, <co>CHE</co></bp>
+            </p>
+            <p>
+                <name>Jay Beagle</name>
+                <num>83</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>210</w>
+                <bd>Oct 16, <y>1985</y></bd>
+                <bp>Calgary, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Brock Boeser</name>
+                <num>6</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>208</w>
+                <bd>Feb 25, <y>1997</y></bd>
+                <bp>Burnsville, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Loui Eriksson</name>
+                <num>21</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>179</w>
+                <bd>Jul 17, <y>1985</y></bd>
+                <bp>Gothenburg, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Adam Gaudette</name>
+                <num>88</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>170</w>
+                <bd>Oct 3, <y>1996</y></bd>
+                <bp>Braintree, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Brendan Gaunce</name>
+                <num>50</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>217</w>
+                <bd>Mar 25, <y>1994</y></bd>
+                <bp>Sudbury, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Nikolay Goldobin</name>
+                <num>77</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>196</w>
+                <bd>Oct 7, <y>1995</y></bd>
+                <bp>Moscow, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Markus Granlund</name>
+                <num>60</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>180</w>
+                <bd>Apr 16, <y>1993</y></bd>
+                <bp>Oulu, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Bo Horvat</name>
+                <num>53</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>215</w>
+                <bd>Apr 5, <y>1995</y></bd>
+                <bp>London, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Brendan Leipsic</name>
+                <num>9</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>179</w>
+                <bd>May 19, <y>1994</y></bd>
+                <bp>Winnipeg, MB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Tyler Motte</name>
+                <num>64</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>192</w>
+                <bd>Mar 10, <y>1995</y></bd>
+                <bp>St. Clair, MI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Elias Pettersson</name>
+                <num>40</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>176</w>
+                <bd>Nov 12, <y>1998</y></bd>
+                <bp>Sundsvall, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Antoine Roussel</name>
+                <num>26</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>199</w>
+                <bd>Nov 21, <y>1989</y></bd>
+                <bp>Roubaix, <co>FRA</co></bp>
+            </p>
+            <p>
+                <name>Tim Schaller</name>
+                <num>59</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>204</w>
+                <bd>Nov 16, <y>1990</y></bd>
+                <bp>Merrimack, NH, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Brandon Sutter</name>
+                <num>20</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>190</w>
+                <bd>Feb 14, <y>1989</y></bd>
+                <bp>Huntington, NY, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jake Virtanen</name>
+                <num>18</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>226</w>
+                <bd>Aug 17, <y>1996</y></bd>
+                <bp>New Westminster, BC, <co>CAN</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Alex Biega</name>
+                <num>55</num>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>199</w>
+                <bd>Apr 4, <y>1988</y></bd>
+                <bp>Montreal, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jalen Chatfield</name>
+                <num>63</num>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>188</w>
+                <bd>May 15, <y>1996</y></bd>
+                <bp>Ypsilanti, MI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Michael Del Zotto</name>
+                <num>4</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>201</w>
+                <bd>Jun 24, <y>1990</y></bd>
+                <bp>Stouffville, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Alexander Edler</name>
+                <num>23</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>212</w>
+                <bd>Apr 21, <y>1986</y></bd>
+                <bp>Ostersund, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Erik Gudbranson</name>
+                <num>44</num>
+                <shot>R</shot>
+                <h>6' 5"</h>
+                <w>217</w>
+                <bd>Jan 7, <y>1992</y></bd>
+                <bp>Ottawa, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Ben Hutton</name>
+                <num>27</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>206</w>
+                <bd>Apr 20, <y>1993</y></bd>
+                <bp>Brockville, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Derrick Pouliot</name>
+                <num>5</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>196</w>
+                <bd>Jan 16, <y>1994</y></bd>
+                <bp>Estevan, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Troy Stecher</name>
+                <num>51</num>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>186</w>
+                <bd>Apr 7, <y>1994</y></bd>
+                <bp>Richmond, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Christopher Tanev</name>
+                <num>8</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>197</w>
+                <bd>Dec 20, <y>1989</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Richard Bachman</name>
+                <num>32</num>
+                <h>5' 10"</h>
+                <w>183</w>
+                <bd>Jul 25, <y>1987</y></bd>
+                <bp>Salt Lake City, UT, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Thatcher Demko</name>
+                <num>35</num>
+                <h>6' 4"</h>
+                <w>192</w>
+                <bd>Dec 8, <y>1995</y></bd>
+                <bp>San Diego, CA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jacob Markstrom</name>
+                <num>25</num>
+                <h>6' 6"</h>
+                <w>206</w>
+                <bd>Jan 31, <y>1990</y></bd>
+                <bp>Gävle, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Anders Nilsson</name>
+                <num>31</num>
+                <h>6' 6"</h>
+                <w>232</w>
+                <bd>Mar 19, <y>1990</y></bd>
+                <bp>Lulea, <co>SWE</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>
