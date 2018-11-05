@@ -6,6 +6,65 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
 
+    <xsl:template match="/">
+        <html>
+            <head><title>Hockey Team Roster</title></head>
+            <body>
+                <h1><xsl:apply-templates select="descendant::organization/@team"/></h1>
+                <div class="table-container">
+                    <h2>Forwards</h2>
+                        <table border="1">
+                            <tr>
+                                <th>Name</th>
+                                <th>Number</th>
+                                <th>Position</th>
+                                <th>Shot</th>
+                                <th>Height</th>
+                                <th>Weight</th>
+                                <th>Birthday</th>
+                                <th>Hometown</th>
+                            </tr>
+                        </table>
+                    <h2>Defense</h2>
+                    <table border="1">
+                        <tr>
+                            <th>Name</th>
+                            <th>Number</th>
+                            <th>Shot</th>
+                            <th>Height</th>
+                            <th>Weight</th>
+                            <th>Birthday</th>
+                            <th>Hometown</th>
+                        </tr>
+                    </table>
+                    <h2>Goalies</h2>
+                    <table border="1">
+                        <tr>
+                            <th>Name</th>
+                            <th>Number</th>
+                            <th>Height</th>
+                            <th>Weight</th>
+                            <th>Birthday</th>
+                            <th>Hometown</th>
+                        </tr>
+                    </table>
+                </div>
+            </body>
+        </html>
+    </xsl:template>
+
+    <xsl:template match="forwards">
+        <tr>
+            <td><xsl:apply-templates select="name"/></td>
+            <td><xsl:apply-templates select="num"/></td>
+            <td><xsl:apply-templates select="pos"/></td>
+            <td><xsl:apply-templates select="shot"/></td>
+            <td><xsl:apply-templates select="h"/></td>
+            <td><xsl:apply-templates select="w"/></td>
+            <td><xsl:apply-templates select="bd"/></td>
+            <td><xsl:apply-templates select="bp"/></td>
+        </tr>
+    </xsl:template>
 
 
 
