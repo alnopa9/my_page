@@ -24,18 +24,24 @@
               <h1>Emily Dickinson’s Fascicle 16</h1>
           <div id="toc">
               <h2>Table of Contents</h2>
-              <ul><xsl:apply-templates select="$dickinsonColl//body" mode="toc"/></ul>
+              <ul><xsl:apply-templates select="$dickinsonColl//body" mode="toc">
+                  <xsl:sort select="tokenize(base-uri(), '/')[last()]" order="descending"/>
+              </xsl:apply-templates><a href="#{idno}"/></ul>
               <hr/>
           </div>
               <div id="main">
-             <xsl:apply-templates select="$dickinsonColl//body"/>
+             <xsl:apply-templates select="$dickinsonColl//body">
+                 <xsl:sort select="tokenize(base-uri(), '/')[last()]"/>
+             </xsl:apply-templates>
           </div>
           </body>
       </html>
     </xsl:template>
 
     <xsl:template match="body" mode="toc">
-        <li><xsl:apply-templates select="descendant::title"/></li>
+        <li><xsl:apply-templates select="descendant::title"/>
+        
+        </li>
     </xsl:template>
 
     <xsl:template match="body">
@@ -50,6 +56,9 @@
     </xsl:template>
     <xsl:template match="rdg">
         <span class="{@wit}"><xsl:apply-templates/></span><br/>
+    </xsl:template>
+    <xsl:template match="app">
+        <xsl:value-of select="count(preceding::app)+1"/>: <xsl:text/><xsl:apply-templates/><br/>
     </xsl:template>
 
 </xsl:stylesheet>

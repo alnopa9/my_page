@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="panthers">
+    <players>
+        <forwards>
+            <p>
+                <name>Aleksander Barkov</name>
+                <cap>Captain</cap>
+                <num>16</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>213</w>
+                <bd>Sep 2, <y>1995</y></bd>
+                <bp>Tampere, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Nick Bjugstad</name>
+                <num>27</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 6"</h>
+                <w>215</w>
+                <bd>Jul 17, <y>1992</y></bd>
+                <bp>Minneapolis, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Troy Brouwer</name>
+                <num>22</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>213</w>
+                <bd>Aug 17, <y>1985</y></bd>
+                <bp>Vancouver, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Evgenii Dadonov</name>
+                <num>63</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>185</w>
+                <bd>Mar 12, <y>1989</y></bd>
+                <bp>Chelyabinsk, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Mike Hoffman</name>
+                <num>68</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>180</w>
+                <bd>Nov 24, <y>1989</y></bd>
+                <bp>Kitchener, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jonathan Huberdeau</name>
+                <cap>Assistant</cap>
+                <num>11</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>200</w>
+                <bd>Jun 4, <y>1993</y></bd>
+                <bp>Saint-Jerome, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Juho Lammikko</name>
+                <num>91</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>191</w>
+                <bd>Jan 29, <y>1996</y></bd>
+                <bp>Noormarkku, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Derek MacKenzie</name>
+                <num>17</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>177</w>
+                <bd>Jun 11, <y>1981</y></bd>
+                <bp>Sudbury, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Denis Malgin</name>
+                <num>62</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 9"</h>
+                <w>177</w>
+                <bd>Jan 18, <y>1997</y></bd>
+                <bp>Olten, <co>CHE</co></bp>
+            </p>
+            <p>
+                <name>Maxim Mamin</name>
+                <num>78</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>206</w>
+                <bd>Jan 13, <y>1995</y></bd>
+                <bp>Moscow, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Jared McCann</name>
+                <num>90</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>185</w>
+                <bd>May 31, <y>1996</y></bd>
+                <bp>Stratford, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Colton Sceviour</name>
+                <num>7</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>192</w>
+                <bd>Apr 20, <y>1989</y></bd>
+                <bp>Red Deer, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Vincent Trocheck</name>
+                <cap>Assistant</cap>
+                <num>21</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>186</w>
+                <bd>Jul 11, <y>1993</y></bd>
+                <bp>Pittsburgh, PA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Frank Vatrano</name>
+                <num>72</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>201</w>
+                <bd>Mar 14, <y>1994</y></bd>
+                <bp>East Longmeadow, MA, <co>USA</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Aaron Ekblad</name>
+                <cap>Assistant</cap>
+                <num>5</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>220</w>
+                <bd>Feb 7, <y>1996</y></bd>
+                <bp>Windsor, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Bogdan Kiselevich</name>
+                <num>55</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>202</w>
+                <bd>Feb 14, <y>1990</y></bd>
+                <bp>Cherepovets, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Mike Matheson</name>
+                <num>19</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>193</w>
+                <bd>Feb 27, <y>1994</y></bd>
+                <bp>Pointe-Claire, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Alexander Petrovic</name>
+                <num>6</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>216</w>
+                <bd>Mar 3, <y>1992</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Mark Pysyk</name>
+                <num>13</num>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>200</w>
+                <bd>Jan 11, <y>1992</y></bd>
+                <bp>Sherwood Park, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>MacKenzie Weegar</name>
+                <num>52</num>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>200</w>
+                <bd>Jan 7, <y>1994</y></bd>
+                <bp>Ottawa, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Keith Yandle</name>
+                <cap>Assistant</cap>
+                <num>3</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>191</w>
+                <bd>Sep 9, <y>1986</y></bd>
+                <bp>Boston, MA, <co>USA</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Michael Hutchinson</name>
+                <num>39</num>
+                <h>6' 3"</h>
+                <w>200</w>
+                <bd>Mar 2, <y>1990</y></bd>
+                <bp>Barrie, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Roberto Luongo</name>
+                <num>1</num>
+                <h>6' 3"</h>
+                <w>215</w>
+                <bd>Apr 4, <y>1979</y></bd>
+                <bp>Montreal, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>James Reimer</name>
+                <num>34</num>
+                <h>6' 2"</h>
+                <w>220</w>
+                <bd>Mar 15, <y>1988</y></bd>
+                <bp>Morweena, MB, <co>CAN</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>

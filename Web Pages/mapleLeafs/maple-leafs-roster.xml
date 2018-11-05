@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization team="maple Leafs">
+    <players>
+        <forwards>
+            <p>
+                <name>Connor Brown</name>
+                <num>28</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>183</w>
+                <bd>Jan 14, <y>1994</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Tyler Ennis</name>
+                <num>63</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 9"</h>
+                <w>161</w>
+                <bd>Oct 6, <y>1989</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Frederik Gauthier</name>
+                <num>33</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 5"</h>
+                <w>235</w>
+                <bd>Apr 26, <y>1995</y></bd>
+                <bp>Laval, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Zach Hyman</name>
+                <num>11</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>209</w>
+                <bd>Jun 9, <y>1992</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Andreas Johnsson</name>
+                <num>18</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>181</w>
+                <bd>Nov 21, <y>1994</y></bd>
+                <bp>Gävle, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Nazem Kadri</name>
+                <num>43</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>192</w>
+                <bd>Oct 6, <y>1990</y></bd>
+                <bp>London, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Kasperi Kapanen</name>
+                <num>24</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>192</w>
+                <bd>Jul 23, <y>1996</y></bd>
+                <bp>Kuopio, <co>FIN</co></bp>
+            </p>
+            <p>
+                <name>Josh Leivo</name>
+                <num>32</num>
+                <pos>LW</pos>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>192</w>
+                <bd>May 26, <y>1993</y></bd>
+                <bp>Innisfil, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Par Lindholm</name>
+                <num>26</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>183</w>
+                <bd>Oct 5, <y>1991</y></bd>
+                <bp>Kusmark, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Patrick Marleau</name>
+                <cap>Assistant</cap>
+                <num>12</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>218</w>
+                <bd>Sep 15, <y>1979</y></bd>
+                <bp>Aneroid, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Mitchell Marner</name>
+                <num>16</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>175</w>
+                <bd>May 5, <y>1997</y></bd>
+                <bp>Markham, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Auston Matthews</name>
+                <num>34</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>220</w>
+                <bd>Sep 17, <y>1997</y></bd>
+                <bp>San Ramon, CA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>John Tavares</name>
+                <cap>Assistant</cap>
+                <num>91</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>209</w>
+                <bd>Sep 20, <y>1990</y></bd>
+                <bp>Mississauga, ON, <co>CAN</co></bp>
+            </p>
+        </forwards>
+        <defense>
+            <p>
+                <name>Travis Dermott</name>
+                <num>23</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>202</w>
+                <bd>Dec 22, <y>1996</y></bd>
+                <bp>Newmarket, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jake Gardiner</name>
+                <num>51</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>203</w>
+                <bd>Jul 4, <y>1990</y></bd>
+                <bp>Minnetonka, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Ron Hainsey</name>
+                <num>2</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>205</w>
+                <bd>Mar 24, <y>1981</y></bd>
+                <bp>Bolton, CT, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Justin Holl</name>
+                <num>3</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>205</w>
+                <bd>Jan 30, <y>1992</y></bd>
+                <bp>Tonka Bay, MN, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Martin Marincin</name>
+                <num>52</num>
+                <shot>L</shot>
+                <h>6' 5"</h>
+                <w>213</w>
+                <bd>Feb 18, <y>1992</y></bd>
+                <bp>Kosice, <co>SVK</co></bp>
+            </p>
+            <p>
+                <name>Igor Ozhiganov</name>
+                <num>92</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>210</w>
+                <bd>Oct 13, <y>1992</y></bd>
+                <bp>Krasnogorsk, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Morgan Rielly</name>
+                <cap>Assistant</cap>
+                <num>44</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>218</w>
+                <bd>Mar 9, <y>1994</y></bd>
+                <bp>Vancouver, BC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Nikita Zaitsev</name>
+                <num>22</num>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>190</w>
+                <bd>Oct 29, <y>1991</y></bd>
+                <bp>Moscow, <co>RUS</co></bp>
+            </p>
+        </defense>
+        <goalies>
+            <p>
+                <name>Frederik Andersen</name>
+                <num>31</num>
+                <h>6' 4"</h>
+                <w>230</w>
+                <bd>Oct 2, <y>1989</y></bd>
+                <bp>Herning, <co>DNK</co></bp>
+            </p>
+            <p>
+                <name>Garret Sparks</name>
+                <num>40</num>
+                <h>6' 3"</h>
+                <w>201</w>
+                <bd>Jun 28, <y>1993</y></bd>
+                <bp>Elmhurst, IL, <co>USA</co></bp>
+            </p>
+        </goalies>
+    </players>
+</organization>
