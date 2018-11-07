@@ -63,16 +63,6 @@
                 <bp>Macomb Township, WI, <co>USA</co></bp>
             </p>
             <p>
-                <name>A.J. Greer</name>
-                <num>24</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>210</w>
-                <bd>Dec 14, <y>1996</y></bd>
-                <bp>Joliette, QC, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Tyson Jost</name>
                 <num>17</num>
                 <pos>C</pos>
@@ -103,7 +93,7 @@
                 <bp>Vancouver, BC, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Gabriel Landeskog </name>
+                <name>Gabriel Landeskog</name>
                 <cap>Captain</cap>
                 <num>92</num>
                 <pos>LW</pos>
@@ -114,7 +104,7 @@
                 <bp>Stockholm, <co>SWE</co></bp>
             </p>
             <p>
-                <name>Nathan MacKinnon </name>
+                <name>Nathan MacKinnon</name>
                 <cap>Assistant</cap>
                 <num>29</num>
                 <pos>C</pos>
@@ -203,7 +193,7 @@
                 <bp>Roberval, QC, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Erik Johnson </name>
+                <name>Erik Johnson</name>
                 <cap>Assistant</cap>
                 <num>6</num>
                 <shot>R</shot>

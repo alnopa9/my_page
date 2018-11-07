@@ -33,7 +33,7 @@
                 <bp>Ithaca, NY, <co>USA</co></bp>
             </p>
             <p>
-                <name>Jeff Carter </name>
+                <name>Jeff Carter</name>
                 <cap>Assistant</cap>
                 <num>77</num>
                 <pos>C</pos>
@@ -74,7 +74,7 @@
                 <bp>Kramfors, <co>SWE</co></bp>
             </p>
             <p>
-                <name>Anze Kopitar </name>
+                <name>Anze Kopitar</name>
                 <cap>Captain</cap>
                 <num>11</num>
                 <pos>C</pos>
@@ -137,7 +137,7 @@
         </forwards>
         <defense>
             <p>
-                <name>Drew Doughty </name>
+                <name>Drew Doughty</name>
                 <cap>Assistant</cap>
                 <num>8</num>
                 <shot>R</shot>
