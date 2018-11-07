@@ -1,10 +1,11 @@
 .side-bars{
     background-color: #ebebe0;
+    position: sticky;
 }
-.links{
+.side-bar-links{
     display: flex;
 }
-.western-conference{
+.western-conference-links{
     display: flex;
     width: 12.5%;
     height: 100%;
@@ -29,7 +30,7 @@
     width: 12.5%;
     flex-wrap: wrap;
 }
-.eastern-conference{
+.eastern-conference-links{
     display: flex;
     width: 12.5%;
     height: 100%;

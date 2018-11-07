@@ -28,7 +28,7 @@
                                 <h2>Forwards</h2>
                             </div>
                             <div class="forwards-table">
-                                <table border="1">
+                                <table>
                                     <tr>
                                         <th>Photo</th>
                                         <th>Name</th>
@@ -51,7 +51,7 @@
                                 <h2>Defense</h2>
                             </div>
                             <div class="defense-table">
-                                <table border="1">
+                                <table>
                                     <tr>
                                         <th>Photo</th>
                                         <th>Name</th>
@@ -73,7 +73,7 @@
                                 <h2>Goalies</h2>
                             </div>
                             <div class="goalies-table">
-                                <table border="1">
+                                <table>
                                     <tr>
                                         <th>Photo</th>
                                         <th>Name</th>
