@@ -33,9 +33,11 @@
                     <div class="tocVar-header">
                         <h2>Contents: Poems Sorted by Numbers of Variants</h2>
                     </div>
-                    <ul><xsl:apply-templates select="$dickinsonColl//body" mode="tocVar">
-                        <xsl:sort select="count(descendant::rdg)" order="descending"/>
-                    </xsl:apply-templates><a href="#{idno}"/></ul>
+                    <ul>
+                        <xsl:apply-templates select="$dickinsonColl//body" mode="tocVar">
+                            <xsl:sort select="count(descendant::rdg)" order="descending"/>
+                        </xsl:apply-templates><a href="#{descendant::idno}"/>
+                    </ul>
                     <hr/>
                 </div>
                 <div class="tocAlphabet">
@@ -45,7 +47,7 @@
                     <ul>
                         <xsl:apply-templates select="$dickinsonColl//body" mode="tocAlphabet">
                             <xsl:sort select='translate(lg[1]/l[1], "&apos;", "")'/>
-                        </xsl:apply-templates><a href="#{idno}"/>
+                        </xsl:apply-templates><a href="#{descendant::idno}"/>
                     </ul>
                     <hr/>
                 </div>
