@@ -96,7 +96,15 @@
     <xsl:template match="forwards/p">
         <tr>
             <td><img src="players-photos/{lower-case(tokenize(name, ' ')[last()])}.jpg" width="100" height="100"/></td>
-            <td><xsl:apply-templates select="name"/></td>
+            <td>
+                <xsl:apply-templates select="name"/>
+                <xsl:if test="@type='captain'">
+                    <strong><xsl:text> C</xsl:text></strong>
+                </xsl:if>
+                <xsl:if test="@type='assistant'">
+                    <strong><xsl:text> A</xsl:text></strong>
+                </xsl:if>
+            </td>
             <td><xsl:apply-templates select="num"/></td>
             <td><xsl:apply-templates select="pos"/></td>
             <td><xsl:apply-templates select="shot"/></td>
