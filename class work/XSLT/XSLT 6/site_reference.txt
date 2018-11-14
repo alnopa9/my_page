@@ -1,9 +1,0 @@
-Site Reference
-Layout:
-    Poems switch color background
-        White: #ffffff;
-        Eggshell: #f5f5f5;
-    Static Background Color:
-        Blueberry: #6b7a8f
-    Text Font Color:
-        Navy Blue: #0f1626
