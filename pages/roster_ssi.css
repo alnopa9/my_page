@@ -6,14 +6,14 @@
     display: flex;
 }
 .western-conference-links{
-    display: flex;
+    display: inherit;
     width: 12.5%;
     height: 100%;
     flex-direction: column;
     justify-content: space-around;
 }
 .central-division-links{
-    display: flex;
+    display: inherit;
     justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
@@ -22,7 +22,7 @@
     flex-wrap: wrap;
 }
 .pacific-division-links{
-    display: flex;
+    display: inherit;
     justify-content: space-around;
     align-items: flex-end;
     flex-direction: column;
@@ -31,7 +31,7 @@
     flex-wrap: wrap;
 }
 .eastern-conference-links{
-    display: flex;
+    display: inherit;
     width: 12.5%;
     height: 100%;
     flex-direction: column;
@@ -39,7 +39,7 @@
     margin-left: 85%;
     }
 .metropolitan-division-links{
-    display: flex;
+    display: inherit;
     justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
@@ -48,7 +48,7 @@
     flex-wrap: wrap;
 }
 .atlantic-division-links{
-    display: flex;
+    display: inherit;
     justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
