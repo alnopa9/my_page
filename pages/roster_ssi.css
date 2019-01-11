@@ -1,19 +1,19 @@
 .side-bars{
     background-color: #ebebe0;
-    position: sticky;
-}
-.side-bar-links{
-    display: flex;
+    position: fixed;
+    top: 0%;
+    width: 100%;
 }
 .western-conference-links{
-    display: inherit;
-    width: 12.5%;
+    position: fixed;
+    top: 0%;
+    left: 0px;
+    width: 110px;
     height: 100%;
-    flex-direction: column;
-    justify-content: space-around;
+    padding: 2px 2px;
 }
 .central-division-links{
-    display: inherit;
+    display: flex;
     justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
@@ -22,7 +22,7 @@
     flex-wrap: wrap;
 }
 .pacific-division-links{
-    display: inherit;
+    display: flex;
     justify-content: space-around;
     align-items: flex-end;
     flex-direction: column;
@@ -31,15 +31,14 @@
     flex-wrap: wrap;
 }
 .eastern-conference-links{
-    display: inherit;
-    width: 12.5%;
+    position: fixed;
+    top: 0%;
+    right: 0px;
+    width: 110px;
     height: 100%;
-    flex-direction: column;
-    justify-content: space-around;
-    margin-left: 85%;
-    }
+}
 .metropolitan-division-links{
-    display: inherit;
+    display: flex;
     justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
@@ -48,7 +47,7 @@
     flex-wrap: wrap;
 }
 .atlantic-division-links{
-    display: inherit;
+    display: flex;
     justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
