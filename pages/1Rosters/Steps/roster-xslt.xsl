@@ -9,7 +9,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" href="roster.css" />
+                <link rel="stylesheet" href="../roster.css" />
                 <title>Hockey Team Roster</title>
             </head>
             <body>
@@ -95,7 +95,7 @@
 
     <xsl:template match="forwards/p">
         <tr>
-            <td><img src="players-photos/{lower-case(tokenize(name, ' ')[last()])}.jpg" width="100" height="100"/></td>
+            <td><img src="../3Players_Photos/{descendant::organization/@team}/{lower-case(tokenize(name, ' ')[last()])}.jpg" width="100" height="100"/></td>
             <td>
                 <xsl:apply-templates select="name"/>
                 <xsl:if test="@type='captain'">
