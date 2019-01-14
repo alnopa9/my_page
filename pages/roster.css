@@ -6,9 +6,8 @@ body{
     color: #ffffff;
 }
 .body-container{
-    left: 0%;
     width: 80%;
-    padding: 20px;
+    padding-top: 40px;
     margin: auto;
     text-align: center;
     background-color: #000000;
@@ -35,6 +34,26 @@ table{
     width: 100%;
 }
 hr.divisionDivider {border: 1px solid #ffffff}
+.header-container{
+    position: fixed;
+    left: 10%;
+    height: 2em;
+    width: 80%;
+    text-align: center;
+    background-color: #ffffff;
+}
+.header-text{padding-top: 4px;}
+.header-images-nhl{
+    padding-top: 3px;
+    background: #ffffff;
+    position: fixed;
+    left: 60vH;
+}
+.header-images-team{
+    padding-top: 4px;
+    position: fixed;
+    right: 60vH;
+}
 .western-conference-links{
     position: fixed;
     top: 5vH;
