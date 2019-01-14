@@ -73,16 +73,6 @@
                 <bp>Kuopio, <co>FIN</co></bp>
             </p>
             <p>
-                <name>Josh Leivo</name>
-                <num>32</num>
-                <pos>LW</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>192</w>
-                <bd>May 26, <y>1993</y></bd>
-                <bp>Innisfil, ON, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Par Lindholm</name>
                 <num>26</num>
                 <pos>C</pos>
@@ -122,6 +112,16 @@
                 <w>220</w>
                 <bd>Sep 17, <y>1997</y></bd>
                 <bp>San Ramon, CA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>William Nylander</name>
+                <num>29</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>191</w>
+                <bd>May 01, <y>1996</y></bd>
+                <bp>Calgary, AB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>John Tavares</name>

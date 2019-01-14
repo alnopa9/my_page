@@ -146,6 +146,15 @@
         </forwards>
         <defense>
             <p>
+                <name>Erik Cernak</name>
+                <num>81</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>225</w>
+                <bd>May 28, <y>1997</y></bd>
+                <bp>Kosice, <co>SVK</co></bp>
+            </p>
+            <p>
                 <name>Braydon Coburn</name>
                 <num>55</num>
                 <shot>L</shot>
@@ -153,15 +162,6 @@
                 <w>223</w>
                 <bd>Feb 27, <y>1985</y></bd>
                 <bp>Shaunavon, SK, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Cameron Gaunce</name>
-                <num>33</num>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>204</w>
-                <bd>Mar 19, <y>1990</y></bd>
-                <bp>Sudbury, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Dan Girardi</name>
@@ -180,15 +180,6 @@
                 <w>223</w>
                 <bd>Dec 18, <y>1990</y></bd>
                 <bp>Ornskoldsvik, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Slater Koekkoek</name>
-                <num>29</num>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>193</w>
-                <bd>Feb 18, <y>1994</y></bd>
-                <bp>Winchester, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Ryan McDonagh</name>

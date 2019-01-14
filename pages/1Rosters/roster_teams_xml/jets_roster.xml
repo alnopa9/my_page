@@ -3,6 +3,16 @@
     <players>
         <forwards>
             <p>
+                <name>Mason Appleton</name>
+                <num>82</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>193</w>
+                <bd>Jan 15, <y>1996</y></bd>
+                <bp>Green Bay, WI, <co>USA</co></bp>
+            </p>
+            <p>
                 <name>Kyle Connor</name>
                 <num>81</num>
                 <pos>LW</pos>
@@ -190,6 +200,15 @@
                 <w>229</w>
                 <bd>Feb 1, <y>1990</y></bd>
                 <bp>Houston, TX, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Sami Niku</name>
+                <num>83</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>176</w>
+                <bd>Oct 10, <y>1996</y></bd>
+                <bp>Haapavesi, <co>FIN</co></bp>
             </p>
             <p>
                 <name>Jacob Trouba</name>

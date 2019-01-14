@@ -3,16 +3,6 @@
     <players>
         <forwards>
             <p>
-                <name>Nicolas Aube-Kubel</name>
-                <num>62</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>187</w>
-                <bd>May 10, <y>1996</y></bd>
-                <bp>Slave Lake, AB, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Sean Couturier</name>
                 <num>14</num>
                 <pos>C</pos>
@@ -32,16 +22,6 @@
                 <w>185</w>
                 <bd>Jan 12, <y>1988</y></bd>
                 <bp>Hearst, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Tyrell Goulbourne</name>
-                <num>39</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>195</w>
-                <bd>Jan 26, <y>1994</y></bd>
-                <bp>Edmonton, AB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Corban Knight</name>
@@ -145,16 +125,6 @@
                 <bp>Kladno, <co>CZE</co></bp>
             </p>
             <p>
-                <name>Jordan Weal</name>
-                <num>40</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 10"</h>
-                <w>179</w>
-                <bd>Apr 15, <y>1992</y></bd>
-                <bp>North Vancouver, BC, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Dale Weise</name>
                 <num>22</num>
                 <pos>RW</pos>
@@ -241,6 +211,22 @@
                 <bp>Newmarket, ON, <co>CAN</co></bp>
             </p>
             <p>
+                <name>Carter Hart</name>
+                <num>79</num>
+                <h>6' 2"</h>
+                <w>181</w>
+                <bd>Aug 13, <y>1998</y></bd>
+                <bp>Sherwood Park, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Mike McKenna</name>
+                <num>56</num>
+                <h>6' 2"</h>
+                <w>183</w>
+                <bd>Apr 11, <y>1983</y></bd>
+                <bp>St. Louis, MO, <co>USA</co></bp>
+            </p>
+            <p>
                 <name>Michal Neuvirth</name>
                 <num>30</num>
                 <h>6' 1"</h>
@@ -249,12 +235,12 @@
                 <bp>Ústí nad Labem, <co>CZE</co></bp>
             </p>
             <p>
-                <name>Calvin Pickard</name>
-                <num>33</num>
-                <h>6' 1"</h>
-                <w>207</w>
-                <bd>Apr 15, <y>1992</y></bd>
-                <bp>Moncton, NB, <co>CAN</co></bp>
+                <name>Anthony Stolarz</name>
+                <num>41</num>
+                <h>6' 6"</h>
+                <w>210</w>
+                <bd>Jan 20, <y>1994</y></bd>
+                <bp>Edison, NJ, <co>USA</co></bp>
             </p>
         </goalies>
     </players>

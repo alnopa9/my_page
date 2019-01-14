@@ -43,26 +43,6 @@
                 <bp>Plano, TX, <co>USA</co></bp>
             </p>
             <p>
-                <name>Jean-Sebastien Dea</name>
-                <num>10</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>175</w>
-                <bd>Feb 8, <y>1994</y></bd>
-                <bp>Laval, QC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Kurtis Gabriel</name>
-                <num>--</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 4"</h>
-                <w>200</w>
-                <bd>Apr 20, <y>1993</y></bd>
-                <bp>Newmarket, ON, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Taylor Hall</name>
                 <cap>Assistant</cap>
                 <num>9</num>
@@ -252,20 +232,20 @@
         </defense>
         <goalies>
             <p>
+                <name>MacKenzie Blackwood</name>
+                <num>29</num>
+                <h>6' 4"</h>
+                <w>225</w>
+                <bd>Dec 09, <y>1996</y></bd>
+                <bp>Thunder Bay, ON, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Keith Kinkaid</name>
                 <num>1</num>
                 <h>6' 3"</h>
                 <w>195</w>
                 <bd>Jul 4, <y>1989</y></bd>
                 <bp>Farmingville, NY, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Eddie Lack</name>
-                <num>31</num>
-                <h>6' 4"</h>
-                <w>187</w>
-                <bd>Jan 5, <y>1988</y></bd>
-                <bp>Norrtälje, <co>SWE</co></bp>
             </p>
             <p>
                 <name>Cory Schneider</name>

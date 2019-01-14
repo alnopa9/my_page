@@ -13,26 +13,6 @@
                 <bp>Stockholm, <co>SWE</co></bp>
             </p>
             <p>
-                <name>Andrew Cogliano</name>
-                <num>7</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 10"</h>
-                <w>177</w>
-                <bd>Jun 14, <y>1987</y></bd>
-                <bp>Toronto, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Max Comtois</name>
-                <num>53</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>207</w>
-                <bd>Jan 8, <y>1999</y></bd>
-                <bp>Longueuil, QC, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Patrick Eaves</name>
                 <num>18</num>
                 <pos>RW</pos>
@@ -95,16 +75,6 @@
                 <bp>Livonia, MI, <co>USA</co></bp>
             </p>
             <p>
-                <name>Isac Lundestrom</name>
-                <num>48</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>187</w>
-                <bd>Nov 6, <y>1999</y></bd>
-                <bp>Gallivare, <co>SWE</co></bp>
-            </p>
-            <p>
                 <name>Corey Perry</name>
                 <cap>Assistant</cap>
                 <num>10</num>
@@ -156,6 +126,16 @@
                 <bp>Columbus, OH, <co>USA</co></bp>
             </p>
             <p>
+                <name>Devin Shore</name>
+                <num>29</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>205</w>
+                <bd>Jul 19, <y>1994</y></bd>
+                <bp>Ajax, ON, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Jakob Silfverberg</name>
                 <num>33</num>
                 <pos>RW</pos>
@@ -166,17 +146,26 @@
                 <bp>Gävle, <co>SWE</co></bp>
             </p>
             <p>
-                <name>Ben Street</name>
-                <num>46</num>
-                <pos>C</pos>
-                <shot>L</shot>
+                <name>Daniel Sprong</name>
+                <num>11</num>
+                <pos>RW</pos>
+                <shot>R</shot>
                 <h>6' 0"</h>
-                <w>190</w>
-                <bd>Feb 13, <y>1987</y></bd>
-                <bp>Coquitlam, BC, <co>CAN</co></bp>
+                <w>180</w>
+                <bd>Mar 17, <y>1997</y></bd>
+                <bp>Amsterdam, <co>NLD</co></bp>
             </p>
         </forwards>
         <defense>
+            <p>
+                <name>Jake Dotchin</name>
+                <num>21</num>
+                <shot>R</shot>
+                <h>6' 3"</h>
+                <w>210</w>
+                <bd>Mar 24, <y>1994</y></bd>
+                <bp>Cambridge, ON, <co>CAN</co></bp>
+            </p>
             <p>
                 <name>Cam Fowler</name>
                 <num>4</num>
@@ -185,15 +174,6 @@
                 <w>206</w>
                 <bd>Dec 5, <y>1991</y></bd>
                 <bp>Windsor, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Korbinian Holzer</name>
-                <num>5</num>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>218</w>
-                <bd>Feb 16, <y>1988</y></bd>
-                <bp>Munich, <co>DEU</co></bp>
             </p>
             <p>
                 <name>Jacob Larsson</name>
@@ -232,24 +212,6 @@
                 <bp>Brantford, ON, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Marcus Pettersson</name>
-                <num>28</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>177</w>
-                <bd>May 8, <y>1996</y></bd>
-                <bp>Skellefteå, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Luke Schenn</name>
-                <num>2</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>221</w>
-                <bd>Nov 2, <y>1989</y></bd>
-                <bp>Saskatoon, SK, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Andy Welinski</name>
                 <num>45</num>
                 <shot>R</shot>
@@ -267,6 +229,14 @@
                 <w>206</w>
                 <bd>Jul 14, <y>1993</y></bd>
                 <bp>Pittsburgh, PA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Chad Johnson</name>
+                <num>1</num>
+                <h>6' 3"</h>
+                <w>197</w>
+                <bd>Jun 10, <y>1986</y></bd>
+                <bp>Saskatoon, SK, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Ryan Miller</name>

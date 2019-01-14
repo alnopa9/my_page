@@ -14,6 +14,16 @@
                 <bp>Victoria, BC, <co>CAN</co></bp>
             </p>
             <p>
+                <name>Andrew Cogliano</name>
+                <num>7</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>177</w>
+                <bd>Jun 18,<y>1987</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Blake Comeau</name>
                 <num>15</num>
                 <pos>LW</pos>
@@ -22,6 +32,16 @@
                 <w>200</w>
                 <bd>Feb 18, <y>1986</y></bd>
                 <bp>Meadow Lake, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Erik Condra</name>
+                <num>27</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>185</w>
+                <bd>Aug 06,<y>1986</y></bd>
+                <bp>Trenton, MI, <co>USA</co></bp>
             </p>
             <p>
                 <name>Jason Dickinson</name>
@@ -74,6 +94,16 @@
                 <bp>Stockholm, <co>SWE</co></bp>
             </p>
             <p>
+                <name>Michael Mersch</name>
+                <num>20</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>215</w>
+                <bd>Oct 02, <y>1992</y></bd>
+                <bp>Park Ridge, IL, <co>USA</co></bp>
+            </p>
+            <p>
                 <name>Valeri Nichushkin</name>
                 <num>43</num>
                 <pos>RW</pos>
@@ -124,26 +154,6 @@
                 <bp>Brampton, ON, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Devin Shore</name>
-                <num>17</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>205</w>
-                <bd>Jul 19, <y>1994</y></bd>
-                <bp>Ajax, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Gemel Smith</name>
-                <num>46</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>195</w>
-                <bd>Apr 16, <y>1994</y></bd>
-                <bp>Toronto, ON, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Jason Spezza</name>
                 <num>90</num>
                 <pos>C</pos>
@@ -163,6 +173,15 @@
                 <w>192</w>
                 <bd>Apr 13, <y>1994</y></bd>
                 <bp>Orland Park, IL, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Taylor Fredun</name>
+                <num>42</num>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>201</w>
+                <bd>Jun 04, <y>1988</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Miro Heiskanen</name>

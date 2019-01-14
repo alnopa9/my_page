@@ -53,6 +53,16 @@
                 <bp>Welland, ON, <co>CAN</co></bp>
             </p>
             <p>
+                <name>Michael Dal Colle</name>
+                <num>28</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>204</w>
+                <bd>Jun 20, <y>1996</y></bd>
+                <bp>Woodbridge, ON, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Jordan Eberle</name>
                 <num>7</num>
                 <pos>C</pos>
@@ -91,6 +101,16 @@
                 <w>209</w>
                 <bd>Jan 23, <y>1987</y></bd>
                 <bp>Narva, <co>EST</co></bp>
+            </p>
+            <p>
+                <name>Tom Kuhnhackl</name>
+                <num>14</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>196</w>
+                <bd>Jan 21, <y>1992</y></bd>
+                <bp>Landshut, <co>DEU</co></bp>
             </p>
             <p>
                 <name>Andrew Ladd</name>
@@ -198,16 +218,17 @@
                 <bd>Jan 30, <y>1990</y></bd>
                 <bp>Ozieri, <co>ITA</co></bp>
             </p>
+            <p>
+                <name>Devon Toews</name>
+                <num>25</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>191</w>
+                <bd>Feb 21, <y>1994</y></bd>
+                <bp>Abbotsford, BC, <co>CAN</co></bp>
+            </p>
         </defense>
         <goalies>
-            <p>
-                <name>Cristopher Gibson</name>
-                <num>33</num>
-                <h>6' 2"</h>
-                <w>207</w>
-                <bd>Dec 27, <y>1992</y></bd>
-                <bp>Karkkila, <co>FIN</co></bp>
-            </p>
             <p>
                 <name>Thomas Greiss</name>
                 <num>1</num>

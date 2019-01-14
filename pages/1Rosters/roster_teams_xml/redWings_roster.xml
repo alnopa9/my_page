@@ -44,6 +44,16 @@
                 <bp>Arvika, <co>SWE</co></bp>
             </p>
             <p>
+                <name>Christopher Ehn</name>
+                <num>70</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>181</w>
+                <bd>Apr 05, <y>1996</y></bd>
+                <bp>Skara, <co>SWE</co></bp>
+            </p>
+            <p>
                 <name>Martin Frk</name>
                 <num>42</num>
                 <pos>RW</pos>
@@ -199,6 +209,15 @@
                 <w>207</w>
                 <bd>Oct 12, <y>1985</y></bd>
                 <bp>Calgary, AB, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Filip Hronek</name>
+                <num>17</num>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>170</w>
+                <bd>Nov 02, <y>1997</y></bd>
+                <bp>Hradec Králové, <co>CZE</co></bp>
             </p>
             <p>
                 <name>Nick Jensen</name>

@@ -3,16 +3,6 @@
     <players>
         <forwards>
             <p>
-                <name>Michael Amadio</name>
-                <num>10</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>204</w>
-                <bd>May 13, <y>1996</y></bd>
-                <bp>Sault Ste. Marie, ON, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Jonny Brodzinski</name>
                 <num>76</num>
                 <pos>RW</pos>
@@ -52,6 +42,16 @@
                 <w>211</w>
                 <bd>Jan 13, <y>1991</y></bd>
                 <bp>Ayr, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Carl Hagelin</name>
+                <num>62</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>186</w>
+                <bd>Aug 23, <y>1988</y></bd>
+                <bp>Sodertalje, <co>SWE</co></bp>
             </p>
             <p>
                 <name>Alex Iafallo</name>
@@ -95,6 +95,16 @@
                 <bp>Tver, <co>RUS</co></bp>
             </p>
             <p>
+                <name>Brendan Leipsic</name>
+                <num>14</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>179</w>
+                <bd>May 19, <y>1994</y></bd>
+                <bp>Winnipeg, MB, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Trevor Lewis</name>
                 <num>22</num>
                 <pos>C</pos>
@@ -105,14 +115,14 @@
                 <bp>Salt Lake City, UT, <co>USA</co></bp>
             </p>
             <p>
-                <name>Tanner Pearson</name>
-                <num>70</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>201</w>
-                <bd>Aug 10, <y>1992</y></bd>
-                <bp>Kitchener, ON, <co>CAN</co></bp>
+                <name>Matt Luff</name>
+                <num>64</num>
+                <pos>RW</pos>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>196</w>
+                <bd>May 05, <y>1997</y></bd>
+                <bp>Oakville, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Nate Thompson</name>
@@ -133,6 +143,16 @@
                 <w>197</w>
                 <bd>Apr 24, <y>1992</y></bd>
                 <bp>Scarborough, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Austin Wagner</name>
+                <num>51</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>185</w>
+                <bd>Jun 23, <y>1997</y></bd>
+                <bp>Calgary, AB, <co>CAN</co></bp>
             </p>
         </forwards>
         <defense>
@@ -200,16 +220,17 @@
                 <bd>Apr 10, <y>1985</y></bd>
                 <bp>Edmonton, AB, <co>CAN</co></bp>
             </p>
+            <p>
+                <name>Sean Walker</name>
+                <num>61</num>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>196</w>
+                <bd>Nov 13, <y>1994</y></bd>
+                <bp>Keswick, ON, <co>CAN</co></bp>
+            </p>
         </defense>
         <goalies>
-            <p>
-                <name>Peter Budaj</name>
-                <num>31</num>
-                <h>6' 1"</h>
-                <w>196</w>
-                <bd>Sep 18, <y>1982</y></bd>
-                <bp>Banska Bystrica, <co>SVK</co></bp>
-            </p>
             <p>
                 <name>Jack Campbell</name>
                 <num>36</num>

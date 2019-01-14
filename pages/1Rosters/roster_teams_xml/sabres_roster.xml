@@ -3,16 +3,6 @@
     <players>
         <forwards>
             <p>
-                <name>Patrik Berglund</name>
-                <num>10</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>215</w>
-                <bd>Jun 2, <y>1988</y></bd>
-                <bp>Västerås, <co>SWE</co></bp>
-            </p>
-            <p>
                 <name>Jack Eichel </name>
                 <cap>Captain</cap>
                 <num>9</num>
@@ -52,16 +42,6 @@
                 <w>202</w>
                 <bd>Jul 25, <y>1992</y></bd>
                 <bp>Lau, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Sean Malone</name>
-                <num>42</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>197</w>
-                <bd>Apr 30, <y>1995</y></bd>
-                <bp>Buffalo, NY, <co>USA</co></bp>
             </p>
             <p>
                 <name>Casey Mittelstadt</name>
@@ -154,16 +134,6 @@
                 <bd>Oct 30, <y>1997</y></bd>
                 <bp>Phoenix, AZ, <co>USA</co></bp>
             </p>
-            <p>
-                <name>Scott Wilson</name>
-                <num>20</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>186</w>
-                <bd>Apr 24, <y>1992</y></bd>
-                <bp>Oakville, ON, <co>CAN</co></bp>
-            </p>
         </forwards>
         <defense>
             <p>
@@ -195,6 +165,15 @@
                 <bp>Trollhattan, <co>SWE</co></bp>
             </p>
             <p>
+                <name>Matt Hunwick</name>
+                <num>48</num>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>194</w>
+                <bd>May 21, <y>1985</y></bd>
+                <bp>Warren, MI, <co>USA</co></bp>
+            </p>
+            <p>
                 <name>Jake McCabe</name>
                 <num>19</num>
                 <shot>L</shot>
@@ -213,6 +192,15 @@
                 <bp>Wisconsin Rapids, WI, <co>USA</co></bp>
             </p>
             <p>
+                <name>Lawrence Pilut</name>
+                <num>24</num>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>180</w>
+                <bd>Dec 30, <y>1995</y></bd>
+                <bp>Tingsryd, <co>SWE</co></bp>
+            </p>
+            <p>
                 <name>Rasmus Ristolainen</name>
                 <num>55</num>
                 <shot>R</shot>
@@ -229,15 +217,6 @@
                 <w>210</w>
                 <bd>Feb 23, <y>1990</y></bd>
                 <bp>Montreal, QC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Matt Tennyson</name>
-                <num>5</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>205</w>
-                <bd>Apr 23, <y>1990</y></bd>
-                <bp>Minneapolis, MN, <co>USA</co></bp>
             </p>
         </defense>
         <goalies>

@@ -13,16 +13,6 @@
                 <bp>St. Paul, AB, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Drake Caggiula</name>
-                <num>91</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 10"</h>
-                <w>176</w>
-                <bd>Jun 20, <y>1994</y></bd>
-                <bp>Pickering, ON, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Alex Chiasson</name>
                 <num>39</num>
                 <pos>RW</pos>
@@ -41,6 +31,16 @@
                 <w>208</w>
                 <bd>Oct 27, <y>1995</y></bd>
                 <bp>Cologne, <co>DEU</co></bp>
+            </p>
+            <p>
+                <name>Joseph Gambardella</name>
+                <num>45</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>196</w>
+                <bd>Dec 01, <y>1993</y></bd>
+                <bp>Staten Island, NY, <co>USA</co></bp>
             </p>
             <p>
                 <name>Zack Kassian</name>
@@ -126,14 +126,14 @@
                 <bp>Landshut, <co>DEU</co></bp>
             </p>
             <p>
-                <name>Ryan Strome</name>
-                <num>18</num>
+                <name>Ryan Spooner</name>
+                <num>23</num>
                 <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>194</w>
-                <bd>Jul 11, <y>1993</y></bd>
-                <bp>Mississauga, ON, <co>CAN</co></bp>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>191</w>
+                <bd>Jan 30, <y>1992</y></bd>
+                <bp>Ottawa, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Kailer Yamamoto</name>
@@ -157,13 +157,22 @@
                 <bp>Edmonton, AB, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Jason Garrison</name>
-                <num>13</num>
+                <name>Kevin Gravel</name>
+                <num>4</num>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>211</w>
+                <bd>Mar 06, <y>1992</y></bd>
+                <bp>Kingsford, MI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Caleb Jones</name>
+                <num>82</num>
                 <shot>L</shot>
                 <h>6' 1"</h>
-                <w>218</w>
-                <bd>Nov 13, <y>1984</y></bd>
-                <bp>White Rock, BC, <co>CAN</co></bp>
+                <w>194</w>
+                <bd>Jul 6, <y>1997</y></bd>
+                <bp>Arlington, TX, <co>USA</co></bp>
             </p>
             <p>
                 <name>Oscar Klefbom</name>
@@ -185,6 +194,15 @@
                 <bp>Skellefteå, <co>SWE</co></bp>
             </p>
             <p>
+                <name>Brandon Manning</name>
+                <num>26</num>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>205</w>
+                <bd>Jun 04, <y>1990</y></bd>
+                <bp>Prince George, BC, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Darnell Nurse</name>
                 <num>25</num>
                 <shot>L</shot>
@@ -192,6 +210,15 @@
                 <w>221</w>
                 <bd>Feb 4, <y>1995</y></bd>
                 <bp>Hamilton, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Alexander Petrovic</name>
+                <num>15</num>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>216</w>
+                <bd>Mar 03, <y>1992</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Kris Russell</name>

@@ -13,6 +13,16 @@
                 <bp>Rauma, <co>FIN</co></bp>
             </p>
             <p>
+                <name>Clark Bishop</name>
+                <num>64</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>199</w>
+                <bd>Mar 29, <y>1996</y></bd>
+                <bp>St. John's, NL, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Micheal Ferland</name>
                 <num>79</num>
                 <pos>LW</pos>
@@ -31,6 +41,16 @@
                 <w>190</w>
                 <bd>Apr 1, <y>1996</y></bd>
                 <bp>Markham, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Saku Maenalanen</name>
+                <num>8</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 4"</h>
+                <w>207</w>
+                <bd>May 29, <y>1994</y></bd>
+                <bp>Kemi, <co>FIN</co></bp>
             </p>
             <p>
                 <name>Jordan Martinook</name>
@@ -53,6 +73,16 @@
                 <bp>Fergus, ON, <co>CAN</co></bp>
             </p>
             <p>
+                <name>Greg McKegg</name>
+                <num>42</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>194</w>
+                <bd>Jun 17, <y>1992</y></bd>
+                <bp>St. Thomas, ON, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Victor Rask</name>
                 <num>49</num>
                 <pos>C</pos>
@@ -61,16 +91,6 @@
                 <w>200</w>
                 <bd>Mar 1, <y>1993</y></bd>
                 <bp>Leksand, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Nicolas Roy</name>
-                <num>58</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 4"</h>
-                <w>208</w>
-                <bd>Feb 5, <y>1997</y></bd>
-                <bp>Ams, QC, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Jordan Staal</name>
@@ -124,16 +144,6 @@
                 <bd>Oct 4, <y>1981</y></bd>
                 <bp>Cobourg, ON, <co>CAN</co></bp>
             </p>
-            <p>
-                <name>Valentin Zykov</name>
-                <num>73</num>
-                <pos>LW</pos>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>224</w>
-                <bd>May 15, <y>1995</y></bd>
-                <bp>St. Petersburg, <co>RUS</co></bp>
-            </p>
         </forwards>
         <defense>
             <p>
@@ -154,15 +164,6 @@
                 <w>215</w>
                 <bd>Mar 20, <y>1992</y></bd>
                 <bp>South St.Paul, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Haydn Fleury</name>
-                <num>4</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>221</w>
-                <bd>Jul 8, <y>1996</y></bd>
-                <bp>Carlyle, SK, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Dougie Hamilton</name>
@@ -202,14 +203,6 @@
             </p>
         </defense>
         <goalies>
-            <p>
-                <name>Scott Darling</name>
-                <num>33</num>
-                <h>6' 6"</h>
-                <w>232</w>
-                <bd>Dec 22, <y>1988</y></bd>
-                <bp>Newport News, VA, <co>USA</co></bp>
-            </p>
             <p>
                 <name>Curtis McElhinney</name>
                 <num>35</num>

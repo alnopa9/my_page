@@ -24,6 +24,16 @@
                 <bp>Minneapolis, MN, <co>USA</co></bp>
             </p>
             <p>
+                <name>Henrik Borgstrom</name>
+                <num>95</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>190</w>
+                <bd>Aug 06, <y>1997</y></bd>
+                <bp>Helsinki, <co>FIN</co></bp>
+            </p>
+            <p>
                 <name>Troy Brouwer</name>
                 <num>22</num>
                 <pos>RW</pos>
@@ -42,6 +52,26 @@
                 <w>185</w>
                 <bd>Mar 12, <y>1989</y></bd>
                 <bp>Chelyabinsk, <co>RUS</co></bp>
+            </p>
+            <p>
+                <name>Michael Haley</name>
+                <num>18</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>205</w>
+                <bd>Mar 30, <y>1986</y></bd>
+                <bp>Guelph, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Jayce Hawryluk</name>
+                <num>8</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>5' 11"</h>
+                <w>196</w>
+                <bd>Jan 01, <y>1996</y></bd>
+                <bp>Yorkton, SK, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Mike Hoffman</name>
@@ -93,16 +123,6 @@
                 <w>177</w>
                 <bd>Jan 18, <y>1997</y></bd>
                 <bp>Olten, <co>CHE</co></bp>
-            </p>
-            <p>
-                <name>Maxim Mamin</name>
-                <num>78</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>206</w>
-                <bd>Jan 13, <y>1995</y></bd>
-                <bp>Moscow, <co>RUS</co></bp>
             </p>
             <p>
                 <name>Jared McCann</name>
@@ -176,13 +196,13 @@
                 <bp>Pointe-Claire, QC, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Alexander Petrovic</name>
-                <num>6</num>
-                <shot>R</shot>
-                <h>6' 4"</h>
-                <w>216</w>
-                <bd>Mar 3, <y>1992</y></bd>
-                <bp>Edmonton, AB, <co>CAN</co></bp>
+                <name>Ian McCoshen</name>
+                <num>12</num>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>217</w>
+                <bd>Aug 05, <y>1995</y></bd>
+                <bp>Anaheim, CA, <co>USA</co></bp>
             </p>
             <p>
                 <name>Mark Pysyk</name>
@@ -214,14 +234,6 @@
             </p>
         </defense>
         <goalies>
-            <p>
-                <name>Michael Hutchinson</name>
-                <num>39</num>
-                <h>6' 3"</h>
-                <w>200</w>
-                <bd>Mar 2, <y>1990</y></bd>
-                <bp>Barrie, ON, <co>CAN</co></bp>
-            </p>
             <p>
                 <name>Roberto Luongo</name>
                 <num>1</num>

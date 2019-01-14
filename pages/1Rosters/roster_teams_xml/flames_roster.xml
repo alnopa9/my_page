@@ -33,16 +33,6 @@
                 <bp>Detroit, MI, <co>USA</co></bp>
             </p>
             <p>
-                <name>Dillon Dube</name>
-                <num>29</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>187</w>
-                <bd>Jul 20, <y>1998</y></bd>
-                <bp>Golden, BC, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Michael Frolik</name>
                 <num>67</num>
                 <pos>RW</pos>
@@ -93,6 +83,16 @@
                 <bp>Boden, <co>SWE</co></bp>
             </p>
             <p>
+                <name>Andrew Mangiapane</name>
+                <num>88</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>184</w>
+                <bd>Apr 04, <y>1996</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Sean Monahan</name>
                 <num>23</num>
                 <pos>C</pos>
@@ -111,16 +111,6 @@
                 <w>212</w>
                 <bd>Sep 3, <y>1987</y></bd>
                 <bp>Whitby, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Anthony Peluso</name>
-                <num>16</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>225</w>
-                <bd>Apr 18, <y>1989</y></bd>
-                <bp>North York, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Derek Ryan</name>
@@ -189,6 +179,15 @@
                 <w>215</w>
                 <bd>Jan 25, <y>1997</y></bd>
                 <bp>Boston, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Oliver Kylington</name>
+                <num>58</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>183</w>
+                <bd>May 19, <y>1997</y></bd>
+                <bp>Stockholm, <co>SWE</co></bp>
             </p>
             <p>
                 <name>Dalton Prout</name>

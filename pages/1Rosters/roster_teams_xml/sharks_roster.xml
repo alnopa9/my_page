@@ -3,16 +3,6 @@
     <players>
         <forwards>
             <p>
-                <name>Rourke Chartier</name>
-                <num>60</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>190</w>
-                <bd>Apr 3, <y>1996</y></bd>
-                <bp>Saskatoon, SK, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Logan Couture </name>
                 <cap>Assistant</cap>
                 <num>39</num>
@@ -105,6 +95,16 @@
                 <bp>Plover, WI, <co>USA</co></bp>
             </p>
             <p>
+                <name>Lukas Radil</name>
+                <num>52</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>200</w>
+                <bd>Aug 05, <y>1990</y></bd>
+                <bp>Caslav, <co>CZE</co></bp>
+            </p>
+            <p>
                 <name>Marcus Sorensen</name>
                 <num>20</num>
                 <pos>LW</pos>
@@ -113,16 +113,6 @@
                 <w>175</w>
                 <bd>Apr 7, <y>1992</y></bd>
                 <bp>Sodertalje, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Antti Suomela</name>
-                <num>40</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>180</w>
-                <bd>Mar 17, <y>1994</y></bd>
-                <bp>Espoo, <co>FIN</co></bp>
             </p>
             <p>
                 <name>Joe Thornton </name>

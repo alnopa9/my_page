@@ -3,6 +3,16 @@
     <players>
         <forwards>
             <p>
+                <name>Rudolfs Balcers</name>
+                <num>38</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>5' 11"</h>
+                <w>175</w>
+                <bd>Apr 08, <y>1997</y></bd>
+                <bp>Latvia, <co>LVA</co></bp>
+            </p>
+            <p>
                 <name>Mikkel Boedker</name>
                 <num>89</num>
                 <pos>LW</pos>
@@ -33,26 +43,6 @@
                 <bp>Wheaton, IL, <co>USA</co></bp>
             </p>
             <p>
-                <name>Alex Formenton</name>
-                <num>59</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>165</w>
-                <bd>Sep 13, <y>1999</y></bd>
-                <bp>Barrie, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Max McCormick</name>
-                <num>17</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>188</w>
-                <bd>May 1, <y>1992</y></bd>
-                <bp>De Pere, WI, <co>USA</co></bp>
-            </p>
-            <p>
                 <name>Magnus Paajarvi</name>
                 <num>56</num>
                 <pos>LW</pos>
@@ -81,26 +71,6 @@
                 <w>230</w>
                 <bd>Mar 20, <y>1995</y></bd>
                 <bp>Mississauga, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Tom Pyatt</name>
-                <num>10</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>185</w>
-                <bd>Feb 14, <y>1987</y></bd>
-                <bp>Thunder Bay, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Jack Rodewald</name>
-                <num>53</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>189</w>
-                <bd>Feb 14, <y>1994</y></bd>
-                <bp>Calgary, AB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Bobby Ryan</name>
@@ -175,15 +145,6 @@
                 <bp>Ottawa, ON, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Erik Burgdoerfer</name>
-                <num>46</num>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>207</w>
-                <bd>Dec 11, <y>1988</y></bd>
-                <bp>Abington, PA, <co>USA</co></bp>
-            </p>
-            <p>
                 <name>Cody Ceci</name>
                 <num>5</num>
                 <shot>R</shot>
@@ -209,6 +170,15 @@
                 <w>195</w>
                 <bd>May 1, <y>1993</y></bd>
                 <bp>London, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Justin Faulk</name>
+                <num>42</num>
+                <shot>L</shot>
+                <h>6' 5"</h>
+                <w>223</w>
+                <bd>Oct 11, <y>1988</y></bd>
+                <bp>Snowflake, MB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Ben Harpur</name>
@@ -238,13 +208,13 @@
                 <bp>Quebec City, QC, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Chris Wideman</name>
-                <num>6</num>
-                <shot>R</shot>
-                <h>5' 10"</h>
-                <w>183</w>
-                <bd>Jan 7, <y>1990</y></bd>
-                <bp>St. Louis, MO, <co>USA</co></bp>
+                <name>Christian Wolanin</name>
+                <num>86</num>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>185</w>
+                <bd>Mar 17, <y>1995</y></bd>
+                <bp>Quebec Citu, QC, <co>CAN</co></bp>
             </p>
         </defense>
         <goalies>
@@ -257,20 +227,20 @@
                 <bp>Park Ridge, IL, <co>USA</co></bp>
             </p>
             <p>
-                <name>Mike Condon</name>
-                <num>1</num>
-                <h>6' 2"</h>
-                <w>195</w>
-                <bd>Apr 27, <y>1990</y></bd>
-                <bp>Holliston, MA, <co>USA</co></bp>
+                <name>Marcus Hogberg</name>
+                <num>35</num>
+                <h>6' 5"</h>
+                <w>209</w>
+                <bd>Nov 25, <y>1994</y></bd>
+                <bp>Orebro, <co>SWE</co></bp>
             </p>
             <p>
-                <name>Mike McKenna</name>
-                <num>33</num>
-                <h>6' 2"</h>
-                <w>183</w>
-                <bd>Apr 11, <y>1983</y></bd>
-                <bp>St. Louis, MO, <co>USA</co></bp>
+                <name>Anders Nilsson</name>
+                <num>31</num>
+                <h>6' 6"</h>
+                <w>232</w>
+                <bd>Mar 19, <y>1990</y></bd>
+                <bp>Lulea, <co>SWE</co></bp>
             </p>
         </goalies>
     </players>

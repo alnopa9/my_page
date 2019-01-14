@@ -33,6 +33,16 @@
                 <bp>Mt. Brydges, ON, <co>CAN</co></bp>
             </p>
             <p>
+                <name>Laurent Dauphin</name>
+                <num>1</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>180</w>
+                <bd>Mar 27, <y>1995</y></bd>
+                <bp>Repentigny, QC, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Christian Dvorak</name>
                 <num>18</num>
                 <pos>C</pos>
@@ -61,6 +71,16 @@
                 <w>207</w>
                 <bd>Feb 12, <y>1994</y></bd>
                 <bp>Milwaukee, WI, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Conor Garland</name>
+                <num>19</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 1"</h>
+                <w>202</w>
+                <bd>Mar 11, <y>1996</y></bd>
+                <bp>Scituate, MA, <co>USA</co></bp>
             </p>
             <p>
                 <name>Michael Grabner</name>
@@ -93,6 +113,16 @@
                 <bp>Chesterfield, MO, <co>USA</co></bp>
             </p>
             <p>
+                <name>Mario Kempe</name>
+                <num>29</num>
+                <pos>RW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>185</w>
+                <bd>Sep 19, <y>1988</y></bd>
+                <bp>Kramsfors, <co>SWE</co></bp>
+            </p>
+            <p>
                 <name>Richard Panik</name>
                 <num>14</num>
                 <pos>RW</pos>
@@ -103,16 +133,6 @@
                 <bp>Martin, <co>SVK</co></bp>
             </p>
             <p>
-                <name>Brendan Perlini</name>
-                <num>11</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>211</w>
-                <bd>Apr 27, <y>1996</y></bd>
-                <bp>Guildford, <co>GBR</co></bp>
-            </p>
-            <p>
                 <name>Brad Richardson</name>
                 <num>15</num>
                 <pos>C</pos>
@@ -121,6 +141,16 @@
                 <w>190</w>
                 <bd>Feb 4, <y>1985</y></bd>
                 <bp>Belleville, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Nick Schmaltz</name>
+                <num>8</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>196</w>
+                <bd>Feb 23, <y>1996</y></bd>
+                <bp>Madison, WI, <co>USA</co></bp>
             </p>
             <p>
                 <name>Derek Stepan</name>
@@ -134,14 +164,14 @@
                 <bp>Hastings, MN, <co>USA</co></bp>
             </p>
             <p>
-                <name>Dylan Strome</name>
-                <num>20</num>
+                <name>Jordan Weal</name>
+                <num>26</num>
                 <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>200</w>
-                <bd>Mar 7, <y>1997</y></bd>
-                <bp>Mississauga, ON, <co>CAN</co></bp>
+                <shot>R</shot>
+                <h>5' 10"</h>
+                <w>179</w>
+                <bd>Apr 15, <y>1992</y></bd>
+                <bp>North Vancouver, BC, <co>CAN</co></bp>
             </p>
         </forwards>
         <defense>
@@ -228,6 +258,14 @@
                 <w>215</w>
                 <bd>May 5, <y>1990</y></bd>
                 <bp>Saskatoon, SK, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Calvin Pickard</name>
+                <num>30</num>
+                <h>6' 1"</h>
+                <w>207</w>
+                <bd>Apr 15, <y>1992</y></bd>
+                <bp>Moncton, NB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Antti Raanta</name>
