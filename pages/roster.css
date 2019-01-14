@@ -37,15 +37,14 @@ body{
 .western-conference-links{
     position: fixed;
     top: 5vH;
-    left: 0px;
-    width: 110px;
+    left: 0;
+    width: 10%;
     height: 100%;
-    padding: 2px 2px;
 }
 .central-division-links{
     display: flex;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     height: 45%;
     width: 100%;
@@ -54,7 +53,7 @@ body{
 .pacific-division-links{
     display: flex;
     justify-content: space-around;
-    align-items: flex-end;
+    align-items: center;
     flex-direction: column;
     height: 45%;
     width: 100%;
@@ -64,13 +63,13 @@ body{
     position: fixed;
     top: 5vH;
     right: 0px;
-    width: 110px;
+    width: 10%;
     height: 100%;
 }
 .metropolitan-division-links{
     display: flex;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     height: 45%;
     width: 100%;
@@ -79,9 +78,9 @@ body{
 .atlantic-division-links{
     display: flex;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     height: 45%;
     width: 100%;
     flex-wrap: wrap;
-}
+}   
