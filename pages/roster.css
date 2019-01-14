@@ -27,11 +27,6 @@ table{
     text-align: center;
     margin: auto;
 }
-.team-name{}
-.table-container{}
-.forwards{}
-.defense{}
-.goalies{}
 
 .side-bars{
     background-color: #000000;
@@ -39,6 +34,7 @@ table{
     top: 0vH;
     width: 100%;
 }
+hr.divisionDivider {border: 1px solid #ffffff}
 .western-conference-links{
     position: fixed;
     top: 5vH;
