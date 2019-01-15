@@ -11,8 +11,7 @@
             <head>
                 <link rel="stylesheet" href="../../roster.css"/>
                 <link rel="icon" href="logo.svg" sizes="any" type="image/svg+xml"/>
-                <title><xsl:apply-templates select="descendant::organization/@team"/> |
-                    Roster</title>
+                <title><xsl:apply-templates select="descendant::organization/@team"/> | Roster</title>
             </head>
             <body>
                 <xsl:comment> SSI line below </xsl:comment>
