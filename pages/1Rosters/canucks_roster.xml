@@ -3,16 +3,6 @@
     <players>
         <forwards>
             <p>
-                <name>Darren Archibald</name>
-                <num>49</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>210</w>
-                <bd>Feb 9, <y>1990</y></bd>
-                <bp>Newmarket, ON, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Sven Baertschi</name>
                 <num>47</num>
                 <pos>LW</pos>
@@ -63,16 +53,6 @@
                 <bp>Braintree, MA, <co>USA</co></bp>
             </p>
             <p>
-                <name>Brendan Gaunce</name>
-                <num>50</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>217</w>
-                <bd>Mar 25, <y>1994</y></bd>
-                <bp>Sudbury, ON, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Nikolay Goldobin</name>
                 <num>77</num>
                 <pos>RW</pos>
@@ -103,14 +83,14 @@
                 <bp>London, ON, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Brendan Leipsic</name>
-                <num>9</num>
+                <name>Josh Leivo</name>
+                <num>17</num>
                 <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 10"</h>
-                <w>179</w>
-                <bd>May 19, <y>1994</y></bd>
-                <bp>Winnipeg, MB, <co>CAN</co></bp>
+                <shot>R</shot>
+                <h>6' 2"</h>
+                <w>192</w>
+                <bd>May 26, <y>1993</y></bd>
+                <bp>Innisfil, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Tyler Motte</name>
@@ -184,15 +164,6 @@
                 <bp>Montreal, QC, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Jalen Chatfield</name>
-                <num>63</num>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>188</w>
-                <bd>May 15, <y>1996</y></bd>
-                <bp>Ypsilanti, MI, <co>USA</co></bp>
-            </p>
-            <p>
                 <name>Michael Del Zotto</name>
                 <num>4</num>
                 <shot>L</shot>
@@ -258,14 +229,6 @@
         </defense>
         <goalies>
             <p>
-                <name>Richard Bachman</name>
-                <num>32</num>
-                <h>5' 10"</h>
-                <w>183</w>
-                <bd>Jul 25, <y>1987</y></bd>
-                <bp>Salt Lake City, UT, <co>USA</co></bp>
-            </p>
-            <p>
                 <name>Thatcher Demko</name>
                 <num>35</num>
                 <h>6' 4"</h>
@@ -280,14 +243,6 @@
                 <w>206</w>
                 <bd>Jan 31, <y>1990</y></bd>
                 <bp>Gävle, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Anders Nilsson</name>
-                <num>31</num>
-                <h>6' 6"</h>
-                <w>232</w>
-                <bd>Mar 19, <y>1990</y></bd>
-                <bp>Lulea, <co>SWE</co></bp>
             </p>
         </goalies>
     </players>

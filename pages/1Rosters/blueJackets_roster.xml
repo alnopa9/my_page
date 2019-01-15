@@ -135,6 +135,16 @@
                 <bp>Ceské Budejovice, <co>CZE</co></bp>
             </p>
             <p>
+                <name>Kevin Stenlund</name>
+                <num>11</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 4"</h>
+                <w>210</w>
+                <bd>Sep 20, <y>1996</y></bd>
+                <bp>Stockholm, <co>SWE</co></bp>
+            </p>
+            <p>
                 <name>Alexander Wennberg</name>
                 <num>10</num>
                 <pos>C</pos>
@@ -146,15 +156,6 @@
             </p>
         </forwards>
         <defense>
-            <p>
-                <name>Adam Clendening</name>
-                <num>6</num>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>196</w>
-                <bd>Oct 26, <y>1992</y></bd>
-                <bp>Niagara Falls, NY, <co>USA</co></bp>
-            </p>
             <p>
                 <name>Scott Harrington</name>
                 <num>4</num>

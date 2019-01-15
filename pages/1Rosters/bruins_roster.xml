@@ -34,14 +34,14 @@
                 <bp>Ancienne-Lorette, QC, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Anders Bjork</name>
-                <num>10</num>
-                <pos>LW</pos>
+                <name>Colby Cave</name>
+                <num>26</num>
+                <pos>C</pos>
                 <shot>L</shot>
-                <h>6' 0"</h>
-                <w>190</w>
-                <bd>Aug 5, <y>1996</y></bd>
-                <bp>Mequon, WI, <co>USA</co></bp>
+                <h>6' 1"</h>
+                <w>200</w>
+                <bd>Dec 26, <y>1994</y></bd>
+                <bp>Battleford, SK, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Jake DeBrusk</name>
@@ -62,6 +62,16 @@
                 <w>193</w>
                 <bd>Apr 9, <y>1996</y></bd>
                 <bp>Boston, MA, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jakob Forsbacka Karlsson</name>
+                <num>23</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 1"</h>
+                <w>184</w>
+                <bd>Oct 31, <y>1996</y></bd>
+                <bp>Stockholm, <co>SWE</co></bp>
             </p>
             <p>
                 <name>Danton Heinen</name>
@@ -183,15 +193,6 @@
                 <bp>Livonia, MI, <co>USA</co></bp>
             </p>
             <p>
-                <name>Jeremy Lauzon</name>
-                <num>79</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>204</w>
-                <bd>Apr 28, <y>1997</y></bd>
-                <bp>Val D'or, QC, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>Charlie McAvoy</name>
                 <num>73</num>
                 <shot>R</shot>
@@ -217,15 +218,6 @@
                 <w>210</w>
                 <bd>Nov 19, <y>1990</y></bd>
                 <bp>Winnetka, IL, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Urho Vaakainen</name>
-                <num>58</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>185</w>
-                <bd>Jan 1, <y>1999</y></bd>
-                <bp>Joensuu, <co>FIN</co></bp>
             </p>
         </defense>
         <goalies>

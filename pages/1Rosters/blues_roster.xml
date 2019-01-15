@@ -13,6 +13,16 @@
                 <bp>Moscow, <co>RUS</co></bp>
             </p>
             <p>
+                <name>Sammy Blais</name>
+                <num>9</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>205</w>
+                <bd>Jun 17, <y>1996</y></bd>
+                <bp>Montmagny, QC, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Tyler Bozak</name>
                 <num>21</num>
                 <pos>C</pos>
@@ -33,6 +43,26 @@
                 <bp>Mississauga, ON, <co>CAN</co></bp>
             </p>
             <p>
+                <name>Jordan Kyrou</name>
+                <num>33</num>
+                <pos>C</pos>
+                <shot>R</shot>
+                <h>6' 0"</h>
+                <w>175</w>
+                <bd>May 05, <y>1998</y></bd>
+                <bp>Toronto, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>MacKenzie MacEachern</name>
+                <num>62</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>190</w>
+                <bd>Mar 09, <y>1994</y></bd>
+                <bp>Bloomfield Hills, MI, <co>USA</co></bp>
+            </p>
+            <p>
                 <name>Pat Maroon</name>
                 <num>7</num>
                 <pos>LW</pos>
@@ -41,6 +71,16 @@
                 <w>225</w>
                 <bd>Apr 23, <y>1988</y></bd>
                 <bp>St. Louis, MO, <co>USA</co></bp>
+            </p>
+            <p>
+                <name>Jordan Nolan</name>
+                <num>71</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>219</w>
+                <bd>Jun 23, <y>1989</y></bd>
+                <bp>Garden River, First Nations, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Ryan O'Reilly</name>
@@ -91,16 +131,6 @@
                 <w>190</w>
                 <bd>Jun 25, <y>1992</y></bd>
                 <bp>Wilcox, SK, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Nikita Soshnikov</name>
-                <num>86</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>185</w>
-                <bd>Oct 14, <y>1993</y></bd>
-                <bp>Nizhny Tagil, <co>RUS</co></bp>
             </p>
             <p>
                 <name>Alexander Steen</name>
@@ -210,15 +240,6 @@
                 <bd>Jan 18, <y>1990</y></bd>
                 <bp>King City, ON, <co>CAN</co></bp>
             </p>
-            <p>
-                <name>Jordan Schmaltz</name>
-                <num>43</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>190</w>
-                <bd>Oct 8, <y>1993</y></bd>
-                <bp>Madison, WI, <co>USA</co></bp>
-            </p>
         </defense>
         <goalies>
             <p>
@@ -230,12 +251,12 @@
                 <bp>Fredericton, NB, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Chad Johnson</name>
-                <num>31</num>
-                <h>6' 3"</h>
-                <w>197</w>
-                <bd>Jun 10, <y>1986</y></bd>
-                <bp>Saskatoon, SK, <co>CAN</co></bp>
+                <name>Jordan Binnington</name>
+                <num>50</num>
+                <h>6' 1"</h>
+                <w>174</w>
+                <bd>Jul 11, <y>1993</y></bd>
+                <bp>Richmond Hill, ON, <co>CAN</co></bp>
             </p>
         </goalies>
     </players>

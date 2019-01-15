@@ -3,6 +3,16 @@
     <players>
         <forwards>
             <p>
+                <name>Kenny Agostino</name>
+                <num>47</num>
+                <pos>LW</pos>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>199</w>
+                <bd>Apr 30, <y>1992</y></bd>
+                <bp>Morristown, NJ, <co>USA</co></bp>
+            </p>
+            <p>
                 <name>Joel Armia</name>
                 <num>40</num>
                 <pos>RW</pos>
@@ -22,6 +32,16 @@
                 <w>163</w>
                 <bd>Apr 27, <y>1989</y></bd>
                 <bp>Ottawa, ON, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Michael Chaput</name>
+                <num>43</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>6' 2"</h>
+                <w>199</w>
+                <bd>Apr 09, <y>1992</y></bd>
+                <bp>Ile Bizard, QC, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Phillip Danault</name>
@@ -115,26 +135,6 @@
                 <bp>Petawawa, ON, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Tomas Plekanec</name>
-                <num>14</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>190</w>
-                <bd>Oct 31, <y>1982</y></bd>
-                <bp>Kladno, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Nikita Scherbak</name>
-                <num>38</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>192</w>
-                <bd>Dec 30, <y>1995</y></bd>
-                <bp>Moscow, <co>RUS</co></bp>
-            </p>
-            <p>
                 <name>Andrew Shaw</name>
                 <num>65</num>
                 <pos>RW</pos>
@@ -175,13 +175,13 @@
                 <bp>Victoria, BC, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Noah Juulsen</name>
-                <num>58</num>
-                <shot>R</shot>
+                <name>Brett Kulak</name>
+                <num>17</num>
+                <shot>L</shot>
                 <h>6' 2"</h>
-                <w>193</w>
-                <bd>Apr 2, <y>1997</y></bd>
-                <bp>Surrey, BC, <co>CAN</co></bp>
+                <w>187</w>
+                <bd>Jan 06, <y>1994</y></bd>
+                <bp>Edmonton, AB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Victor Mete</name>
@@ -191,15 +191,6 @@
                 <w>183</w>
                 <bd>Jun 7, <y>1998</y></bd>
                 <bp>Woodbridge, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Xavier Ouellet</name>
-                <num>61</num>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>196</w>
-                <bd>Jul 29, <y>1993</y></bd>
-                <bp>Bayonne, <co>FRA</co></bp>
             </p>
             <p>
                 <name>Jeff Petry</name>
@@ -218,15 +209,6 @@
                 <w>195</w>
                 <bd>Jul 13, <y>1993</y></bd>
                 <bp>Chicago, IL, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>David Schlemko</name>
-                <num>21</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>191</w>
-                <bd>May 7, <y>1987</y></bd>
-                <bp>Edmonton, AB, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Shea Weber</name>

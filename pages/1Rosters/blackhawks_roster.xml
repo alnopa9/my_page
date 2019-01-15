@@ -13,6 +13,16 @@
                 <bp>Yaroslavl, <co>RUS</co></bp>
             </p>
             <p>
+                <name>Drake Caggiula</name>
+                <num>91</num>
+                <pos>C</pos>
+                <shot>L</shot>
+                <h>5' 10"</h>
+                <w>176</w>
+                <bd>Jun 20, <y>1994</y></bd>
+                <bp>Pickering, ON, <co>CAN</co></bp>
+            </p>
+            <p>
                 <name>Alex DeBrincat</name>
                 <num>12</num>
                 <pos>RW</pos>
@@ -23,16 +33,6 @@
                 <bp>Farmington Hills, MI, <co>USA</co></bp>
             </p>
             <p>
-                <name>Alexandre Fortin</name>
-                <num>84</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>184</w>
-                <bd>Feb 25, <y>1997</y></bd>
-                <bp>Blainville, QC, <co>CAN</co></bp>
-            </p>
-            <p>
                 <name>John Hayden</name>
                 <num>40</num>
                 <pos>RW</pos>
@@ -41,16 +41,6 @@
                 <w>215</w>
                 <bd>Feb 14, <y>1995</y></bd>
                 <bp>Chicago, IL, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Luke Johnson</name>
-                <num>62</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>179</w>
-                <bd>Sep 19, <y>1994</y></bd>
-                <bp>Grand Forks, ND, <co>USA</co></bp>
             </p>
             <p>
                 <name>Dominik Kahun</name>
@@ -103,14 +93,14 @@
                 <bp>Regina, SK, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Andreas Martinsen</name>
-                <num>29</num>
+                <name>Brendan Perlini</name>
+                <num>11</num>
                 <pos>LW</pos>
                 <shot>L</shot>
                 <h>6' 3"</h>
-                <w>229</w>
-                <bd>Jun 13, <y>1990</y></bd>
-                <bp>Bærum, <co>NOR</co></bp>
+                <w>211</w>
+                <bd>Apr 27, <y>1996</y></bd>
+                <bp>Regina, SK, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Brandon Saad</name>
@@ -123,14 +113,14 @@
                 <bp>Pittsburgh, PA, <co>USA</co></bp>
             </p>
             <p>
-                <name>Nick Schmaltz</name>
-                <num>8</num>
+                <name>Dylan Strome</name>
+                <num>17</num>
                 <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>177</w>
-                <bd>Feb 23, <y>1996</y></bd>
-                <bp>Madison, WI, <co>USA</co></bp>
+                <shot>L</shot>
+                <h>6' 3"</h>
+                <w>200</w>
+                <bd>Mar 07, <y>1997</y></bd>
+                <bp>Mississauga, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Jonathan Toews</name>
@@ -146,13 +136,22 @@
         </forwards>
         <defense>
             <p>
-                <name>Brandon Davidson</name>
-                <num>22</num>
+                <name>Carl Dahlstrom</name>
+                <num>63</num>
                 <shot>L</shot>
-                <h>6' 2"</h>
-                <w>208</w>
-                <bd>Aug 21, <y>1991</y></bd>
-                <bp>Taber, AB, <co>CAN</co></bp>
+                <h>6' 4"</h>
+                <w>231</w>
+                <bd>Jan 28, <y>1995</y></bd>
+                <bp>Stockholm, <co>SWE</co></bp>
+            </p>
+            <p>
+                <name>Gustav Forsling</name>
+                <num>42</num>
+                <shot>L</shot>
+                <h>6' 0"</h>
+                <w>197</w>
+                <bd>Jun 12, <y>1996</y></bd>
+                <bp>Hull, QC, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Erik Gustafsson</name>
@@ -183,13 +182,13 @@
                 <bp>Winnipeg, MB, <co>CAN</co></bp>
             </p>
             <p>
-                <name>Brandon Manning</name>
-                <num>23</num>
+                <name>Slater Koekkoek</name>
+                <num>68</num>
                 <shot>L</shot>
-                <h>6' 1"</h>
-                <w>205</w>
-                <bd>Jun 4, <y>1990</y></bd>
-                <bp>Prince George, BC, <co>CAN</co></bp>
+                <h>6' 2"</h>
+                <w>193</w>
+                <bd>Feb 18, <y>1994</y></bd>
+                <bp>Winchester, ON, <co>CAN</co></bp>
             </p>
             <p>
                 <name>Connor Murphy</name>
@@ -199,15 +198,6 @@
                 <w>212</w>
                 <bd>Mar 26, <y>1993</y></bd>
                 <bp>Dublin, OH, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Jan Rutta</name>
-                <num>44</num>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>200</w>
-                <bd>Jul 29, <y>1990</y></bd>
-                <bp>Pisek, <co>CZE</co></bp>
             </p>
             <p>
                 <name>Brent Seabrook</name>
@@ -227,6 +217,14 @@
                 <h>6' 2"</h>
                 <w>216</w>
                 <bd>Dec 31, <y>1984</y></bd>
+                <bp>Montreal, QC, <co>CAN</co></bp>
+            </p>
+            <p>
+                <name>Collin Delia</name>
+                <num>60</num>
+                <h>6' 2"</h>
+                <w>208</w>
+                <bd>Jun 20, <y>1994</y></bd>
                 <bp>Montreal, QC, <co>CAN</co></bp>
             </p>
             <p>
