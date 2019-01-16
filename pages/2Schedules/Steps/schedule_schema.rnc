@@ -21,8 +21,8 @@ destination = element destination {"vs"|"@"}
 against = element against {"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
     "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild"}
 outcome = element outcome {type?, win?, lose?}
-win = element win {pts, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
+win = element win {points, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
     "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild")}
-lose = element lose {pts, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
+lose = element lose {points, ("undecided"|"Avalanche"|"Blackhawks"|"Blue Jackets"|"Blues"|"Bruins"|"Canadiens"|"Canucks"|"Coyotes"|"Devils"|"Flames"|"Flyers"|"Golden Knights"|"Hurricanes"|"Islanders"|
     "Jets"|"Kings"|"Lightning"|"Maple Leafs"|"Oilers"|"Panthers"|"Penguins"|"Predators"|"Rangers"|"Red Wings"|"Sabres"|"Capitals"|"Ducks"|"Senators"|"Sharks"|"Stars"|"Wild")}
-pts = attribute pts {"0"|"1"|"2"|""}
+points = attribute pts {"0"|"1"|"2"|""}
