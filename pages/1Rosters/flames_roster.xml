@@ -1,239 +1,244 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<organization team="flames">
-    <players>
-        <forwards>
-            <p>
-                <name>Mikael Backlund</name>
-                <num>11</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>200</w>
-                <bd>Mar 17, <y>1989</y></bd>
-                <bp>Vasteras, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Sam Bennett</name>
-                <num>93</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>195</w>
-                <bd>Jun 20, <y>1996</y></bd>
-                <bp>Holland Landing, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Austin Czarnik</name>
-                <num>27</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 9"</h>
-                <w>170</w>
-                <bd>Dec 12, <y>1992</y></bd>
-                <bp>Detroit, MI, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Michael Frolik</name>
-                <num>67</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>190</w>
-                <bd>Feb 17, <y>1988</y></bd>
-                <bp>Kladno, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Johnny Gaudreau</name>
-                <num>13</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 9"</h>
-                <w>165</w>
-                <bd>Aug 13, <y>1993</y></bd>
-                <bp>Salem, NJ, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Garnet Hathaway</name>
-                <num>21</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>210</w>
-                <bd>Nov 23, <y>1991</y></bd>
-                <bp>Kennebunkport, ME, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Mark Jankowski</name>
-                <num>77</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>212</w>
-                <bd>Sep 13, <y>1994</y></bd>
-                <bp>Hamilton, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Elias Lindholm</name>
-                <num>28</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>195</w>
-                <bd>Dec 2, <y>1994</y></bd>
-                <bp>Boden, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Andrew Mangiapane</name>
-                <num>88</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 10"</h>
-                <w>184</w>
-                <bd>Apr 04, <y>1996</y></bd>
-                <bp>Toronto, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Sean Monahan</name>
-                <num>23</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>200</w>
-                <bd>Oct 12, <y>1994</y></bd>
-                <bp>Brampton, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>James Neal</name>
-                <num>18</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>212</w>
-                <bd>Sep 3, <y>1987</y></bd>
-                <bp>Whitby, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Derek Ryan</name>
-                <num>10</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 10"</h>
-                <w>185</w>
-                <bd>Dec 29, <y>1986</y></bd>
-                <bp>Spokane, WA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Matthew Tkachuk</name>
-                <num>19</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>202</w>
-                <bd>Dec 11, <y>1997</y></bd>
-                <bp>Scottsdale, AZ, <co>USA</co></bp>
-            </p>
-        </forwards>
-        <defense>
-            <p>
-                <name>Rasmus Andersson</name>
-                <num>4</num>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>214</w>
-                <bd>Oct 27, <y>1996</y></bd>
-                <bp>Malmo, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>TJ Brodie</name>
-                <num>7</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>185</w>
-                <bd>Jun 7, <y>1990</y></bd>
-                <bp>Chatham, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Mark Giordano</name>
-                <cap>Captain</cap>
-                <num>5</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>200</w>
-                <bd>Oct 3, <y>1983</y></bd>
-                <bp>Toronto, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Travis Hamonic</name>
-                <num>24</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>205</w>
-                <bd>Aug 16, <y>1990</y></bd>
-                <bp>St. Malo, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Noah Hanifin</name>
-                <num>55</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>215</w>
-                <bd>Jan 25, <y>1997</y></bd>
-                <bp>Boston, MA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Oliver Kylington</name>
-                <num>58</num>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>183</w>
-                <bd>May 19, <y>1997</y></bd>
-                <bp>Stockholm, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Dalton Prout</name>
-                <num>6</num>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>215</w>
-                <bd>Mar 13, <y>1990</y></bd>
-                <bp>Kingsville, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Michael Stone</name>
-                <num>26</num>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>210</w>
-                <bd>Jun 7, <y>1990</y></bd>
-                <bp>Winnipeg, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Juuso Valimaki</name>
-                <num>8</num>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>212</w>
-                <bd>Oct 6, <y>1998</y></bd>
-                <bp>Tampere, <co>FIN</co></bp>
-            </p>
-        </defense>
-        <goalies>
-            <p>
-                <name>David Rittich</name>
-                <num>33</num>
-                <h>6' 3"</h>
-                <w>206</w>
-                <bd>Aug 19, <y>1992</y></bd>
-                <bp>Jihlava, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Mike Smith</name>
-                <num>41</num>
-                <h>6' 5"</h>
-                <w>220</w>
-                <bd>Mar 22, <y>1982</y></bd>
-                <bp>Kingston, ON, <co>CAN</co></bp>
-            </p>
-        </goalies>
-    </players>
-</organization>
+<?xml-model href="Steps/division%20roster.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <division type="pacific">
+        <organization team="flames">
+            <players>
+                <forwards>
+                    <p>
+                        <name>Mikael Backlund</name>
+                        <num>11</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>200</w>
+                        <bd>Mar 17, <y>1989</y></bd>
+                        <bp>Vasteras, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Sam Bennett</name>
+                        <num>93</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>195</w>
+                        <bd>Jun 20, <y>1996</y></bd>
+                        <bp>Holland Landing, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Austin Czarnik</name>
+                        <num>27</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>5' 9"</h>
+                        <w>170</w>
+                        <bd>Dec 12, <y>1992</y></bd>
+                        <bp>Detroit, MI, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Michael Frolik</name>
+                        <num>67</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>190</w>
+                        <bd>Feb 17, <y>1988</y></bd>
+                        <bp>Kladno, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Johnny Gaudreau</name>
+                        <num>13</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>5' 9"</h>
+                        <w>165</w>
+                        <bd>Aug 13, <y>1993</y></bd>
+                        <bp>Salem, NJ, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Garnet Hathaway</name>
+                        <num>21</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>210</w>
+                        <bd>Nov 23, <y>1991</y></bd>
+                        <bp>Kennebunkport, ME, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Mark Jankowski</name>
+                        <num>77</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 4"</h>
+                        <w>212</w>
+                        <bd>Sep 13, <y>1994</y></bd>
+                        <bp>Hamilton, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Elias Lindholm</name>
+                        <num>28</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>195</w>
+                        <bd>Dec 2, <y>1994</y></bd>
+                        <bp>Boden, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Andrew Mangiapane</name>
+                        <num>88</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>5' 10"</h>
+                        <w>184</w>
+                        <bd>Apr 04, <y>1996</y></bd>
+                        <bp>Toronto, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Sean Monahan</name>
+                        <num>23</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>200</w>
+                        <bd>Oct 12, <y>1994</y></bd>
+                        <bp>Brampton, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>James Neal</name>
+                        <num>18</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>212</w>
+                        <bd>Sep 3, <y>1987</y></bd>
+                        <bp>Whitby, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Derek Ryan</name>
+                        <num>10</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>5' 10"</h>
+                        <w>185</w>
+                        <bd>Dec 29, <y>1986</y></bd>
+                        <bp>Spokane, WA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Matthew Tkachuk</name>
+                        <num>19</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>202</w>
+                        <bd>Dec 11, <y>1997</y></bd>
+                        <bp>Scottsdale, AZ, <co>USA</co></bp>
+                    </p>
+                </forwards>
+                <defense>
+                    <p>
+                        <name>Rasmus Andersson</name>
+                        <num>4</num>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>214</w>
+                        <bd>Oct 27, <y>1996</y></bd>
+                        <bp>Malmo, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>TJ Brodie</name>
+                        <num>7</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>185</w>
+                        <bd>Jun 7, <y>1990</y></bd>
+                        <bp>Chatham, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Mark Giordano</name>
+                        <cap>Captain</cap>
+                        <num>5</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>200</w>
+                        <bd>Oct 3, <y>1983</y></bd>
+                        <bp>Toronto, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Travis Hamonic</name>
+                        <num>24</num>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>205</w>
+                        <bd>Aug 16, <y>1990</y></bd>
+                        <bp>St. Malo, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Noah Hanifin</name>
+                        <num>55</num>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>215</w>
+                        <bd>Jan 25, <y>1997</y></bd>
+                        <bp>Boston, MA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Oliver Kylington</name>
+                        <num>58</num>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>183</w>
+                        <bd>May 19, <y>1997</y></bd>
+                        <bp>Stockholm, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Dalton Prout</name>
+                        <num>6</num>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>215</w>
+                        <bd>Mar 13, <y>1990</y></bd>
+                        <bp>Kingsville, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Michael Stone</name>
+                        <num>26</num>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>210</w>
+                        <bd>Jun 7, <y>1990</y></bd>
+                        <bp>Winnipeg, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Juuso Valimaki</name>
+                        <num>8</num>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>212</w>
+                        <bd>Oct 6, <y>1998</y></bd>
+                        <bp>Tampere, <co>FIN</co></bp>
+                    </p>
+                </defense>
+                <goalies>
+                    <p>
+                        <name>David Rittich</name>
+                        <num>33</num>
+                        <h>6' 3"</h>
+                        <w>206</w>
+                        <bd>Aug 19, <y>1992</y></bd>
+                        <bp>Jihlava, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Mike Smith</name>
+                        <num>41</num>
+                        <h>6' 5"</h>
+                        <w>220</w>
+                        <bd>Mar 22, <y>1982</y></bd>
+                        <bp>Kingston, ON, <co>CAN</co></bp>
+                    </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>

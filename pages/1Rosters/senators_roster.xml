@@ -1,247 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<organization team="senators">
-    <players>
-        <forwards>
-            <p>
-                <name>Rudolfs Balcers</name>
-                <num>38</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>175</w>
-                <bd>Apr 08, <y>1997</y></bd>
-                <bp>Latvia, <co>LVA</co></bp>
-            </p>
-            <p>
-                <name>Mikkel Boedker</name>
-                <num>89</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>210</w>
-                <bd>Dec 16, <y>1989</y></bd>
-                <bp>Brondby, <co>DNK</co></bp>
-            </p>
-            <p>
-                <name>Matt Duchene</name>
-                <num>95</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>195</w>
-                <bd>Jan 16, <y>1991</y></bd>
-                <bp>Haliburton, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Ryan Dzingel</name>
-                <num>18</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>190</w>
-                <bd>Mar 9, <y>1992</y></bd>
-                <bp>Wheaton, IL, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Magnus Paajarvi</name>
-                <num>56</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>206</w>
-                <bd>Apr 12, <y>1991</y></bd>
-                <bp>Norrkoping, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Jean-Gabriel Pageau</name>
-                <num>44</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 10"</h>
-                <w>184</w>
-                <bd>Nov 11, <y>1992</y></bd>
-                <bp>Ottawa, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Nick Paul</name>
-                <num>13</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>230</w>
-                <bd>Mar 20, <y>1995</y></bd>
-                <bp>Mississauga, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Bobby Ryan</name>
-                <num>9</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>209</w>
-                <bd>Mar 17, <y>1987</y></bd>
-                <bp>Cherry Hill, NJ, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Zack Smith</name>
-                <num>15</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>208</w>
-                <bd>Apr 5, <y>1988</y></bd>
-                <bp>Maple Creek, SK, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Mark Stone </name>
-                <cap>Assistant</cap>
-                <num>61</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 4"</h>
-                <w>219</w>
-                <bd>May 13, <y>1992</y></bd>
-                <bp>Winnipeg, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Chris Tierney</name>
-                <num>71</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>195</w>
-                <bd>Jul 1, <y>1994</y></bd>
-                <bp>Keswick, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Brady Tkachuk</name>
-                <num>7</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>196</w>
-                <bd>Sep 16, <y>1999</y></bd>
-                <bp>Scottsdale, AZ, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Colin White</name>
-                <num>36</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>183</w>
-                <bd>Jan 30, <y>1997</y></bd>
-                <bp>Boston, MA, <co>USA</co></bp>
-            </p>
-        </forwards>
-        <defense>
-            <p>
-                <name>Mark Borowiecki</name>
-                <num>74</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>207</w>
-                <bd>Jul 12, <y>1989</y></bd>
-                <bp>Ottawa, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Cody Ceci</name>
-                <num>5</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>209</w>
-                <bd>Dec 21, <y>1993</y></bd>
-                <bp>Ottawa, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Thomas Chabot</name>
-                <num>72</num>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>196</w>
-                <bd>Jan 30, <y>1997</y></bd>
-                <bp>Sainte-Marie, QC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Dylan DeMelo</name>
-                <num>2</num>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>195</w>
-                <bd>May 1, <y>1993</y></bd>
-                <bp>London, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Justin Faulk</name>
-                <num>42</num>
-                <shot>L</shot>
-                <h>6' 5"</h>
-                <w>223</w>
-                <bd>Oct 11, <y>1988</y></bd>
-                <bp>Snowflake, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Ben Harpur</name>
-                <num>67</num>
-                <shot>L</shot>
-                <h>6' 6"</h>
-                <w>222</w>
-                <bd>Jan 12, <y>1995</y></bd>
-                <bp>Hamilton, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Christian Jaros</name>
-                <num>83</num>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>201</w>
-                <bd>Apr 2, <y>1996</y></bd>
-                <bp>Kosice, <co>SVK</co></bp>
-            </p>
-            <p>
-                <name>Maxime Lajoie</name>
-                <num>58</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>183</w>
-                <bd>Nov 5, <y>1997</y></bd>
-                <bp>Quebec City, QC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Christian Wolanin</name>
-                <num>86</num>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>185</w>
-                <bd>Mar 17, <y>1995</y></bd>
-                <bp>Quebec Citu, QC, <co>CAN</co></bp>
-            </p>
-        </defense>
-        <goalies>
-            <p>
-                <name>Craig Anderson</name>
-                <num>41</num>
-                <h>6' 2"</h>
-                <w>185</w>
-                <bd>May 21, <y>1981</y></bd>
-                <bp>Park Ridge, IL, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Marcus Hogberg</name>
-                <num>35</num>
-                <h>6' 5"</h>
-                <w>209</w>
-                <bd>Nov 25, <y>1994</y></bd>
-                <bp>Orebro, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Anders Nilsson</name>
-                <num>31</num>
-                <h>6' 6"</h>
-                <w>232</w>
-                <bd>Mar 19, <y>1990</y></bd>
-                <bp>Lulea, <co>SWE</co></bp>
-            </p>
-        </goalies>
-    </players>
-</organization>
+<?xml-model href="Steps/division%20roster.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <division type="atlantic">
+        <organization team="senators">
+            <players>
+                <forwards>
+                    <p>
+                        <name>Rudolfs Balcers</name>
+                        <num>38</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>175</w>
+                        <bd>Apr 08, <y>1997</y></bd>
+                        <bp>Latvia, <co>LVA</co></bp>
+                    </p>
+                    <p>
+                        <name>Mikkel Boedker</name>
+                        <num>89</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>210</w>
+                        <bd>Dec 16, <y>1989</y></bd>
+                        <bp>Brondby, <co>DNK</co></bp>
+                    </p>
+                    <p>
+                        <name>Matt Duchene</name>
+                        <num>95</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>195</w>
+                        <bd>Jan 16, <y>1991</y></bd>
+                        <bp>Haliburton, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Ryan Dzingel</name>
+                        <num>18</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>190</w>
+                        <bd>Mar 9, <y>1992</y></bd>
+                        <bp>Wheaton, IL, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Magnus Paajarvi</name>
+                        <num>56</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>206</w>
+                        <bd>Apr 12, <y>1991</y></bd>
+                        <bp>Norrkoping, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Jean-Gabriel Pageau</name>
+                        <num>44</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>5' 10"</h>
+                        <w>184</w>
+                        <bd>Nov 11, <y>1992</y></bd>
+                        <bp>Ottawa, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Nick Paul</name>
+                        <num>13</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 4"</h>
+                        <w>230</w>
+                        <bd>Mar 20, <y>1995</y></bd>
+                        <bp>Mississauga, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Bobby Ryan</name>
+                        <num>9</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>209</w>
+                        <bd>Mar 17, <y>1987</y></bd>
+                        <bp>Cherry Hill, NJ, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Zack Smith</name>
+                        <num>15</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>208</w>
+                        <bd>Apr 5, <y>1988</y></bd>
+                        <bp>Maple Creek, SK, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Mark Stone </name>
+                        <cap>Assistant</cap>
+                        <num>61</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 4"</h>
+                        <w>219</w>
+                        <bd>May 13, <y>1992</y></bd>
+                        <bp>Winnipeg, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Chris Tierney</name>
+                        <num>71</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>195</w>
+                        <bd>Jul 1, <y>1994</y></bd>
+                        <bp>Keswick, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Brady Tkachuk</name>
+                        <num>7</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>196</w>
+                        <bd>Sep 16, <y>1999</y></bd>
+                        <bp>Scottsdale, AZ, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Colin White</name>
+                        <num>36</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>183</w>
+                        <bd>Jan 30, <y>1997</y></bd>
+                        <bp>Boston, MA, <co>USA</co></bp>
+                    </p>
+                </forwards>
+                <defense>
+                    <p>
+                        <name>Mark Borowiecki</name>
+                        <num>74</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>207</w>
+                        <bd>Jul 12, <y>1989</y></bd>
+                        <bp>Ottawa, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Cody Ceci</name>
+                        <num>5</num>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>209</w>
+                        <bd>Dec 21, <y>1993</y></bd>
+                        <bp>Ottawa, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Thomas Chabot</name>
+                        <num>72</num>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>196</w>
+                        <bd>Jan 30, <y>1997</y></bd>
+                        <bp>Sainte-Marie, QC, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Dylan DeMelo</name>
+                        <num>2</num>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>195</w>
+                        <bd>May 1, <y>1993</y></bd>
+                        <bp>London, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Justin Faulk</name>
+                        <num>42</num>
+                        <shot>L</shot>
+                        <h>6' 5"</h>
+                        <w>223</w>
+                        <bd>Oct 11, <y>1988</y></bd>
+                        <bp>Snowflake, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Ben Harpur</name>
+                        <num>67</num>
+                        <shot>L</shot>
+                        <h>6' 6"</h>
+                        <w>222</w>
+                        <bd>Jan 12, <y>1995</y></bd>
+                        <bp>Hamilton, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Christian Jaros</name>
+                        <num>83</num>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>201</w>
+                        <bd>Apr 2, <y>1996</y></bd>
+                        <bp>Kosice, <co>SVK</co></bp>
+                    </p>
+                    <p>
+                        <name>Maxime Lajoie</name>
+                        <num>58</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>183</w>
+                        <bd>Nov 5, <y>1997</y></bd>
+                        <bp>Quebec City, QC, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Christian Wolanin</name>
+                        <num>86</num>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>185</w>
+                        <bd>Mar 17, <y>1995</y></bd>
+                        <bp>Quebec Citu, QC, <co>CAN</co></bp>
+                    </p>
+                </defense>
+                <goalies>
+                    <p>
+                        <name>Craig Anderson</name>
+                        <num>41</num>
+                        <h>6' 2"</h>
+                        <w>185</w>
+                        <bd>May 21, <y>1981</y></bd>
+                        <bp>Park Ridge, IL, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Marcus Hogberg</name>
+                        <num>35</num>
+                        <h>6' 5"</h>
+                        <w>209</w>
+                        <bd>Nov 25, <y>1994</y></bd>
+                        <bp>Orebro, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Anders Nilsson</name>
+                        <num>31</num>
+                        <h>6' 6"</h>
+                        <w>232</w>
+                        <bd>Mar 19, <y>1990</y></bd>
+                        <bp>Lulea, <co>SWE</co></bp>
+                    </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>

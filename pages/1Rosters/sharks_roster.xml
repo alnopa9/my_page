@@ -1,222 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<organization team="sharks">
-    <players>
-        <forwards>
-            <p>
-                <name>Logan Couture </name>
-                <cap>Assistant</cap>
-                <num>39</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>200</w>
-                <bd>Mar 28, <y>1989</y></bd>
-                <bp>Guelph, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Joonas Donskoi</name>
-                <num>27</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>190</w>
-                <bd>Apr 13, <y>1992</y></bd>
-                <bp>Raahe, <co>FIN</co></bp>
-            </p>
-            <p>
-                <name>Barclay Goodrow</name>
-                <num>23</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>215</w>
-                <bd>Feb 26, <y>1993</y></bd>
-                <bp>Toronto, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Tomas Hertl</name>
-                <num>48</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>215</w>
-                <bd>Nov 12, <y>1993</y></bd>
-                <bp>Praha, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Evander Kane</name>
-                <num>9</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>210</w>
-                <bd>Aug 2, <y>1991</y></bd>
-                <bp>Vancouver, BC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Melker Karlsson</name>
-                <num>68</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>180</w>
-                <bd>Jul 18, <y>1990</y></bd>
-                <bp>Lycksele, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Kevin Labanc</name>
-                <num>62</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>185</w>
-                <bd>Dec 12, <y>1995</y></bd>
-                <bp>Brooklyn, NY, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Timo Meier</name>
-                <num>28</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>210</w>
-                <bd>Oct 8, <y>1996</y></bd>
-                <bp>Herisau, <co>CHE</co></bp>
-            </p>
-            <p>
-                <name>Joe Pavelski </name>
-                <cap>Captain</cap>
-                <num>8</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>190</w>
-                <bd>Jul 11, <y>1984</y></bd>
-                <bp>Plover, WI, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Lukas Radil</name>
-                <num>52</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 4"</h>
-                <w>200</w>
-                <bd>Aug 05, <y>1990</y></bd>
-                <bp>Caslav, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Marcus Sorensen</name>
-                <num>20</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>175</w>
-                <bd>Apr 7, <y>1992</y></bd>
-                <bp>Sodertalje, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Joe Thornton </name>
-                <cap>Assistant</cap>
-                <num>19</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>220</w>
-                <bd>Jul 2, <y>1979</y></bd>
-                <bp>London, ON, <co>CAN</co></bp>
-            </p>
-        </forwards>
-        <defense>
-            <p>
-                <name>Justin Braun</name>
-                <num>61</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>205</w>
-                <bd>Feb 10, <y>1987</y></bd>
-                <bp>Minneapolis, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Brent Burns</name>
-                <num>88</num>
-                <shot>R</shot>
-                <h>6' 5"</h>
-                <w>230</w>
-                <bd>Mar 9, <y>1985</y></bd>
-                <bp>Barrie, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Brenden Dillon</name>
-                <num>4</num>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>225</w>
-                <bd>Nov 13, <y>1990</y></bd>
-                <bp>New Westminster, BC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Tim Heed</name>
-                <num>72</num>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>180</w>
-                <bd>Jan 27, <y>1991</y></bd>
-                <bp>Gothenburg, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Erik Karlsson</name>
-                <num>65</num>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>190</w>
-                <bd>May 31, <y>1990</y></bd>
-                <bp>Landsbro, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Joakim Ryan</name>
-                <num>47</num>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>185</w>
-                <bd>Jun 17, <y>1993</y></bd>
-                <bp>Rumson, NJ, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Radim Simek</name>
-                <num>51</num>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>200</w>
-                <bd>Sep 20, <y>1992</y></bd>
-                <bp>Mlada Boleslav, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Marc-Edouard Vlasic</name>
-                <num>44</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>205</w>
-                <bd>Mar 30, <y>1987</y></bd>
-                <bp>Montreal, QC, <co>CAN</co></bp>
-            </p>
-        </defense>
-        <goalies>
-            <p>
-                <name>Aaron Dell</name>
-                <num>30</num>
-                <h>6' 0"</h>
-                <w>205</w>
-                <bd>May 4, <y>1989</y></bd>
-                <bp>Airdrie, AB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Martin Jones</name>
-                <num>31</num>
-                <h>6' 4"</h>
-                <w>190</w>
-                <bd>Jan 10, <y>1990</y></bd>
-                <bp>North Vancouver, BC, <co>CAN</co></bp>
-            </p>
-        </goalies>
-    </players>
-</organization>
+<?xml-model href="Steps/division%20roster.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <division type="pacific">
+        <organization team="sharks">
+            <players>
+                <forwards>
+                    <p>
+                        <name>Logan Couture </name>
+                        <cap>Assistant</cap>
+                        <num>39</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>200</w>
+                        <bd>Mar 28, <y>1989</y></bd>
+                        <bp>Guelph, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Joonas Donskoi</name>
+                        <num>27</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>190</w>
+                        <bd>Apr 13, <y>1992</y></bd>
+                        <bp>Raahe, <co>FIN</co></bp>
+                    </p>
+                    <p>
+                        <name>Barclay Goodrow</name>
+                        <num>23</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>215</w>
+                        <bd>Feb 26, <y>1993</y></bd>
+                        <bp>Toronto, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Tomas Hertl</name>
+                        <num>48</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>215</w>
+                        <bd>Nov 12, <y>1993</y></bd>
+                        <bp>Praha, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Evander Kane</name>
+                        <num>9</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>210</w>
+                        <bd>Aug 2, <y>1991</y></bd>
+                        <bp>Vancouver, BC, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Melker Karlsson</name>
+                        <num>68</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>180</w>
+                        <bd>Jul 18, <y>1990</y></bd>
+                        <bp>Lycksele, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Kevin Labanc</name>
+                        <num>62</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>185</w>
+                        <bd>Dec 12, <y>1995</y></bd>
+                        <bp>Brooklyn, NY, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Timo Meier</name>
+                        <num>28</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>210</w>
+                        <bd>Oct 8, <y>1996</y></bd>
+                        <bp>Herisau, <co>CHE</co></bp>
+                    </p>
+                    <p>
+                        <name>Joe Pavelski </name>
+                        <cap>Captain</cap>
+                        <num>8</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>190</w>
+                        <bd>Jul 11, <y>1984</y></bd>
+                        <bp>Plover, WI, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Lukas Radil</name>
+                        <num>52</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 4"</h>
+                        <w>200</w>
+                        <bd>Aug 05, <y>1990</y></bd>
+                        <bp>Caslav, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Marcus Sorensen</name>
+                        <num>20</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>175</w>
+                        <bd>Apr 7, <y>1992</y></bd>
+                        <bp>Sodertalje, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Joe Thornton </name>
+                        <cap>Assistant</cap>
+                        <num>19</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 4"</h>
+                        <w>220</w>
+                        <bd>Jul 2, <y>1979</y></bd>
+                        <bp>London, ON, <co>CAN</co></bp>
+                    </p>
+                </forwards>
+                <defense>
+                    <p>
+                        <name>Justin Braun</name>
+                        <num>61</num>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>205</w>
+                        <bd>Feb 10, <y>1987</y></bd>
+                        <bp>Minneapolis, MN, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Brent Burns</name>
+                        <num>88</num>
+                        <shot>R</shot>
+                        <h>6' 5"</h>
+                        <w>230</w>
+                        <bd>Mar 9, <y>1985</y></bd>
+                        <bp>Barrie, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Brenden Dillon</name>
+                        <num>4</num>
+                        <shot>L</shot>
+                        <h>6' 4"</h>
+                        <w>225</w>
+                        <bd>Nov 13, <y>1990</y></bd>
+                        <bp>New Westminster, BC, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Tim Heed</name>
+                        <num>72</num>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>180</w>
+                        <bd>Jan 27, <y>1991</y></bd>
+                        <bp>Gothenburg, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Erik Karlsson</name>
+                        <num>65</num>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>190</w>
+                        <bd>May 31, <y>1990</y></bd>
+                        <bp>Landsbro, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Joakim Ryan</name>
+                        <num>47</num>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>185</w>
+                        <bd>Jun 17, <y>1993</y></bd>
+                        <bp>Rumson, NJ, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Radim Simek</name>
+                        <num>51</num>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>200</w>
+                        <bd>Sep 20, <y>1992</y></bd>
+                        <bp>Mlada Boleslav, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Marc-Edouard Vlasic</name>
+                        <num>44</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>205</w>
+                        <bd>Mar 30, <y>1987</y></bd>
+                        <bp>Montreal, QC, <co>CAN</co></bp>
+                    </p>
+                </defense>
+                <goalies>
+                    <p>
+                        <name>Aaron Dell</name>
+                        <num>30</num>
+                        <h>6' 0"</h>
+                        <w>205</w>
+                        <bd>May 4, <y>1989</y></bd>
+                        <bp>Airdrie, AB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Martin Jones</name>
+                        <num>31</num>
+                        <h>6' 4"</h>
+                        <w>190</w>
+                        <bd>Jan 10, <y>1990</y></bd>
+                        <bp>North Vancouver, BC, <co>CAN</co></bp>
+                    </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>

@@ -1,234 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<organization team="rangers">
-    <players>
-        <forwards>
-            <p>
-                <name>Pavel Buchnevich</name>
-                <num>89</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>196</w>
-                <bd>Apr 17, <y>1995</y></bd>
-                <bp>Cherepovets, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>Filip Chytil</name>
-                <num>72</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>208</w>
-                <bd>Sep 5, <y>1999</y></bd>
-                <bp>Kromeriz, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Jesper Fast</name>
-                <cap>Assistant</cap>
-                <num>17</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>192</w>
-                <bd>Dec 2, <y>1991</y></bd>
-                <bp>Nassjo, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Kevin Hayes</name>
-                <num>13</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 5"</h>
-                <w>216</w>
-                <bd>May 8, <y>1992</y></bd>
-                <bp>Dorchester, MA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Brett Howden</name>
-                <num>21</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>195</w>
-                <bd>Mar 29, <y>1998</y></bd>
-                <bp>Calgary, AB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Chris Kreider</name>
-                <cap>Assistant</cap>
-                <num>20</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>216</w>
-                <bd>Apr 30, <y>1991</y></bd>
-                <bp>Boxford, MA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Cody McLeod</name>
-                <num>8</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>204</w>
-                <bd>Jun 26, <y>1984</y></bd>
-                <bp>Binscarth, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Vladislav Namestnikov</name>
-                <num>90</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>184</w>
-                <bd>Nov 22, <y>1992</y></bd>
-                <bp>Zhukovskiy, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>Boo Nieves</name>
-                <num>24</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>210</w>
-                <bd>Jan 23, <y>1994</y></bd>
-                <bp>Syracuse, NY, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Jimmy Vesey</name>
-                <num>16</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>194</w>
-                <bd>Jul 11, <y>1993</y></bd>
-                <bp>Mississauga, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Jimmy Vesey</name>
-                <num>26</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>199</w>
-                <bd>May 26, <y>1993</y></bd>
-                <bp>Boston, MA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Mika Zibanejad</name>
-                <cap>Assistant</cap>
-                <num>93</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>213</w>
-                <bd>Apr 18, <y>1993</y></bd>
-                <bp>Huddinge, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Mats Zuccarello</name>
-                <cap>Assistant</cap>
-                <num>36</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>5' 8"</h>
-                <w>184</w>
-                <bd>Sep 1, <y>1987</y></bd>
-                <bp>Oslo, <co>NOR</co></bp>
-            </p>
-        </forwards>
-        <defense>
-            <p>
-                <name>Fredrik Claesson</name>
-                <num>33</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>196</w>
-                <bd>Nov 24, <y>1992</y></bd>
-                <bp>Stockholm, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Tony DeAngelo</name>
-                <num>77</num>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>180</w>
-                <bd>Oct 24, <y>1995</y></bd>
-                <bp>Sewell, NJ, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Adam McQuaid</name>
-                <num>54</num>
-                <shot>R</shot>
-                <h>6' 4"</h>
-                <w>210</w>
-                <bd>Oct 12, <y>1986</y></bd>
-                <bp>Charlottetown, PE, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Neal Pionk</name>
-                <num>44</num>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>186</w>
-                <bd>Jul 29, <y>1995</y></bd>
-                <bp>Hermantown, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Kevin Shattenkirk</name>
-                <num>22</num>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>206</w>
-                <bd>Jan 29, <y>1989</y></bd>
-                <bp>New Rochelle, NY, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Brady Skjei</name>
-                <num>76</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>214</w>
-                <bd>Mar 26, <y>1994</y></bd>
-                <bp>Lakeville, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Brendan Smith</name>
-                <num>42</num>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>195</w>
-                <bd>Feb 8, <y>1989</y></bd>
-                <bp>Mimico, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Marc Staal</name>
-                <cap>Assistant</cap>
-                <num>18</num>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>213</w>
-                <bd>Jan 13, <y>1987</y></bd>
-                <bp>Thunder Bay, ON, <co>CAN</co></bp>
-            </p>
-        </defense>
-        <goalies>
-            <p>
-                <name>Alexandar Georgiev</name>
-                <num>40</num>
-                <h>6' 1"</h>
-                <w>179</w>
-                <bd>Feb 10, <y>1996</y></bd>
-                <bp>Ruse, <co>BGR</co></bp>
-            </p>
-            <p>
-                <name>Henrik Lundqvist</name>
-                <num>30</num>
-                <h>6' 1"</h>
-                <w>180</w>
-                <bd>Mar 2, <y>1982</y></bd>
-                <bp>Are, <co>SWE</co></bp>
-            </p>
-        </goalies>
-    </players>
-</organization>
+<?xml-model href="Steps/division%20roster.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <division type="metropolitan">
+        <organization team="rangers">
+            <players>
+                <forwards>
+                    <p>
+                        <name>Pavel Buchnevich</name>
+                        <num>89</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>196</w>
+                        <bd>Apr 17, <y>1995</y></bd>
+                        <bp>Cherepovets, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>Filip Chytil</name>
+                        <num>72</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>208</w>
+                        <bd>Sep 5, <y>1999</y></bd>
+                        <bp>Kromeriz, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Jesper Fast</name>
+                        <cap>Assistant</cap>
+                        <num>17</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>192</w>
+                        <bd>Dec 2, <y>1991</y></bd>
+                        <bp>Nassjo, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Kevin Hayes</name>
+                        <num>13</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 5"</h>
+                        <w>216</w>
+                        <bd>May 8, <y>1992</y></bd>
+                        <bp>Dorchester, MA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Brett Howden</name>
+                        <num>21</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>195</w>
+                        <bd>Mar 29, <y>1998</y></bd>
+                        <bp>Calgary, AB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Chris Kreider</name>
+                        <cap>Assistant</cap>
+                        <num>20</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>216</w>
+                        <bd>Apr 30, <y>1991</y></bd>
+                        <bp>Boxford, MA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Cody McLeod</name>
+                        <num>8</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>204</w>
+                        <bd>Jun 26, <y>1984</y></bd>
+                        <bp>Binscarth, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Vladislav Namestnikov</name>
+                        <num>90</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>184</w>
+                        <bd>Nov 22, <y>1992</y></bd>
+                        <bp>Zhukovskiy, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>Boo Nieves</name>
+                        <num>24</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>210</w>
+                        <bd>Jan 23, <y>1994</y></bd>
+                        <bp>Syracuse, NY, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Jimmy Vesey</name>
+                        <num>16</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>194</w>
+                        <bd>Jul 11, <y>1993</y></bd>
+                        <bp>Mississauga, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Jimmy Vesey</name>
+                        <num>26</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>199</w>
+                        <bd>May 26, <y>1993</y></bd>
+                        <bp>Boston, MA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Mika Zibanejad</name>
+                        <cap>Assistant</cap>
+                        <num>93</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>213</w>
+                        <bd>Apr 18, <y>1993</y></bd>
+                        <bp>Huddinge, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Mats Zuccarello</name>
+                        <cap>Assistant</cap>
+                        <num>36</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>5' 8"</h>
+                        <w>184</w>
+                        <bd>Sep 1, <y>1987</y></bd>
+                        <bp>Oslo, <co>NOR</co></bp>
+                    </p>
+                </forwards>
+                <defense>
+                    <p>
+                        <name>Fredrik Claesson</name>
+                        <num>33</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>196</w>
+                        <bd>Nov 24, <y>1992</y></bd>
+                        <bp>Stockholm, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Tony DeAngelo</name>
+                        <num>77</num>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>180</w>
+                        <bd>Oct 24, <y>1995</y></bd>
+                        <bp>Sewell, NJ, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Adam McQuaid</name>
+                        <num>54</num>
+                        <shot>R</shot>
+                        <h>6' 4"</h>
+                        <w>210</w>
+                        <bd>Oct 12, <y>1986</y></bd>
+                        <bp>Charlottetown, PE, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Neal Pionk</name>
+                        <num>44</num>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>186</w>
+                        <bd>Jul 29, <y>1995</y></bd>
+                        <bp>Hermantown, MN, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Kevin Shattenkirk</name>
+                        <num>22</num>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>206</w>
+                        <bd>Jan 29, <y>1989</y></bd>
+                        <bp>New Rochelle, NY, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Brady Skjei</name>
+                        <num>76</num>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>214</w>
+                        <bd>Mar 26, <y>1994</y></bd>
+                        <bp>Lakeville, MN, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Brendan Smith</name>
+                        <num>42</num>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>195</w>
+                        <bd>Feb 8, <y>1989</y></bd>
+                        <bp>Mimico, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Marc Staal</name>
+                        <cap>Assistant</cap>
+                        <num>18</num>
+                        <shot>L</shot>
+                        <h>6' 4"</h>
+                        <w>213</w>
+                        <bd>Jan 13, <y>1987</y></bd>
+                        <bp>Thunder Bay, ON, <co>CAN</co></bp>
+                    </p>
+                </defense>
+                <goalies>
+                    <p>
+                        <name>Alexandar Georgiev</name>
+                        <num>40</num>
+                        <h>6' 1"</h>
+                        <w>179</w>
+                        <bd>Feb 10, <y>1996</y></bd>
+                        <bp>Ruse, <co>BGR</co></bp>
+                    </p>
+                    <p>
+                        <name>Henrik Lundqvist</name>
+                        <num>30</num>
+                        <h>6' 1"</h>
+                        <w>180</w>
+                        <bd>Mar 2, <y>1982</y></bd>
+                        <bp>Are, <co>SWE</co></bp>
+                    </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>

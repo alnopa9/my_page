@@ -1,247 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<organization team="flyers">
-    <players>
-        <forwards>
-            <p>
-                <name>Sean Couturier</name>
-                <num>14</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>211</w>
-                <bd>Dec 7, <y>1992</y></bd>
-                <bp>Phoenix, AZ, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Claude Giroux</name>
-                <cap>Captain</cap>
-                <num>28</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>185</w>
-                <bd>Jan 12, <y>1988</y></bd>
-                <bp>Hearst, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Corban Knight</name>
-                <num>10</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>195</w>
-                <bd>Sep 10, <y>1990</y></bd>
-                <bp>Oliver, BC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Travis Konecny</name>
-                <num>11</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 10"</h>
-                <w>175</w>
-                <bd>Mar 11, <y>1997</y></bd>
-                <bp>London, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Scott Laughton</name>
-                <num>21</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>190</w>
-                <bd>May 30, <y>1994</y></bd>
-                <bp>Oakville, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Jori Lehtera</name>
-                <num>15</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>212</w>
-                <bd>Dec 23, <y>1987</y></bd>
-                <bp>Helsinki, <co>FIN</co></bp>
-            </p>
-            <p>
-                <name>Oskar Lindblom</name>
-                <num>23</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>191</w>
-                <bd>Aug 15, <y>1996</y></bd>
-                <bp>Gävle, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Nolan Patrick</name>
-                <num>19</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>198</w>
-                <bd>Sep 19, <y>1998</y></bd>
-                <bp>Winnipeg, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Michael Raffl</name>
-                <num>12</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>200</w>
-                <bd>Dec 1, <y>1988</y></bd>
-                <bp>Villach, <co>AUT</co></bp>
-            </p>
-            <p>
-                <name>Wayne Simmonds</name>
-                <cap>Assistant</cap>
-                <num>17</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>185</w>
-                <bd>Aug 26, <y>1988</y></bd>
-                <bp>Scarborough, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>James van Riemsdyk</name>
-                <num>25</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>217</w>
-                <bd>May 4, <y>1989</y></bd>
-                <bp>Middletown, NJ, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Jakub Voracek</name>
-                <num>93</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>214</w>
-                <bd>Aug 15, <y>1989</y></bd>
-                <bp>Kladno, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Dale Weise</name>
-                <num>22</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>206</w>
-                <bd>Aug 5, <y>1988</y></bd>
-                <bp>Winnipeg, MB, <co>CAN</co></bp>
-            </p>
-        </forwards>
-        <defense>
-            <p>
-                <name>Christian Folin</name>
-                <num>26</num>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>204</w>
-                <bd>Feb 9, <y>1991</y></bd>
-                <bp>Gothenburg, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Shayne Gostisbehere</name>
-                <num>53</num>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>180</w>
-                <bd>Apr 20, <y>1993</y></bd>
-                <bp>Pembroke Pines, FL, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Radko Gudas</name>
-                <num>3</num>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>204</w>
-                <bd>Jun 5, <y>1990</y></bd>
-                <bp>Prague, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Robert Hagg</name>
-                <num>8</num>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>204</w>
-                <bd>Feb 8, <y>1995</y></bd>
-                <bp>Uppsala, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Andrew MacDonald</name>
-                <cap>Assistant</cap>
-                <num>47</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>204</w>
-                <bd>Sep 7, <y>1986</y></bd>
-                <bp>Judique, NS, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Ivan Provorov</name>
-                <num>9</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>201</w>
-                <bd>Jan 13, <y>1997</y></bd>
-                <bp>Yaroslavl, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>Travis Sanheim</name>
-                <num>6</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>181</w>
-                <bd>Mar 29, <y>1996</y></bd>
-                <bp>Elkhorn, MB, <co>CAN</co></bp>
-            </p>
-        </defense>
-        <goalies>
-            <p>
-                <name>Brian Elliott</name>
-                <num>37</num>
-                <h>6' 2"</h>
-                <w>209</w>
-                <bd>Apr 9, <y>1985</y></bd>
-                <bp>Newmarket, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Carter Hart</name>
-                <num>79</num>
-                <h>6' 2"</h>
-                <w>181</w>
-                <bd>Aug 13, <y>1998</y></bd>
-                <bp>Sherwood Park, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Mike McKenna</name>
-                <num>56</num>
-                <h>6' 2"</h>
-                <w>183</w>
-                <bd>Apr 11, <y>1983</y></bd>
-                <bp>St. Louis, MO, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Michal Neuvirth</name>
-                <num>30</num>
-                <h>6' 1"</h>
-                <w>209</w>
-                <bd>Mar 23, <y>1988</y></bd>
-                <bp>Ústí nad Labem, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Anthony Stolarz</name>
-                <num>41</num>
-                <h>6' 6"</h>
-                <w>210</w>
-                <bd>Jan 20, <y>1994</y></bd>
-                <bp>Edison, NJ, <co>USA</co></bp>
-            </p>
-        </goalies>
-    </players>
-</organization>
+<?xml-model href="Steps/division%20roster.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <division type="metropolitan">
+        <organization team="flyers">
+            <players>
+                <forwards>
+                    <p>
+                        <name>Sean Couturier</name>
+                        <num>14</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>211</w>
+                        <bd>Dec 7, <y>1992</y></bd>
+                        <bp>Phoenix, AZ, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Claude Giroux</name>
+                        <cap>Captain</cap>
+                        <num>28</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>185</w>
+                        <bd>Jan 12, <y>1988</y></bd>
+                        <bp>Hearst, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Corban Knight</name>
+                        <num>10</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>195</w>
+                        <bd>Sep 10, <y>1990</y></bd>
+                        <bp>Oliver, BC, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Travis Konecny</name>
+                        <num>11</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>5' 10"</h>
+                        <w>175</w>
+                        <bd>Mar 11, <y>1997</y></bd>
+                        <bp>London, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Scott Laughton</name>
+                        <num>21</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>190</w>
+                        <bd>May 30, <y>1994</y></bd>
+                        <bp>Oakville, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Jori Lehtera</name>
+                        <num>15</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>212</w>
+                        <bd>Dec 23, <y>1987</y></bd>
+                        <bp>Helsinki, <co>FIN</co></bp>
+                    </p>
+                    <p>
+                        <name>Oskar Lindblom</name>
+                        <num>23</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>191</w>
+                        <bd>Aug 15, <y>1996</y></bd>
+                        <bp>Gävle, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Nolan Patrick</name>
+                        <num>19</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>198</w>
+                        <bd>Sep 19, <y>1998</y></bd>
+                        <bp>Winnipeg, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Michael Raffl</name>
+                        <num>12</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>200</w>
+                        <bd>Dec 1, <y>1988</y></bd>
+                        <bp>Villach, <co>AUT</co></bp>
+                    </p>
+                    <p>
+                        <name>Wayne Simmonds</name>
+                        <cap>Assistant</cap>
+                        <num>17</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>185</w>
+                        <bd>Aug 26, <y>1988</y></bd>
+                        <bp>Scarborough, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>James van Riemsdyk</name>
+                        <num>25</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>217</w>
+                        <bd>May 4, <y>1989</y></bd>
+                        <bp>Middletown, NJ, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Jakub Voracek</name>
+                        <num>93</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>214</w>
+                        <bd>Aug 15, <y>1989</y></bd>
+                        <bp>Kladno, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Dale Weise</name>
+                        <num>22</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>206</w>
+                        <bd>Aug 5, <y>1988</y></bd>
+                        <bp>Winnipeg, MB, <co>CAN</co></bp>
+                    </p>
+                </forwards>
+                <defense>
+                    <p>
+                        <name>Christian Folin</name>
+                        <num>26</num>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>204</w>
+                        <bd>Feb 9, <y>1991</y></bd>
+                        <bp>Gothenburg, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Shayne Gostisbehere</name>
+                        <num>53</num>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>180</w>
+                        <bd>Apr 20, <y>1993</y></bd>
+                        <bp>Pembroke Pines, FL, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Radko Gudas</name>
+                        <num>3</num>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>204</w>
+                        <bd>Jun 5, <y>1990</y></bd>
+                        <bp>Prague, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Robert Hagg</name>
+                        <num>8</num>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>204</w>
+                        <bd>Feb 8, <y>1995</y></bd>
+                        <bp>Uppsala, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Andrew MacDonald</name>
+                        <cap>Assistant</cap>
+                        <num>47</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>204</w>
+                        <bd>Sep 7, <y>1986</y></bd>
+                        <bp>Judique, NS, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Ivan Provorov</name>
+                        <num>9</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>201</w>
+                        <bd>Jan 13, <y>1997</y></bd>
+                        <bp>Yaroslavl, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>Travis Sanheim</name>
+                        <num>6</num>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>181</w>
+                        <bd>Mar 29, <y>1996</y></bd>
+                        <bp>Elkhorn, MB, <co>CAN</co></bp>
+                    </p>
+                </defense>
+                <goalies>
+                    <p>
+                        <name>Brian Elliott</name>
+                        <num>37</num>
+                        <h>6' 2"</h>
+                        <w>209</w>
+                        <bd>Apr 9, <y>1985</y></bd>
+                        <bp>Newmarket, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Carter Hart</name>
+                        <num>79</num>
+                        <h>6' 2"</h>
+                        <w>181</w>
+                        <bd>Aug 13, <y>1998</y></bd>
+                        <bp>Sherwood Park, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Mike McKenna</name>
+                        <num>56</num>
+                        <h>6' 2"</h>
+                        <w>183</w>
+                        <bd>Apr 11, <y>1983</y></bd>
+                        <bp>St. Louis, MO, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Michal Neuvirth</name>
+                        <num>30</num>
+                        <h>6' 1"</h>
+                        <w>209</w>
+                        <bd>Mar 23, <y>1988</y></bd>
+                        <bp>Ústí nad Labem, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Anthony Stolarz</name>
+                        <num>41</num>
+                        <h>6' 6"</h>
+                        <w>210</w>
+                        <bd>Jan 20, <y>1994</y></bd>
+                        <bp>Edison, NJ, <co>USA</co></bp>
+                    </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>

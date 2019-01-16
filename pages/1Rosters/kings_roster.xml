@@ -1,252 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<organization team="kings">
-    <players>
-        <forwards>
-            <p>
-                <name>Jonny Brodzinski</name>
-                <num>76</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>217</w>
-                <bd>Jun 19, <y>1993</y></bd>
-                <bp>Ham Lake, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Dustin Brown</name>
-                <num>23</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>216</w>
-                <bd>Nov 4, <y>1984</y></bd>
-                <bp>Ithaca, NY, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Jeff Carter</name>
-                <cap>Assistant</cap>
-                <num>77</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>217</w>
-                <bd>Jan 1, <y>1985</y></bd>
-                <bp>London, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Kyle Clifford</name>
-                <num>13</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>211</w>
-                <bd>Jan 13, <y>1991</y></bd>
-                <bp>Ayr, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Carl Hagelin</name>
-                <num>62</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>186</w>
-                <bd>Aug 23, <y>1988</y></bd>
-                <bp>Sodertalje, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Alex Iafallo</name>
-                <num>19</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>185</w>
-                <bd>Dec 21, <y>1993</y></bd>
-                <bp>Eden, NY, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Adrian Kempe</name>
-                <num>9</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>195</w>
-                <bd>Sep 13, <y>1996</y></bd>
-                <bp>Kramfors, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Anze Kopitar</name>
-                <cap>Captain</cap>
-                <num>11</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>224</w>
-                <bd>Aug 24, <y>1987</y></bd>
-                <bp>Jesenice, <co>SVN</co></bp>
-            </p>
-            <p>
-                <name>Ilya Kovalchuk</name>
-                <num>17</num>
-                <pos>LW</pos>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>230</w>
-                <bd>Apr 15, <y>1983</y></bd>
-                <bp>Tver, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>Brendan Leipsic</name>
-                <num>14</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>5' 10"</h>
-                <w>179</w>
-                <bd>May 19, <y>1994</y></bd>
-                <bp>Winnipeg, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Trevor Lewis</name>
-                <num>22</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>205</w>
-                <bd>Jan 8, <y>1987</y></bd>
-                <bp>Salt Lake City, UT, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Matt Luff</name>
-                <num>64</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>196</w>
-                <bd>May 05, <y>1997</y></bd>
-                <bp>Oakville, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Nate Thompson</name>
-                <num>44</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>214</w>
-                <bd>Oct 5, <y>1984</y></bd>
-                <bp>Anchorage, AK, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Tyler Toffoli</name>
-                <num>73</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>197</w>
-                <bd>Apr 24, <y>1992</y></bd>
-                <bp>Scarborough, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Austin Wagner</name>
-                <num>51</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>185</w>
-                <bd>Jun 23, <y>1997</y></bd>
-                <bp>Calgary, AB, <co>CAN</co></bp>
-            </p>
-        </forwards>
-        <defense>
-            <p>
-                <name>Drew Doughty</name>
-                <cap>Assistant</cap>
-                <num>8</num>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>200</w>
-                <bd>Dec 8, <y>1989</y></bd>
-                <bp>London, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Oscar Fantenberg</name>
-                <num>7</num>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>210</w>
-                <bd>Oct 7, <y>1991</y></bd>
-                <bp>Ljunby, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Derek Forbort</name>
-                <num>24</num>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>215</w>
-                <bd>Mar 4, <y>1992</y></bd>
-                <bp>Duluth, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Paul LaDue</name>
-                <num>2</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>198</w>
-                <bd>Sep 6, <y>1992</y></bd>
-                <bp>Grand Forks, ND, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Alec Martinez</name>
-                <num>27</num>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>208</w>
-                <bd>Jul 26, <y>1987</y></bd>
-                <bp>Rochester Hills, MI, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Jake Muzzin</name>
-                <num>6</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>213</w>
-                <bd>Feb 21, <y>1989</y></bd>
-                <bp>Woodstock, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Dion Phaneuf</name>
-                <num>3</num>
-                <shot>L</shot>
-                <h>6' 4"</h>
-                <w>225</w>
-                <bd>Apr 10, <y>1985</y></bd>
-                <bp>Edmonton, AB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Sean Walker</name>
-                <num>61</num>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>196</w>
-                <bd>Nov 13, <y>1994</y></bd>
-                <bp>Keswick, ON, <co>CAN</co></bp>
-            </p>
-        </defense>
-        <goalies>
-            <p>
-                <name>Jack Campbell</name>
-                <num>36</num>
-                <h>6' 2"</h>
-                <w>197</w>
-                <bd>Jan 9, <y>1992</y></bd>
-                <bp>Port Huron, MI, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Jonathan Quick</name>
-                <num>32</num>
-                <h>6' 1"</h>
-                <w>218</w>
-                <bd>Jan 21, <y>1986</y></bd>
-                <bp>Milford, CT, <co>USA</co></bp>
-            </p>
-        </goalies>
-    </players>
-</organization>
+<?xml-model href="Steps/division%20roster.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <division type="pacific">
+        <organization team="kings">
+            <players>
+                <forwards>
+                    <p>
+                        <name>Jonny Brodzinski</name>
+                        <num>76</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>217</w>
+                        <bd>Jun 19, <y>1993</y></bd>
+                        <bp>Ham Lake, MN, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Dustin Brown</name>
+                        <num>23</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>216</w>
+                        <bd>Nov 4, <y>1984</y></bd>
+                        <bp>Ithaca, NY, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Jeff Carter</name>
+                        <cap>Assistant</cap>
+                        <num>77</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>217</w>
+                        <bd>Jan 1, <y>1985</y></bd>
+                        <bp>London, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Kyle Clifford</name>
+                        <num>13</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>211</w>
+                        <bd>Jan 13, <y>1991</y></bd>
+                        <bp>Ayr, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Carl Hagelin</name>
+                        <num>62</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>186</w>
+                        <bd>Aug 23, <y>1988</y></bd>
+                        <bp>Sodertalje, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Alex Iafallo</name>
+                        <num>19</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>185</w>
+                        <bd>Dec 21, <y>1993</y></bd>
+                        <bp>Eden, NY, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Adrian Kempe</name>
+                        <num>9</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>195</w>
+                        <bd>Sep 13, <y>1996</y></bd>
+                        <bp>Kramfors, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Anze Kopitar</name>
+                        <cap>Captain</cap>
+                        <num>11</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>224</w>
+                        <bd>Aug 24, <y>1987</y></bd>
+                        <bp>Jesenice, <co>SVN</co></bp>
+                    </p>
+                    <p>
+                        <name>Ilya Kovalchuk</name>
+                        <num>17</num>
+                        <pos>LW</pos>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>230</w>
+                        <bd>Apr 15, <y>1983</y></bd>
+                        <bp>Tver, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>Brendan Leipsic</name>
+                        <num>14</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>5' 10"</h>
+                        <w>179</w>
+                        <bd>May 19, <y>1994</y></bd>
+                        <bp>Winnipeg, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Trevor Lewis</name>
+                        <num>22</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>205</w>
+                        <bd>Jan 8, <y>1987</y></bd>
+                        <bp>Salt Lake City, UT, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Matt Luff</name>
+                        <num>64</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>196</w>
+                        <bd>May 05, <y>1997</y></bd>
+                        <bp>Oakville, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Nate Thompson</name>
+                        <num>44</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>214</w>
+                        <bd>Oct 5, <y>1984</y></bd>
+                        <bp>Anchorage, AK, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Tyler Toffoli</name>
+                        <num>73</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>197</w>
+                        <bd>Apr 24, <y>1992</y></bd>
+                        <bp>Scarborough, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Austin Wagner</name>
+                        <num>51</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>185</w>
+                        <bd>Jun 23, <y>1997</y></bd>
+                        <bp>Calgary, AB, <co>CAN</co></bp>
+                    </p>
+                </forwards>
+                <defense>
+                    <p>
+                        <name>Drew Doughty</name>
+                        <cap>Assistant</cap>
+                        <num>8</num>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>200</w>
+                        <bd>Dec 8, <y>1989</y></bd>
+                        <bp>London, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Oscar Fantenberg</name>
+                        <num>7</num>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>210</w>
+                        <bd>Oct 7, <y>1991</y></bd>
+                        <bp>Ljunby, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Derek Forbort</name>
+                        <num>24</num>
+                        <shot>L</shot>
+                        <h>6' 4"</h>
+                        <w>215</w>
+                        <bd>Mar 4, <y>1992</y></bd>
+                        <bp>Duluth, MN, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Paul LaDue</name>
+                        <num>2</num>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>198</w>
+                        <bd>Sep 6, <y>1992</y></bd>
+                        <bp>Grand Forks, ND, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Alec Martinez</name>
+                        <num>27</num>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>208</w>
+                        <bd>Jul 26, <y>1987</y></bd>
+                        <bp>Rochester Hills, MI, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Jake Muzzin</name>
+                        <num>6</num>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>213</w>
+                        <bd>Feb 21, <y>1989</y></bd>
+                        <bp>Woodstock, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Dion Phaneuf</name>
+                        <num>3</num>
+                        <shot>L</shot>
+                        <h>6' 4"</h>
+                        <w>225</w>
+                        <bd>Apr 10, <y>1985</y></bd>
+                        <bp>Edmonton, AB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Sean Walker</name>
+                        <num>61</num>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>196</w>
+                        <bd>Nov 13, <y>1994</y></bd>
+                        <bp>Keswick, ON, <co>CAN</co></bp>
+                    </p>
+                </defense>
+                <goalies>
+                    <p>
+                        <name>Jack Campbell</name>
+                        <num>36</num>
+                        <h>6' 2"</h>
+                        <w>197</w>
+                        <bd>Jan 9, <y>1992</y></bd>
+                        <bp>Port Huron, MI, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Jonathan Quick</name>
+                        <num>32</num>
+                        <h>6' 1"</h>
+                        <w>218</w>
+                        <bd>Jan 21, <y>1986</y></bd>
+                        <bp>Milford, CT, <co>USA</co></bp>
+                    </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>

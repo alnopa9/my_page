@@ -1,251 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<organization team="capitals">
-    <players>
-        <forwards>
-            <p>
-                <name>Nicklas Backstrom</name>
-                <cap>Assistant</cap>
-                <num>19</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 1"</h>
-                <w>210</w>
-                <bd>Nov 23, <y>1987</y></bd>
-                <bp>Gävle, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Travis Boyd</name>
-                <num>72</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>185</w>
-                <bd>Sep 14, <y>1993</y></bd>
-                <bp>Hopkins, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Andre Burakovsky</name>
-                <num>65</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>201</w>
-                <bd>Feb 9, <y>1995</y></bd>
-                <bp>Klagenfurt, <co>AUT</co></bp>
-            </p>
-            <p>
-                <name>Brett Connolly</name>
-                <num>10</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>195</w>
-                <bd>May 2, <y>1992</y></bd>
-                <bp>Campbell River, BC, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Nic Dowd</name>
-                <num>26</num>
-                <pos>C</pos>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>197</w>
-                <bd>May 27, <y>1990</y></bd>
-                <bp>Huntsville, AL, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Lars Eller</name>
-                <num>20</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>207</w>
-                <bd>May 8, <y>1989</y></bd>
-                <bp>Rodovre, <co>DNK</co></bp>
-            </p>
-            <p>
-                <name>Dmitrij Jaskin</name>
-                <num>23</num>
-                <pos>RW</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>216</w>
-                <bd>Mar 23, <y>1993</y></bd>
-                <bp>Omsk, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>Evgeny Kuznetsov</name>
-                <num>92</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 2"</h>
-                <w>204</w>
-                <bd>May 19, <y>1992</y></bd>
-                <bp>Chelyabinsk, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>T.J. Oshie</name>
-                <num>77</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>5' 11"</h>
-                <w>195</w>
-                <bd>Dec 23, <y>1986</y></bd>
-                <bp>Everett, WA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Alex Ovechkin</name>
-                <cap>Captain</cap>
-                <num>8</num>
-                <pos>LW</pos>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>235</w>
-                <bd>Sep 17, <y>1985</y></bd>
-                <bp>Moscow, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>Devante Smith-Pelly</name>
-                <num>25</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 0"</h>
-                <w>223</w>
-                <bd>Jun 14, <y>1992</y></bd>
-                <bp>Scarborough, ON, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Chandler Stephenson</name>
-                <num>18</num>
-                <pos>C</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>203</w>
-                <bd>Apr 22, <y>1994</y></bd>
-                <bp>Saskatoon, SK, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Jakub Vrana</name>
-                <num>13</num>
-                <pos>LW</pos>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>197</w>
-                <bd>Feb 28, <y>1996</y></bd>
-                <bp>Prague, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Tom Wilson</name>
-                <num>43</num>
-                <pos>RW</pos>
-                <shot>R</shot>
-                <h>6' 4"</h>
-                <w>218</w>
-                <bd>Mar 29, <y>1994</y></bd>
-                <bp>Toronto, ON, <co>CAN</co></bp>
-            </p>
-        </forwards>
-        <defense>
-            <p>
-                <name>Madison Bowey</name>
-                <num>22</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>198</w>
-                <bd>Apr 22, <y>1995</y></bd>
-                <bp>Winnipeg, MB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>John Carlson</name>
-                <num>74</num>
-                <shot>R</shot>
-                <h>6' 3"</h>
-                <w>218</w>
-                <bd>Jan 10, <y>1990</y></bd>
-                <bp>Natick, MA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Christian Djoos</name>
-                <num>29</num>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>169</w>
-                <bd>Aug 6, <y>1994</y></bd>
-                <bp>Gothenburg, <co>SWE</co></bp>
-            </p>
-            <p>
-                <name>Michal Kempny</name>
-                <num>6</num>
-                <shot>L</shot>
-                <h>6' 0"</h>
-                <w>194</w>
-                <bd>Sep 8, <y>1990</y></bd>
-                <bp>Hodonin, <co>CZE</co></bp>
-            </p>
-            <p>
-                <name>Tyler Lewington</name>
-                <num>78</num>
-                <shot>R</shot>
-                <h>6' 2"</h>
-                <w>202</w>
-                <bd>Dec 05, <y>1994</y></bd>
-                <bp>Edmonton, AB, <co>CAN</co></bp>
-            </p>
-            <p>
-                <name>Matt Niskanen</name>
-                <num>2</num>
-                <shot>R</shot>
-                <h>6' 1"</h>
-                <w>203</w>
-                <bd>Dec 6, <y>1986</y></bd>
-                <bp>Virginia, MN, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Dmitry Orlov</name>
-                <num>9</num>
-                <shot>L</shot>
-                <h>5' 11"</h>
-                <w>212</w>
-                <bd>Jul 23, <y>1991</y></bd>
-                <bp>Novokuznetsk, <co>RUS</co></bp>
-            </p>
-            <p>
-                <name>Brooks Orpik</name>
-                <cap>Assistant</cap>
-                <num>44</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>217</w>
-                <bd>Sep 26, <y>1980</y></bd>
-                <bp>San Francisco, CA, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Jonas Siegenthaler</name>
-                <num>34</num>
-                <shot>L</shot>
-                <h>6' 3"</h>
-                <w>206</w>
-                <bd>May 06, <y>1997</y></bd>
-                <bp>Zurich, <co>CHE</co></bp>
-            </p>
-        </defense>
-        <goalies>
-            <p>
-                <name>Pheonix Copley</name>
-                <num>1</num>
-                <h>6' 4"</h>
-                <w>200</w>
-                <bd>Jan 18, <y>1992</y></bd>
-                <bp>North Pole, AK, <co>USA</co></bp>
-            </p>
-            <p>
-                <name>Braden Holtby</name>
-                <num>70</num>
-                <h>6' 2"</h>
-                <w>211</w>
-                <bd>Sep 16, <y>1989</y></bd>
-                <bp>Lloydminster, SK, <co>CAN</co></bp>
-            </p>
-        </goalies>
-    </players>
-</organization>
+<?xml-model href="Steps/division%20roster.rnc" type="application/relax-ng-compact-syntax"?>
+<roster>
+    <division type="metropolitan">
+        <organization team="capitals">
+            <players>
+                <forwards>
+                    <p>
+                        <name>Nicklas Backstrom</name>
+                        <cap>Assistant</cap>
+                        <num>19</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 1"</h>
+                        <w>210</w>
+                        <bd>Nov 23, <y>1987</y></bd>
+                        <bp>Gävle, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Travis Boyd</name>
+                        <num>72</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>185</w>
+                        <bd>Sep 14, <y>1993</y></bd>
+                        <bp>Hopkins, MN, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Andre Burakovsky</name>
+                        <num>65</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>201</w>
+                        <bd>Feb 9, <y>1995</y></bd>
+                        <bp>Klagenfurt, <co>AUT</co></bp>
+                    </p>
+                    <p>
+                        <name>Brett Connolly</name>
+                        <num>10</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>195</w>
+                        <bd>May 2, <y>1992</y></bd>
+                        <bp>Campbell River, BC, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Nic Dowd</name>
+                        <num>26</num>
+                        <pos>C</pos>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>197</w>
+                        <bd>May 27, <y>1990</y></bd>
+                        <bp>Huntsville, AL, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Lars Eller</name>
+                        <num>20</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>207</w>
+                        <bd>May 8, <y>1989</y></bd>
+                        <bp>Rodovre, <co>DNK</co></bp>
+                    </p>
+                    <p>
+                        <name>Dmitrij Jaskin</name>
+                        <num>23</num>
+                        <pos>RW</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>216</w>
+                        <bd>Mar 23, <y>1993</y></bd>
+                        <bp>Omsk, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>Evgeny Kuznetsov</name>
+                        <num>92</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 2"</h>
+                        <w>204</w>
+                        <bd>May 19, <y>1992</y></bd>
+                        <bp>Chelyabinsk, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>T.J. Oshie</name>
+                        <num>77</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>5' 11"</h>
+                        <w>195</w>
+                        <bd>Dec 23, <y>1986</y></bd>
+                        <bp>Everett, WA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Alex Ovechkin</name>
+                        <cap>Captain</cap>
+                        <num>8</num>
+                        <pos>LW</pos>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>235</w>
+                        <bd>Sep 17, <y>1985</y></bd>
+                        <bp>Moscow, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>Devante Smith-Pelly</name>
+                        <num>25</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 0"</h>
+                        <w>223</w>
+                        <bd>Jun 14, <y>1992</y></bd>
+                        <bp>Scarborough, ON, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Chandler Stephenson</name>
+                        <num>18</num>
+                        <pos>C</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>203</w>
+                        <bd>Apr 22, <y>1994</y></bd>
+                        <bp>Saskatoon, SK, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Jakub Vrana</name>
+                        <num>13</num>
+                        <pos>LW</pos>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>197</w>
+                        <bd>Feb 28, <y>1996</y></bd>
+                        <bp>Prague, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Tom Wilson</name>
+                        <num>43</num>
+                        <pos>RW</pos>
+                        <shot>R</shot>
+                        <h>6' 4"</h>
+                        <w>218</w>
+                        <bd>Mar 29, <y>1994</y></bd>
+                        <bp>Toronto, ON, <co>CAN</co></bp>
+                    </p>
+                </forwards>
+                <defense>
+                    <p>
+                        <name>Madison Bowey</name>
+                        <num>22</num>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>198</w>
+                        <bd>Apr 22, <y>1995</y></bd>
+                        <bp>Winnipeg, MB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>John Carlson</name>
+                        <num>74</num>
+                        <shot>R</shot>
+                        <h>6' 3"</h>
+                        <w>218</w>
+                        <bd>Jan 10, <y>1990</y></bd>
+                        <bp>Natick, MA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Christian Djoos</name>
+                        <num>29</num>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>169</w>
+                        <bd>Aug 6, <y>1994</y></bd>
+                        <bp>Gothenburg, <co>SWE</co></bp>
+                    </p>
+                    <p>
+                        <name>Michal Kempny</name>
+                        <num>6</num>
+                        <shot>L</shot>
+                        <h>6' 0"</h>
+                        <w>194</w>
+                        <bd>Sep 8, <y>1990</y></bd>
+                        <bp>Hodonin, <co>CZE</co></bp>
+                    </p>
+                    <p>
+                        <name>Tyler Lewington</name>
+                        <num>78</num>
+                        <shot>R</shot>
+                        <h>6' 2"</h>
+                        <w>202</w>
+                        <bd>Dec 05, <y>1994</y></bd>
+                        <bp>Edmonton, AB, <co>CAN</co></bp>
+                    </p>
+                    <p>
+                        <name>Matt Niskanen</name>
+                        <num>2</num>
+                        <shot>R</shot>
+                        <h>6' 1"</h>
+                        <w>203</w>
+                        <bd>Dec 6, <y>1986</y></bd>
+                        <bp>Virginia, MN, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Dmitry Orlov</name>
+                        <num>9</num>
+                        <shot>L</shot>
+                        <h>5' 11"</h>
+                        <w>212</w>
+                        <bd>Jul 23, <y>1991</y></bd>
+                        <bp>Novokuznetsk, <co>RUS</co></bp>
+                    </p>
+                    <p>
+                        <name>Brooks Orpik</name>
+                        <cap>Assistant</cap>
+                        <num>44</num>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>217</w>
+                        <bd>Sep 26, <y>1980</y></bd>
+                        <bp>San Francisco, CA, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Jonas Siegenthaler</name>
+                        <num>34</num>
+                        <shot>L</shot>
+                        <h>6' 3"</h>
+                        <w>206</w>
+                        <bd>May 06, <y>1997</y></bd>
+                        <bp>Zurich, <co>CHE</co></bp>
+                    </p>
+                </defense>
+                <goalies>
+                    <p>
+                        <name>Pheonix Copley</name>
+                        <num>1</num>
+                        <h>6' 4"</h>
+                        <w>200</w>
+                        <bd>Jan 18, <y>1992</y></bd>
+                        <bp>North Pole, AK, <co>USA</co></bp>
+                    </p>
+                    <p>
+                        <name>Braden Holtby</name>
+                        <num>70</num>
+                        <h>6' 2"</h>
+                        <w>211</w>
+                        <bd>Sep 16, <y>1989</y></bd>
+                        <bp>Lloydminster, SK, <co>CAN</co></bp>
+                    </p>
+                </goalies>
+            </players>
+        </organization>
+    </division>
+</roster>
