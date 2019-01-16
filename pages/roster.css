@@ -13,7 +13,7 @@ body{
     background-color: #000000;
 }
 table{
-    width: 80%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -26,6 +26,11 @@ table{
     text-align: center;
     margin: auto;
 }
+.td {
+    height: 500px;
+    width: 500px;
+}
+
 
 .side-bars{
     background-color: #000000;
