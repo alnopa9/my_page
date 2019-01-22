@@ -37,14 +37,14 @@ hr.divisionDivider {border: 1px solid #ffffff}
     top: 0%;
     width: 100%;
     font-size: 16px;
-    background-color: #eeeeee;
+    background-color: #000000;
+    position: fixed;
+    left: 0%;
 }
 .menu{
-    position: fixed;
-    left: 30%;
-    height: 2em;
-    width: 80%;
-    text-align: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
     text-decoration:none;
 }
 #menu ul{
@@ -154,4 +154,26 @@ hr.divisionDivider {border: 1px solid #ffffff}
     height: 45%;
     width: 100%;
     flex-wrap: wrap;
-}   
+}
+td{
+    height: 105px;
+    width: 50px;
+}
+#month.table, #month.th, #month.td{
+    border-collapse: collapse;
+    border: 1px solid red;
+}
+.pagination a {
+  color: #ffffff;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+.pagination a.active {
+    background-color: #eeeeee;
+    color: #000000;
+}
+.pagination a:hover:not(.active){
+    background-color: #eeeeee;
+    color: #000000;
+}
