@@ -155,13 +155,11 @@ hr.divisionDivider {border: 1px solid #ffffff}
     width: 100%;
     flex-wrap: wrap;
 }
-td{
-    height: 105px;
-    width: 50px;
+table#calendar tr.calendarHeader{
+    height: 35px;
 }
-#month.table, #month.th, #month.td{
-    border-collapse: collapse;
-    border: 1px solid red;
+table#calendar tr.calendarDay{
+    height: 25px;
 }
 .pagination a {
   color: #ffffff;
