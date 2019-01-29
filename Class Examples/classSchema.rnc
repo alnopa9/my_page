@@ -1,0 +1,22 @@
+start = news
+news = element news{head, body}
+head = element head{headLine+, image*, byLine, info*, dateLine}
+body = element body{(subHead | p)+}
+#grouped the two together and then applied + to signify more than one
+subHead = element subHead {text}
+headLine = element headLine{text}
+image = element image {pic, caption}
+byLine = element byLine{mixed{person*}}
+info = element info{text}
+dateLine = element dateLine{place?, date}
+#grouped the two together and added + to signify that there would be more than one of each
+date = element date {when, text}
+when = attribute when {xsd:date}
+place = element place{text}
+p = element p {mixed {(person | event)*}}
+event = element event {when, text}
+person = element person {ref, text}
+ref = attribute ref {"#McCandless_B" | "#Noble_J"}
+file = attribute file {xsd:anyURI}
+pic = element pic {file, empty}
+caption = element caption {mixed{person*}}
