@@ -1,0 +1,21 @@
+tick case sensative, regular expression
+
+in oxygen, editor, tick show TAB/NBSP..., tick show spaces
+
+find     (4 spaces)
+replace  (2spaces)
+
+find (  +?)
+replace <line>
+
+delete extra <line> on line 2609
+
+find \n<line>
+replace </line>\0
+
+find <line>([IVXCL]+\n)</line>
+replace <sonnet>\1</sonnet>
+
+control a, control e, shakespear
+
+delete and add </line> where appropriate
