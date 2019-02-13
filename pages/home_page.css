@@ -2,7 +2,7 @@ body{
     background-color: #ffffff;
     margin: 0;
     font-family: 'Arial', sans-serif;
-    font-size: 18px;
+    font-size: 30px;
     color: #444c38;
 }
 .body-container{
@@ -14,10 +14,9 @@ body{
 }
 .header-container{
     top: 0%;
-    margin-right: auto;
-    margin-left: auto;
-    height: 14vH;
-    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: #ffffff;
 }
 .front-container{
     position: absolute;
@@ -54,6 +53,7 @@ img{
     top: 0%;
     height: 100%;
     opacity: 0;
+    transition: .5s ease;
 }
 .front-container:hover .overlay-front{opacity: 1}
 .middle-container:hover .overlay-middle{opacity: 1}
